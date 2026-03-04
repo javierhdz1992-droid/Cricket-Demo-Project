@@ -149,9 +149,9 @@ test('Verify table number of rows', async ({ page }) => {
     await expect(totalRows).toHaveCount(4);
 
     // Get all the rows text content and print in console.
-    for (const el of await totalRows.elementHandles()) {
-        console.log(await el.textContent());
-    }
+    // for (const el of await totalRows.elementHandles()) {
+    //     console.log(await el.textContent());
+    // }
 })
 
 test('Verify new tab and assert title', async ({ page }) => {
