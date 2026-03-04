@@ -1,0 +1,934 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e6]:
+        - img "top-left-theme-image" [ref=e7]
+        - img "top-right-theme-image" [ref=e8]
+        - generic [ref=e10]:
+          - link "logo" [ref=e12] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026
+            - img "logo" [ref=e13]
+          - paragraph [ref=e15]: 07 February - 08 March 2026
+          - link "GO TO THE EVENT" [ref=e17] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026
+            - generic [ref=e18]: GO TO THE EVENT
+            - img [ref=e19]
+      - button "ICC Home" [ref=e22] [cursor=pointer]:
+        - text: ICC Home
+        - img [ref=e23]
+      - navigation [ref=e25]:
+        - generic [ref=e26]:
+          - generic [ref=e28]:
+            - button "Toggle menu" [ref=e29] [cursor=pointer]:
+              - img [ref=e30]
+            - generic [ref=e36]:
+              - generic [ref=e38]:
+                - link "ICC Hamburger Logo":
+                  - /url: "#nolink"
+                  - img "ICC Hamburger Logo"
+              - img
+              - generic [ref=e41]:
+                - link "home" [ref=e43] [cursor=pointer]:
+                  - /url: /index
+                  - generic [ref=e44]:
+                    - generic [ref=e46]: Home
+                    - img [ref=e48]
+                - link "rankings" [ref=e51] [cursor=pointer]:
+                  - /url: /rankings
+                  - generic [ref=e52]:
+                    - generic [ref=e54]: Rankings
+                    - img [ref=e56]
+                - link "Fixtures & Results" [ref=e59] [cursor=pointer]:
+                  - /url: /fixtures-results
+                  - generic [ref=e60]:
+                    - generic [ref=e62]: Fixtures & Results
+                    - img [ref=e64]
+                - link "news" [ref=e67] [cursor=pointer]:
+                  - /url: /news
+                  - generic [ref=e68]:
+                    - generic [ref=e70]: News
+                    - img [ref=e72]
+                - link "qualifiers" [ref=e75] [cursor=pointer]:
+                  - /url: /qualifiers
+                  - generic [ref=e76]:
+                    - generic [ref=e78]: Qualifiers
+                    - img [ref=e80]
+                - link "icc-superteam" [ref=e83] [cursor=pointer]:
+                  - /url: https://bit.ly/4n9HS52
+                  - generic [ref=e84]:
+                    - generic [ref=e86]: ICC SuperTeam
+                    - img [ref=e88]
+                - link "What is Cricket?" [ref=e91] [cursor=pointer]:
+                  - /url: /what-is-cricket
+                  - generic [ref=e92]:
+                    - generic [ref=e94]: What is Cricket?
+                    - img [ref=e96]
+                - link "awards" [ref=e99] [cursor=pointer]:
+                  - /url: /awards
+                  - generic [ref=e100]:
+                    - generic [ref=e102]: Awards
+                    - img [ref=e104]
+                - link "Videos" [ref=e107] [cursor=pointer]:
+                  - /url: /videos
+                  - generic [ref=e108]:
+                    - generic [ref=e110]: Videos
+                    - img [ref=e112]
+                - link "teams" [ref=e115] [cursor=pointer]:
+                  - /url: /teams/men
+                  - generic [ref=e116]:
+                    - generic [ref=e118]: Teams
+                    - img [ref=e120]
+                - group [ref=e122]:
+                  - generic "Ticketing" [ref=e123] [cursor=pointer]:
+                    - link "Ticketing":
+                      - /url: "#"
+                      - generic:
+                        - generic:
+                          - generic: Ticketing
+                    - img [ref=e125]
+                - link "100-cricket" [ref=e128] [cursor=pointer]:
+                  - /url: /100percentcricket/what-is-100percent-cricket
+                  - generic [ref=e129]:
+                    - generic [ref=e131]: 100% Cricket
+                    - img [ref=e133]
+                - link "Hall of Fame" [ref=e136] [cursor=pointer]:
+                  - /url: /hall-of-fame
+                  - generic [ref=e137]:
+                    - generic [ref=e139]: Hall of Fame
+                    - img [ref=e141]
+                - link "Criiio" [ref=e144] [cursor=pointer]:
+                  - /url: /criiio
+                  - generic [ref=e145]:
+                    - generic [ref=e147]: Criiio
+                    - img [ref=e149]
+                - link "about-icc" [ref=e152] [cursor=pointer]:
+                  - /url: /about
+                  - generic [ref=e153]:
+                    - generic [ref=e155]: About ICC
+                    - img [ref=e157]
+                - link "Media Releases" [ref=e160] [cursor=pointer]:
+                  - /url: /media-releases
+                  - generic [ref=e161]:
+                    - generic [ref=e163]: Media Releases
+                    - img [ref=e165]
+                - link "photos" [ref=e168] [cursor=pointer]:
+                  - /url: /photos
+                  - generic [ref=e169]:
+                    - generic [ref=e171]: Photos
+                    - img [ref=e173]
+                - link "commercial-opportunities" [ref=e176] [cursor=pointer]:
+                  - /url: /commercial-opportunities/index
+                  - generic [ref=e177]:
+                    - generic [ref=e179]: Commercial Opportunities
+                    - img [ref=e181]
+                - link "travel" [ref=e184] [cursor=pointer]:
+                  - /url: https://www.icctravelandtours.com/icc-mens-t20-world-cup-west-indies-usa-2024/
+                  - generic [ref=e185]:
+                    - generic [ref=e187]: Travel
+                    - img [ref=e189]
+              - generic [ref=e192]:
+                - link "facebook social icon" [ref=e193] [cursor=pointer]:
+                  - /url: https://www.facebook.com/icc
+                  - img [ref=e194]
+                - link "youtube social icon" [ref=e197] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@ICC
+                  - img [ref=e198]
+                - link "instagram social icon" [ref=e201] [cursor=pointer]:
+                  - /url: https://www.Instagram.com/icc/
+                  - img [ref=e202]
+                - link "twitter social icon" [ref=e205] [cursor=pointer]:
+                  - /url: https://x.com/ICC
+                  - img [ref=e206]
+          - generic [ref=e210]:
+            - button "Header Logo" [ref=e211] [cursor=pointer]:
+              - link "Header Logo" [ref=e213]:
+                - /url: /index
+                - img "Header Logo" [ref=e214]
+              - img [ref=e215]
+            - generic:
+              - generic:
+                - img
+              - generic:
+                - link "icc-home":
+                  - /url: /index
+                  - generic:
+                    - generic:
+                      - img "icc-home"
+                      - generic: ICC Home
+                - link "icc-m-t20-2026":
+                  - /url: /tournaments/mens-t20-world-cup-2026
+                  - generic:
+                    - generic:
+                      - img "icc-m-t20-2026"
+                      - generic: ICC Men's T20 World Cup, 2026
+                - link "icc-u19-cricket-world-cup-2026":
+                  - /url: /tournaments/u19-cricket-worldcup-2026
+                  - generic:
+                    - generic:
+                      - img "icc-u19-cricket-world-cup-2026"
+                      - generic: ICC Under-19 Cricket World Cup, 2026
+                - link "icc-w-t20-wc-2026":
+                  - /url: /tournaments/womens-t20-worldcup-2026
+                  - generic:
+                    - generic:
+                      - img "icc-w-t20-wc-2026"
+                      - generic: ICC Women's T20 World Cup, 2026
+                - link "icc-wtc":
+                  - /url: /tournaments/world-test-championship
+                  - generic:
+                    - generic:
+                      - img "icc-wtc"
+                      - generic: ICC World Test Championship, 2025-27
+                - link "w-emer-nations-2025":
+                  - /url: /tournaments/womens-emerging-nations-trophy-2025
+                  - generic:
+                    - generic:
+                      - img "w-emer-nations-2025"
+                      - generic: ICC Women's Emerging Nations Trophy, 2025
+                - link "icc-w-cwc-2025":
+                  - /url: /tournaments/womens-cricket-worldcup-2025
+                  - generic:
+                    - generic:
+                      - img "icc-w-cwc-2025"
+                      - generic: ICC Women's Cricket World Cup, 2025
+                - link "icc-champions-trophy":
+                  - /url: /tournaments/champions-trophy-2025
+                  - generic:
+                    - generic:
+                      - img "icc-champions-trophy"
+                      - generic: ICC Champions Trophy, 2025
+                - link "icc-w-u19-t20-wc":
+                  - /url: /tournaments/u19-womenst20worldcup
+                  - generic:
+                    - generic:
+                      - img "icc-w-u19-t20-wc"
+                      - generic: ICC Women's Under-19 T20 World Cup, 2025
+                - link "icc-cwc-challenge-league-a-b":
+                  - /url: /tournaments/cwc-challenge-league/matches
+                  - generic:
+                    - generic:
+                      - img "icc-cwc-challenge-league-a-b"
+                      - generic: ICC CWC Challenge League A and B, 2024-26
+                - link "icc-cwc-league-2":
+                  - /url: /tournaments/icc-cricket-world-cup-league-2
+                  - generic:
+                    - generic:
+                      - img "icc-cwc-league-2"
+                      - generic: ICC Cricket World Cup League 2, 2023-27
+                - link "icc-womens-championship":
+                  - /url: /tournaments/icc-womens-championship
+                  - generic:
+                    - generic:
+                      - img "icc-womens-championship"
+                      - generic: ICC Women's Championship, 2022-25
+                - link "icc-cricket-world-cup":
+                  - /url: /tournaments/cricketworldcup
+                  - generic:
+                    - generic:
+                      - img "icc-cricket-world-cup"
+                      - generic: ICC Cricket World Cup, 2023
+              - link "See All Events":
+                - /url: /icc-events
+                - generic: See All Events
+                - img
+          - generic [ref=e220]:
+            - link "matches" [ref=e222] [cursor=pointer]:
+              - /url: /fixtures-results
+              - generic [ref=e225]: Matches
+            - link "Rankings" [ref=e227] [cursor=pointer]:
+              - /url: /rankings
+              - generic [ref=e230]: Rankings
+            - link "news" [ref=e232] [cursor=pointer]:
+              - /url: /news
+              - generic [ref=e235]: News
+            - link "Videos" [ref=e237] [cursor=pointer]:
+              - /url: /videos
+              - generic [ref=e240]: Videos
+            - link "tickets" [ref=e242] [cursor=pointer]:
+              - /url: https://tickets.cricketworldcup.com/
+              - generic [ref=e245]: Tickets
+            - link "Awards" [ref=e247] [cursor=pointer]:
+              - /url: /awards
+              - generic [ref=e250]: Awards
+            - link "travel" [ref=e252] [cursor=pointer]:
+              - /url: https://www.icctravelandtours.com/
+              - generic [ref=e255]: Travel
+            - link "ICC.tv" [ref=e257] [cursor=pointer]:
+              - /url: /icc-tv
+              - generic [ref=e260]: ICC.tv
+          - generic [ref=e263]:
+            - link "Search" [ref=e265] [cursor=pointer]:
+              - /url: /search
+              - generic [ref=e266]:
+                - generic [ref=e267]: Search
+                - img [ref=e268]
+            - button "Sign in" [ref=e271] [cursor=pointer]:
+              - generic [ref=e272]: Sign in
+              - img [ref=e273]
+    - main [ref=e275]:
+      - generic [ref=e276]:
+        - generic [ref=e278]:
+          - textbox "insert your text here" [ref=e279]:
+            - /placeholder: what are you looking for?
+            - text: India
+          - img [ref=e280]
+        - list [ref=e282]:
+          - listitem [ref=e283]:
+            - link "All" [ref=e284] [cursor=pointer]:
+              - /url: /search?q=
+          - listitem [ref=e285]:
+            - link "story" [ref=e286] [cursor=pointer]:
+              - /url: /search?q=&facetType=type&facetValue=story
+          - listitem [ref=e287]:
+            - link "album" [ref=e288] [cursor=pointer]:
+              - /url: /search?q=&facetType=type&facetValue=album
+          - listitem [ref=e289]:
+            - link "video" [ref=e290] [cursor=pointer]:
+              - /url: /search?q=&facetType=entityCode&facetValue=video
+        - generic [ref=e291]:
+          - link "Finn Allen | ICC MT20WC | New Zealand post-match press conference | 4 March '26 Media Zone Transcripts Finn Allen | ICC MT20WC | New Zealand post-match press conference | 4 March '26 4h" [ref=e293] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/media-zone/news/finn-allen-icc-mt20wc-new-zealand-post-match-press-conference-4-march-26
+            - img "Finn Allen | ICC MT20WC | New Zealand post-match press conference | 4 March '26" [ref=e296]
+            - generic [ref=e297]:
+              - generic [ref=e299]: Media Zone Transcripts
+              - paragraph [ref=e300]: Finn Allen | ICC MT20WC | New Zealand post-match press conference | 4 March '26
+              - time [ref=e301]: 4h
+          - link "Shukri Conrad | ICC MT20WC | South Africa post-match press conference | 4 March '26 Media Zone Transcripts Shukri Conrad | ICC MT20WC | South Africa post-match press conference | 4 March '26 4h" [ref=e303] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/media-zone/news/shukri-conrad-icc-mt20wc-south-africa-post-match-press-conference-4-march-26
+            - img "Shukri Conrad | ICC MT20WC | South Africa post-match press conference | 4 March '26" [ref=e306]
+            - generic [ref=e307]:
+              - generic [ref=e309]: Media Zone Transcripts
+              - paragraph [ref=e310]: Shukri Conrad | ICC MT20WC | South Africa post-match press conference | 4 March '26
+              - time [ref=e311]: 4h
+          - link "Henry's brilliant delivery | Sobha POTD | 04 March Henry's brilliant delivery | Sobha POTD | 04 March 4h" [ref=e313] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/videos/henry-s-brilliant-delivery-sobha-potd-04-march
+            - img [ref=e315]
+            - img "Henry's brilliant delivery | Sobha POTD | 04 March" [ref=e321]
+            - generic [ref=e322]:
+              - paragraph [ref=e323]: Henry's brilliant delivery | Sobha POTD | 04 March
+              - time [ref=e324]: 4h
+          - link "Seifert smashes it big | Sobha POTD | 04 March Seifert smashes it big | Sobha POTD | 04 March 4h" [ref=e326] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/videos/seifert-smashes-it-big-sobha-potd-04-march
+            - img [ref=e328]
+            - img "Seifert smashes it big | Sobha POTD | 04 March" [ref=e334]
+            - generic [ref=e335]:
+              - paragraph [ref=e336]: Seifert smashes it big | Sobha POTD | 04 March
+              - time [ref=e337]: 4h
+          - link "Brevis smashes one-handed six with no-look | Sobha POTD | 04 March Brevis smashes one-handed six with no-look | Sobha POTD | 04 March 4h" [ref=e339] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/videos/brevis-smashes-one-handed-six-with-no-look-sobha-potd-04-march
+            - img [ref=e341]
+            - img "Brevis smashes one-handed six with no-look | Sobha POTD | 04 March" [ref=e347]
+            - generic [ref=e348]:
+              - paragraph [ref=e349]: Brevis smashes one-handed six with no-look | Sobha POTD | 04 March
+              - time [ref=e350]: 4h
+          - link "Shukri Conrad | ICC MT20WC | South Africa post-match press conference | 4 March '26 Media Video Download Shukri Conrad | ICC MT20WC | South Africa post-match press conference | 4 March '26 4h" [ref=e352] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/media-zone/videos/shukri-conrad-icc-mt20wc-south-africa-post-match-press-conference-4-march-26
+            - img [ref=e354]
+            - img "Shukri Conrad | ICC MT20WC | South Africa post-match press conference | 4 March '26" [ref=e360]
+            - generic [ref=e361]:
+              - generic [ref=e363]: Media Video Download
+              - paragraph [ref=e364]: Shukri Conrad | ICC MT20WC | South Africa post-match press conference | 4 March '26
+              - time [ref=e365]: 4h
+          - link "Finn Allen | ICC MT20WC | New Zealand post-match press conference | 4 March '26 Media Video Download Finn Allen | ICC MT20WC | New Zealand post-match press conference | 4 March '26 4h" [ref=e367] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/media-zone/videos/finn-allen-icc-mt20wc-new-zealand-post-match-press-conference-4-march-26
+            - img [ref=e369]
+            - img "Finn Allen | ICC MT20WC | New Zealand post-match press conference | 4 March '26" [ref=e375]
+            - generic [ref=e376]:
+              - generic [ref=e378]: Media Video Download
+              - paragraph [ref=e379]: Finn Allen | ICC MT20WC | New Zealand post-match press conference | 4 March '26
+              - time [ref=e380]: 4h
+          - link "MT20WC26_SA_NZ_1-Min-Match-Highlights MT20WC26_SA_NZ_1-Min-Match-Highlights 5h" [ref=e382] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/videos/mt20wc26-sa-nz-1-min-match-highlights
+            - img [ref=e384]
+            - img "MT20WC26_SA_NZ_1-Min-Match-Highlights" [ref=e390]
+            - generic [ref=e391]:
+              - paragraph [ref=e392]: MT20WC26_SA_NZ_1-Min-Match-Highlights
+              - time [ref=e393]: 5h
+        - link "Next" [ref=e395] [cursor=pointer]:
+          - /url: /search?q=&facetType=&facetValue=&page=1
+    - contentinfo [ref=e396]:
+      - generic [ref=e399]:
+        - generic [ref=e401]:
+          - generic [ref=e402]:
+            - link "star-sports-on-dark-background" [ref=e403] [cursor=pointer]:
+              - /url: https://www.hotstar.com/
+              - img "star-sports-on-dark-background" [ref=e404]
+            - link "disney-hotstar" [ref=e405] [cursor=pointer]:
+              - /url: https://www.jiostar.com/
+              - img "disney-hotstar" [ref=e406]
+          - heading [level=4]
+        - generic [ref=e409]:
+          - generic [ref=e410]:
+            - link "sky-sports-dark-bg" [ref=e411] [cursor=pointer]:
+              - /url: https://www.skysports.com/
+              - img "sky-sports-dark-bg" [ref=e412]
+            - link "super-sport" [ref=e413] [cursor=pointer]:
+              - /url: https://supersport.com/
+              - img "super-sport" [ref=e414]
+            - link "willow" [ref=e415] [cursor=pointer]:
+              - /url: https://www.willow.tv/
+              - img "willow" [ref=e416]
+            - link "prime-video-dark-background" [ref=e417] [cursor=pointer]:
+              - /url: https://www.primevideo.com/
+              - img "prime-video-dark-background" [ref=e418]
+            - link "criclife-x4187" [ref=e419] [cursor=pointer]:
+              - /url: http://www.evision.ae/
+              - img "criclife-x4187" [ref=e420]
+          - heading [level=4]
+        - generic [ref=e423]:
+          - generic [ref=e424]:
+            - link "myco" [ref=e425] [cursor=pointer]:
+              - /url: https://myco.io/
+              - img "myco" [ref=e426]
+            - link "ptv-sports" [ref=e427] [cursor=pointer]:
+              - /url: https://myco.io/
+              - img "ptv-sports" [ref=e428]
+            - link "espn-x4748" [ref=e429] [cursor=pointer]:
+              - /url: https://www.espn.com/
+              - img "espn-x4748" [ref=e430]
+            - link "skynz-dark-background" [ref=e431] [cursor=pointer]:
+              - /url: https://www.sky.co.nz/
+              - img "skynz-dark-background" [ref=e432]
+            - img "tsm-dark-bg" [ref=e434]
+            - link "dialog" [ref=e435] [cursor=pointer]:
+              - /url: https://www.dialog.lk/dialog-television
+              - img "dialog" [ref=e436]
+            - link "icc-tv-light" [ref=e437] [cursor=pointer]:
+              - /url: https://icc.tv/
+              - img "icc-tv-light" [ref=e438]
+          - heading "Broadcast Partners" [level=4] [ref=e439]
+        - generic [ref=e442]:
+          - generic [ref=e443]:
+            - link "emirates" [ref=e444] [cursor=pointer]:
+              - /url: https://www.emirates.com/english/book/
+              - img "emirates" [ref=e445]
+            - link "aramco" [ref=e446] [cursor=pointer]:
+              - /url: https://www.aramco.com/
+              - img "aramco" [ref=e447]
+            - link "dp-world-x1422" [ref=e448] [cursor=pointer]:
+              - /url: https://www.dpworld.com/
+              - img "dp-world-x1422" [ref=e449]
+            - link "hyundai" [ref=e450] [cursor=pointer]:
+              - /url: https://www.hyundai.com
+              - img "hyundai" [ref=e451]
+          - heading "Premier Partners" [level=4] [ref=e452]
+        - generic [ref=e455]:
+          - generic [ref=e456]:
+            - link "coca-cola" [ref=e457] [cursor=pointer]:
+              - /url: https://www.coca-colacompany.com/
+              - img "coca-cola" [ref=e458]
+            - link "budweiser-logo" [ref=e459] [cursor=pointer]:
+              - /url: http://budweiser.com/
+              - img "budweiser-logo" [ref=e460]
+            - link "google" [ref=e461] [cursor=pointer]:
+              - /url: https://www.google.com/
+              - img "google" [ref=e462]
+            - link "sobha-x2752" [ref=e463] [cursor=pointer]:
+              - /url: https://www.sobharealty.com/
+              - img "sobha-x2752" [ref=e464]
+            - link "rexona-white-bg" [ref=e465] [cursor=pointer]:
+              - /url: https://www.unilever.com/brands/personal-care/rexona/
+              - img "rexona-white-bg" [ref=e466]
+            - link "marriott-dark" [ref=e467] [cursor=pointer]:
+              - /url: https://www.marriott.com/
+              - img "marriott-dark" [ref=e468]
+          - heading "Global Partners" [level=4] [ref=e469]
+        - generic [ref=e472]:
+          - generic [ref=e473]:
+            - link "royal-stag-x3658" [ref=e475] [cursor=pointer]:
+              - /url: https://www.royalstagfan.com/
+              - img "royal-stag-x3658" [ref=e476]
+            - heading "official supporters" [level=4] [ref=e477]
+          - generic [ref=e479]:
+            - link "cricket-4-good" [ref=e481] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/about/the-icc/cricket-for-good
+              - img "cricket-4-good" [ref=e482]
+            - heading "social responsibility" [level=4] [ref=e483]
+      - generic [ref=e485]:
+        - link "facebook social icon" [ref=e486] [cursor=pointer]:
+          - /url: https://www.facebook.com/icc
+          - img [ref=e487]
+        - link "youtube social icon" [ref=e490] [cursor=pointer]:
+          - /url: https://www.youtube.com/@ICC
+          - img [ref=e491]
+        - link "instagram social icon" [ref=e494] [cursor=pointer]:
+          - /url: https://www.Instagram.com/icc/
+          - img [ref=e495]
+        - link "twitter social icon" [ref=e498] [cursor=pointer]:
+          - /url: https://x.com/ICC
+          - img [ref=e499]
+      - generic [ref=e502]:
+        - navigation [ref=e503]:
+          - generic [ref=e506]:
+            - link "terms-of-service" [ref=e508] [cursor=pointer]:
+              - /url: /about/the-icc/legal-notices/website-terms-of-use
+              - generic [ref=e511]: Terms of Service
+            - link "Privacy Policy" [ref=e513] [cursor=pointer]:
+              - /url: /about/the-icc/legal-notices/privacy-policy
+              - generic [ref=e516]: Privacy Policy
+            - link "Careers" [ref=e518] [cursor=pointer]:
+              - /url: /about/the-icc/working-at-icc/jobs-and-recruitment
+              - generic [ref=e521]: Careers
+            - link "Related Sites" [ref=e523] [cursor=pointer]:
+              - /url: /about/contact-us/social-media
+              - generic [ref=e526]: Related Sites
+            - link "about" [ref=e528] [cursor=pointer]:
+              - /url: /about/index
+              - generic [ref=e531]: about
+            - button "cookie-preferences" [ref=e533] [cursor=pointer]:
+              - generic [ref=e536]: Cookie Preferences
+        - generic [ref=e537]:
+          - link "icc-footer-logo_f3mbiw_igxavp" [ref=e539] [cursor=pointer]:
+            - /url: /index
+            - img "icc-footer-logo_f3mbiw_igxavp" [ref=e540]
+          - generic [ref=e541]: Copyright 2025 ICC. All rights reserved.
+  - alert [ref=e542]
+  - generic [ref=e543]:
+    - button "1 Matches" [ref=e544] [cursor=pointer]:
+      - generic [ref=e545]:
+        - img [ref=e546]
+        - generic [ref=e551]: "1"
+      - generic [ref=e552]: Matches
+    - generic [ref=e554]:
+      - generic [ref=e555]:
+        - generic [ref=e556]:
+          - img [ref=e557]
+          - generic [ref=e562]: "1"
+        - generic [ref=e563]: Matches
+        - button [ref=e564] [cursor=pointer]:
+          - img [ref=e565]
+      - generic [ref=e567]:
+        - generic [ref=e569]:
+          - generic [ref=e570]:
+            - generic [ref=e571]: ODI
+            - generic [ref=e573]:
+              - link "WATCH LIVE" [ref=e574] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/videos/1st-odi-new-zealand-v-zimbabwe-1st-innings
+                - img [ref=e575]
+              - paragraph [ref=e582]: live
+          - generic [ref=e583]:
+            - generic [ref=e584]:
+              - generic [ref=e585]:
+                - generic [ref=e586]:
+                  - generic [ref=e587]:
+                    - img "flag" [ref=e588]
+                    - paragraph [ref=e589]:
+                      - generic "New Zealand" [ref=e590]: NZ
+                      - img [ref=e591]
+                  - paragraph [ref=e595]: 77/1 (14.0)
+                - generic [ref=e596]:
+                  - generic [ref=e597]:
+                    - img "flag" [ref=e598]
+                    - paragraph [ref=e599]:
+                      - generic "Zimbabwe" [ref=e600]: ZIM
+                  - paragraph [ref=e601]: Yet to bat
+              - link [ref=e602] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/262738/new-zealand-vs-zimbabwe
+                - img [ref=e603]
+            - paragraph [ref=e605]: Zimbabwe elected to field
+        - generic [ref=e607]:
+          - generic [ref=e608]:
+            - generic [ref=e609]: T20
+            - generic [ref=e610]: UPCOMING
+          - generic [ref=e611]:
+            - generic [ref=e612]:
+              - generic [ref=e613]:
+                - generic [ref=e615]:
+                  - img "flag" [ref=e616]
+                  - paragraph [ref=e617]:
+                    - generic "India" [ref=e618]: IND
+                - generic [ref=e620]:
+                  - img "flag" [ref=e621]
+                  - paragraph [ref=e622]:
+                    - generic "England" [ref=e623]: ENG
+              - link [ref=e624] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/matches/268128/india-vs-england
+                - img [ref=e625]
+            - paragraph [ref=e627]: Match begins at 19:00 IST (13:30 GMT)
+        - generic [ref=e629]:
+          - generic [ref=e630]:
+            - generic [ref=e631]: Test
+            - generic [ref=e632]: UPCOMING
+          - generic [ref=e633]:
+            - generic [ref=e634]:
+              - generic [ref=e635]:
+                - generic [ref=e637]:
+                  - img "flag" [ref=e638]
+                  - paragraph [ref=e639]:
+                    - generic "Australia" [ref=e640]: AUS
+                - generic [ref=e642]:
+                  - img "flag" [ref=e643]
+                  - paragraph [ref=e644]:
+                    - generic "India" [ref=e645]: IND
+              - link [ref=e646] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/258928/australia-vs-india
+                - img [ref=e647]
+            - paragraph [ref=e649]: Match begins at 10:50 IST (05:20 GMT)
+        - generic [ref=e651]:
+          - generic [ref=e652]:
+            - generic [ref=e653]: ODI
+            - generic [ref=e654]: UPCOMING
+          - generic [ref=e655]:
+            - generic [ref=e656]:
+              - generic [ref=e657]:
+                - generic [ref=e659]:
+                  - img "flag" [ref=e660]
+                  - paragraph [ref=e661]:
+                    - generic "New Zealand" [ref=e662]: NZ
+                - generic [ref=e664]:
+                  - img "flag" [ref=e665]
+                  - paragraph [ref=e666]:
+                    - generic "Zimbabwe" [ref=e667]: ZIM
+              - link [ref=e668] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/262739/new-zealand-vs-zimbabwe
+                - img [ref=e669]
+            - paragraph [ref=e671]: Match begins at 03:30 IST (22:00 GMT prev. day)
+        - generic [ref=e673]:
+          - generic [ref=e674]:
+            - generic [ref=e675]: T20
+            - generic [ref=e676]: UPCOMING
+          - generic [ref=e677]:
+            - generic [ref=e678]:
+              - generic [ref=e679]:
+                - generic [ref=e681]:
+                  - img "flag" [ref=e682]
+                  - paragraph [ref=e683]:
+                    - generic "New Zealand" [ref=e684]: NZ
+                - generic [ref=e686]:
+                  - img "flag" [ref=e687]
+                  - paragraph [ref=e688]:
+                    - generic "T.B.C." [ref=e689]: TBC
+              - link [ref=e690] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/matches/268129/new-zealand-vs-t-b-c-
+                - img [ref=e691]
+            - paragraph [ref=e693]: Match begins at 19:00 IST (13:30 GMT)
+        - generic [ref=e695]:
+          - generic [ref=e696]:
+            - generic [ref=e697]: T20
+            - generic [ref=e698]: UPCOMING
+          - generic [ref=e699]:
+            - generic [ref=e700]:
+              - generic [ref=e701]:
+                - generic [ref=e703]:
+                  - img "flag" [ref=e704]
+                  - paragraph [ref=e705]:
+                    - generic "Cayman Islands" [ref=e706]: CAY
+                - generic [ref=e708]:
+                  - img "flag" [ref=e709]
+                  - paragraph [ref=e710]:
+                    - generic "Argentina" [ref=e711]: ARG
+              - link [ref=e712] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/269637/cayman-islands-vs-argentina
+                - img [ref=e713]
+            - paragraph [ref=e715]: Match begins at 20:00 IST (14:30 GMT)
+        - generic [ref=e717]:
+          - generic [ref=e718]:
+            - generic [ref=e719]: T20
+            - generic [ref=e720]: UPCOMING
+          - generic [ref=e721]:
+            - generic [ref=e722]:
+              - generic [ref=e723]:
+                - generic [ref=e725]:
+                  - img "flag" [ref=e726]
+                  - paragraph [ref=e727]:
+                    - generic "Mexico" [ref=e728]: MEX
+                - generic [ref=e730]:
+                  - img "flag" [ref=e731]
+                  - paragraph [ref=e732]:
+                    - generic "Suriname" [ref=e733]: SUR
+              - link [ref=e734] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/269638/mexico-vs-suriname
+                - img [ref=e735]
+            - paragraph [ref=e737]: Match begins at 01:00 IST (19:30 GMT prev. day)
+        - generic [ref=e739]:
+          - generic [ref=e740]:
+            - generic [ref=e741]: T20
+            - generic [ref=e742]: UPCOMING
+          - generic [ref=e743]:
+            - generic [ref=e744]:
+              - generic [ref=e745]:
+                - generic [ref=e747]:
+                  - img "flag" [ref=e748]
+                  - paragraph [ref=e749]:
+                    - generic "Argentina" [ref=e750]: ARG
+                - generic [ref=e752]:
+                  - img "flag" [ref=e753]
+                  - paragraph [ref=e754]:
+                    - generic "Suriname" [ref=e755]: SUR
+              - link [ref=e756] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/269639/argentina-vs-suriname
+                - img [ref=e757]
+            - paragraph [ref=e759]: Match begins at 20:00 IST (14:30 GMT)
+        - generic [ref=e761]:
+          - generic [ref=e762]:
+            - generic [ref=e763]: T20
+            - generic [ref=e764]: UPCOMING
+          - generic [ref=e765]:
+            - generic [ref=e766]:
+              - generic [ref=e767]:
+                - generic [ref=e769]:
+                  - img "flag" [ref=e770]
+                  - paragraph [ref=e771]:
+                    - generic "Cayman Islands" [ref=e772]: CAY
+                - generic [ref=e774]:
+                  - img "flag" [ref=e775]
+                  - paragraph [ref=e776]:
+                    - generic "Mexico" [ref=e777]: MEX
+              - link [ref=e778] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/269640/cayman-islands-vs-mexico
+                - img [ref=e779]
+            - paragraph [ref=e781]: Match begins at 01:00 IST (19:30 GMT prev. day)
+        - generic [ref=e783]:
+          - generic [ref=e784]:
+            - generic [ref=e785]: ODI
+            - generic [ref=e786]: UPCOMING
+          - generic [ref=e787]:
+            - generic [ref=e788]:
+              - generic [ref=e789]:
+                - generic [ref=e791]:
+                  - img "flag" [ref=e792]
+                  - paragraph [ref=e793]:
+                    - generic "Nepal" [ref=e794]: NEP
+                - generic [ref=e796]:
+                  - img "flag" [ref=e797]
+                  - paragraph [ref=e798]:
+                    - generic "Oman" [ref=e799]: OMA
+              - link [ref=e800] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/matches/269672/nepal-vs-oman
+                - img [ref=e801]
+            - paragraph [ref=e803]: Match yet to begin
+      - button "Click To Expand" [ref=e804] [cursor=pointer]:
+        - img [ref=e805]
+    - generic [ref=e808]:
+      - generic [ref=e809]:
+        - generic [ref=e810]:
+          - img [ref=e811]
+          - generic [ref=e816]: "1"
+        - button "Click To Collapse" [ref=e817] [cursor=pointer]:
+          - img [ref=e818]
+        - button [ref=e820] [cursor=pointer]:
+          - img [ref=e821]
+      - generic [ref=e823]:
+        - button "Fixtures" [ref=e825] [cursor=pointer]
+        - button "Results" [ref=e826] [cursor=pointer]
+      - generic:
+        - generic [ref=e828]:
+          - generic [ref=e829]:
+            - generic [ref=e830]: ODI
+            - generic [ref=e832]:
+              - link "WATCH LIVE" [ref=e833] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/videos/1st-odi-new-zealand-v-zimbabwe-1st-innings
+                - img [ref=e834]
+              - paragraph [ref=e841]: live
+          - generic [ref=e842]:
+            - generic [ref=e843]:
+              - generic [ref=e844]:
+                - generic [ref=e845]:
+                  - generic [ref=e846]:
+                    - img "flag" [ref=e847]
+                    - paragraph [ref=e848]:
+                      - generic "New Zealand" [ref=e849]: NZ
+                      - img [ref=e850]
+                  - paragraph [ref=e854]: 77/1 (14.0)
+                - generic [ref=e855]:
+                  - generic [ref=e856]:
+                    - img "flag" [ref=e857]
+                    - paragraph [ref=e858]:
+                      - generic "Zimbabwe" [ref=e859]: ZIM
+                  - paragraph [ref=e860]: Yet to bat
+              - link [ref=e861] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/262738/new-zealand-vs-zimbabwe
+                - img [ref=e862]
+            - paragraph [ref=e864]: Zimbabwe elected to field
+        - generic [ref=e866]:
+          - generic [ref=e867]:
+            - generic [ref=e868]: T20
+            - generic [ref=e869]: UPCOMING
+          - generic [ref=e870]:
+            - generic [ref=e871]:
+              - generic [ref=e872]:
+                - generic [ref=e874]:
+                  - img "flag" [ref=e875]
+                  - paragraph [ref=e876]:
+                    - generic "India" [ref=e877]: IND
+                - generic [ref=e879]:
+                  - img "flag" [ref=e880]
+                  - paragraph [ref=e881]:
+                    - generic "England" [ref=e882]: ENG
+              - link [ref=e883] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/matches/268128/india-vs-england
+                - img [ref=e884]
+            - paragraph [ref=e886]: Match begins at 19:00 IST (13:30 GMT)
+        - generic [ref=e888]:
+          - generic [ref=e889]:
+            - generic [ref=e890]: Test
+            - generic [ref=e891]: UPCOMING
+          - generic [ref=e892]:
+            - generic [ref=e893]:
+              - generic [ref=e894]:
+                - generic [ref=e896]:
+                  - img "flag" [ref=e897]
+                  - paragraph [ref=e898]:
+                    - generic "Australia" [ref=e899]: AUS
+                - generic [ref=e901]:
+                  - img "flag" [ref=e902]
+                  - paragraph [ref=e903]:
+                    - generic "India" [ref=e904]: IND
+              - link [ref=e905] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/258928/australia-vs-india
+                - img [ref=e906]
+            - paragraph [ref=e908]: Match begins at 10:50 IST (05:20 GMT)
+        - generic [ref=e910]:
+          - generic [ref=e911]:
+            - generic [ref=e912]: ODI
+            - generic [ref=e913]: UPCOMING
+          - generic [ref=e914]:
+            - generic [ref=e915]:
+              - generic [ref=e916]:
+                - generic [ref=e918]:
+                  - img "flag" [ref=e919]
+                  - paragraph [ref=e920]:
+                    - generic "New Zealand" [ref=e921]: NZ
+                - generic [ref=e923]:
+                  - img "flag" [ref=e924]
+                  - paragraph [ref=e925]:
+                    - generic "Zimbabwe" [ref=e926]: ZIM
+              - link [ref=e927] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/262739/new-zealand-vs-zimbabwe
+                - img [ref=e928]
+            - paragraph [ref=e930]: Match begins at 03:30 IST (22:00 GMT prev. day)
+        - generic [ref=e932]:
+          - generic [ref=e933]:
+            - generic [ref=e934]: T20
+            - generic [ref=e935]: UPCOMING
+          - generic [ref=e936]:
+            - generic [ref=e937]:
+              - generic [ref=e938]:
+                - generic [ref=e940]:
+                  - img "flag" [ref=e941]
+                  - paragraph [ref=e942]:
+                    - generic "New Zealand" [ref=e943]: NZ
+                - generic [ref=e945]:
+                  - img "flag" [ref=e946]
+                  - paragraph [ref=e947]:
+                    - generic "T.B.C." [ref=e948]: TBC
+              - link [ref=e949] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/matches/268129/new-zealand-vs-t-b-c-
+                - img [ref=e950]
+            - paragraph [ref=e952]: Match begins at 19:00 IST (13:30 GMT)
+        - generic [ref=e954]:
+          - generic [ref=e955]:
+            - generic [ref=e956]: T20
+            - generic [ref=e957]: UPCOMING
+          - generic [ref=e958]:
+            - generic [ref=e959]:
+              - generic [ref=e960]:
+                - generic [ref=e962]:
+                  - img "flag" [ref=e963]
+                  - paragraph [ref=e964]:
+                    - generic "Cayman Islands" [ref=e965]: CAY
+                - generic [ref=e967]:
+                  - img "flag" [ref=e968]
+                  - paragraph [ref=e969]:
+                    - generic "Argentina" [ref=e970]: ARG
+              - link [ref=e971] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/269637/cayman-islands-vs-argentina
+                - img [ref=e972]
+            - paragraph [ref=e974]: Match begins at 20:00 IST (14:30 GMT)
+        - generic [ref=e976]:
+          - generic [ref=e977]:
+            - generic [ref=e978]: T20
+            - generic [ref=e979]: UPCOMING
+          - generic [ref=e980]:
+            - generic [ref=e981]:
+              - generic [ref=e982]:
+                - generic [ref=e984]:
+                  - img "flag" [ref=e985]
+                  - paragraph [ref=e986]:
+                    - generic "Mexico" [ref=e987]: MEX
+                - generic [ref=e989]:
+                  - img "flag" [ref=e990]
+                  - paragraph [ref=e991]:
+                    - generic "Suriname" [ref=e992]: SUR
+              - link [ref=e993] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/269638/mexico-vs-suriname
+                - img [ref=e994]
+            - paragraph [ref=e996]: Match begins at 01:00 IST (19:30 GMT prev. day)
+        - generic [ref=e998]:
+          - generic [ref=e999]:
+            - generic [ref=e1000]: T20
+            - generic [ref=e1001]: UPCOMING
+          - generic [ref=e1002]:
+            - generic [ref=e1003]:
+              - generic [ref=e1004]:
+                - generic [ref=e1006]:
+                  - img "flag" [ref=e1007]
+                  - paragraph [ref=e1008]:
+                    - generic "Argentina" [ref=e1009]: ARG
+                - generic [ref=e1011]:
+                  - img "flag" [ref=e1012]
+                  - paragraph [ref=e1013]:
+                    - generic "Suriname" [ref=e1014]: SUR
+              - link [ref=e1015] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/269639/argentina-vs-suriname
+                - img [ref=e1016]
+            - paragraph [ref=e1018]: Match begins at 20:00 IST (14:30 GMT)
+        - generic [ref=e1020]:
+          - generic [ref=e1021]:
+            - generic [ref=e1022]: T20
+            - generic [ref=e1023]: UPCOMING
+          - generic [ref=e1024]:
+            - generic [ref=e1025]:
+              - generic [ref=e1026]:
+                - generic [ref=e1028]:
+                  - img "flag" [ref=e1029]
+                  - paragraph [ref=e1030]:
+                    - generic "Cayman Islands" [ref=e1031]: CAY
+                - generic [ref=e1033]:
+                  - img "flag" [ref=e1034]
+                  - paragraph [ref=e1035]:
+                    - generic "Mexico" [ref=e1036]: MEX
+              - link [ref=e1037] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/matches/269640/cayman-islands-vs-mexico
+                - img [ref=e1038]
+            - paragraph [ref=e1040]: Match begins at 01:00 IST (19:30 GMT prev. day)
+        - generic [ref=e1042]:
+          - generic [ref=e1043]:
+            - generic [ref=e1044]: ODI
+            - generic [ref=e1045]: UPCOMING
+          - generic [ref=e1046]:
+            - generic [ref=e1047]:
+              - generic [ref=e1048]:
+                - generic [ref=e1050]:
+                  - img "flag" [ref=e1051]
+                  - paragraph [ref=e1052]:
+                    - generic "Nepal" [ref=e1053]: NEP
+                - generic [ref=e1055]:
+                  - img "flag" [ref=e1056]
+                  - paragraph [ref=e1057]:
+                    - generic "Oman" [ref=e1058]: OMA
+              - link [ref=e1059] [cursor=pointer]:
+                - /url: https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/matches/269672/nepal-vs-oman
+                - img [ref=e1060]
+            - paragraph [ref=e1062]: Match yet to begin
+      - link "Go To The Matches Page" [ref=e1063] [cursor=pointer]:
+        - /url: /fixtures-results
+        - generic [ref=e1064]: Go To The Matches Page
+        - img [ref=e1065]
+  - region "Cookie banner" [active] [ref=e1067]:
+    - alertdialog "Privacy" [ref=e1068]:
+      - generic [ref=e1069]:
+        - generic [ref=e1072]:
+          - text: By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+          - link "More information about your privacy" [ref=e1073] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/about/the-icc/legal-notices/cookie-accepting-policy
+            - text: Cookie Policy
+        - generic [ref=e1075]:
+          - generic [ref=e1076]:
+            - button "Reject All" [ref=e1077] [cursor=pointer]
+            - button "Accept All Cookies" [ref=e1078] [cursor=pointer]
+          - button "Cookies Settings" [ref=e1079] [cursor=pointer]
+```

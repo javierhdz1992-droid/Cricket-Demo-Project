@@ -1,0 +1,4927 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - button "ICC Home" [ref=e5] [cursor=pointer]:
+        - text: ICC Home
+        - img [ref=e6]
+      - navigation [ref=e8]:
+        - img "placeholder" [ref=e9]
+        - generic [ref=e10]:
+          - generic [ref=e12]:
+            - button "Toggle menu" [ref=e13] [cursor=pointer]:
+              - img [ref=e14]
+            - generic [ref=e20]:
+              - link "alternate-small-m-t20wc-2026-logo" [ref=e23] [cursor=pointer]:
+                - /url: /tournaments/mens-t20-world-cup-2026
+                - img "alternate-small-m-t20wc-2026-logo" [ref=e24]
+              - generic [ref=e27]:
+                - link "Home" [ref=e29] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026
+                  - generic [ref=e30]:
+                    - generic [ref=e32]: Home
+                    - img [ref=e34]
+                - link "Warm-Ups" [ref=e37] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/warm-up-matches
+                  - generic [ref=e38]:
+                    - generic [ref=e40]: Warm-Ups
+                    - img [ref=e42]
+                - link "Matches" [ref=e45] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/matches
+                  - generic [ref=e46]:
+                    - generic [ref=e48]: Matches
+                    - img [ref=e50]
+                - link "teams" [ref=e53] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/teams
+                  - generic [ref=e54]:
+                    - generic [ref=e56]: Teams
+                    - img [ref=e58]
+                - link "Standings" [ref=e61] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/standings
+                  - generic [ref=e62]:
+                    - generic [ref=e64]: Standings
+                    - img [ref=e66]
+                - link "News" [ref=e69] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/news
+                  - generic [ref=e70]:
+                    - generic [ref=e72]: News
+                    - img [ref=e74]
+                - link "Videos" [ref=e77] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/videos
+                  - generic [ref=e78]:
+                    - generic [ref=e80]: Videos
+                    - img [ref=e82]
+                - group [ref=e84]:
+                  - generic "stats" [ref=e85] [cursor=pointer]:
+                    - link "stats" [ref=e86]:
+                      - /url: /tournaments/mens-t20-world-cup-2026/stats
+                      - generic [ref=e89]: Stats
+                    - img [ref=e91]
+                - group [ref=e93]:
+                  - generic "game-hub" [ref=e94] [cursor=pointer]:
+                    - link "game-hub" [ref=e95]:
+                      - /url: https://games.icc-cricket.com/
+                      - generic [ref=e98]: Game Hub
+                    - img [ref=e100]
+                - link "venues" [ref=e103] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/venues
+                  - generic [ref=e104]:
+                    - generic [ref=e106]: Venues
+                    - img [ref=e108]
+                - link "Official Broadcasters" [ref=e111] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/official-broadcasters
+                  - generic [ref=e112]:
+                    - generic [ref=e114]: Official Broadcasters
+                    - img [ref=e116]
+                - link "captains-day" [ref=e119] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/captains-day
+                  - generic [ref=e120]:
+                    - generic [ref=e122]: Captain's Day
+                    - img [ref=e124]
+                - group [ref=e126]:
+                  - generic "Tickets" [ref=e127] [cursor=pointer]:
+                    - link "Tickets" [ref=e128]:
+                      - /url: https://tickets.cricketworldcup.com/
+                      - generic [ref=e131]: Tickets
+                    - img [ref=e133]
+                - link "shop" [ref=e136] [cursor=pointer]:
+                  - /url: https://sparkfabric.co/space/icc
+                  - generic [ref=e137]:
+                    - generic [ref=e139]: Shop
+                    - img [ref=e141]
+                - link "downloadable-schedule" [ref=e144] [cursor=pointer]:
+                  - /url: https://images.icc-cricket.com/image/upload/prd/uhbsusjsfbydrkjtrecg.pdf
+                  - generic [ref=e145]:
+                    - generic [ref=e147]: Downloadable Schedule
+                    - img [ref=e149]
+                - link "playing-conditions" [ref=e152] [cursor=pointer]:
+                  - /url: https://images.icc-cricket.com/image/upload/prd/yyt7m8uh9c1uehrbvuwb.pdf
+                  - generic [ref=e153]:
+                    - generic [ref=e155]: Playing Conditions
+                    - img [ref=e157]
+              - generic [ref=e160]:
+                - link "facebook social icon" [ref=e161] [cursor=pointer]:
+                  - /url: https://www.facebook.com/icc
+                  - img [ref=e162]
+                - link "youtube social icon" [ref=e165] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@ICC
+                  - img [ref=e166]
+                - link "instagram social icon" [ref=e169] [cursor=pointer]:
+                  - /url: https://www.Instagram.com/icc/
+                  - img [ref=e170]
+                - link "twitter social icon" [ref=e173] [cursor=pointer]:
+                  - /url: https://x.com/ICC
+                  - img [ref=e174]
+          - generic [ref=e178]:
+            - button "alternate-small-m-t20wc-2026-logo" [ref=e179] [cursor=pointer]:
+              - link "alternate-small-m-t20wc-2026-logo" [ref=e181]:
+                - /url: /tournaments/mens-t20-world-cup-2026
+                - img "alternate-small-m-t20wc-2026-logo" [ref=e182]
+              - img [ref=e183]
+            - generic:
+              - generic:
+                - img
+              - generic:
+                - link "icc-home":
+                  - /url: /index
+                  - generic:
+                    - generic:
+                      - img "icc-home"
+                      - generic: ICC Home
+                - link "icc-m-t20-2026":
+                  - /url: /tournaments/mens-t20-world-cup-2026
+                  - generic:
+                    - generic:
+                      - img "icc-m-t20-2026"
+                      - generic: ICC Men's T20 World Cup, 2026
+                - link "icc-u19-cricket-world-cup-2026":
+                  - /url: /tournaments/u19-cricket-worldcup-2026
+                  - generic:
+                    - generic:
+                      - img "icc-u19-cricket-world-cup-2026"
+                      - generic: ICC Under-19 Cricket World Cup, 2026
+                - link "icc-w-t20-wc-2026":
+                  - /url: /tournaments/womens-t20-worldcup-2026
+                  - generic:
+                    - generic:
+                      - img "icc-w-t20-wc-2026"
+                      - generic: ICC Women's T20 World Cup, 2026
+                - link "icc-wtc":
+                  - /url: /tournaments/world-test-championship
+                  - generic:
+                    - generic:
+                      - img "icc-wtc"
+                      - generic: ICC World Test Championship, 2025-27
+                - link "w-emer-nations-2025":
+                  - /url: /tournaments/womens-emerging-nations-trophy-2025
+                  - generic:
+                    - generic:
+                      - img "w-emer-nations-2025"
+                      - generic: ICC Women's Emerging Nations Trophy, 2025
+                - link "icc-w-cwc-2025":
+                  - /url: /tournaments/womens-cricket-worldcup-2025
+                  - generic:
+                    - generic:
+                      - img "icc-w-cwc-2025"
+                      - generic: ICC Women's Cricket World Cup, 2025
+                - link "icc-champions-trophy":
+                  - /url: /tournaments/champions-trophy-2025
+                  - generic:
+                    - generic:
+                      - img "icc-champions-trophy"
+                      - generic: ICC Champions Trophy, 2025
+                - link "icc-w-u19-t20-wc":
+                  - /url: /tournaments/u19-womenst20worldcup
+                  - generic:
+                    - generic:
+                      - img "icc-w-u19-t20-wc"
+                      - generic: ICC Women's Under-19 T20 World Cup, 2025
+                - link "icc-cwc-challenge-league-a-b":
+                  - /url: /tournaments/cwc-challenge-league/matches
+                  - generic:
+                    - generic:
+                      - img "icc-cwc-challenge-league-a-b"
+                      - generic: ICC CWC Challenge League A and B, 2024-26
+                - link "icc-cwc-league-2":
+                  - /url: /tournaments/icc-cricket-world-cup-league-2
+                  - generic:
+                    - generic:
+                      - img "icc-cwc-league-2"
+                      - generic: ICC Cricket World Cup League 2, 2023-27
+                - link "icc-womens-championship":
+                  - /url: /tournaments/icc-womens-championship
+                  - generic:
+                    - generic:
+                      - img "icc-womens-championship"
+                      - generic: ICC Women's Championship, 2022-25
+                - link "icc-cricket-world-cup":
+                  - /url: /tournaments/cricketworldcup
+                  - generic:
+                    - generic:
+                      - img "icc-cricket-world-cup"
+                      - generic: ICC Cricket World Cup, 2023
+              - link "See All Events":
+                - /url: /icc-events
+                - generic: See All Events
+                - img
+          - generic [ref=e188]:
+            - link "home" [ref=e190] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026
+              - generic [ref=e193]: Home
+            - link "Matches" [ref=e195] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/matches
+              - generic [ref=e198]: Matches
+            - link "Standings" [ref=e200] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/standings
+              - generic [ref=e203]: Standings
+            - link "News" [ref=e205] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/news
+              - generic [ref=e208]: News
+            - link "Videos" [ref=e210] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/videos
+              - generic [ref=e213]: Videos
+            - link "stats" [ref=e215] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/stats
+              - generic [ref=e218]: Stats
+            - link "game-hub" [ref=e220] [cursor=pointer]:
+              - /url: https://games.icc-cricket.com/
+              - generic [ref=e223]: Game Hub
+            - generic [ref=e224]:
+              - link "more":
+                - /url: "#nolink"
+                - generic:
+                  - generic:
+                    - generic: More
+            - link "ICC.tv" [ref=e226] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/icc-tv
+              - generic [ref=e229]: ICC.tv
+          - generic [ref=e232]:
+            - link "Search" [ref=e234] [cursor=pointer]:
+              - /url: /search
+              - generic [ref=e235]:
+                - generic [ref=e236]: Search
+                - img [ref=e237]
+            - button "Sign in" [ref=e240] [cursor=pointer]:
+              - generic [ref=e241]: Sign in
+              - img [ref=e242]
+          - img "placeholder" [ref=e244]
+    - main [ref=e245]:
+      - region "story carousel with 90 storys. Use arrow keys to navigate between storys, Enter or Space to select" [ref=e249]:
+        - 'button "Story button: Allen''s record ton powers NZ to Finals, new. Click to view story. 1 of 90" [ref=e250] [cursor=pointer]':
+          - generic [ref=e252]:
+            - generic:
+              - 'img "Thumbnail for story: Allen''s record ton powers NZ to Finals"'
+          - generic [ref=e254]: Allen's record ton powers NZ to Finals
+        - 'button "Story button: SA v NZ: Match HLs, new. Click to view story. 2 of 90" [ref=e255] [cursor=pointer]':
+          - generic [ref=e257]:
+            - generic:
+              - 'img "Thumbnail for story: SA v NZ: Match HLs"'
+          - generic [ref=e259]: "SA v NZ: Match HLs"
+        - 'button "Story button: Brook and England believe , new. Click to view story. 3 of 90" [ref=e260] [cursor=pointer]':
+          - generic [ref=e262]:
+            - generic:
+              - 'img "Thumbnail for story: Brook and England believe"'
+          - generic [ref=e264]: Brook and England believe
+        - 'button "Story button: Morkel backs Abhishek, new. Click to view story. 4 of 90" [ref=e265] [cursor=pointer]':
+          - generic [ref=e267]:
+            - generic:
+              - 'img "Thumbnail for story: Morkel backs Abhishek"'
+          - generic [ref=e269]: Morkel backs Abhishek
+        - 'button "Story button: SA, Markram pin focus on basics , new. Click to view story. 5 of 90" [ref=e270] [cursor=pointer]':
+          - generic [ref=e272]:
+            - generic:
+              - 'img "Thumbnail for story: SA, Markram pin focus on basics"'
+          - generic [ref=e274]: SA, Markram pin focus on basics
+        - 'button "Story button: Santner backs Kiwis ahead of semis, new. Click to view story. 6 of 90" [ref=e275] [cursor=pointer]':
+          - generic [ref=e277]:
+            - generic:
+              - 'img "Thumbnail for story: Santner backs Kiwis ahead of semis"'
+          - generic [ref=e279]: Santner backs Kiwis ahead of semis
+        - 'button "Story button: Shastri, Ponting urge faith in Abhishek, new. Click to view story. 7 of 90" [ref=e280] [cursor=pointer]':
+          - generic [ref=e282]:
+            - generic:
+              - 'img "Thumbnail for story: Shastri, Ponting urge faith in Abhishek"'
+          - generic [ref=e284]: Shastri, Ponting urge faith in Abhishek
+        - 'button "Story button: Ponting decodes NZ''s mantra, new. Click to view story. 8 of 90" [ref=e285] [cursor=pointer]':
+          - generic [ref=e287]:
+            - generic:
+              - 'img "Thumbnail for story: Ponting decodes NZ''s mantra"'
+          - generic [ref=e289]: Ponting decodes NZ's mantra
+        - 'button "Story button: T20WC records new benchmarks , new. Click to view story. 9 of 90" [ref=e290] [cursor=pointer]':
+          - generic [ref=e292]:
+            - generic:
+              - 'img "Thumbnail for story: T20WC records new benchmarks"'
+          - generic [ref=e294]: T20WC records new benchmarks
+        - 'button "Story button: Officials named for T20WC semi-finals, new. Click to view story. 10 of 90" [ref=e295] [cursor=pointer]':
+          - generic [ref=e297]:
+            - generic:
+              - 'img "Thumbnail for story: Officials named for T20WC semi-finals"'
+          - generic [ref=e299]: Officials named for T20WC semi-finals
+        - 'button "Story button: Rohit recalls memories of IND-PAK, new. Click to view story. 11 of 90" [ref=e300] [cursor=pointer]':
+          - generic [ref=e302]:
+            - generic:
+              - 'img "Thumbnail for story: Rohit recalls memories of IND-PAK"'
+          - generic [ref=e304]: Rohit recalls memories of IND-PAK
+        - 'button "Story button: Hyundai Leaderboards - Bowling, new. Click to view story. 12 of 90" [ref=e305] [cursor=pointer]':
+          - generic [ref=e307]:
+            - generic:
+              - 'img "Thumbnail for story: Hyundai Leaderboards - Bowling"'
+          - generic [ref=e309]: Hyundai Leaderboards - Bowling
+        - 'button "Story button: Hyundai Leaderboards - Batting, new. Click to view story. 13 of 90" [ref=e310] [cursor=pointer]':
+          - generic [ref=e312]:
+            - generic:
+              - 'img "Thumbnail for story: Hyundai Leaderboards - Batting"'
+          - generic [ref=e314]: Hyundai Leaderboards - Batting
+        - 'button "Story button: Zimbabwe take lessons for future, new. Click to view story. 14 of 90" [ref=e315] [cursor=pointer]':
+          - generic [ref=e317]:
+            - generic:
+              - 'img "Thumbnail for story: Zimbabwe take lessons for future"'
+          - generic [ref=e319]: Zimbabwe take lessons for future
+        - 'button "Story button: Windies count the positives, new. Click to view story. 15 of 90" [ref=e320] [cursor=pointer]':
+          - generic [ref=e322]:
+            - generic:
+              - 'img "Thumbnail for story: Windies count the positives"'
+          - generic [ref=e324]: Windies count the positives
+        - 'button "Story button: Proteas take no extra pressure, new. Click to view story. 16 of 90" [ref=e325] [cursor=pointer]':
+          - generic [ref=e327]:
+            - generic:
+              - 'img "Thumbnail for story: Proteas take no extra pressure"'
+          - generic [ref=e329]: Proteas take no extra pressure
+        - 'button "Story button: Mature Samson wins praise, new. Click to view story. 17 of 90" [ref=e330] [cursor=pointer]':
+          - generic [ref=e332]:
+            - generic:
+              - 'img "Thumbnail for story: Mature Samson wins praise"'
+          - generic [ref=e334]: Mature Samson wins praise
+        - 'button "Story button: Semi-finals locked for T20WC 2026, new. Click to view story. 18 of 90" [ref=e335] [cursor=pointer]':
+          - generic [ref=e337]:
+            - generic:
+              - 'img "Thumbnail for story: Semi-finals locked for T20WC 2026"'
+          - generic [ref=e339]: Semi-finals locked for T20WC 2026
+        - 'button "Story button: India power past West Indies, new. Click to view story. 19 of 90" [ref=e340] [cursor=pointer]':
+          - generic [ref=e342]:
+            - generic:
+              - 'img "Thumbnail for story: India power past West Indies"'
+          - generic [ref=e344]: India power past West Indies
+        - 'button "Story button: Unbeaten SA edge past Zimbabwe, new. Click to view story. 20 of 90" [ref=e345] [cursor=pointer]':
+          - generic [ref=e347]:
+            - generic:
+              - 'img "Thumbnail for story: Unbeaten SA edge past Zimbabwe"'
+          - generic [ref=e349]: Unbeaten SA edge past Zimbabwe
+        - 'button "Story button: Fielding moments that lit up Super 8, new. Click to view story. 21 of 90" [ref=e350] [cursor=pointer]':
+          - generic [ref=e352]:
+            - generic:
+              - 'img "Thumbnail for story: Fielding moments that lit up Super 8"'
+          - generic [ref=e354]: Fielding moments that lit up Super 8
+        - 'button "Story button: Spinners at their best, new. Click to view story. 22 of 90" [ref=e355] [cursor=pointer]':
+          - generic [ref=e357]:
+            - generic:
+              - 'img "Thumbnail for story: Spinners at their best"'
+          - generic [ref=e359]: Spinners at their best
+        - 'button "Story button: Elegant Fours from Super 8 so far, new. Click to view story. 23 of 90" [ref=e360] [cursor=pointer]':
+          - generic [ref=e362]:
+            - generic:
+              - 'img "Thumbnail for story: Elegant Fours from Super 8 so far"'
+          - generic [ref=e364]: Elegant Fours from Super 8 so far
+        - 'button "Story button: Best Sixes from Super 8 so far, new. Click to view story. 24 of 90" [ref=e365] [cursor=pointer]':
+          - generic [ref=e367]:
+            - generic:
+              - 'img "Thumbnail for story: Best Sixes from Super 8 so far"'
+          - generic [ref=e369]: Best Sixes from Super 8 so far
+        - 'button "Story button: Sri Lanka coach keen to finish, new. Click to view story. 25 of 90" [ref=e370] [cursor=pointer]':
+          - generic [ref=e372]:
+            - generic:
+              - 'img "Thumbnail for story: Sri Lanka coach keen to finish"'
+          - generic [ref=e374]: Sri Lanka coach keen to finish
+        - 'button "Story button: Farhan breaks Kohli''s record, new. Click to view story. 26 of 90" [ref=e375] [cursor=pointer]':
+          - generic [ref=e377]:
+            - generic:
+              - 'img "Thumbnail for story: Farhan breaks Kohli''s record"'
+          - generic [ref=e379]: Farhan breaks Kohli's record
+        - 'button "Story button: Pakistan triumph thriller in Kandy, new. Click to view story. 27 of 90" [ref=e380] [cursor=pointer]':
+          - generic [ref=e382]:
+            - generic:
+              - 'img "Thumbnail for story: Pakistan triumph thriller in Kandy"'
+          - generic [ref=e384]: Pakistan triumph thriller in Kandy
+        - 'button "Story button: NZ book semis berth, new. Click to view story. 28 of 90" [ref=e385] [cursor=pointer]':
+          - generic [ref=e387]:
+            - generic:
+              - 'img "Thumbnail for story: NZ book semis berth"'
+          - generic [ref=e389]: NZ book semis berth
+        - 'button "Story button: England focus on controllables, new. Click to view story. 29 of 90" [ref=e390] [cursor=pointer]':
+          - generic [ref=e392]:
+            - generic:
+              - 'img "Thumbnail for story: England focus on controllables"'
+          - generic [ref=e394]: England focus on controllables
+        - 'button "Story button: NZ await semi-final fate, new. Click to view story. 30 of 90" [ref=e395] [cursor=pointer]':
+          - generic [ref=e397]:
+            - generic:
+              - 'img "Thumbnail for story: NZ await semi-final fate"'
+          - generic [ref=e399]: NZ await semi-final fate
+        - 'button "Story button: SL aim to sign off on a high, new. Click to view story. 31 of 90" [ref=e400] [cursor=pointer]':
+          - generic [ref=e402]:
+            - generic:
+              - 'img "Thumbnail for story: SL aim to sign off on a high"'
+          - generic [ref=e404]: SL aim to sign off on a high
+        - 'button "Story button: Batting blitz has IND ready for WI, new. Click to view story. 32 of 90" [ref=e405] [cursor=pointer]':
+          - generic [ref=e407]:
+            - generic:
+              - 'img "Thumbnail for story: Batting blitz has IND ready for WI"'
+          - generic [ref=e409]: Batting blitz has IND ready for WI
+        - 'button "Story button: India ace Zimbabwe test, new. Click to view story. 33 of 90" [ref=e410] [cursor=pointer]':
+          - generic [ref=e412]:
+            - generic:
+              - 'img "Thumbnail for story: India ace Zimbabwe test"'
+          - generic [ref=e414]: India ace Zimbabwe test
+        - 'button "Story button: Markram leads South Africa to big win, new. Click to view story. 34 of 90" [ref=e415] [cursor=pointer]':
+          - generic [ref=e417]:
+            - generic:
+              - 'img "Thumbnail for story: Markram leads South Africa to big win"'
+          - generic [ref=e419]: Markram leads South Africa to big win
+        - 'button "Story button: Black Caps eye semis , new. Click to view story. 35 of 90" [ref=e420] [cursor=pointer]':
+          - generic [ref=e422]:
+            - generic:
+              - 'img "Thumbnail for story: Black Caps eye semis"'
+          - generic [ref=e424]: Black Caps eye semis
+        - 'button "Story button: New Zealand knock out Sri Lanka, new. Click to view story. 36 of 90" [ref=e425] [cursor=pointer]':
+          - generic [ref=e427]:
+            - generic:
+              - 'img "Thumbnail for story: New Zealand knock out Sri Lanka"'
+          - generic [ref=e429]: New Zealand knock out Sri Lanka
+        - 'button "Story button: Big changes in Men''s Rankings, new. Click to view story. 37 of 90" [ref=e430] [cursor=pointer]':
+          - generic [ref=e432]:
+            - generic:
+              - 'img "Thumbnail for story: Big changes in Men''s Rankings"'
+          - generic [ref=e434]: Big changes in Men's Rankings
+        - 'button "Story button: Shastri, Ponting offer advice on India’s playing XI, new. Click to view story. 38 of 90" [ref=e435] [cursor=pointer]':
+          - generic [ref=e437]:
+            - generic:
+              - 'img "Thumbnail for story: Shastri, Ponting offer advice on India’s playing XI"'
+          - generic [ref=e439]: Shastri, Ponting offer advice on India’s playing XI
+        - 'button "Story button: Listen to The ICC Review, new. Click to view story. 39 of 90" [ref=e440] [cursor=pointer]':
+          - generic [ref=e442]:
+            - generic:
+              - 'img "Thumbnail for story: Listen to The ICC Review"'
+          - generic [ref=e444]: Listen to The ICC Review
+        - 'button "Story button: Equation for semis, new. Click to view story. 40 of 90" [ref=e445] [cursor=pointer]':
+          - generic [ref=e447]:
+            - generic:
+              - 'img "Thumbnail for story: Equation for semis"'
+          - generic [ref=e449]: Equation for semis
+        - 'button "Story button: Shastri talks up India XI, new. Click to view story. 41 of 90" [ref=e450] [cursor=pointer]':
+          - generic [ref=e452]:
+            - generic:
+              - 'img "Thumbnail for story: Shastri talks up India XI"'
+          - generic [ref=e454]: Shastri talks up India XI
+        - 'button "Story button: AUS finish on a positive note, new. Click to view story. 42 of 90" [ref=e455] [cursor=pointer]':
+          - generic [ref=e457]:
+            - generic:
+              - 'img "Thumbnail for story: AUS finish on a positive note"'
+          - generic [ref=e459]: AUS finish on a positive note
+        - 'button "Story button: Match officials for T20WC Super 8, new. Click to view story. 43 of 90" [ref=e460] [cursor=pointer]':
+          - generic [ref=e462]:
+            - generic:
+              - 'img "Thumbnail for story: Match officials for T20WC Super 8"'
+          - generic [ref=e464]: Match officials for T20WC Super 8
+        - 'button "Story button: Trott reflects on journey, new. Click to view story. 44 of 90" [ref=e465] [cursor=pointer]':
+          - generic [ref=e467]:
+            - generic:
+              - 'img "Thumbnail for story: Trott reflects on journey"'
+          - generic [ref=e469]: Trott reflects on journey
+        - 'button "Story button: Scintillating action unfolds across venues, new. Click to view story. 45 of 90" [ref=e470] [cursor=pointer]':
+          - generic [ref=e472]:
+            - generic:
+              - 'img "Thumbnail for story: Scintillating action unfolds across venues"'
+          - generic [ref=e474]: Scintillating action unfolds across venues
+        - 'button "Story button: Top run scorers of T20WC 2026, new. Click to view story. 46 of 90" [ref=e475] [cursor=pointer]':
+          - generic [ref=e477]:
+            - generic:
+              - 'img "Thumbnail for story: Top run scorers of T20WC 2026"'
+          - generic [ref=e479]: Top run scorers of T20WC 2026
+        - 'button "Story button: Top wicket-takers of T20WC 2026, new. Click to view story. 47 of 90" [ref=e480] [cursor=pointer]':
+          - generic [ref=e482]:
+            - generic:
+              - 'img "Thumbnail for story: Top wicket-takers of T20WC 2026"'
+          - generic [ref=e484]: Top wicket-takers of T20WC 2026
+        - 'button "Story button: Today''s exciting play , new. Click to view story. 48 of 90" [ref=e485] [cursor=pointer]':
+          - generic [ref=e487]:
+            - generic:
+              - 'img "Thumbnail for story: Today''s exciting play"'
+          - generic [ref=e489]: Today's exciting play
+        - 'button "Story button: Groups, fixtures for Super 8, new. Click to view story. 49 of 90" [ref=e490] [cursor=pointer]':
+          - generic [ref=e492]:
+            - generic:
+              - 'img "Thumbnail for story: Groups, fixtures for Super 8"'
+          - generic [ref=e494]: Groups, fixtures for Super 8
+        - 'button "Story button: Qualification details for 2028 T20WC, new. Click to view story. 50 of 90" [ref=e495] [cursor=pointer]':
+          - generic [ref=e497]:
+            - generic:
+              - 'img "Thumbnail for story: Qualification details for 2028 T20WC"'
+          - generic [ref=e499]: Qualification details for 2028 T20WC
+        - 'button "Story button: Injury rules out key SL speedster, new. Click to view story. 51 of 90" [ref=e500] [cursor=pointer]':
+          - generic [ref=e502]:
+            - generic:
+              - 'img "Thumbnail for story: Injury rules out key SL speedster"'
+          - generic [ref=e504]: Injury rules out key SL speedster
+        - 'button "Story button: PAK star back on top in Men''s Rankings, new. Click to view story. 52 of 90" [ref=e505] [cursor=pointer]':
+          - generic [ref=e507]:
+            - generic:
+              - 'img "Thumbnail for story: PAK star back on top in Men''s Rankings"'
+          - generic [ref=e509]: PAK star back on top in Men's Rankings
+        - 'button "Story button: Ponting on AUS''s campaign, new. Click to view story. 53 of 90" [ref=e510] [cursor=pointer]':
+          - generic [ref=e512]:
+            - generic:
+              - 'img "Thumbnail for story: Ponting on AUS''s campaign"'
+          - generic [ref=e514]: Ponting on AUS's campaign
+        - 'button "Story button: Thrilling action unfolds in T20WC, new. Click to view story. 54 of 90" [ref=e515] [cursor=pointer]':
+          - generic [ref=e517]:
+            - generic:
+              - 'img "Thumbnail for story: Thrilling action unfolds in T20WC"'
+          - generic [ref=e519]: Thrilling action unfolds in T20WC
+        - 'button "Story button: State of play: T20WC 2026, new. Click to view story. 55 of 90" [ref=e520] [cursor=pointer]':
+          - generic [ref=e522]:
+            - generic:
+              - 'img "Thumbnail for story: State of play: T20WC 2026"'
+          - generic [ref=e524]: "State of play: T20WC 2026"
+        - 'button "Story button: Canada teenager creates history, new. Click to view story. 56 of 90" [ref=e525] [cursor=pointer]':
+          - generic [ref=e527]:
+            - generic:
+              - 'img "Thumbnail for story: Canada teenager creates history"'
+          - generic [ref=e529]: Canada teenager creates history
+        - 'button "Story button: More teams seal Super 8 spot, new. Click to view story. 57 of 90" [ref=e530] [cursor=pointer]':
+          - generic [ref=e532]:
+            - generic:
+              - 'img "Thumbnail for story: More teams seal Super 8 spot"'
+          - generic [ref=e534]: More teams seal Super 8 spot
+        - 'button "Story button: AUS name Hazlewood replacement, new. Click to view story. 58 of 90" [ref=e535] [cursor=pointer]':
+          - generic [ref=e537]:
+            - generic:
+              - 'img "Thumbnail for story: AUS name Hazlewood replacement"'
+          - generic [ref=e539]: AUS name Hazlewood replacement
+        - 'button "Story button: PAK turn attention to Namibia clash, new. Click to view story. 59 of 90" [ref=e540] [cursor=pointer]':
+          - generic [ref=e542]:
+            - generic:
+              - 'img "Thumbnail for story: PAK turn attention to Namibia clash"'
+          - generic [ref=e544]: PAK turn attention to Namibia clash
+        - 'button "Story button: Shastri''s advice for Abhishek, new. Click to view story. 60 of 90" [ref=e545] [cursor=pointer]':
+          - generic [ref=e547]:
+            - generic:
+              - 'img "Thumbnail for story: Shastri''s advice for Abhishek"'
+          - generic [ref=e549]: Shastri's advice for Abhishek
+        - 'button "Story button: Teams confirm Super 8 spots, new. Click to view story. 61 of 90" [ref=e550] [cursor=pointer]':
+          - generic [ref=e552]:
+            - generic:
+              - 'img "Thumbnail for story: Teams confirm Super 8 spots"'
+          - generic [ref=e554]: Teams confirm Super 8 spots
+        - 'button "Story button: Blockbuster action unfolds at T20WC, new. Click to view story. 62 of 90" [ref=e555] [cursor=pointer]':
+          - generic [ref=e557]:
+            - generic:
+              - 'img "Thumbnail for story: Blockbuster action unfolds at T20WC"'
+          - generic [ref=e559]: Blockbuster action unfolds at T20WC
+        - 'button "Story button: Injury forces IRE to replace captain, new. Click to view story. 63 of 90" [ref=e560] [cursor=pointer]':
+          - generic [ref=e562]:
+            - generic:
+              - 'img "Thumbnail for story: Injury forces IRE to replace captain"'
+          - generic [ref=e564]: Injury forces IRE to replace captain
+        - 'button "Story button: Italy make history, co-hosts notch second wins, new. Click to view story. 64 of 90" [ref=e565] [cursor=pointer]':
+          - generic [ref=e567]:
+            - generic:
+              - 'img "Thumbnail for story: Italy make history, co-hosts notch second wins"'
+          - generic [ref=e569]: Italy make history, co-hosts notch second wins
+        - 'button "Story button: Top run scorers of T20WC, new. Click to view story. 65 of 90" [ref=e570] [cursor=pointer]':
+          - generic [ref=e572]:
+            - generic:
+              - 'img "Thumbnail for story: Top run scorers of T20WC"'
+          - generic [ref=e574]: Top run scorers of T20WC
+        - 'button "Story button: Top wicket-takers of T20WC, new. Click to view story. 66 of 90" [ref=e575] [cursor=pointer]':
+          - generic [ref=e577]:
+            - generic:
+              - 'img "Thumbnail for story: Top wicket-takers of T20WC"'
+          - generic [ref=e579]: Top wicket-takers of T20WC
+        - 'button "Story button: Ireland captain sent for scans, new. Click to view story. 67 of 90" [ref=e580] [cursor=pointer]':
+          - generic [ref=e582]:
+            - generic:
+              - 'img "Thumbnail for story: Ireland captain sent for scans"'
+          - generic [ref=e584]: Ireland captain sent for scans
+        - 'button "Story button: Re-live epic double Super Over drama 🇿🇦🇦🇫, new. Click to view story. 68 of 90" [ref=e585] [cursor=pointer]':
+          - generic [ref=e587]:
+            - generic:
+              - 'img "Thumbnail for story: Re-live epic double Super Over drama 🇿🇦🇦🇫"'
+          - generic [ref=e589]: Re-live epic double Super Over drama 🇿🇦🇦🇫
+        - 'button "Story button: Incredible action Day 5, new. Click to view story. 69 of 90" [ref=e590] [cursor=pointer]':
+          - generic [ref=e592]:
+            - generic:
+              - 'img "Thumbnail for story: Incredible action Day 5"'
+          - generic [ref=e594]: Incredible action Day 5
+        - 'button "Story button: Update on India stars, new. Click to view story. 70 of 90" [ref=e595] [cursor=pointer]':
+          - generic [ref=e597]:
+            - generic:
+              - 'img "Thumbnail for story: Update on India stars"'
+          - generic [ref=e599]: Update on India stars
+        - 'button "Story button: AUS skipper misses opening game, new. Click to view story. 71 of 90" [ref=e600] [cursor=pointer]':
+          - generic [ref=e602]:
+            - generic:
+              - 'img "Thumbnail for story: AUS skipper misses opening game"'
+          - generic [ref=e604]: AUS skipper misses opening game
+        - 'button "Story button: T20WC starts make gains in rankings, new. Click to view story. 72 of 90" [ref=e605] [cursor=pointer]':
+          - generic [ref=e607]:
+            - generic:
+              - 'img "Thumbnail for story: T20WC starts make gains in rankings"'
+          - generic [ref=e609]: T20WC starts make gains in rankings
+        - 'button "Story button: T20 Insights, new. Click to view story. 73 of 90" [ref=e610] [cursor=pointer]':
+          - generic [ref=e612]:
+            - generic:
+              - 'img "Thumbnail for story: T20 Insights"'
+          - generic [ref=e614]: T20 Insights
+        - 'button "Story button: Pakistan and NZ register second win, new. Click to view story. 74 of 90" [ref=e615] [cursor=pointer]':
+          - generic [ref=e617]:
+            - generic:
+              - 'img "Thumbnail for story: Pakistan and NZ register second win"'
+          - generic [ref=e619]: Pakistan and NZ register second win
+        - 'button "Story button: Injury forces change for NZ, new. Click to view story. 75 of 90" [ref=e620] [cursor=pointer]':
+          - generic [ref=e622]:
+            - generic:
+              - 'img "Thumbnail for story: Injury forces change for NZ"'
+          - generic [ref=e624]: Injury forces change for NZ
+        - 'button "Story button: SL''s spin wizard ruled out of T20WC, new. Click to view story. 76 of 90" [ref=e625] [cursor=pointer]':
+          - generic [ref=e627]:
+            - generic:
+              - 'img "Thumbnail for story: SL''s spin wizard ruled out of T20WC"'
+          - generic [ref=e629]: SL's spin wizard ruled out of T20WC
+        - 'button "Story button: Australia batter to miss opening game, new. Click to view story. 77 of 90" [ref=e630] [cursor=pointer]':
+          - generic [ref=e632]:
+            - generic:
+              - 'img "Thumbnail for story: Australia batter to miss opening game"'
+          - generic [ref=e634]: Australia batter to miss opening game
+        - 'button "Story button: First wins in the bag for three teams, new. Click to view story. 78 of 90" [ref=e635] [cursor=pointer]':
+          - generic [ref=e637]:
+            - generic:
+              - 'img "Thumbnail for story: First wins in the bag for three teams"'
+          - generic [ref=e639]: First wins in the bag for three teams
+        - 'button "Story button: Pakistan''s dilemma on Babar, new. Click to view story. 79 of 90" [ref=e640] [cursor=pointer]':
+          - generic [ref=e642]:
+            - generic:
+              - 'img "Thumbnail for story: Pakistan''s dilemma on Babar"'
+          - generic [ref=e644]: Pakistan's dilemma on Babar
+        - 'button "Story button: Closely fought contests on Day 2!, new. Click to view story. 80 of 90" [ref=e645] [cursor=pointer]':
+          - generic [ref=e647]:
+            - generic:
+              - 'img "Thumbnail for story: Closely fought contests on Day 2!"'
+          - generic [ref=e649]: Closely fought contests on Day 2!
+        - 'button "Story button: Enthralling opening day of T20WC 2026, new. Click to view story. 81 of 90" [ref=e650] [cursor=pointer]':
+          - generic [ref=e652]:
+            - generic:
+              - 'img "Thumbnail for story: Enthralling opening day of T20WC 2026"'
+          - generic [ref=e654]: Enthralling opening day of T20WC 2026
+        - 'button "Story button: SL dealt injury blow on T20WC eve, new. Click to view story. 82 of 90" [ref=e655] [cursor=pointer]':
+          - generic [ref=e657]:
+            - generic:
+              - 'img "Thumbnail for story: SL dealt injury blow on T20WC eve"'
+          - generic [ref=e659]: SL dealt injury blow on T20WC eve
+        - 'button "Story button: India forced into a late change, new. Click to view story. 83 of 90" [ref=e660] [cursor=pointer]':
+          - generic [ref=e662]:
+            - generic:
+              - 'img "Thumbnail for story: India forced into a late change"'
+          - generic [ref=e664]: India forced into a late change
+        - 'button "Story button: Your guide to the T20WC 2026, new. Click to view story. 84 of 90" [ref=e665] [cursor=pointer]':
+          - generic [ref=e667]:
+            - generic:
+              - 'img "Thumbnail for story: Your guide to the T20WC 2026"'
+          - generic [ref=e669]: Your guide to the T20WC 2026
+        - 'button "Story button: In the spotlight!, new. Click to view story. 85 of 90" [ref=e670] [cursor=pointer]':
+          - generic [ref=e672]:
+            - generic:
+              - 'img "Thumbnail for story: In the spotlight!"'
+          - generic [ref=e674]: In the spotlight!
+        - 'button "Story button: Inside the Inner Circle, new. Click to view story. 86 of 90" [ref=e675] [cursor=pointer]':
+          - generic [ref=e677]:
+            - generic:
+              - 'img "Thumbnail for story: Inside the Inner Circle"'
+          - generic [ref=e679]: Inside the Inner Circle
+        - 'button "Story button: Broadcast details for T20WC 2026, new. Click to view story. 87 of 90" [ref=e680] [cursor=pointer]':
+          - generic [ref=e682]:
+            - generic:
+              - 'img "Thumbnail for story: Broadcast details for T20WC 2026"'
+          - generic [ref=e684]: Broadcast details for T20WC 2026
+        - 'button "Story button: Know the squads, new. Click to view story. 88 of 90" [ref=e685] [cursor=pointer]':
+          - generic [ref=e687]:
+            - generic:
+              - 'img "Thumbnail for story: Know the squads"'
+          - generic [ref=e689]: Know the squads
+        - 'button "Story button: Road to MT20 2026, new. Click to view story. 89 of 90" [ref=e690] [cursor=pointer]':
+          - generic [ref=e692]:
+            - generic:
+              - 'img "Thumbnail for story: Road to MT20 2026"'
+          - generic [ref=e694]: Road to MT20 2026
+        - 'button "Story button: From the vault : Men''s T20, new. Click to view story. 90 of 90" [ref=e695] [cursor=pointer]':
+          - generic [ref=e697]:
+            - generic:
+              - 'img "Thumbnail for story: From the vault : Men''s T20"'
+          - generic [ref=e699]: "From the vault : Men's T20"
+      - generic [ref=e701]:
+        - link "ICC Men's T20 World Cup, 2026 Record ton by Allen powers New Zealand to final 10h" [ref=e705] [cursor=pointer]:
+          - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/live-new-zealand-take-on-unbeaten-south-africa-in-semi-final
+          - figure [ref=e707]:
+            - img "Record ton by Allen powers New Zealand to final" [ref=e709]
+          - generic [ref=e710]:
+            - generic [ref=e711]: ICC Men's T20 World Cup, 2026
+            - heading "Record ton by Allen powers New Zealand to final" [level=2] [ref=e712]
+            - time [ref=e713]: 10h
+        - generic [ref=e717]:
+          - link "ICC Men's T20 World Cup, 2026 New Zealand dominate to book Final spot | Match Highlights | T20WC 2026 5h" [ref=e719] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-dominate-to-book-final-spot-match-highlights-t20wc-2026
+            - img [ref=e721]
+            - figure [ref=e725]:
+              - img "SAvNZ 16x9 MATCH HLs" [ref=e727]
+            - generic [ref=e728]:
+              - generic [ref=e729]: ICC Men's T20 World Cup, 2026
+              - paragraph [ref=e730]: New Zealand dominate to book Final spot | Match Highlights | T20WC 2026
+              - time [ref=e731]: 5h
+          - link "ICC Men's T20 World Cup, 2026 Allen's record-breaking blitz seals the deal | POTM Highlights | T20WC 2026 6h" [ref=e733] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/allen-s-record-breaking-blitz-seals-the-deal-potm-highlights-t20wc-2026
+            - img [ref=e735]
+            - figure [ref=e739]:
+              - img "Allen POTM v SA" [ref=e741]
+            - generic [ref=e742]:
+              - generic [ref=e743]: ICC Men's T20 World Cup, 2026
+              - paragraph [ref=e744]: Allen's record-breaking blitz seals the deal | POTM Highlights | T20WC 2026
+              - time [ref=e745]: 6h
+          - link "ICC Men's T20 World Cup, 2026 Morkel backs Abhishek to find his mojo for England clash 11h" [ref=e747] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/morkel-backs-abhishek-to-find-his-mojo-for-england-clash
+            - figure [ref=e748]:
+              - img "GettyImages-2264218925" [ref=e750]
+            - generic [ref=e751]:
+              - generic [ref=e752]: ICC Men's T20 World Cup, 2026
+              - paragraph [ref=e753]: Morkel backs Abhishek to find his mojo for England clash
+              - time [ref=e754]: 11h
+          - link "ICC Men's T20 World Cup, 2026 Brook and England believe ahead of India semi-final 9h" [ref=e756] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/brook-and-england-believe-ahead-of-india-semi-final
+            - figure [ref=e757]:
+              - img "GettyImages-2264538257" [ref=e759]
+            - generic [ref=e760]:
+              - generic [ref=e761]: ICC Men's T20 World Cup, 2026
+              - paragraph [ref=e762]: Brook and England believe ahead of India semi-final
+              - time [ref=e763]: 9h
+      - link [ref=e766] [cursor=pointer]:
+        - /url: https://tickets.cricketworldcup.com/
+        - figure [ref=e767]:
+          - img "ICC Men's T20 World Cup, 2026 Tickets Sale" [ref=e769]
+      - iframe [ref=e773]:
+        - generic [ref=f4e1]:
+          - link [ref=f4e2] [cursor=pointer]:
+            - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsuwk8dFGExNFi_27Rk3ZrxA7N1FLWiGyr6w-Zl6L-ynsyNe18FkiJIHW1c6OlwJnsOd2KiT92hkW8J2gyslJMxvf-up5P9URYWXIRIBGgiDAAyhHYzo-pXYI3rLiTg-3BrbYOlzM3l2hkroaeyAtkbd142v5gOVEgVSwnhM1gesX-6EwDAMgO7_8dDN6R1dz7AM2obLVZRywere8elEzXe68n65y8uLhpV8kO0p34yxhYuyLGfT2BIGgra9hM7dsQQ28FbvZPtn1G37eBmOdvAVu2s-OpIwZj9AFzNGgWBJBCoNaJWjPo1aapD8ro0B8sxMVQwCR7g22uBQWRLUKPVf3Wi_u9d0dE1_BO_teEPJCXFpjAzlxnAfWMNb_h7isPP_G-VHwmK_1g9nlNBJfoGke6kxqC2d&sai=AMfl-YRZowu3VeiPowgQ3KnUHktwE3ODLH5jNh8bDXgyRtpq9VDYbWrjlZjy1x4vLjJJtmn4b2Zy0vXz3rHAt8Yq4Ed7VNhJAisK-Rr8AMxBrJlYHzz9T5wLmC7LrIPD18C2Tf0FkAQYNElnDSgqQTM2k9x20KWk9RFPgEp45qZss1AQR1XMwp2dyhdCqj_poF7q8zZw2Cl9NLKww9NYHCud-w7T5Eyy3jyEgGzkBDKExCiseuzSpL2XNwF_eVkaHcfybpDToLWeIOhYtX2_MxtuoYa2XDZCzgLjlLpUjSs6xRs4kyQ&sig=Cg0ArKJSzFHCHSfingJ5&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.aramco.com/
+          - img [ref=f4e7]
+      - generic [ref=e782]:
+        - heading "Match Highlights" [level=2] [ref=e783]
+        - generic [ref=e786]:
+          - generic [ref=e787]:
+            - link "ICC Men's T20 World Cup, 2026 New Zealand dominate to book Final spot | Match Highlights | T20WC 2026 5h" [ref=e790] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-dominate-to-book-final-spot-match-highlights-t20wc-2026
+              - img [ref=e792]
+              - figure [ref=e796]:
+                - img "New Zealand dominate to book Final spot | Match Highlights | T20WC 2026" [ref=e798]
+              - generic [ref=e799]:
+                - generic [ref=e800]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e801]: New Zealand dominate to book Final spot | Match Highlights | T20WC 2026
+                - time [ref=e802]: 5h
+            - link "ICC Men's T20 World Cup, 2026 Clinical India power into the last four | Match Highlights | T20WC 2026 3d" [ref=e805] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/clinical-india-power-into-the-last-four-match-highlights-t20wc-2026
+              - img [ref=e807]
+              - figure [ref=e811]:
+                - img "Clinical India power into the last four | Match Highlights | T20WC 2026" [ref=e813]
+              - generic [ref=e814]:
+                - generic [ref=e815]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e816]: Clinical India power into the last four | Match Highlights | T20WC 2026
+                - time [ref=e817]: 3d
+            - link "ICC Men's T20 World Cup, 2026 Recovery ensures South Africa's perfect run | Match Highlights | T20WC 2026 3d" [ref=e820] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/recovery-seals-south-africa-s-perfect-run-match-highlights-t20wc-2026
+              - img [ref=e822]
+              - figure [ref=e826]:
+                - img "Recovery ensures South Africa's perfect run | Match Highlights | T20WC 2026" [ref=e828]
+              - generic [ref=e829]:
+                - generic [ref=e830]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e831]: Recovery ensures South Africa's perfect run | Match Highlights | T20WC 2026
+                - time [ref=e832]: 3d
+            - link "ICC Men's T20 World Cup, 2026 Pakistan win a blockbuster contest in Kandy | Match Highlights | T20WC 2026 4d" [ref=e835] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/pakistan-win-a-blockbuster-contest-in-kandy-match-highlights-t20wc-2026
+              - img [ref=e837]
+              - figure [ref=e841]:
+                - img "Pakistan win a blockbuster contest in Kandy | Match Highlights | T20WC 2026" [ref=e843]
+              - generic [ref=e844]:
+                - generic [ref=e845]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e846]: Pakistan win a blockbuster contest in Kandy | Match Highlights | T20WC 2026
+                - time [ref=e847]: 4d
+            - link "ICC Men's T20 World Cup, 2026 England edge a dramatic contest in Colombo | Match Highlights | T20WC 2026 5d" [ref=e850] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-edge-a-dramatic-contest-in-colombo-match-highlights-t20wc-2026
+              - img [ref=e852]
+              - figure [ref=e856]:
+                - img "England edge a dramatic contest in Colombo | Match Highlights | T20WC 2026" [ref=e858]
+              - generic [ref=e859]:
+                - generic [ref=e860]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e861]: England edge a dramatic contest in Colombo | Match Highlights | T20WC 2026
+                - time [ref=e862]: 5d
+            - link "ICC Men's T20 World Cup, 2026 India's big push in the race to semi-finals | Match Highlights | T20WC 2026 6d" [ref=e865] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-s-big-push-in-the-race-to-semi-finals-match-highlights-t20wc-2026
+              - img [ref=e867]
+              - figure [ref=e871]:
+                - img "India's big push in the race to semi-finals | Match Highlights | T20WC 2026" [ref=e873]
+              - generic [ref=e874]:
+                - generic [ref=e875]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e876]: India's big push in the race to semi-finals | Match Highlights | T20WC 2026
+                - time [ref=e877]: 6d
+            - link "ICC Men's T20 World Cup, 2026 Flawless South Africa deliver again | Match Highlights | T20WC 2026 6d" [ref=e880] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/flawless-south-africa-deliver-again-match-highlights-t20wc-2026
+              - img [ref=e882]
+              - figure [ref=e886]:
+                - img "Flawless South Africa deliver again | Match Highlights | T20WC 2026" [ref=e888]
+              - generic [ref=e889]:
+                - generic [ref=e890]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e891]: Flawless South Africa deliver again | Match Highlights | T20WC 2026
+                - time [ref=e892]: 6d
+            - link "ICC Men's T20 World Cup, 2026 New Zealand's dominant display powers big win | Match Highlights | T20WC 2026 7d" [ref=e895] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-s-dominant-display-powers-big-win-match-highlights-t20wc-2026
+              - img [ref=e897]
+              - figure [ref=e901]:
+                - img "New Zealand's dominant display powers big win | Match Highlights | T20WC 2026" [ref=e903]
+              - generic [ref=e904]:
+                - generic [ref=e905]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e906]: New Zealand's dominant display powers big win | Match Highlights | T20WC 2026
+                - time [ref=e907]: 7d
+            - link "ICC Men's T20 World Cup, 2026 England advance as Brook delivers big | Match Highlights | T20WC 2026 24 February, 2026" [ref=e910] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-advance-as-brook-delivers-big-match-highlights-t20wc-2026
+              - img [ref=e912]
+              - figure [ref=e916]:
+                - img "England advance as Brook delivers big | Match Highlights | T20WC 2026" [ref=e918]
+              - generic [ref=e919]:
+                - generic [ref=e920]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e921]: England advance as Brook delivers big | Match Highlights | T20WC 2026
+                - time [ref=e922]: 24 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 All-round West Indies ease past Zimbabwe | Match Highlights | T20WC 2026 23 February, 2026" [ref=e925] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/all-round-west-indies-ease-past-zimbabwe-match-highlights-t20wc-2026
+              - img [ref=e927]
+              - figure [ref=e931]:
+                - img "All-round West Indies ease past Zimbabwe | Match Highlights | T20WC 2026" [ref=e933]
+              - generic [ref=e934]:
+                - generic [ref=e935]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e936]: All-round West Indies ease past Zimbabwe | Match Highlights | T20WC 2026
+                - time [ref=e937]: 23 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 South Africa take charge and triumph | Match Highlights | T20WC 2026 22 February, 2026" [ref=e940] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/south-africa-take-charge-and-triumph-match-highlights-t20wc-2026
+              - img [ref=e942]
+              - figure [ref=e946]:
+                - img "South Africa take charge and triumph | Match Highlights | T20WC 2026" [ref=e948]
+              - generic [ref=e949]:
+                - generic [ref=e950]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e951]: South Africa take charge and triumph | Match Highlights | T20WC 2026
+                - time [ref=e952]: 22 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 England's attack sets up the win | Match Highlights | T20WC 2026 22 February, 2026" [ref=e955] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-s-attack-sets-up-the-win-match-highlights-t20wc-2026
+              - img [ref=e957]
+              - figure [ref=e961]:
+                - img "England's attack sets up the win | Match Highlights | T20WC 2026" [ref=e963]
+              - generic [ref=e964]:
+                - generic [ref=e965]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e966]: England's attack sets up the win | Match Highlights | T20WC 2026
+                - time [ref=e967]: 22 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Australia sign off with authority | Match Highlights | T20WC 2026 20 February, 2026" [ref=e970] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/australia-sign-off-with-authority-match-highlights-t20wc-2026
+              - img [ref=e972]
+              - figure [ref=e976]:
+                - img "Australia sign off with authority | Match Highlights | T20WC 2026" [ref=e978]
+              - generic [ref=e979]:
+                - generic [ref=e980]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e981]: Australia sign off with authority | Match Highlights | T20WC 2026
+                - time [ref=e982]: 20 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Afghanistan bow out in dominance | Match Highlights | T20WC 2026 19 February, 2026" [ref=e985] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/afghanistan-bow-out-in-dominance-match-highlights-t20wc-2026
+              - img [ref=e987]
+              - figure [ref=e991]:
+                - img "Afghanistan bow out in dominance | Match Highlights | T20WC 2026" [ref=e993]
+              - generic [ref=e994]:
+                - generic [ref=e995]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e996]: Afghanistan bow out in dominance | Match Highlights | T20WC 2026
+                - time [ref=e997]: 19 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Zimbabwe show quality across the board | Match Highlights | T20WC 2026 19 February, 2026" [ref=e1000] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/zimbabwe-show-quality-across-the-board-match-highlights-t20wc-2026
+              - img [ref=e1002]
+              - figure [ref=e1006]:
+                - img "Zimbabwe show quality across the board | Match Highlights | T20WC 2026" [ref=e1008]
+              - generic [ref=e1009]:
+                - generic [ref=e1010]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1011]: Zimbabwe show quality across the board | Match Highlights | T20WC 2026
+                - time [ref=e1012]: 19 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 West Indies juggernaut rolls on | Match Highlights | T20WC 2026 19 February, 2026" [ref=e1015] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/west-indies-juggernaut-rolls-on-match-highlights-t20wc-2026
+              - img [ref=e1017]
+              - figure [ref=e1021]:
+                - img "West Indies juggernaut rolls on | Match Highlights | T20WC 2026" [ref=e1023]
+              - generic [ref=e1024]:
+                - generic [ref=e1025]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1026]: West Indies juggernaut rolls on | Match Highlights | T20WC 2026
+                - time [ref=e1027]: 19 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 India show resolve in Ahmedabad | Match Highlights | T20WC 2026 18 February, 2026" [ref=e1030] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-show-resolve-in-ahmedabad-match-highlights-t20wc-2026
+              - img [ref=e1032]
+              - figure [ref=e1036]:
+                - img "India show resolve in Ahmedabad | Match Highlights | T20WC 2026" [ref=e1038]
+              - generic [ref=e1039]:
+                - generic [ref=e1040]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1041]: India show resolve in Ahmedabad | Match Highlights | T20WC 2026
+                - time [ref=e1042]: 18 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Pakistan go through in commanding fashion | Match Highlights | T20WC 2026 18 February, 2026" [ref=e1045] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/pakistan-go-through-in-commanding-fashion-match-highlights-t20wc-2026
+              - img [ref=e1047]
+              - figure [ref=e1051]:
+                - img "Pakistan go through in commanding fashion | Match Highlights | T20WC 2026" [ref=e1053]
+              - generic [ref=e1054]:
+                - generic [ref=e1055]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1056]: Pakistan go through in commanding fashion | Match Highlights | T20WC 2026
+                - time [ref=e1057]: 18 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Another assured display from South Africa | Match Highlights | T20WC 2026 18 February, 2026" [ref=e1060] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/another-assured-display-from-south-africa-match-highlights-t20wc-2026
+              - img [ref=e1062]
+              - figure [ref=e1066]:
+                - img "Another assured display from South Africa | Match Highlights | T20WC 2026" [ref=e1068]
+              - generic [ref=e1069]:
+                - generic [ref=e1070]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1071]: Another assured display from South Africa | Match Highlights | T20WC 2026
+                - time [ref=e1072]: 18 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Nepal break the wait with a memorable chase | Match Highlights | T20WC 2026 17 February, 2026" [ref=e1075] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/nepal-break-the-wait-with-a-memorable-chase-match-highlights-t20wc-2026
+              - img [ref=e1077]
+              - figure [ref=e1081]:
+                - img "Nepal break the wait with a memorable chase | Match Highlights | T20WC 2026" [ref=e1083]
+              - generic [ref=e1084]:
+                - generic [ref=e1085]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1086]: Nepal break the wait with a memorable chase | Match Highlights | T20WC 2026
+                - time [ref=e1087]: 17 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 New Zealand move ahead with confidence | Match Highlights | T20WC 2026 17 February, 2026" [ref=e1090] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-move-ahead-with-confidence-match-highlights-t20wc-2026
+              - img [ref=e1092]
+              - figure [ref=e1096]:
+                - img "New Zealand move ahead with confidence | Match Highlights | T20WC 2026" [ref=e1098]
+              - generic [ref=e1099]:
+                - generic [ref=e1100]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1101]: New Zealand move ahead with confidence | Match Highlights | T20WC 2026
+                - time [ref=e1102]: 17 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Sri Lanka power on with complete display | Match Highlights | T20WC 2026 16 February, 2026" [ref=e1105] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/sri-lanka-power-on-with-complete-display-match-highlights-t20wc-2026
+              - img [ref=e1107]
+              - figure [ref=e1111]:
+                - img "Sri Lanka power on with complete display | Match Highlights | T20WC 2026" [ref=e1113]
+              - generic [ref=e1114]:
+                - generic [ref=e1115]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1116]: Sri Lanka power on with complete display | Match Highlights | T20WC 2026
+                - time [ref=e1117]: 16 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 England fend off a spirited Italy | Match Highlights | T20WC 2026 16 February, 2026" [ref=e1120] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-fend-off-a-spirited-italy-match-highlights-t20wc-2026
+              - img [ref=e1122]
+              - figure [ref=e1126]:
+                - img "England fend off a spirited Italy | Match Highlights | T20WC 2026" [ref=e1128]
+              - generic [ref=e1129]:
+                - generic [ref=e1130]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1131]: England fend off a spirited Italy | Match Highlights | T20WC 2026
+                - time [ref=e1132]: 16 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Afghanistan come through a fierce contest | Match Highlights | T20WC 2026 16 February, 2026" [ref=e1135] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/afghanistan-come-through-a-fierce-contest-match-highlights-t20wc-2026
+              - img [ref=e1137]
+              - figure [ref=e1141]:
+                - img "Afghanistan come through a fierce contest | Match Highlights | T20WC 2026" [ref=e1143]
+              - generic [ref=e1144]:
+                - generic [ref=e1145]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1146]: Afghanistan come through a fierce contest | Match Highlights | T20WC 2026
+                - time [ref=e1147]: 16 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 India cruise to a comfortable win | Match Highlights | T20WC 2026 15 February, 2026" [ref=e1150] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-cruise-to-a-comfortable-win-match-highlights-t20-wc-2026
+              - img [ref=e1152]
+              - figure [ref=e1156]:
+                - img "India cruise to a comfortable win | Match Highlights | T20WC 2026" [ref=e1158]
+              - generic [ref=e1159]:
+                - generic [ref=e1160]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1161]: India cruise to a comfortable win | Match Highlights | T20WC 2026
+                - time [ref=e1162]: 15 February, 2026
+          - text: prev next
+      - generic [ref=e1166]:
+        - generic [ref=e1167]:
+          - heading "Aramco POTM Highlights" [level=3] [ref=e1168]
+          - link "More Videos" [ref=e1169] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/aramco-potm-highlights-icc-men-s-t20-world-cup-2026
+            - generic [ref=e1170]: More Videos
+            - img [ref=e1171]
+        - generic [ref=e1174]:
+          - generic [ref=e1175]:
+            - link "ICC Men's T20 World Cup, 2026 Allen's record-breaking blitz seals the deal | POTM Highlights | T20WC 2026 6h" [ref=e1178] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/allen-s-record-breaking-blitz-seals-the-deal-potm-highlights-t20wc-2026
+              - img [ref=e1180]
+              - figure [ref=e1184]:
+                - img "Allen POTM v SA" [ref=e1186]
+              - generic [ref=e1187]:
+                - generic [ref=e1188]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1189]: Allen's record-breaking blitz seals the deal | POTM Highlights | T20WC 2026
+                - time [ref=e1190]: 6h
+            - link "ICC Men's T20 World Cup, 2026 A Samson special lights up Kolkata | POTM Highlights | T20WC 2026 3d" [ref=e1193] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/a-samson-special-lights-up-kolkata-potm-highlights-t20wc-2026
+              - img [ref=e1195]
+              - figure [ref=e1199]:
+                - img "SANJU POTM V WI 2" [ref=e1201]
+              - generic [ref=e1202]:
+                - generic [ref=e1203]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1204]: A Samson special lights up Kolkata | POTM Highlights | T20WC 2026
+                - time [ref=e1205]: 3d
+            - link "ICC Men's T20 World Cup, 2026 Exceptional all-round showing from Raza | POTM Highlights | T20WC 2026 3d" [ref=e1208] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/exceptional-all-round-showing-from-raza-potm-highlights-t20wc-2026
+              - img [ref=e1210]
+              - figure [ref=e1214]:
+                - img "Raza POTM" [ref=e1216]
+              - generic [ref=e1217]:
+                - generic [ref=e1218]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1219]: Exceptional all-round showing from Raza | POTM Highlights | T20WC 2026
+                - time [ref=e1220]: 3d
+            - link "ICC Men's T20 World Cup, 2026 Farhan shines with a golden ton | POTM Highlights | T20WC 2026 4d" [ref=e1223] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/farhan-shines-with-a-golden-ton-potm-highlights-t20wc-2026
+              - img [ref=e1225]
+              - figure [ref=e1229]:
+                - img "Farhan POTM v SL" [ref=e1231]
+              - generic [ref=e1232]:
+                - generic [ref=e1233]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1234]: Farhan shines with a golden ton | POTM Highlights | T20WC 2026
+                - time [ref=e1235]: 4d
+            - link "ICC Men's T20 World Cup, 2026 Jacks' ultimate all-round display | POTM Highlights | T20WC 2026 5d" [ref=e1238] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/jacks-ultimate-all-round-display-potm-highlights-t20wc-2026
+              - img [ref=e1240]
+              - figure [ref=e1244]:
+                - img "JACKS POTM v NZ" [ref=e1246]
+              - generic [ref=e1247]:
+                - generic [ref=e1248]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1249]: Jacks' ultimate all-round display | POTM Highlights | T20WC 2026
+                - time [ref=e1250]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Pandya adds the final flourish | POTM Highlights | T20WC 2026 6d" [ref=e1253] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/pandya-adds-the-final-flourish-potm-highlights-t20wc-2026
+              - img [ref=e1255]
+              - figure [ref=e1259]:
+                - img "Aramco POTM 16x9 T20WC 26 (4)" [ref=e1261]
+              - generic [ref=e1262]:
+                - generic [ref=e1263]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1264]: Pandya adds the final flourish | POTM Highlights | T20WC 2026
+                - time [ref=e1265]: 6d
+            - link "ICC Men's T20 World Cup, 2026 Skipper Markram leads the chase in style | POTM Highlights | T20WC 2026 6d" [ref=e1268] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/skipper-markram-leads-the-chase-in-style-potm-highlights-t20wc-2026
+              - img [ref=e1270]
+              - figure [ref=e1274]:
+                - img "MARKRAM POTM v WI" [ref=e1276]
+              - generic [ref=e1277]:
+                - generic [ref=e1278]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1279]: Skipper Markram leads the chase in style | POTM Highlights | T20WC 2026
+                - time [ref=e1280]: 6d
+            - link "ICC Men's T20 World Cup, 2026 Rachin's magical spell claims four | POTM Highlights | T20WC 2026 7d" [ref=e1283] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/rachin-s-magical-spell-claims-four-potm-highlights-t20wc-2026
+              - img [ref=e1285]
+              - figure [ref=e1289]:
+                - img "RACHIN POTM v SL" [ref=e1291]
+              - generic [ref=e1292]:
+                - generic [ref=e1293]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1294]: Rachin's magical spell claims four | POTM Highlights | T20WC 2026
+                - time [ref=e1295]: 7d
+            - link "ICC Men's T20 World Cup, 2026 Skipper Brook rises to the occasion with a crucial ton | POTM Highlights | T20WC 2026 24 February, 2026" [ref=e1298] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/skipper-brook-rises-with-a-crucial-ton-potm-highlights-t20wc-2026
+              - img [ref=e1300]
+              - figure [ref=e1304]:
+                - img "BROOK POTM v PAK" [ref=e1306]
+              - generic [ref=e1307]:
+                - generic [ref=e1308]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1309]: Skipper Brook rises to the occasion with a crucial ton | POTM Highlights | T20WC 2026
+                - time [ref=e1310]: 24 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Electric Hetmyer sets it up for West Indies | POTM Highlights | T20WC 2026 23 February, 2026" [ref=e1313] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/electric-hetmyer-sets-it-up-for-west-indies-potm-highlights-t20wc-2026
+              - img [ref=e1315]
+              - figure [ref=e1319]:
+                - img "Aramco POTM 16x9 T20WC 26 (2)" [ref=e1321]
+              - generic [ref=e1322]:
+                - generic [ref=e1323]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1324]: Electric Hetmyer sets it up for West Indies | POTM Highlights | T20WC 2026
+                - time [ref=e1325]: 23 February, 2026
+          - text: prev next
+          - generic [ref=e1326]:
+            - button "1" [ref=e1327] [cursor=pointer]
+            - button "2" [ref=e1328] [cursor=pointer]
+            - button "3" [ref=e1329] [cursor=pointer]
+            - button "4" [ref=e1330] [cursor=pointer]
+            - button "5" [ref=e1331] [cursor=pointer]
+            - button "6" [ref=e1332] [cursor=pointer]
+            - button "7" [ref=e1333] [cursor=pointer]
+      - generic [ref=e1342]:
+        - heading "Player Highlights" [level=2] [ref=e1343]
+        - generic [ref=e1346]:
+          - generic [ref=e1347]:
+            - link "ICC Men's T20 World Cup, 2026 Seifert's perfect opening act | Player Highlights | T20WC 2026 6h" [ref=e1350] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/mt20wc26-sa-nz-seifert-batting-50-playerhls-16x9-x2022
+              - img [ref=e1352]
+              - figure [ref=e1356]:
+                - img "Seifert's perfect opening act | Player Highlights | T20WC 2026" [ref=e1358]
+              - generic [ref=e1359]:
+                - generic [ref=e1360]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1361]: Seifert's perfect opening act | Player Highlights | T20WC 2026
+                - time [ref=e1362]: 6h
+            - link "ICC Men's T20 World Cup, 2026 Jansen's fearless hitting show | Player Highlights | T20WC 2026 7h" [ref=e1365] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/jansen-s-fearless-hitting-show-player-highlights-t20wc-2026
+              - img [ref=e1367]
+              - figure [ref=e1371]:
+                - img "Jansen's fearless hitting show | Player Highlights | T20WC 2026" [ref=e1373]
+              - generic [ref=e1374]:
+                - generic [ref=e1375]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1376]: Jansen's fearless hitting show | Player Highlights | T20WC 2026
+                - time [ref=e1377]: 7h
+            - link "ICC Men's T20 World Cup, 2026 Every Varun Chakravarthy wicket from Group and Super 8 stages | T20WC 2026 2d" [ref=e1380] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-varun-chakravarthy-wicket-from-group-and-super-8-stages-t20wc-2026
+              - img [ref=e1382]
+              - figure [ref=e1386]:
+                - img "Every Varun Chakravarthy wicket from Group and Super 8 stages | T20WC 2026" [ref=e1388]
+              - generic [ref=e1389]:
+                - generic [ref=e1390]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1391]: Every Varun Chakravarthy wicket from Group and Super 8 stages | T20WC 2026
+                - time [ref=e1392]: 2d
+            - link "ICC Men's T20 World Cup, 2026 Every six from Shimron Hetmyer's record-breaking T20 World Cup | T20WC 2026 2d" [ref=e1395] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-six-from-shimron-hetmyer-s-record-breaking-t20-world-cup-t20wc-2026
+              - img [ref=e1397]
+              - figure [ref=e1401]:
+                - img "Every six from Shimron Hetmyer's record-breaking T20 World Cup | T20WC 2026" [ref=e1403]
+              - generic [ref=e1404]:
+                - generic [ref=e1405]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1406]: Every six from Shimron Hetmyer's record-breaking T20 World Cup | T20WC 2026
+                - time [ref=e1407]: 2d
+            - link "ICC Men's T20 World Cup, 2026 Every Lungi Ngidi wicket from Group and Super 8 stages | T20WC 2026 2d" [ref=e1410] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-lungi-ngidi-wicket-from-group-and-super-8-stages
+              - img [ref=e1412]
+              - figure [ref=e1416]:
+                - img "Every Lungi Ngidi wicket from Group and Super 8 stages | T20WC 2026" [ref=e1418]
+              - generic [ref=e1419]:
+                - generic [ref=e1420]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1421]: Every Lungi Ngidi wicket from Group and Super 8 stages | T20WC 2026
+                - time [ref=e1422]: 2d
+            - link "ICC Men's T20 World Cup, 2026 Every Shadley van Schalkwyk wicket from Group stage | T20WC 2026 2d" [ref=e1425] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-shadley-van-schalkwyk-wicket-from-group-stage-t20wc-2026
+              - img [ref=e1427]
+              - figure [ref=e1431]:
+                - img "Every Shadley van Schalkwyk wicket from Group stage | T20WC 2026" [ref=e1433]
+              - generic [ref=e1434]:
+                - generic [ref=e1435]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1436]: Every Shadley van Schalkwyk wicket from Group stage | T20WC 2026
+                - time [ref=e1437]: 2d
+            - link "ICC Men's T20 World Cup, 2026 Best of Will Jacks from Group and Super 8 Stages | T20WC 2026 2d" [ref=e1440] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-will-jacks-from-group-super-8-stages-t20wc-2026
+              - img [ref=e1442]
+              - figure [ref=e1446]:
+                - img "Best of Will Jacks from Group and Super 8 Stages | T20WC 2026" [ref=e1448]
+              - generic [ref=e1449]:
+                - generic [ref=e1450]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1451]: Best of Will Jacks from Group and Super 8 Stages | T20WC 2026
+                - time [ref=e1452]: 2d
+            - link "ICC Men's T20 World Cup, 2026 Fearless Raza takes the fight on | Player Highlights | T20WC 2026 3d" [ref=e1455] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/fearless-raza-takes-the-fight-on-player-highlights-t20wc-2026
+              - img [ref=e1457]
+              - figure [ref=e1461]:
+                - img "Fearless Raza takes the fight on | Player Highlights | T20WC 2026" [ref=e1463]
+              - generic [ref=e1464]:
+                - generic [ref=e1465]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1466]: Fearless Raza takes the fight on | Player Highlights | T20WC 2026
+                - time [ref=e1467]: 3d
+            - link "ICC Men's T20 World Cup, 2026 Shanaka's gritty fight in Kandy | Player Highlights | T20WC 2026 4d" [ref=e1470] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/shanaka-s-gritty-fight-in-kandy-player-highlights-t20wc-2026
+              - img [ref=e1472]
+              - figure [ref=e1476]:
+                - img "Shanaka's gritty fight in Kandy | Player Highlights | T20WC 2026" [ref=e1478]
+              - generic [ref=e1479]:
+                - generic [ref=e1480]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1481]: Shanaka's gritty fight in Kandy | Player Highlights | T20WC 2026
+                - time [ref=e1482]: 4d
+            - link "ICC Men's T20 World Cup, 2026 Rathnayake's resilient effort | Player Highlights | T20WC 2026 4d" [ref=e1485] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/rathnayake-s-resilient-effort-player-highlights-t20wc-2026
+              - img [ref=e1487]
+              - figure [ref=e1491]:
+                - img "Rathnayake's resilient effort | Player Highlights | T20WC 2026" [ref=e1493]
+              - generic [ref=e1494]:
+                - generic [ref=e1495]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1496]: Rathnayake's resilient effort | Player Highlights | T20WC 2026
+                - time [ref=e1497]: 4d
+            - link "ICC Men's T20 World Cup, 2026 Farhan's monumental innings in Kandy | Player Highlights | T20WC 2026 4d" [ref=e1500] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/farhan-s-monumental-innings-in-kandy-player-highlights-t20wc-2026
+              - img [ref=e1502]
+              - figure [ref=e1506]:
+                - img "Farhan's monumental innings in Kandy | Player Highlights | T20WC 2026" [ref=e1508]
+              - generic [ref=e1509]:
+                - generic [ref=e1510]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1511]: Farhan's monumental innings in Kandy | Player Highlights | T20WC 2026
+                - time [ref=e1512]: 4d
+            - link "ICC Men's T20 World Cup, 2026 Zaman steps up in crunch game | Player Highlights | T20WC 2026 4d" [ref=e1515] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/zaman-steps-up-in-crunch-game-player-highlights-t20wc-2026
+              - img [ref=e1517]
+              - figure [ref=e1521]:
+                - img "Zaman steps up in crunch game | Player Highlights | T20WC 2026" [ref=e1523]
+              - generic [ref=e1524]:
+                - generic [ref=e1525]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1526]: Zaman steps up in crunch game | Player Highlights | T20WC 2026
+                - time [ref=e1527]: 4d
+            - link "ICC Men's T20 World Cup, 2026 Character and class from Bennett | Player Highlights | T20WC 2026 6d" [ref=e1530] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/character-and-class-from-bennett-player-highlights-t20wc-2026
+              - img [ref=e1532]
+              - figure [ref=e1536]:
+                - img "Character and class from Bennett | Player Highlights | T20WC 2026" [ref=e1538]
+              - generic [ref=e1539]:
+                - generic [ref=e1540]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1541]: Character and class from Bennett | Player Highlights | T20WC 2026
+                - time [ref=e1542]: 6d
+            - link "ICC Men's T20 World Cup, 2026 Pandya's quickfire knock in Chennai | Player Highlights | T20WC 2026 6d" [ref=e1545] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/pandya-s-quickfire-knock-in-chennai-player-highlights-t20wc-2026
+              - img [ref=e1547]
+              - figure [ref=e1551]:
+                - img "Pandya's quickfire knock in Chennai | Player Highlights | T20WC 2026" [ref=e1553]
+              - generic [ref=e1554]:
+                - generic [ref=e1555]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1556]: Pandya's quickfire knock in Chennai | Player Highlights | T20WC 2026
+                - time [ref=e1557]: 6d
+            - link "ICC Men's T20 World Cup, 2026 Abhishek's sparkling timely knock | Player Highlights | T20WC 2026 6d" [ref=e1560] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/abhishek-s-sparkling-timely-knock-player-highlights-t20wc-2026
+              - img [ref=e1562]
+              - figure [ref=e1566]:
+                - img "Abhishek's sparkling timely knock | Player Highlights | T20WC 2026" [ref=e1568]
+              - generic [ref=e1569]:
+                - generic [ref=e1570]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1571]: Abhishek's sparkling timely knock | Player Highlights | T20WC 2026
+                - time [ref=e1572]: 6d
+            - link "ICC Men's T20 World Cup, 2026 Romario goes into beast mode | Player Highlights | T20WC 2026 6d" [ref=e1575] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/romario-goes-into-beast-mode-player-highlights-t20wc-2026
+              - img [ref=e1577]
+              - figure [ref=e1581]:
+                - img "Romario goes into beast mode | Player Highlights | T20WC 2026" [ref=e1583]
+              - generic [ref=e1584]:
+                - generic [ref=e1585]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1586]: Romario goes into beast mode | Player Highlights | T20WC 2026
+                - time [ref=e1587]: 6d
+            - link "ICC Men's T20 World Cup, 2026 Lungi at full throttle | Player Highlights | T20WC 2026 6d" [ref=e1590] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/lungi-at-full-throttle-player-highlights-t20wc-2026
+              - img [ref=e1592]
+              - figure [ref=e1596]:
+                - img "Lungi at full throttle | Player Highlights | T20WC 2026" [ref=e1598]
+              - generic [ref=e1599]:
+                - generic [ref=e1600]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1601]: Lungi at full throttle | Player Highlights | T20WC 2026
+                - time [ref=e1602]: 6d
+            - link "ICC Men's T20 World Cup, 2026 Shaheen's fiery comeback spell | Player Highlights | T20WC 2026 24 February, 2026" [ref=e1605] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/shaheen-s-fiery-comeback-spell-player-highlights-t20wc-2026
+              - img [ref=e1607]
+              - figure [ref=e1611]:
+                - img "Shaheen's fiery comeback spell | Player Highlights | T20WC 2026" [ref=e1613]
+              - generic [ref=e1614]:
+                - generic [ref=e1615]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1616]: Shaheen's fiery comeback spell | Player Highlights | T20WC 2026
+                - time [ref=e1617]: 24 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Farhan continues to shine | Player Highlights | T20WC 2026 24 February, 2026" [ref=e1620] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/farhan-continues-to-shine-player-highlights-t20wc-2026
+              - img [ref=e1622]
+              - figure [ref=e1626]:
+                - img "Farhan continues to shine | Player Highlights | T20WC 2026" [ref=e1628]
+              - generic [ref=e1629]:
+                - generic [ref=e1630]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1631]: Farhan continues to shine | Player Highlights | T20WC 2026
+                - time [ref=e1632]: 24 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Gudakesh Motie’s spin does the damage | Player Highlights | T20WC 2026 23 February, 2026" [ref=e1635] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/gudakesh-motie-s-spin-does-the-damage-player-highlights-t20wc-2026
+              - img [ref=e1637]
+              - figure [ref=e1641]:
+                - img "Gudakesh Motie’s spin does the damage | Player Highlights | T20WC 2026" [ref=e1643]
+              - generic [ref=e1644]:
+                - generic [ref=e1645]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1646]: Gudakesh Motie’s spin does the damage | Player Highlights | T20WC 2026
+                - time [ref=e1647]: 23 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Rovman Powell’s blazing knock | Player Highlights | T20WC 2026 23 February, 2026" [ref=e1650] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/rovman-powell-s-blazing-knock-player-highlights-t20wc-2026
+              - img [ref=e1652]
+              - figure [ref=e1656]:
+                - img "Rovman Powell’s blazing knock | Player Highlights | T20WC 2026" [ref=e1658]
+              - generic [ref=e1659]:
+                - generic [ref=e1660]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1661]: Rovman Powell’s blazing knock | Player Highlights | T20WC 2026
+                - time [ref=e1662]: 23 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Shimron Hetmyer lights it up | Player Highlights | T20WC 2026 23 February, 2026" [ref=e1665] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/shimron-hetmyer-lights-it-up-player-highlights-t20wc-2026
+              - img [ref=e1667]
+              - figure [ref=e1671]:
+                - img "Shimron Hetmyer lights it up | Player Highlights | T20WC 2026" [ref=e1673]
+              - generic [ref=e1674]:
+                - generic [ref=e1675]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1676]: Shimron Hetmyer lights it up | Player Highlights | T20WC 2026
+                - time [ref=e1677]: 23 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Jansen produces a telling spell | Player Highlights | T20WC 2026 22 February, 2026" [ref=e1680] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/jansen-produces-a-telling-spell-player-highlights-t20wc-2026
+              - img [ref=e1682]
+              - figure [ref=e1686]:
+                - img "Jansen produces a telling spell | Player Highlights | T20WC 2026" [ref=e1688]
+              - generic [ref=e1689]:
+                - generic [ref=e1690]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1691]: Jansen produces a telling spell | Player Highlights | T20WC 2026
+                - time [ref=e1692]: 22 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Miller's power-packed brilliance | Player Highlights | T20WC 2026 22 February, 2026" [ref=e1695] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/miller-s-power-packed-brilliance-player-highlights-t20wc-2026
+              - img [ref=e1697]
+              - figure [ref=e1701]:
+                - img "Miller's power-packed brilliance | Player Highlights | T20WC 2026" [ref=e1703]
+              - generic [ref=e1704]:
+                - generic [ref=e1705]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1706]: Miller's power-packed brilliance | Player Highlights | T20WC 2026
+                - time [ref=e1707]: 22 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Salt's defiant knock in Kandy | Player Highlights | T20WC 2026 22 February, 2026" [ref=e1710] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/salt-s-defiant-knock-in-kandy-player-highlights-t20wc-2026
+              - img [ref=e1712]
+              - figure [ref=e1716]:
+                - img "Salt's defiant knock in Kandy | Player Highlights | T20WC 2026" [ref=e1718]
+              - generic [ref=e1719]:
+                - generic [ref=e1720]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1721]: Salt's defiant knock in Kandy | Player Highlights | T20WC 2026
+                - time [ref=e1722]: 22 February, 2026
+          - text: prev next
+      - generic [ref=e1724]:
+        - heading "Top Moments" [level=2] [ref=e1726]
+        - region "moment carousel with 498 moments. Use arrow keys to navigate between moments, Enter or Space to select" [ref=e1728]:
+          - 'button "Moment button: Allen completes ton; NZ qualify for the final 👏 , new. Click to play moment. 1 of 498" [ref=e1729] [cursor=pointer]':
+            - generic [ref=e1731]:
+              - generic:
+                - 'img "Thumbnail for moment: Allen completes ton; NZ qualify for the final 👏"'
+              - generic: NEW
+              - generic [ref=e1733]: Allen completes ton; NZ qualify for the final 👏
+          - 'button "Moment button: Allen with another monster hit 😮‍💨, new. Click to play moment. 2 of 498" [ref=e1734] [cursor=pointer]':
+            - generic [ref=e1736]:
+              - generic:
+                - 'img "Thumbnail for moment: Allen with another monster hit 😮‍💨"'
+              - generic: NEW
+              - generic [ref=e1738]: Allen with another monster hit 😮‍💨
+          - 'button "Moment button: Allen in a hurry to finish the game 👀, new. Click to play moment. 3 of 498" [ref=e1739] [cursor=pointer]':
+            - generic [ref=e1741]:
+              - generic:
+                - 'img "Thumbnail for moment: Allen in a hurry to finish the game 👀"'
+              - generic: NEW
+              - generic [ref=e1743]: Allen in a hurry to finish the game 👀
+          - 'button "Moment button: Allen and Seifert score all around the park 🏟️, new. Click to play moment. 4 of 498" [ref=e1744] [cursor=pointer]':
+            - generic [ref=e1746]:
+              - generic:
+                - 'img "Thumbnail for moment: Allen and Seifert score all around the park 🏟️"'
+              - generic: NEW
+              - generic [ref=e1748]: Allen and Seifert score all around the park 🏟️
+          - 'button "Moment button: Unreal six-hitting skill of Seifert 🤯, new. Click to play moment. 5 of 498" [ref=e1749] [cursor=pointer]':
+            - generic [ref=e1751]:
+              - generic:
+                - 'img "Thumbnail for moment: Unreal six-hitting skill of Seifert 🤯"'
+              - generic: NEW
+              - generic [ref=e1753]: Unreal six-hitting skill of Seifert 🤯
+          - 'button "Moment button: Jansen notches up a half ton with a powerful hit 💪, new. Click to play moment. 6 of 498" [ref=e1754] [cursor=pointer]':
+            - generic [ref=e1756]:
+              - generic:
+                - 'img "Thumbnail for moment: Jansen notches up a half ton with a powerful hit 💪"'
+              - generic: NEW
+              - generic [ref=e1758]: Jansen notches up a half ton with a powerful hit 💪
+          - 'button "Moment button: Proteas shift gears 💥, new. Click to play moment. 7 of 498" [ref=e1759] [cursor=pointer]':
+            - generic [ref=e1761]:
+              - generic:
+                - 'img "Thumbnail for moment: Proteas shift gears 💥"'
+              - generic: NEW
+              - generic [ref=e1763]: Proteas shift gears 💥
+          - 'button "Moment button: Jansen with a no look six 👌, new. Click to play moment. 8 of 498" [ref=e1764] [cursor=pointer]':
+            - generic [ref=e1766]:
+              - generic:
+                - 'img "Thumbnail for moment: Jansen with a no look six 👌"'
+              - generic: NEW
+              - generic [ref=e1768]: Jansen with a no look six 👌
+          - 'button "Moment button: Seifert recovers quickly after a blow 😳, new. Click to play moment. 9 of 498" [ref=e1769] [cursor=pointer]':
+            - generic [ref=e1771]:
+              - generic:
+                - 'img "Thumbnail for moment: Seifert recovers quickly after a blow 😳"'
+              - generic: NEW
+              - generic [ref=e1773]: Seifert recovers quickly after a blow 😳
+          - 'button "Moment button: Mitchell''s inch-perfect catch sends back Markram 🤏, new. Click to play moment. 10 of 498" [ref=e1774] [cursor=pointer]':
+            - generic [ref=e1776]:
+              - generic:
+                - 'img "Thumbnail for moment: Mitchell''s inch-perfect catch sends back Markram 🤏"'
+              - generic: NEW
+              - generic [ref=e1778]: Mitchell's inch-perfect catch sends back Markram 🤏
+          - 'button "Moment button: Proteas rebuild after early blows 🙌, new. Click to play moment. 11 of 498" [ref=e1779] [cursor=pointer]':
+            - generic [ref=e1781]:
+              - generic:
+                - 'img "Thumbnail for moment: Proteas rebuild after early blows 🙌"'
+              - generic: NEW
+              - generic [ref=e1783]: Proteas rebuild after early blows 🙌
+          - 'button "Moment button: McConchie gets two in two 😯, new. Click to play moment. 12 of 498" [ref=e1784] [cursor=pointer]':
+            - generic [ref=e1786]:
+              - generic:
+                - 'img "Thumbnail for moment: McConchie gets two in two 😯"'
+              - generic: NEW
+              - generic [ref=e1788]: McConchie gets two in two 😯
+          - 'button "Moment button: De Kock tees off with a maximum 6️⃣, new. Click to play moment. 13 of 498" [ref=e1789] [cursor=pointer]':
+            - generic [ref=e1791]:
+              - generic:
+                - 'img "Thumbnail for moment: De Kock tees off with a maximum 6️⃣"'
+              - generic: NEW
+              - generic [ref=e1793]: De Kock tees off with a maximum 6️⃣
+          - 'button "Moment button: Santner calls it right at the toss 🪙, new. Click to play moment. 14 of 498" [ref=e1794] [cursor=pointer]':
+            - generic [ref=e1796]:
+              - generic:
+                - 'img "Thumbnail for moment: Santner calls it right at the toss 🪙"'
+              - generic: NEW
+              - generic [ref=e1798]: Santner calls it right at the toss 🪙
+          - 'button "Moment button: Sanju Samson wins it for India 🤩, new. Click to play moment. 15 of 498" [ref=e1799] [cursor=pointer]':
+            - generic [ref=e1801]:
+              - generic:
+                - 'img "Thumbnail for moment: Sanju Samson wins it for India 🤩"'
+              - generic: NEW
+              - generic [ref=e1803]: Sanju Samson wins it for India 🤩
+          - 'button "Moment button: Shimron Hetmyer jumps and holds on to a splendid catch 👐, new. Click to play moment. 16 of 498" [ref=e1804] [cursor=pointer]':
+            - generic [ref=e1806]:
+              - generic:
+                - 'img "Thumbnail for moment: Shimron Hetmyer jumps and holds on to a splendid catch 👐"'
+              - generic: NEW
+              - generic [ref=e1808]: Shimron Hetmyer jumps and holds on to a splendid catch 👐
+          - 'button "Moment button: Sanju Samson reaches fifty with a four 👏, new. Click to play moment. 17 of 498" [ref=e1809] [cursor=pointer]':
+            - generic [ref=e1811]:
+              - generic:
+                - 'img "Thumbnail for moment: Sanju Samson reaches fifty with a four 👏"'
+              - generic: NEW
+              - generic [ref=e1813]: Sanju Samson reaches fifty with a four 👏
+          - 'button "Moment button: Sanju Samson makes it look easy and goes big 🙌, new. Click to play moment. 18 of 498" [ref=e1814] [cursor=pointer]':
+            - generic [ref=e1816]:
+              - generic:
+                - 'img "Thumbnail for moment: Sanju Samson makes it look easy and goes big 🙌"'
+              - generic: NEW
+              - generic [ref=e1818]: Sanju Samson makes it look easy and goes big 🙌
+          - 'button "Moment button: Rovman Powell smashes a monster six 💪, new. Click to play moment. 19 of 498" [ref=e1819] [cursor=pointer]':
+            - generic [ref=e1821]:
+              - generic:
+                - 'img "Thumbnail for moment: Rovman Powell smashes a monster six 💪"'
+              - generic: NEW
+              - generic [ref=e1823]: Rovman Powell smashes a monster six 💪
+          - 'button "Moment button: Superman Suryakumar Yadav with a stunning catch 🦸‍♂️, new. Click to play moment. 20 of 498" [ref=e1824] [cursor=pointer]':
+            - generic [ref=e1826]:
+              - generic:
+                - 'img "Thumbnail for moment: Superman Suryakumar Yadav with a stunning catch 🦸‍♂️"'
+              - generic: NEW
+              - generic [ref=e1828]: Superman Suryakumar Yadav with a stunning catch 🦸‍♂️
+          - 'button "Moment button: Varun Chakaravarthy leaves Shai Hope clueless with a ripper 💫, new. Click to play moment. 21 of 498" [ref=e1829] [cursor=pointer]':
+            - generic [ref=e1831]:
+              - generic:
+                - 'img "Thumbnail for moment: Varun Chakaravarthy leaves Shai Hope clueless with a ripper 💫"'
+              - generic: NEW
+              - generic [ref=e1833]: Varun Chakaravarthy leaves Shai Hope clueless with a ripper 💫
+          - 'button "Moment button: Incredible innovation from Roston Chase to scoop Jasprit Bumrah 👌, new. Click to play moment. 22 of 498" [ref=e1834] [cursor=pointer]':
+            - generic [ref=e1836]:
+              - generic:
+                - 'img "Thumbnail for moment: Incredible innovation from Roston Chase to scoop Jasprit Bumrah 👌"'
+              - generic: NEW
+              - generic [ref=e1838]: Incredible innovation from Roston Chase to scoop Jasprit Bumrah 👌
+          - 'button "Moment button: Big toss for the big game between India and West Indies 🪙, new. Click to play moment. 23 of 498" [ref=e1839] [cursor=pointer]':
+            - generic [ref=e1841]:
+              - generic:
+                - 'img "Thumbnail for moment: Big toss for the big game between India and West Indies 🪙"'
+              - generic: NEW
+              - generic [ref=e1843]: Big toss for the big game between India and West Indies 🪙
+          - 'button "Moment button: South Africa make it 7️⃣/7️⃣ , new. Click to play moment. 24 of 498" [ref=e1844] [cursor=pointer]':
+            - generic [ref=e1846]:
+              - generic:
+                - 'img "Thumbnail for moment: South Africa make it 7️⃣/7️⃣"'
+              - generic: NEW
+              - generic [ref=e1848]: South Africa make it 7️⃣/7️⃣
+          - 'button "Moment button: Big hits from Dewald Brevis, including a no-look special 👀, new. Click to play moment. 25 of 498" [ref=e1849] [cursor=pointer]':
+            - generic [ref=e1851]:
+              - generic:
+                - 'img "Thumbnail for moment: Big hits from Dewald Brevis, including a no-look special 👀"'
+              - generic: NEW
+              - generic [ref=e1853]: Big hits from Dewald Brevis, including a no-look special 👀
+          - 'button "Moment button: WHAT A CATCH! Ryan Burl holds on to a stunner 😲, new. Click to play moment. 26 of 498" [ref=e1854] [cursor=pointer]':
+            - generic [ref=e1856]:
+              - generic:
+                - 'img "Thumbnail for moment: WHAT A CATCH! Ryan Burl holds on to a stunner 😲"'
+              - generic: NEW
+              - generic [ref=e1858]: WHAT A CATCH! Ryan Burl holds on to a stunner 😲
+          - 'button "Moment button: BOWLED''IM! Sikandar Raza removes his counterpart Aiden Markram 👏, new. Click to play moment. 27 of 498" [ref=e1859] [cursor=pointer]':
+            - generic [ref=e1861]:
+              - generic:
+                - 'img "Thumbnail for moment: BOWLED''IM! Sikandar Raza removes his counterpart Aiden Markram 👏"'
+              - generic: NEW
+              - generic [ref=e1863]: BOWLED'IM! Sikandar Raza removes his counterpart Aiden Markram 👏
+          - 'button "Moment button: Sikandar Raza strikes in the first over 🤩, new. Click to play moment. 28 of 498" [ref=e1864] [cursor=pointer]':
+            - generic [ref=e1866]:
+              - generic:
+                - 'img "Thumbnail for moment: Sikandar Raza strikes in the first over 🤩"'
+              - generic: NEW
+              - generic [ref=e1868]: Sikandar Raza strikes in the first over 🤩
+          - 'button "Moment button: Brad Evans gives Zimbabwe big impetus with a six 🙌, new. Click to play moment. 29 of 498" [ref=e1869] [cursor=pointer]':
+            - generic [ref=e1871]:
+              - generic:
+                - 'img "Thumbnail for moment: Brad Evans gives Zimbabwe big impetus with a six 🙌"'
+              - generic: NEW
+              - generic [ref=e1873]: Brad Evans gives Zimbabwe big impetus with a six 🙌
+          - 'button "Moment button: Corbin Bosch rattles Tony Munyonga''s stumps 👊, new. Click to play moment. 30 of 498" [ref=e1874] [cursor=pointer]':
+            - generic [ref=e1876]:
+              - generic:
+                - 'img "Thumbnail for moment: Corbin Bosch rattles Tony Munyonga''s stumps 👊"'
+              - generic: NEW
+              - generic [ref=e1878]: Corbin Bosch rattles Tony Munyonga's stumps 👊
+          - 'button "Moment button: Sikandar Raza sends it sailing over the ropes 🤩, new. Click to play moment. 31 of 498" [ref=e1879] [cursor=pointer]':
+            - generic [ref=e1881]:
+              - generic:
+                - 'img "Thumbnail for moment: Sikandar Raza sends it sailing over the ropes 🤩"'
+              - generic: NEW
+              - generic [ref=e1883]: Sikandar Raza sends it sailing over the ropes 🤩
+          - 'button "Moment button: Kwena Maphaka flattens Tadiwanashe Marumani''s leg stump 😯, new. Click to play moment. 32 of 498" [ref=e1884] [cursor=pointer]':
+            - generic [ref=e1886]:
+              - generic:
+                - 'img "Thumbnail for moment: Kwena Maphaka flattens Tadiwanashe Marumani''s leg stump 😯"'
+              - generic: NEW
+              - generic [ref=e1888]: Kwena Maphaka flattens Tadiwanashe Marumani's leg stump 😯
+          - 'button "Moment button: TOSS TIME at 🇿🇦🆚🇿🇼, new. Click to play moment. 33 of 498" [ref=e1889] [cursor=pointer]':
+            - generic [ref=e1891]:
+              - generic:
+                - 'img "Thumbnail for moment: TOSS TIME at 🇿🇦🆚🇿🇼"'
+              - generic: NEW
+              - generic [ref=e1893]: TOSS TIME at 🇿🇦🆚🇿🇼
+          - 'button "Moment button: Pakistan win a thriller 🇵🇰👏, new. Click to play moment. 34 of 498" [ref=e1894] [cursor=pointer]':
+            - generic [ref=e1896]:
+              - generic:
+                - 'img "Thumbnail for moment: Pakistan win a thriller 🇵🇰👏"'
+              - generic: NEW
+              - generic [ref=e1898]: Pakistan win a thriller 🇵🇰👏
+          - 'button "Moment button: A resilient fifty 👏, new. Click to play moment. 35 of 498" [ref=e1899] [cursor=pointer]':
+            - generic [ref=e1901]:
+              - generic:
+                - 'img "Thumbnail for moment: A resilient fifty 👏"'
+              - generic: NEW
+              - generic [ref=e1903]: A resilient fifty 👏
+          - 'button "Moment button: Shanaka clears the fence ✈️, new. Click to play moment. 36 of 498" [ref=e1904] [cursor=pointer]':
+            - generic [ref=e1906]:
+              - generic:
+                - 'img "Thumbnail for moment: Shanaka clears the fence ✈️"'
+              - generic: NEW
+              - generic [ref=e1908]: Shanaka clears the fence ✈️
+          - 'button "Moment button: Abrar cleans up Mishara 👊, new. Click to play moment. 37 of 498" [ref=e1909] [cursor=pointer]':
+            - generic [ref=e1911]:
+              - generic:
+                - 'img "Thumbnail for moment: Abrar cleans up Mishara 👊"'
+              - generic: NEW
+              - generic [ref=e1913]: Abrar cleans up Mishara 👊
+          - 'button "Moment button: Naseem’s early strike 👏, new. Click to play moment. 38 of 498" [ref=e1914] [cursor=pointer]':
+            - generic [ref=e1916]:
+              - generic:
+                - 'img "Thumbnail for moment: Naseem’s early strike 👏"'
+              - generic: NEW
+              - generic [ref=e1918]: Naseem’s early strike 👏
+          - 'button "Moment button: Farhan brings up 💯, new. Click to play moment. 39 of 498" [ref=e1919] [cursor=pointer]':
+            - generic [ref=e1921]:
+              - generic:
+                - 'img "Thumbnail for moment: Farhan brings up 💯"'
+              - generic: NEW
+              - generic [ref=e1923]: Farhan brings up 💯
+          - 'button "Moment button: Fakhar on 🔥, new. Click to play moment. 40 of 498" [ref=e1924] [cursor=pointer]':
+            - generic [ref=e1926]:
+              - generic:
+                - 'img "Thumbnail for moment: Fakhar on 🔥"'
+              - generic: NEW
+              - generic [ref=e1928]: Fakhar on 🔥
+          - 'button "Moment button: Farhan surpasses Kohli 👏, new. Click to play moment. 41 of 498" [ref=e1929] [cursor=pointer]':
+            - generic [ref=e1931]:
+              - generic:
+                - 'img "Thumbnail for moment: Farhan surpasses Kohli 👏"'
+              - generic: NEW
+              - generic [ref=e1933]: Farhan surpasses Kohli 👏
+          - 'button "Moment button: Farhan’s cracking 6️⃣, new. Click to play moment. 42 of 498" [ref=e1934] [cursor=pointer]':
+            - generic [ref=e1936]:
+              - generic:
+                - 'img "Thumbnail for moment: Farhan’s cracking 6️⃣"'
+              - generic: NEW
+              - generic [ref=e1938]: Farhan’s cracking 6️⃣
+          - 'button "Moment button: Sri Lanka win toss 🪙, new. Click to play moment. 43 of 498" [ref=e1939] [cursor=pointer]':
+            - generic [ref=e1941]:
+              - generic:
+                - 'img "Thumbnail for moment: Sri Lanka win toss 🪙"'
+              - generic: NEW
+              - generic [ref=e1943]: Sri Lanka win toss 🪙
+          - 'button "Moment button: England prevail in a thrilling run chase 🤩, new. Click to play moment. 44 of 498" [ref=e1944] [cursor=pointer]':
+            - generic [ref=e1946]:
+              - generic:
+                - 'img "Thumbnail for moment: England prevail in a thrilling run chase 🤩"'
+              - generic: NEW
+              - generic [ref=e1948]: England prevail in a thrilling run chase 🤩
+          - 'button "Moment button: Jacks pulls it back for England 💪, new. Click to play moment. 45 of 498" [ref=e1949] [cursor=pointer]':
+            - generic [ref=e1951]:
+              - generic:
+                - 'img "Thumbnail for moment: Jacks pulls it back for England 💪"'
+              - generic: NEW
+              - generic [ref=e1953]: Jacks pulls it back for England 💪
+          - 'button "Moment button: New Phillips stunner alert 🚨, new. Click to play moment. 46 of 498" [ref=e1954] [cursor=pointer]':
+            - generic [ref=e1956]:
+              - generic:
+                - 'img "Thumbnail for moment: New Phillips stunner alert 🚨"'
+              - generic: NEW
+              - generic [ref=e1958]: New Phillips stunner alert 🚨
+          - 'button "Moment button: Bowling change results in a vital wicket 🙌, new. Click to play moment. 47 of 498" [ref=e1959] [cursor=pointer]':
+            - generic [ref=e1961]:
+              - generic:
+                - 'img "Thumbnail for moment: Bowling change results in a vital wicket 🙌"'
+              - generic: NEW
+              - generic [ref=e1963]: Bowling change results in a vital wicket 🙌
+          - 'button "Moment button: Unbelievable shot by Brook 😳, new. Click to play moment. 48 of 498" [ref=e1964] [cursor=pointer]':
+            - generic [ref=e1966]:
+              - generic:
+                - 'img "Thumbnail for moment: Unbelievable shot by Brook 😳"'
+              - generic: NEW
+              - generic [ref=e1968]: Unbelievable shot by Brook 😳
+          - 'button "Moment button: Henry gets Salt with a jaffa 😮, new. Click to play moment. 49 of 498" [ref=e1969] [cursor=pointer]':
+            - generic [ref=e1971]:
+              - generic:
+                - 'img "Thumbnail for moment: Henry gets Salt with a jaffa 😮"'
+              - generic: NEW
+              - generic [ref=e1973]: Henry gets Salt with a jaffa 😮
+          - 'button "Moment button: Santner finishes NZ innings with a straight six 👌, new. Click to play moment. 50 of 498" [ref=e1974] [cursor=pointer]':
+            - generic [ref=e1976]:
+              - generic:
+                - 'img "Thumbnail for moment: Santner finishes NZ innings with a straight six 👌"'
+              - generic: NEW
+              - generic [ref=e1978]: Santner finishes NZ innings with a straight six 👌
+          - 'button "Moment button: Rehan disturbs the timber 💥, new. Click to play moment. 51 of 498" [ref=e1979] [cursor=pointer]':
+            - generic [ref=e1981]:
+              - generic:
+                - 'img "Thumbnail for moment: Rehan disturbs the timber 💥"'
+              - generic: NEW
+              - generic [ref=e1983]: Rehan disturbs the timber 💥
+          - 'button "Moment button: Jacks breaks Phillips'' defence ☝️, new. Click to play moment. 52 of 498" [ref=e1984] [cursor=pointer]':
+            - generic [ref=e1986]:
+              - generic:
+                - 'img "Thumbnail for moment: Jacks breaks Phillips'' defence ☝️"'
+              - generic: NEW
+              - generic [ref=e1988]: Jacks breaks Phillips' defence ☝️
+          - 'button "Moment button: Buttler''s quick hands gets the better of Seifert 🧤, new. Click to play moment. 53 of 498" [ref=e1989] [cursor=pointer]':
+            - generic [ref=e1991]:
+              - generic:
+                - 'img "Thumbnail for moment: Buttler''s quick hands gets the better of Seifert 🧤"'
+              - generic: NEW
+              - generic [ref=e1993]: Buttler's quick hands gets the better of Seifert 🧤
+          - 'button "Moment button: Allen clears the rope with ease 👏, new. Click to play moment. 54 of 498" [ref=e1994] [cursor=pointer]':
+            - generic [ref=e1996]:
+              - generic:
+                - 'img "Thumbnail for moment: Allen clears the rope with ease 👏"'
+              - generic: NEW
+              - generic [ref=e1998]: Allen clears the rope with ease 👏
+          - 'button "Moment button: India back to winning ways 💪, new. Click to play moment. 55 of 498" [ref=e1999] [cursor=pointer]':
+            - generic [ref=e2001]:
+              - generic:
+                - 'img "Thumbnail for moment: India back to winning ways 💪"'
+              - generic: NEW
+              - generic [ref=e2003]: India back to winning ways 💪
+          - 'button "Moment button: Bennett slams his fifty with a maximum 😮, new. Click to play moment. 56 of 498" [ref=e2004] [cursor=pointer]':
+            - generic [ref=e2006]:
+              - generic:
+                - 'img "Thumbnail for moment: Bennett slams his fifty with a maximum 😮"'
+              - generic: NEW
+              - generic [ref=e2008]: Bennett slams his fifty with a maximum 😮
+          - 'button "Moment button: Bennett goes big against Axar 👏, new. Click to play moment. 57 of 498" [ref=e2009] [cursor=pointer]':
+            - generic [ref=e2011]:
+              - generic:
+                - 'img "Thumbnail for moment: Bennett goes big against Axar 👏"'
+              - generic: NEW
+              - generic [ref=e2013]: Bennett goes big against Axar 👏
+          - 'button "Moment button: Some ⚽ skills on display by Bennett 👀, new. Click to play moment. 58 of 498" [ref=e2014] [cursor=pointer]':
+            - generic [ref=e2016]:
+              - generic:
+                - 'img "Thumbnail for moment: Some ⚽ skills on display by Bennett 👀"'
+              - generic: NEW
+              - generic [ref=e2018]: Some ⚽ skills on display by Bennett 👀
+          - 'button "Moment button: Hardik brings up his fifty in style 😎, new. Click to play moment. 59 of 498" [ref=e2019] [cursor=pointer]':
+            - generic [ref=e2021]:
+              - generic:
+                - 'img "Thumbnail for moment: Hardik brings up his fifty in style 😎"'
+              - generic: NEW
+              - generic [ref=e2023]: Hardik brings up his fifty in style 😎
+          - 'button "Moment button: Varma launches one to the stands 🚀, new. Click to play moment. 60 of 498" [ref=e2024] [cursor=pointer]':
+            - generic [ref=e2026]:
+              - generic:
+                - 'img "Thumbnail for moment: Varma launches one to the stands 🚀"'
+              - generic: NEW
+              - generic [ref=e2028]: Varma launches one to the stands 🚀
+          - 'button "Moment button: Six and gone ☝️, new. Click to play moment. 61 of 498" [ref=e2029] [cursor=pointer]':
+            - generic [ref=e2031]:
+              - generic:
+                - 'img "Thumbnail for moment: Six and gone ☝️"'
+              - generic: NEW
+              - generic [ref=e2033]: Six and gone ☝️
+          - 'button "Moment button: Abhishek smashes a maximum 🔥, new. Click to play moment. 62 of 498" [ref=e2034] [cursor=pointer]':
+            - generic [ref=e2036]:
+              - generic:
+                - 'img "Thumbnail for moment: Abhishek smashes a maximum 🔥"'
+              - generic: NEW
+              - generic [ref=e2038]: Abhishek smashes a maximum 🔥
+          - 'button "Moment button: Flurry of boundaries by the hosts 🇮🇳, new. Click to play moment. 63 of 498" [ref=e2039] [cursor=pointer]':
+            - generic [ref=e2041]:
+              - generic:
+                - 'img "Thumbnail for moment: Flurry of boundaries by the hosts 🇮🇳"'
+              - generic: NEW
+              - generic [ref=e2043]: Flurry of boundaries by the hosts 🇮🇳
+          - 'button "Moment button: Samson settles down with a maximum 6️⃣, new. Click to play moment. 64 of 498" [ref=e2044] [cursor=pointer]':
+            - generic [ref=e2046]:
+              - generic:
+                - 'img "Thumbnail for moment: Samson settles down with a maximum 6️⃣"'
+              - generic: NEW
+              - generic [ref=e2048]: Samson settles down with a maximum 6️⃣
+          - 'button "Moment button: Commanding win by the unbeaten Proteas 👊, new. Click to play moment. 65 of 498" [ref=e2049] [cursor=pointer]':
+            - generic [ref=e2051]:
+              - generic:
+                - 'img "Thumbnail for moment: Commanding win by the unbeaten Proteas 👊"'
+              - generic: NEW
+              - generic [ref=e2053]: Commanding win by the unbeaten Proteas 👊
+          - 'button "Moment button: Clean hitting by Markram 🤌, new. Click to play moment. 66 of 498" [ref=e2054] [cursor=pointer]':
+            - generic [ref=e2056]:
+              - generic:
+                - 'img "Thumbnail for moment: Clean hitting by Markram 🤌"'
+              - generic: NEW
+              - generic [ref=e2058]: Clean hitting by Markram 🤌
+          - 'button "Moment button: Chase gets the breakthrough for the Windies 🙌, new. Click to play moment. 67 of 498" [ref=e2059] [cursor=pointer]':
+            - generic [ref=e2061]:
+              - generic:
+                - 'img "Thumbnail for moment: Chase gets the breakthrough for the Windies 🙌"'
+              - generic: NEW
+              - generic [ref=e2063]: Chase gets the breakthrough for the Windies 🙌
+          - 'button "Moment button: A massive hit to the stands by de Kock 👌, new. Click to play moment. 68 of 498" [ref=e2064] [cursor=pointer]':
+            - generic [ref=e2066]:
+              - generic:
+                - 'img "Thumbnail for moment: A massive hit to the stands by de Kock 👌"'
+              - generic: NEW
+              - generic [ref=e2068]: A massive hit to the stands by de Kock 👌
+          - 'button "Moment button: De Kock begins acceleration 💥, new. Click to play moment. 69 of 498" [ref=e2069] [cursor=pointer]':
+            - generic [ref=e2071]:
+              - generic:
+                - 'img "Thumbnail for moment: De Kock begins acceleration 💥"'
+              - generic: NEW
+              - generic [ref=e2073]: De Kock begins acceleration 💥
+          - 'button "Moment button: Markram clears the rope in style 💪, new. Click to play moment. 70 of 498" [ref=e2074] [cursor=pointer]':
+            - generic [ref=e2076]:
+              - generic:
+                - 'img "Thumbnail for moment: Markram clears the rope in style 💪"'
+              - generic: NEW
+              - generic [ref=e2078]: Markram clears the rope in style 💪
+          - 'button "Moment button: Audacious shot by Markram 😳, new. Click to play moment. 71 of 498" [ref=e2079] [cursor=pointer]':
+            - generic [ref=e2081]:
+              - generic:
+                - 'img "Thumbnail for moment: Audacious shot by Markram 😳"'
+              - generic: NEW
+              - generic [ref=e2083]: Audacious shot by Markram 😳
+          - 'button "Moment button: Shepherd notches first T20I fifty 👏, new. Click to play moment. 72 of 498" [ref=e2084] [cursor=pointer]':
+            - generic [ref=e2086]:
+              - generic:
+                - 'img "Thumbnail for moment: Shepherd notches first T20I fifty 👏"'
+              - generic: NEW
+              - generic [ref=e2088]: Shepherd notches first T20I fifty 👏
+          - 'button "Moment button: Holder takes on Jansen 🔥, new. Click to play moment. 73 of 498" [ref=e2089] [cursor=pointer]':
+            - generic [ref=e2091]:
+              - generic:
+                - 'img "Thumbnail for moment: Holder takes on Jansen 🔥"'
+              - generic: NEW
+              - generic [ref=e2093]: Holder takes on Jansen 🔥
+          - 'button "Moment button: Shepherd''s maximum adds crucial runs for the Windies 6️⃣, new. Click to play moment. 74 of 498" [ref=e2094] [cursor=pointer]':
+            - generic [ref=e2096]:
+              - generic:
+                - 'img "Thumbnail for moment: Shepherd''s maximum adds crucial runs for the Windies 6️⃣"'
+              - generic: NEW
+              - generic [ref=e2098]: Shepherd's maximum adds crucial runs for the Windies 6️⃣
+          - 'button "Moment button: Ngidi shatters Chase''s stumps 💥, new. Click to play moment. 75 of 498" [ref=e2099] [cursor=pointer]':
+            - generic [ref=e2101]:
+              - generic:
+                - 'img "Thumbnail for moment: Ngidi shatters Chase''s stumps 💥"'
+              - generic: NEW
+              - generic [ref=e2103]: Ngidi shatters Chase's stumps 💥
+          - 'button "Moment button: South Africa snap in-form Hetmyer for a low score 😮, new. Click to play moment. 76 of 498" [ref=e2104] [cursor=pointer]':
+            - generic [ref=e2106]:
+              - generic:
+                - 'img "Thumbnail for moment: South Africa snap in-form Hetmyer for a low score 😮"'
+              - generic: NEW
+              - generic [ref=e2108]: South Africa snap in-form Hetmyer for a low score 😮
+          - 'button "Moment button: Proteas strike early with Hope''s wicket 🙌, new. Click to play moment. 77 of 498" [ref=e2109] [cursor=pointer]':
+            - generic [ref=e2111]:
+              - generic:
+                - 'img "Thumbnail for moment: Proteas strike early with Hope''s wicket 🙌"'
+              - generic: NEW
+              - generic [ref=e2113]: Proteas strike early with Hope's wicket 🙌
+          - 'button "Moment button: New Zealand win 🇳🇿, new. Click to play moment. 78 of 498" [ref=e2114] [cursor=pointer]':
+            - generic [ref=e2116]:
+              - generic:
+                - 'img "Thumbnail for moment: New Zealand win 🇳🇿"'
+              - generic: NEW
+              - generic [ref=e2118]: New Zealand win 🇳🇿
+          - 'button "Moment button: Wellalage clears the rope 👊, new. Click to play moment. 79 of 498" [ref=e2119] [cursor=pointer]':
+            - generic [ref=e2121]:
+              - generic:
+                - 'img "Thumbnail for moment: Wellalage clears the rope 👊"'
+              - generic: NEW
+              - generic [ref=e2123]: Wellalage clears the rope 👊
+          - 'button "Moment button: Santner joins the party 🎉, new. Click to play moment. 80 of 498" [ref=e2124] [cursor=pointer]':
+            - generic [ref=e2126]:
+              - generic:
+                - 'img "Thumbnail for moment: Santner joins the party 🎉"'
+              - generic: NEW
+              - generic [ref=e2128]: Santner joins the party 🎉
+          - 'button "Moment button: Twin stumping blows 🔥, new. Click to play moment. 81 of 498" [ref=e2129] [cursor=pointer]':
+            - generic [ref=e2131]:
+              - generic:
+                - 'img "Thumbnail for moment: Twin stumping blows 🔥"'
+              - generic: NEW
+              - generic [ref=e2133]: Twin stumping blows 🔥
+          - 'button "Moment button: First ball strike 🎯🇳🇿, new. Click to play moment. 82 of 498" [ref=e2134] [cursor=pointer]':
+            - generic [ref=e2136]:
+              - generic:
+                - 'img "Thumbnail for moment: First ball strike 🎯🇳🇿"'
+              - generic: NEW
+              - generic [ref=e2138]: First ball strike 🎯🇳🇿
+          - 'button "Moment button: Asalanka’s sharp catch 👌, new. Click to play moment. 83 of 498" [ref=e2139] [cursor=pointer]':
+            - generic [ref=e2141]:
+              - generic:
+                - 'img "Thumbnail for moment: Asalanka’s sharp catch 👌"'
+              - generic: NEW
+              - generic [ref=e2143]: Asalanka’s sharp catch 👌
+          - 'button "Moment button: Santner goes big 🙌, new. Click to play moment. 84 of 498" [ref=e2144] [cursor=pointer]':
+            - generic [ref=e2146]:
+              - generic:
+                - 'img "Thumbnail for moment: Santner goes big 🙌"'
+              - generic: NEW
+              - generic [ref=e2148]: Santner goes big 🙌
+          - 'button "Moment button: McConchie lets loose 💥, new. Click to play moment. 85 of 498" [ref=e2149] [cursor=pointer]':
+            - generic [ref=e2151]:
+              - generic:
+                - 'img "Thumbnail for moment: McConchie lets loose 💥"'
+              - generic: NEW
+              - generic [ref=e2153]: McConchie lets loose 💥
+          - 'button "Moment button: Theekshana on 🔥, new. Click to play moment. 86 of 498" [ref=e2154] [cursor=pointer]':
+            - generic [ref=e2156]:
+              - generic:
+                - 'img "Thumbnail for moment: Theekshana on 🔥"'
+              - generic: NEW
+              - generic [ref=e2158]: Theekshana on 🔥
+          - 'button "Moment button: Peach of a delivery 🍑, new. Click to play moment. 87 of 498" [ref=e2159] [cursor=pointer]':
+            - generic [ref=e2161]:
+              - generic:
+                - 'img "Thumbnail for moment: Peach of a delivery 🍑"'
+              - generic: NEW
+              - generic [ref=e2163]: Peach of a delivery 🍑
+          - 'button "Moment button: Stunning caught and bowled 👌, new. Click to play moment. 88 of 498" [ref=e2164] [cursor=pointer]':
+            - generic [ref=e2166]:
+              - generic:
+                - 'img "Thumbnail for moment: Stunning caught and bowled 👌"'
+              - generic: NEW
+              - generic [ref=e2168]: Stunning caught and bowled 👌
+          - 'button "Moment button: Allen takes aerial route ✈️, new. Click to play moment. 89 of 498" [ref=e2169] [cursor=pointer]':
+            - generic [ref=e2171]:
+              - generic:
+                - 'img "Thumbnail for moment: Allen takes aerial route ✈️"'
+              - generic: NEW
+              - generic [ref=e2173]: Allen takes aerial route ✈️
+          - 'button "Moment button: Sri Lanka win the toss 🪙, new. Click to play moment. 90 of 498" [ref=e2174] [cursor=pointer]':
+            - generic [ref=e2176]:
+              - generic:
+                - 'img "Thumbnail for moment: Sri Lanka win the toss 🪙"'
+              - generic: NEW
+              - generic [ref=e2178]: Sri Lanka win the toss 🪙
+          - 'button "Moment button: Harry Brook leads by example and gets to 💯, new. Click to play moment. 91 of 498" [ref=e2179] [cursor=pointer]':
+            - generic [ref=e2181]:
+              - generic:
+                - 'img "Thumbnail for moment: Harry Brook leads by example and gets to 💯"'
+              - generic: NEW
+              - generic [ref=e2183]: Harry Brook leads by example and gets to 💯
+          - 'button "Moment button: Usman Tariq gets a timely wicket ☝️, new. Click to play moment. 92 of 498" [ref=e2184] [cursor=pointer]':
+            - generic [ref=e2186]:
+              - generic:
+                - 'img "Thumbnail for moment: Usman Tariq gets a timely wicket ☝️"'
+              - generic: NEW
+              - generic [ref=e2188]: Usman Tariq gets a timely wicket ☝️
+          - 'button "Moment button: Harry Brook smacks it for a maximum 🙌, new. Click to play moment. 93 of 498" [ref=e2189] [cursor=pointer]':
+            - generic [ref=e2191]:
+              - generic:
+                - 'img "Thumbnail for moment: Harry Brook smacks it for a maximum 🙌"'
+              - generic: NEW
+              - generic [ref=e2193]: Harry Brook smacks it for a maximum 🙌
+          - 'button "Moment button: Shaheen Afridi strikes off the first ball 🔥, new. Click to play moment. 94 of 498" [ref=e2194] [cursor=pointer]':
+            - generic [ref=e2196]:
+              - generic:
+                - 'img "Thumbnail for moment: Shaheen Afridi strikes off the first ball 🔥"'
+              - generic: NEW
+              - generic [ref=e2198]: Shaheen Afridi strikes off the first ball 🔥
+          - 'button "Moment button: Liam Dawson in the hat-trick zone 👀, new. Click to play moment. 95 of 498" [ref=e2199] [cursor=pointer]':
+            - generic [ref=e2201]:
+              - generic:
+                - 'img "Thumbnail for moment: Liam Dawson in the hat-trick zone 👀"'
+              - generic: NEW
+              - generic [ref=e2203]: Liam Dawson in the hat-trick zone 👀
+          - 'button "Moment button: Sahibzada Farhan smashes a 100-metre monster six 🤯, new. Click to play moment. 96 of 498" [ref=e2204] [cursor=pointer]':
+            - generic [ref=e2206]:
+              - generic:
+                - 'img "Thumbnail for moment: Sahibzada Farhan smashes a 100-metre monster six 🤯"'
+              - generic: NEW
+              - generic [ref=e2208]: Sahibzada Farhan smashes a 100-metre monster six 🤯
+          - 'button "Moment button: Jamie Overton goes through Babar Azam 😲, new. Click to play moment. 97 of 498" [ref=e2209] [cursor=pointer]':
+            - generic [ref=e2211]:
+              - generic:
+                - 'img "Thumbnail for moment: Jamie Overton goes through Babar Azam 😲"'
+              - generic: NEW
+              - generic [ref=e2213]: Jamie Overton goes through Babar Azam 😲
+          - 'button "Moment button: Pakistan opt to bat first against England 🏏, new. Click to play moment. 98 of 498" [ref=e2214] [cursor=pointer]':
+            - generic [ref=e2216]:
+              - generic:
+                - 'img "Thumbnail for moment: Pakistan opt to bat first against England 🏏"'
+              - generic: NEW
+              - generic [ref=e2218]: Pakistan opt to bat first against England 🏏
+          - 'button "Moment button: Superb catch from Jamie Overton running in 🤩, new. Click to play moment. 99 of 498" [ref=e2219] [cursor=pointer]':
+            - generic [ref=e2221]:
+              - generic:
+                - 'img "Thumbnail for moment: Superb catch from Jamie Overton running in 🤩"'
+              - generic: NEW
+              - generic [ref=e2223]: Superb catch from Jamie Overton running in 🤩
+          - 'button "Moment button: West Indies keep up the winning momentum 💪, new. Click to play moment. 100 of 498" [ref=e2224] [cursor=pointer]':
+            - generic [ref=e2226]:
+              - generic:
+                - 'img "Thumbnail for moment: West Indies keep up the winning momentum 💪"'
+              - generic: NEW
+              - generic [ref=e2228]: West Indies keep up the winning momentum 💪
+          - 'button "Moment button: Evans innovative late flourish 👌, new. Click to play moment. 101 of 498" [ref=e2229] [cursor=pointer]':
+            - generic [ref=e2231]:
+              - generic:
+                - 'img "Thumbnail for moment: Evans innovative late flourish 👌"'
+              - generic: NEW
+              - generic [ref=e2233]: Evans innovative late flourish 👌
+          - 'button "Moment button: Evans'' smashing sixes 💥, new. Click to play moment. 102 of 498" [ref=e2234] [cursor=pointer]':
+            - generic [ref=e2236]:
+              - generic:
+                - 'img "Thumbnail for moment: Evans'' smashing sixes 💥"'
+              - generic: NEW
+              - generic [ref=e2238]: Evans' smashing sixes 💥
+          - 'button "Moment button: Terrific catch by Holder off his own bowling 😮, new. Click to play moment. 103 of 498" [ref=e2239] [cursor=pointer]':
+            - generic [ref=e2241]:
+              - generic:
+                - 'img "Thumbnail for moment: Terrific catch by Holder off his own bowling 😮"'
+              - generic: NEW
+              - generic [ref=e2243]: Terrific catch by Holder off his own bowling 😮
+          - 'button "Moment button: Motie almost secures a hat-trick 👀, new. Click to play moment. 104 of 498" [ref=e2244] [cursor=pointer]':
+            - generic [ref=e2246]:
+              - generic:
+                - 'img "Thumbnail for moment: Motie almost secures a hat-trick 👀"'
+              - generic: NEW
+              - generic [ref=e2248]: Motie almost secures a hat-trick 👀
+          - 'button "Moment button: Motie with a beauty to dismiss Myers 🤌, new. Click to play moment. 105 of 498" [ref=e2249] [cursor=pointer]':
+            - generic [ref=e2251]:
+              - generic:
+                - 'img "Thumbnail for moment: Motie with a beauty to dismiss Myers 🤌"'
+              - generic: NEW
+              - generic [ref=e2253]: Motie with a beauty to dismiss Myers 🤌
+          - 'button "Moment button: Bennett finally dismissed in T20WC 2026 😅, new. Click to play moment. 106 of 498" [ref=e2254] [cursor=pointer]':
+            - generic [ref=e2256]:
+              - generic:
+                - 'img "Thumbnail for moment: Bennett finally dismissed in T20WC 2026 😅"'
+              - generic: NEW
+              - generic [ref=e2258]: Bennett finally dismissed in T20WC 2026 😅
+          - 'button "Moment button: Holder with a powerful maximum 6️⃣, new. Click to play moment. 107 of 498" [ref=e2259] [cursor=pointer]':
+            - generic [ref=e2261]:
+              - generic:
+                - 'img "Thumbnail for moment: Holder with a powerful maximum 6️⃣"'
+              - generic: NEW
+              - generic [ref=e2263]: Holder with a powerful maximum 6️⃣
+          - 'button "Moment button: Hetmyer falls after a stunning knock 👏, new. Click to play moment. 108 of 498" [ref=e2264] [cursor=pointer]':
+            - generic [ref=e2266]:
+              - generic:
+                - 'img "Thumbnail for moment: Hetmyer falls after a stunning knock 👏"'
+              - generic: NEW
+              - generic [ref=e2268]: Hetmyer falls after a stunning knock 👏
+          - 'button "Moment button: Powell deposits one to the space 🌌, new. Click to play moment. 109 of 498" [ref=e2269] [cursor=pointer]':
+            - generic [ref=e2271]:
+              - generic:
+                - 'img "Thumbnail for moment: Powell deposits one to the space 🌌"'
+              - generic: NEW
+              - generic [ref=e2273]: Powell deposits one to the space 🌌
+          - 'button "Moment button: Hetmyer races to a fifty in no time 🤯, new. Click to play moment. 110 of 498" [ref=e2274] [cursor=pointer]':
+            - generic [ref=e2276]:
+              - generic:
+                - 'img "Thumbnail for moment: Hetmyer races to a fifty in no time 🤯"'
+              - generic: NEW
+              - generic [ref=e2278]: Hetmyer races to a fifty in no time 🤯
+          - 'button "Moment button: Hetmyer sends one to the stands 🚀, new. Click to play moment. 111 of 498" [ref=e2279] [cursor=pointer]':
+            - generic [ref=e2281]:
+              - generic:
+                - 'img "Thumbnail for moment: Hetmyer sends one to the stands 🚀"'
+              - generic: NEW
+              - generic [ref=e2283]: Hetmyer sends one to the stands 🚀
+          - 'button "Moment button: Bennett pulls off a stunner again 😮, new. Click to play moment. 112 of 498" [ref=e2284] [cursor=pointer]':
+            - generic [ref=e2286]:
+              - generic:
+                - 'img "Thumbnail for moment: Bennett pulls off a stunner again 😮"'
+              - generic: NEW
+              - generic [ref=e2288]: Bennett pulls off a stunner again 😮
+          - 'button "Moment button: Flurry of boundaries for the Windies 🔥, new. Click to play moment. 113 of 498" [ref=e2289] [cursor=pointer]':
+            - generic [ref=e2291]:
+              - generic:
+                - 'img "Thumbnail for moment: Flurry of boundaries for the Windies 🔥"'
+              - generic: NEW
+              - generic [ref=e2293]: Flurry of boundaries for the Windies 🔥
+          - 'button "Moment button: South Africa triumphant 🇿🇦, new. Click to play moment. 114 of 498" [ref=e2294] [cursor=pointer]':
+            - generic [ref=e2296]:
+              - generic:
+                - 'img "Thumbnail for moment: South Africa triumphant 🇿🇦"'
+              - generic: NEW
+              - generic [ref=e2298]: South Africa triumphant 🇿🇦
+          - 'button "Moment button: Proteas tighten grip 👊, new. Click to play moment. 115 of 498" [ref=e2299] [cursor=pointer]':
+            - generic [ref=e2301]:
+              - generic:
+                - 'img "Thumbnail for moment: Proteas tighten grip 👊"'
+              - generic: NEW
+              - generic [ref=e2303]: Proteas tighten grip 👊
+          - 'button "Moment button: Dube’s dazzling drive 🚙, new. Click to play moment. 116 of 498" [ref=e2304] [cursor=pointer]':
+            - generic [ref=e2306]:
+              - generic:
+                - 'img "Thumbnail for moment: Dube’s dazzling drive 🚙"'
+              - generic: NEW
+              - generic [ref=e2308]: Dube’s dazzling drive 🚙
+          - 'button "Moment button: Bosch’s brilliance in field 👌, new. Click to play moment. 117 of 498" [ref=e2309] [cursor=pointer]':
+            - generic [ref=e2311]:
+              - generic:
+                - 'img "Thumbnail for moment: Bosch’s brilliance in field 👌"'
+              - generic: NEW
+              - generic [ref=e2313]: Bosch’s brilliance in field 👌
+          - 'button "Moment button: A delicious six 😍, new. Click to play moment. 118 of 498" [ref=e2314] [cursor=pointer]':
+            - generic [ref=e2316]:
+              - generic:
+                - 'img "Thumbnail for moment: A delicious six 😍"'
+              - generic: NEW
+              - generic [ref=e2318]: A delicious six 😍
+          - 'button "Moment button: Abhishek off the mark 👊, new. Click to play moment. 119 of 498" [ref=e2319] [cursor=pointer]':
+            - generic [ref=e2321]:
+              - generic:
+                - 'img "Thumbnail for moment: Abhishek off the mark 👊"'
+              - generic: NEW
+              - generic [ref=e2323]: Abhishek off the mark 👊
+          - 'button "Moment button: Markram notches early wicket 💥, new. Click to play moment. 120 of 498" [ref=e2324] [cursor=pointer]':
+            - generic [ref=e2326]:
+              - generic:
+                - 'img "Thumbnail for moment: Markram notches early wicket 💥"'
+              - generic: NEW
+              - generic [ref=e2328]: Markram notches early wicket 💥
+          - 'button "Moment button: Stubbs clears the rope 💪, new. Click to play moment. 121 of 498" [ref=e2329] [cursor=pointer]':
+            - generic [ref=e2331]:
+              - generic:
+                - 'img "Thumbnail for moment: Stubbs clears the rope 💪"'
+              - generic: NEW
+              - generic [ref=e2333]: Stubbs clears the rope 💪
+          - 'button "Moment button: Miller brings 5️⃣0️⃣, new. Click to play moment. 122 of 498" [ref=e2334] [cursor=pointer]':
+            - generic [ref=e2336]:
+              - generic:
+                - 'img "Thumbnail for moment: Miller brings 5️⃣0️⃣"'
+              - generic: NEW
+              - generic [ref=e2338]: Miller brings 5️⃣0️⃣
+          - 'button "Moment button: Brevis'' no-look six 😎, new. Click to play moment. 123 of 498" [ref=e2339] [cursor=pointer]':
+            - generic [ref=e2341]:
+              - generic:
+                - 'img "Thumbnail for moment: Brevis'' no-look six 😎"'
+              - generic: NEW
+              - generic [ref=e2343]: Brevis' no-look six 😎
+          - 'button "Moment button: Arshdeep removes Markram 👏, new. Click to play moment. 124 of 498" [ref=e2344] [cursor=pointer]':
+            - generic [ref=e2346]:
+              - generic:
+                - 'img "Thumbnail for moment: Arshdeep removes Markram 👏"'
+              - generic: NEW
+              - generic [ref=e2348]: Arshdeep removes Markram 👏
+          - 'button "Moment button: Bumrah’s beauty 👌, new. Click to play moment. 125 of 498" [ref=e2349] [cursor=pointer]':
+            - generic [ref=e2351]:
+              - generic:
+                - 'img "Thumbnail for moment: Bumrah’s beauty 👌"'
+              - generic: NEW
+              - generic [ref=e2353]: Bumrah’s beauty 👌
+          - 'button "Moment button: Rashid seals the win 🏴󠁧󠁢󠁥󠁮󠁧󠁿, new. Click to play moment. 126 of 498" [ref=e2354] [cursor=pointer]':
+            - generic [ref=e2356]:
+              - generic:
+                - 'img "Thumbnail for moment: Rashid seals the win 🏴󠁧󠁢󠁥󠁮󠁧󠁿"'
+              - generic: NEW
+              - generic [ref=e2358]: Rashid seals the win 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+          - 'button "Moment button: England on the verge 👌, new. Click to play moment. 127 of 498" [ref=e2359] [cursor=pointer]':
+            - generic [ref=e2361]:
+              - generic:
+                - 'img "Thumbnail for moment: England on the verge 👌"'
+              - generic: NEW
+              - generic [ref=e2363]: England on the verge 👌
+          - 'button "Moment button: Shanaka takes to the skies 🌫️ , new. Click to play moment. 128 of 498" [ref=e2364] [cursor=pointer]':
+            - generic [ref=e2366]:
+              - generic:
+                - 'img "Thumbnail for moment: Shanaka takes to the skies 🌫️"'
+              - generic: NEW
+              - generic [ref=e2368]: Shanaka takes to the skies 🌫️
+          - 'button "Moment button: England on the offensive 💪, new. Click to play moment. 129 of 498" [ref=e2369] [cursor=pointer]':
+            - generic [ref=e2371]:
+              - generic:
+                - 'img "Thumbnail for moment: England on the offensive 💪"'
+              - generic: NEW
+              - generic [ref=e2373]: England on the offensive 💪
+          - 'button "Moment button: England snap Nissanka 👏, new. Click to play moment. 130 of 498" [ref=e2374] [cursor=pointer]':
+            - generic [ref=e2376]:
+              - generic:
+                - 'img "Thumbnail for moment: England snap Nissanka 👏"'
+              - generic: NEW
+              - generic [ref=e2378]: England snap Nissanka 👏
+          - 'button "Moment button: Overton goes big 🚀, new. Click to play moment. 131 of 498" [ref=e2379] [cursor=pointer]':
+            - generic [ref=e2381]:
+              - generic:
+                - 'img "Thumbnail for moment: Overton goes big 🚀"'
+              - generic: NEW
+              - generic [ref=e2383]: Overton goes big 🚀
+          - 'button "Moment button: Salt’s innovative 6️⃣, new. Click to play moment. 132 of 498" [ref=e2384] [cursor=pointer]':
+            - generic [ref=e2386]:
+              - generic:
+                - 'img "Thumbnail for moment: Salt’s innovative 6️⃣"'
+              - generic: NEW
+              - generic [ref=e2388]: Salt’s innovative 6️⃣
+          - 'button "Moment button: Wellalage removes Salt 💥, new. Click to play moment. 133 of 498" [ref=e2389] [cursor=pointer]':
+            - generic [ref=e2391]:
+              - generic:
+                - 'img "Thumbnail for moment: Wellalage removes Salt 💥"'
+              - generic: NEW
+              - generic [ref=e2393]: Wellalage removes Salt 💥
+          - 'button "Moment button: Brook pummels it for four 👊, new. Click to play moment. 134 of 498" [ref=e2394] [cursor=pointer]':
+            - generic [ref=e2396]:
+              - generic:
+                - 'img "Thumbnail for moment: Brook pummels it for four 👊"'
+              - generic: NEW
+              - generic [ref=e2398]: Brook pummels it for four 👊
+          - 'button "Moment button: Shanaka’s direct hit removes Banton 🎯, new. Click to play moment. 135 of 498" [ref=e2399] [cursor=pointer]':
+            - generic [ref=e2401]:
+              - generic:
+                - 'img "Thumbnail for moment: Shanaka’s direct hit removes Banton 🎯"'
+              - generic: NEW
+              - generic [ref=e2403]: Shanaka’s direct hit removes Banton 🎯
+          - 'button "Moment button: Diving catch 👌🇱🇰, new. Click to play moment. 136 of 498" [ref=e2404] [cursor=pointer]':
+            - generic [ref=e2406]:
+              - generic:
+                - 'img "Thumbnail for moment: Diving catch 👌🇱🇰"'
+              - generic: NEW
+              - generic [ref=e2408]: Diving catch 👌🇱🇰
+          - 'button "Moment button: Sri Lanka win the toss 🪙, new. Click to play moment. 137 of 498" [ref=e2409] [cursor=pointer]':
+            - generic [ref=e2411]:
+              - generic:
+                - 'img "Thumbnail for moment: Sri Lanka win the toss 🪙"'
+              - generic: NEW
+              - generic [ref=e2413]: Sri Lanka win the toss 🪙
+          - 'button "Moment button: Australia bow out with a win 👏, new. Click to play moment. 138 of 498" [ref=e2414] [cursor=pointer]':
+            - generic [ref=e2416]:
+              - generic:
+                - 'img "Thumbnail for moment: Australia bow out with a win 👏"'
+              - generic: NEW
+              - generic [ref=e2418]: Australia bow out with a win 👏
+          - 'button "Moment button: Marsh''s mammoth 99 metre six 🚀, new. Click to play moment. 139 of 498" [ref=e2419] [cursor=pointer]':
+            - generic [ref=e2421]:
+              - generic:
+                - 'img "Thumbnail for moment: Marsh''s mammoth 99 metre six 🚀"'
+              - generic: NEW
+              - generic [ref=e2423]: Marsh's mammoth 99 metre six 🚀
+          - 'button "Moment button: Boundaries flow for Australia 💥, new. Click to play moment. 140 of 498" [ref=e2424] [cursor=pointer]':
+            - generic [ref=e2426]:
+              - generic:
+                - 'img "Thumbnail for moment: Boundaries flow for Australia 💥"'
+              - generic: NEW
+              - generic [ref=e2428]: Boundaries flow for Australia 💥
+          - 'button "Moment button: Effortlessly picked up by Marsh 😮‍💨, new. Click to play moment. 141 of 498" [ref=e2429] [cursor=pointer]':
+            - generic [ref=e2431]:
+              - generic:
+                - 'img "Thumbnail for moment: Effortlessly picked up by Marsh 😮‍💨"'
+              - generic: NEW
+              - generic [ref=e2433]: Effortlessly picked up by Marsh 😮‍💨
+          - 'button "Moment button: Historic clinical masterclass from Australia \\|/, new. Click to play moment. 142 of 498" [ref=e2434] [cursor=pointer]':
+            - generic [ref=e2436]:
+              - generic:
+                - 'img "Thumbnail for moment: Historic clinical masterclass from Australia \\|/"'
+              - generic: NEW
+              - generic [ref=e2438]: Historic clinical masterclass from Australia \|/
+          - 'button "Moment button: Maxwell''s sweet timber strike 🎯, new. Click to play moment. 143 of 498" [ref=e2439] [cursor=pointer]':
+            - generic [ref=e2441]:
+              - generic:
+                - 'img "Thumbnail for moment: Maxwell''s sweet timber strike 🎯"'
+              - generic: NEW
+              - generic [ref=e2443]: Maxwell's sweet timber strike 🎯
+          - 'button "Moment button: Back-foot power from Hammad 👌, new. Click to play moment. 144 of 498" [ref=e2444] [cursor=pointer]':
+            - generic [ref=e2446]:
+              - generic:
+                - 'img "Thumbnail for moment: Back-foot power from Hammad 👌"'
+              - generic: NEW
+              - generic [ref=e2448]: Back-foot power from Hammad 👌
+          - 'button "Moment button: Bartlett with the dream start 😍, new. Click to play moment. 145 of 498" [ref=e2449] [cursor=pointer]':
+            - generic [ref=e2451]:
+              - generic:
+                - 'img "Thumbnail for moment: Bartlett with the dream start 😍"'
+              - generic: NEW
+              - generic [ref=e2453]: Bartlett with the dream start 😍
+          - 'button "Moment button: Afghanistan sign off with a win 👏afg🇦🇫, new. Click to play moment. 146 of 498" [ref=e2454] [cursor=pointer]':
+            - generic [ref=e2456]:
+              - generic:
+                - 'img "Thumbnail for moment: Afghanistan sign off with a win 👏afg🇦🇫"'
+              - generic: NEW
+              - generic [ref=e2458]: Afghanistan sign off with a win 👏afg🇦🇫
+          - 'button "Moment button: Clinical Nabi strikes 💥, new. Click to play moment. 147 of 498" [ref=e2459] [cursor=pointer]':
+            - generic [ref=e2461]:
+              - generic:
+                - 'img "Thumbnail for moment: Clinical Nabi strikes 💥"'
+              - generic: NEW
+              - generic [ref=e2463]: Clinical Nabi strikes 💥
+          - 'button "Moment button: Mujeeb bags the first 👌, new. Click to play moment. 148 of 498" [ref=e2464] [cursor=pointer]':
+            - generic [ref=e2466]:
+              - generic:
+                - 'img "Thumbnail for moment: Mujeeb bags the first 👌"'
+              - generic: NEW
+              - generic [ref=e2468]: Mujeeb bags the first 👌
+          - 'button "Moment button: Zadran''s clever shot for a maximum 👏, new. Click to play moment. 149 of 498" [ref=e2469] [cursor=pointer]':
+            - generic [ref=e2471]:
+              - generic:
+                - 'img "Thumbnail for moment: Zadran''s clever shot for a maximum 👏"'
+              - generic: NEW
+              - generic [ref=e2473]: Zadran's clever shot for a maximum 👏
+          - 'button "Moment button: Atal with a top-notch shot 6️⃣, new. Click to play moment. 150 of 498" [ref=e2474] [cursor=pointer]':
+            - generic [ref=e2476]:
+              - generic:
+                - 'img "Thumbnail for moment: Atal with a top-notch shot 6️⃣"'
+              - generic: NEW
+              - generic [ref=e2478]: Atal with a top-notch shot 6️⃣
+          - 'button "Moment button: Canada get Gurbaz early 💪, new. Click to play moment. 151 of 498" [ref=e2479] [cursor=pointer]':
+            - generic [ref=e2481]:
+              - generic:
+                - 'img "Thumbnail for moment: Canada get Gurbaz early 💪"'
+              - generic: NEW
+              - generic [ref=e2483]: Canada get Gurbaz early 💪
+          - 'button "Moment button: Zimbabwe juggernaut continues to roll 😍, new. Click to play moment. 152 of 498" [ref=e2484] [cursor=pointer]':
+            - generic [ref=e2486]:
+              - generic:
+                - 'img "Thumbnail for moment: Zimbabwe juggernaut continues to roll 😍"'
+              - generic: NEW
+              - generic [ref=e2488]: Zimbabwe juggernaut continues to roll 😍
+          - 'button "Moment button: Shanaka with a crucial catch 👀, new. Click to play moment. 153 of 498" [ref=e2489] [cursor=pointer]':
+            - generic [ref=e2491]:
+              - generic:
+                - 'img "Thumbnail for moment: Shanaka with a crucial catch 👀"'
+              - generic: NEW
+              - generic [ref=e2493]: Shanaka with a crucial catch 👀
+          - 'button "Moment button: Skipper Raza takes charge 🫡, new. Click to play moment. 154 of 498" [ref=e2494] [cursor=pointer]':
+            - generic [ref=e2496]:
+              - generic:
+                - 'img "Thumbnail for moment: Skipper Raza takes charge 🫡"'
+              - generic: NEW
+              - generic [ref=e2498]: Skipper Raza takes charge 🫡
+          - 'button "Moment button: Bennett ramps it up 🔼, new. Click to play moment. 155 of 498" [ref=e2499] [cursor=pointer]':
+            - generic [ref=e2501]:
+              - generic:
+                - 'img "Thumbnail for moment: Bennett ramps it up 🔼"'
+              - generic: NEW
+              - generic [ref=e2503]: Bennett ramps it up 🔼
+          - 'button "Moment button: Burl with a massive maximum 😮, new. Click to play moment. 156 of 498" [ref=e2504] [cursor=pointer]':
+            - generic [ref=e2506]:
+              - generic:
+                - 'img "Thumbnail for moment: Burl with a massive maximum 😮"'
+              - generic: NEW
+              - generic [ref=e2508]: Burl with a massive maximum 😮
+          - 'button "Moment button: Wellalage provides the breakthrough for SL 👊, new. Click to play moment. 157 of 498" [ref=e2509] [cursor=pointer]':
+            - generic [ref=e2511]:
+              - generic:
+                - 'img "Thumbnail for moment: Wellalage provides the breakthrough for SL 👊"'
+              - generic: NEW
+              - generic [ref=e2513]: Wellalage provides the breakthrough for SL 👊
+          - 'button "Moment button: Zimbabwe step up the scoring rate ⏩, new. Click to play moment. 158 of 498" [ref=e2514] [cursor=pointer]':
+            - generic [ref=e2516]:
+              - generic:
+                - 'img "Thumbnail for moment: Zimbabwe step up the scoring rate ⏩"'
+              - generic: NEW
+              - generic [ref=e2518]: Zimbabwe step up the scoring rate ⏩
+          - 'button "Moment button: Marumani brings out the reverse 🏏, new. Click to play moment. 159 of 498" [ref=e2519] [cursor=pointer]':
+            - generic [ref=e2521]:
+              - generic:
+                - 'img "Thumbnail for moment: Marumani brings out the reverse 🏏"'
+              - generic: NEW
+              - generic [ref=e2523]: Marumani brings out the reverse 🏏
+          - 'button "Moment button: Wellalage''s finishing touch 🤌, new. Click to play moment. 160 of 498" [ref=e2524] [cursor=pointer]':
+            - generic [ref=e2526]:
+              - generic:
+                - 'img "Thumbnail for moment: Wellalage''s finishing touch 🤌"'
+              - generic: NEW
+              - generic [ref=e2528]: Wellalage's finishing touch 🤌
+          - 'button "Moment button: Munyonga''s top catch claims the big fish 👏, new. Click to play moment. 161 of 498" [ref=e2529] [cursor=pointer]':
+            - generic [ref=e2531]:
+              - generic:
+                - 'img "Thumbnail for moment: Munyonga''s top catch claims the big fish 👏"'
+              - generic: NEW
+              - generic [ref=e2533]: Munyonga's top catch claims the big fish 👏
+          - 'button "Moment button: Smart glovework gets the better of Kusal 🧤, new. Click to play moment. 162 of 498" [ref=e2534] [cursor=pointer]':
+            - generic [ref=e2536]:
+              - generic:
+                - 'img "Thumbnail for moment: Smart glovework gets the better of Kusal 🧤"'
+              - generic: NEW
+              - generic [ref=e2538]: Smart glovework gets the better of Kusal 🧤
+          - 'button "Moment button: Nissanka takes off in top gear 🔝, new. Click to play moment. 163 of 498" [ref=e2539] [cursor=pointer]':
+            - generic [ref=e2541]:
+              - generic:
+                - 'img "Thumbnail for moment: Nissanka takes off in top gear 🔝"'
+              - generic: NEW
+              - generic [ref=e2543]: Nissanka takes off in top gear 🔝
+          - 'button "Moment button: West Indies continue unbeaten run 🎉, new. Click to play moment. 164 of 498" [ref=e2544] [cursor=pointer]':
+            - generic [ref=e2546]:
+              - generic:
+                - 'img "Thumbnail for moment: West Indies continue unbeaten run 🎉"'
+              - generic: NEW
+              - generic [ref=e2548]: West Indies continue unbeaten run 🎉
+          - 'button "Moment button: Windies snap half of Italy''s side 🔥, new. Click to play moment. 165 of 498" [ref=e2549] [cursor=pointer]':
+            - generic [ref=e2551]:
+              - generic:
+                - 'img "Thumbnail for moment: Windies snap half of Italy''s side 🔥"'
+              - generic: NEW
+              - generic [ref=e2553]: Windies snap half of Italy's side 🔥
+          - 'button "Moment button: Anthony Mosca sends one to the stands 😮, new. Click to play moment. 166 of 498" [ref=e2554] [cursor=pointer]':
+            - generic [ref=e2556]:
+              - generic:
+                - 'img "Thumbnail for moment: Anthony Mosca sends one to the stands 😮"'
+              - generic: NEW
+              - generic [ref=e2558]: Anthony Mosca sends one to the stands 😮
+          - 'button "Moment button: Kalugamage ends Hope''s stay 👌, new. Click to play moment. 167 of 498" [ref=e2559] [cursor=pointer]':
+            - generic [ref=e2561]:
+              - generic:
+                - 'img "Thumbnail for moment: Kalugamage ends Hope''s stay 👌"'
+              - generic: NEW
+              - generic [ref=e2563]: Kalugamage ends Hope's stay 👌
+          - 'button "Moment button: Draca gets the big fish 🙌, new. Click to play moment. 168 of 498" [ref=e2564] [cursor=pointer]':
+            - generic [ref=e2566]:
+              - generic:
+                - 'img "Thumbnail for moment: Draca gets the big fish 🙌"'
+              - generic: NEW
+              - generic [ref=e2568]: Draca gets the big fish 🙌
+          - 'button "Moment button: Skiper Hope''s maximum shot 6️⃣, new. Click to play moment. 169 of 498" [ref=e2569] [cursor=pointer]':
+            - generic [ref=e2571]:
+              - generic:
+                - 'img "Thumbnail for moment: Skiper Hope''s maximum shot 6️⃣"'
+              - generic: NEW
+              - generic [ref=e2573]: Skiper Hope's maximum shot 6️⃣
+          - 'button "Moment button: India extend unbeaten run 👏ind🇮🇳, new. Click to play moment. 170 of 498" [ref=e2574] [cursor=pointer]':
+            - generic [ref=e2576]:
+              - generic:
+                - 'img "Thumbnail for moment: India extend unbeaten run 👏ind🇮🇳"'
+              - generic: NEW
+              - generic [ref=e2578]: India extend unbeaten run 👏ind🇮🇳
+          - 'button "Moment button: Chakaravarthy is right on the money, again 🎯, new. Click to play moment. 171 of 498" [ref=e2579] [cursor=pointer]':
+            - generic [ref=e2581]:
+              - generic:
+                - 'img "Thumbnail for moment: Chakaravarthy is right on the money, again 🎯"'
+              - generic: NEW
+              - generic [ref=e2583]: Chakaravarthy is right on the money, again 🎯
+          - 'button "Moment button: Composed Washington right on the ropes 💪, new. Click to play moment. 172 of 498" [ref=e2584] [cursor=pointer]':
+            - generic [ref=e2586]:
+              - generic:
+                - 'img "Thumbnail for moment: Composed Washington right on the ropes 💪"'
+              - generic: NEW
+              - generic [ref=e2588]: Composed Washington right on the ropes 💪
+          - 'button "Moment button: Chakaravarthy’s magic knocks over O''Dowd ✨, new. Click to play moment. 173 of 498" [ref=e2589] [cursor=pointer]':
+            - generic [ref=e2591]:
+              - generic:
+                - 'img "Thumbnail for moment: Chakaravarthy’s magic knocks over O''Dowd ✨"'
+              - generic: NEW
+              - generic [ref=e2593]: Chakaravarthy’s magic knocks over O'Dowd ✨
+          - 'button "Moment button: Brilliant fielding effort to dismiss Dube 👏, new. Click to play moment. 174 of 498" [ref=e2594] [cursor=pointer]':
+            - generic [ref=e2596]:
+              - generic:
+                - 'img "Thumbnail for moment: Brilliant fielding effort to dismiss Dube 👏"'
+              - generic: NEW
+              - generic [ref=e2598]: Brilliant fielding effort to dismiss Dube 👏
+          - 'button "Moment button: Dube muscles it goes down the ground 💪, new. Click to play moment. 175 of 498" [ref=e2599] [cursor=pointer]':
+            - generic [ref=e2601]:
+              - generic:
+                - 'img "Thumbnail for moment: Dube muscles it goes down the ground 💪"'
+              - generic: NEW
+              - generic [ref=e2603]: Dube muscles it goes down the ground 💪
+          - 'button "Moment button: Pure class from Suryakumar Yadav ✨, new. Click to play moment. 176 of 498" [ref=e2604] [cursor=pointer]':
+            - generic [ref=e2606]:
+              - generic:
+                - 'img "Thumbnail for moment: Pure class from Suryakumar Yadav ✨"'
+              - generic: NEW
+              - generic [ref=e2608]: Pure class from Suryakumar Yadav ✨
+          - 'button "Moment button: Van der Merwe goes full stretch to take a superb catch 👌, new. Click to play moment. 177 of 498" [ref=e2609] [cursor=pointer]':
+            - generic [ref=e2611]:
+              - generic:
+                - 'img "Thumbnail for moment: Van der Merwe goes full stretch to take a superb catch 👌"'
+              - generic: NEW
+              - generic [ref=e2613]: Van der Merwe goes full stretch to take a superb catch 👌
+          - 'button "Moment button: Netherlands continue their dream start 😍, new. Click to play moment. 178 of 498" [ref=e2614] [cursor=pointer]':
+            - generic [ref=e2616]:
+              - generic:
+                - 'img "Thumbnail for moment: Netherlands continue their dream start 😍"'
+              - generic: NEW
+              - generic [ref=e2618]: Netherlands continue their dream start 😍
+          - 'button "Moment button: Dutt claims the prized wicket of Abhishek 💥, new. Click to play moment. 179 of 498" [ref=e2619] [cursor=pointer]':
+            - generic [ref=e2621]:
+              - generic:
+                - 'img "Thumbnail for moment: Dutt claims the prized wicket of Abhishek 💥"'
+              - generic: NEW
+              - generic [ref=e2623]: Dutt claims the prized wicket of Abhishek 💥
+          - 'button "Moment button: Pakistan secure final Super 8 spot 👏, new. Click to play moment. 180 of 498" [ref=e2624] [cursor=pointer]':
+            - generic [ref=e2626]:
+              - generic:
+                - 'img "Thumbnail for moment: Pakistan secure final Super 8 spot 👏"'
+              - generic: NEW
+              - generic [ref=e2628]: Pakistan secure final Super 8 spot 👏
+          - 'button "Moment button: Tariq bamboozles Trumpelmann 💫, new. Click to play moment. 181 of 498" [ref=e2629] [cursor=pointer]':
+            - generic [ref=e2631]:
+              - generic:
+                - 'img "Thumbnail for moment: Tariq bamboozles Trumpelmann 💫"'
+              - generic: NEW
+              - generic [ref=e2633]: Tariq bamboozles Trumpelmann 💫
+          - 'button "Moment button: Lightning quick reaction from Usman Khan 🧤, new. Click to play moment. 182 of 498" [ref=e2634] [cursor=pointer]':
+            - generic [ref=e2636]:
+              - generic:
+                - 'img "Thumbnail for moment: Lightning quick reaction from Usman Khan 🧤"'
+              - generic: NEW
+              - generic [ref=e2638]: Lightning quick reaction from Usman Khan 🧤
+          - 'button "Moment button: Salman Mirza hits his mark 🎯, new. Click to play moment. 183 of 498" [ref=e2639] [cursor=pointer]':
+            - generic [ref=e2641]:
+              - generic:
+                - 'img "Thumbnail for moment: Salman Mirza hits his mark 🎯"'
+              - generic: NEW
+              - generic [ref=e2643]: Salman Mirza hits his mark 🎯
+          - 'button "Moment button: Shadab Khan goes big 👊, new. Click to play moment. 184 of 498" [ref=e2644] [cursor=pointer]':
+            - generic [ref=e2646]:
+              - generic:
+                - 'img "Thumbnail for moment: Shadab Khan goes big 👊"'
+              - generic: NEW
+              - generic [ref=e2648]: Shadab Khan goes big 👊
+          - 'button "Moment button: Sahibzada Farhan brings up a magnificent century 💯, new. Click to play moment. 185 of 498" [ref=e2649] [cursor=pointer]':
+            - generic [ref=e2651]:
+              - generic:
+                - 'img "Thumbnail for moment: Sahibzada Farhan brings up a magnificent century 💯"'
+              - generic: NEW
+              - generic [ref=e2653]: Sahibzada Farhan brings up a magnificent century 💯
+          - 'button "Moment button: Farhan smashes it down the ground 💪, new. Click to play moment. 186 of 498" [ref=e2654] [cursor=pointer]':
+            - generic [ref=e2656]:
+              - generic:
+                - 'img "Thumbnail for moment: Farhan smashes it down the ground 💪"'
+              - generic: NEW
+              - generic [ref=e2658]: Farhan smashes it down the ground 💪
+          - 'button "Moment button: Sahibzada Farhan times it beautifully for six ✨, new. Click to play moment. 187 of 498" [ref=e2659] [cursor=pointer]':
+            - generic [ref=e2661]:
+              - generic:
+                - 'img "Thumbnail for moment: Sahibzada Farhan times it beautifully for six ✨"'
+              - generic: NEW
+              - generic [ref=e2663]: Sahibzada Farhan times it beautifully for six ✨
+          - 'button "Moment button: Pakistan to bat against Namibia 🏏, new. Click to play moment. 188 of 498" [ref=e2664] [cursor=pointer]':
+            - generic [ref=e2666]:
+              - generic:
+                - 'img "Thumbnail for moment: Pakistan to bat against Namibia 🏏"'
+              - generic: NEW
+              - generic [ref=e2668]: Pakistan to bat against Namibia 🏏
+          - 'button "Moment button: South Africa make it four wins in a row 👏, new. Click to play moment. 189 of 498" [ref=e2669] [cursor=pointer]':
+            - generic [ref=e2671]:
+              - generic:
+                - 'img "Thumbnail for moment: South Africa make it four wins in a row 👏"'
+              - generic: NEW
+              - generic [ref=e2673]: South Africa make it four wins in a row 👏
+          - 'button "Moment button: Powerful strike from Brevis 🔥, new. Click to play moment. 190 of 498" [ref=e2674] [cursor=pointer]':
+            - generic [ref=e2676]:
+              - generic:
+                - 'img "Thumbnail for moment: Powerful strike from Brevis 🔥"'
+              - generic: NEW
+              - generic [ref=e2678]: Powerful strike from Brevis 🔥
+          - 'button "Moment button: Markram slams it into the stands 👊, new. Click to play moment. 191 of 498" [ref=e2679] [cursor=pointer]':
+            - generic [ref=e2681]:
+              - generic:
+                - 'img "Thumbnail for moment: Markram slams it into the stands 👊"'
+              - generic: NEW
+              - generic [ref=e2683]: Markram slams it into the stands 👊
+          - 'button "Moment button: Safe hands from Jason Smith 👏, new. Click to play moment. 192 of 498" [ref=e2684] [cursor=pointer]':
+            - generic [ref=e2686]:
+              - generic:
+                - 'img "Thumbnail for moment: Safe hands from Jason Smith 👏"'
+              - generic: NEW
+              - generic [ref=e2688]: Safe hands from Jason Smith 👏
+          - 'button "Moment button: Alishan Sharafu clears the ropes for six 👌, new. Click to play moment. 193 of 498" [ref=e2689] [cursor=pointer]':
+            - generic [ref=e2691]:
+              - generic:
+                - 'img "Thumbnail for moment: Alishan Sharafu clears the ropes for six 👌"'
+              - generic: NEW
+              - generic [ref=e2693]: Alishan Sharafu clears the ropes for six 👌
+          - 'button "Moment button: Nepal sign off with a memorable win ❤️🇳🇵, new. Click to play moment. 194 of 498" [ref=e2694] [cursor=pointer]':
+            - generic [ref=e2696]:
+              - generic:
+                - 'img "Thumbnail for moment: Nepal sign off with a memorable win ❤️🇳🇵"'
+              - generic: NEW
+              - generic [ref=e2698]: Nepal sign off with a memorable win ❤️🇳🇵
+          - 'button "Moment button: Mammoth six from Airee 🚀, new. Click to play moment. 195 of 498" [ref=e2699] [cursor=pointer]':
+            - generic [ref=e2701]:
+              - generic:
+                - 'img "Thumbnail for moment: Mammoth six from Airee 🚀"'
+              - generic: NEW
+              - generic [ref=e2703]: Mammoth six from Airee 🚀
+          - 'button "Moment button: Magic man Leask does it for Scotland 💪, new. Click to play moment. 196 of 498" [ref=e2704] [cursor=pointer]':
+            - generic [ref=e2706]:
+              - generic:
+                - 'img "Thumbnail for moment: Magic man Leask does it for Scotland 💪"'
+              - generic: NEW
+              - generic [ref=e2708]: Magic man Leask does it for Scotland 💪
+          - 'button "Moment button: Jones’ towering sixes 🔥, new. Click to play moment. 197 of 498" [ref=e2709] [cursor=pointer]':
+            - generic [ref=e2711]:
+              - generic:
+                - 'img "Thumbnail for moment: Jones’ towering sixes 🔥"'
+              - generic: NEW
+              - generic [ref=e2713]: Jones’ towering sixes 🔥
+          - 'button "Moment button: Breathtaking catch 🤯, new. Click to play moment. 198 of 498" [ref=e2714] [cursor=pointer]':
+            - generic [ref=e2716]:
+              - generic:
+                - 'img "Thumbnail for moment: Breathtaking catch 🤯"'
+              - generic: NEW
+              - generic [ref=e2718]: Breathtaking catch 🤯
+          - 'button "Moment button: Kami cleans up Jones 💥, new. Click to play moment. 199 of 498" [ref=e2719] [cursor=pointer]':
+            - generic [ref=e2721]:
+              - generic:
+                - 'img "Thumbnail for moment: Kami cleans up Jones 💥"'
+              - generic: NEW
+              - generic [ref=e2723]: Kami cleans up Jones 💥
+          - 'button "Moment button: Jones takes to the skies ✈️, new. Click to play moment. 200 of 498" [ref=e2724] [cursor=pointer]':
+            - generic [ref=e2726]:
+              - generic:
+                - 'img "Thumbnail for moment: Jones takes to the skies ✈️"'
+              - generic: NEW
+              - generic [ref=e2728]: Jones takes to the skies ✈️
+          - 'button "Moment button: Nepal win the toss 🪙, new. Click to play moment. 201 of 498" [ref=e2729] [cursor=pointer]':
+            - generic [ref=e2731]:
+              - generic:
+                - 'img "Thumbnail for moment: Nepal win the toss 🪙"'
+              - generic: NEW
+              - generic [ref=e2733]: Nepal win the toss 🪙
+          - 'button "Moment button: Zimbabwe seal Super 8 spot!, new. Click to play moment. 202 of 498" [ref=e2734] [cursor=pointer]':
+            - generic [ref=e2736]:
+              - generic:
+                - 'img "Thumbnail for moment: Zimbabwe seal Super 8 spot!"'
+              - generic: NEW
+              - generic [ref=e2738]: Zimbabwe seal Super 8 spot!
+          - 'button "Moment button: New Zealand secure Super 8 spot 🙌, new. Click to play moment. 203 of 498" [ref=e2739] [cursor=pointer]':
+            - generic [ref=e2741]:
+              - generic:
+                - 'img "Thumbnail for moment: New Zealand secure Super 8 spot 🙌"'
+              - generic: NEW
+              - generic [ref=e2743]: New Zealand secure Super 8 spot 🙌
+          - 'button "Moment button: Monster hit from Glenn Phillips 💪, new. Click to play moment. 204 of 498" [ref=e2744] [cursor=pointer]':
+            - generic [ref=e2746]:
+              - generic:
+                - 'img "Thumbnail for moment: Monster hit from Glenn Phillips 💪"'
+              - generic: NEW
+              - generic [ref=e2748]: Monster hit from Glenn Phillips 💪
+          - 'button "Moment button: Superb grab by Shivam Sharma ✨, new. Click to play moment. 205 of 498" [ref=e2749] [cursor=pointer]':
+            - generic [ref=e2751]:
+              - generic:
+                - 'img "Thumbnail for moment: Superb grab by Shivam Sharma ✨"'
+              - generic: NEW
+              - generic [ref=e2753]: Superb grab by Shivam Sharma ✨
+          - 'button "Moment button: Yuvraj Samra with a stunning century 🙌, new. Click to play moment. 206 of 498" [ref=e2754] [cursor=pointer]':
+            - generic [ref=e2756]:
+              - generic:
+                - 'img "Thumbnail for moment: Yuvraj Samra with a stunning century 🙌"'
+              - generic: NEW
+              - generic [ref=e2758]: Yuvraj Samra with a stunning century 🙌
+          - 'button "Moment button: Yuvraj Samra launches it into the stands 👊, new. Click to play moment. 207 of 498" [ref=e2759] [cursor=pointer]':
+            - generic [ref=e2761]:
+              - generic:
+                - 'img "Thumbnail for moment: Yuvraj Samra launches it into the stands 👊"'
+              - generic: NEW
+              - generic [ref=e2763]: Yuvraj Samra launches it into the stands 👊
+          - 'button "Moment button: Samra drills it straight for 4️⃣, new. Click to play moment. 208 of 498" [ref=e2764] [cursor=pointer]':
+            - generic [ref=e2766]:
+              - generic:
+                - 'img "Thumbnail for moment: Samra drills it straight for 4️⃣"'
+              - generic: NEW
+              - generic [ref=e2768]: Samra drills it straight for 4️⃣
+          - 'button "Moment button: Sri Lanka seal Super 8 birth 👏, new. Click to play moment. 209 of 498" [ref=e2769] [cursor=pointer]':
+            - generic [ref=e2771]:
+              - generic:
+                - 'img "Thumbnail for moment: Sri Lanka seal Super 8 birth 👏"'
+              - generic: NEW
+              - generic [ref=e2773]: Sri Lanka seal Super 8 birth 👏
+          - 'button "Moment button: Nissanka with a stellar ton 💯, new. Click to play moment. 210 of 498" [ref=e2774] [cursor=pointer]':
+            - generic [ref=e2776]:
+              - generic:
+                - 'img "Thumbnail for moment: Nissanka with a stellar ton 💯"'
+              - generic: NEW
+              - generic [ref=e2778]: Nissanka with a stellar ton 💯
+          - 'button "Moment button: Nissanka hammers it for six 🔥, new. Click to play moment. 211 of 498" [ref=e2779] [cursor=pointer]':
+            - generic [ref=e2781]:
+              - generic:
+                - 'img "Thumbnail for moment: Nissanka hammers it for six 🔥"'
+              - generic: NEW
+              - generic [ref=e2783]: Nissanka hammers it for six 🔥
+          - 'button "Moment button: Ellis and Stoinis combine to get crucial wicket 🤝, new. Click to play moment. 212 of 498" [ref=e2784] [cursor=pointer]':
+            - generic [ref=e2786]:
+              - generic:
+                - 'img "Thumbnail for moment: Ellis and Stoinis combine to get crucial wicket 🤝"'
+              - generic: NEW
+              - generic [ref=e2788]: Ellis and Stoinis combine to get crucial wicket 🤝
+          - 'button "Moment button: Perfect connection from Nissanka 👌, new. Click to play moment. 213 of 498" [ref=e2789] [cursor=pointer]':
+            - generic [ref=e2791]:
+              - generic:
+                - 'img "Thumbnail for moment: Perfect connection from Nissanka 👌"'
+              - generic: NEW
+              - generic [ref=e2793]: Perfect connection from Nissanka 👌
+          - 'button "Moment button: Pathum Nissanka plucks it out of thin air 🤯, new. Click to play moment. 214 of 498" [ref=e2794] [cursor=pointer]':
+            - generic [ref=e2796]:
+              - generic:
+                - 'img "Thumbnail for moment: Pathum Nissanka plucks it out of thin air 🤯"'
+              - generic: NEW
+              - generic [ref=e2798]: Pathum Nissanka plucks it out of thin air 🤯
+          - 'button "Moment button: Hemanatha strikes to dismiss Marsh ☝️, new. Click to play moment. 215 of 498" [ref=e2799] [cursor=pointer]':
+            - generic [ref=e2801]:
+              - generic:
+                - 'img "Thumbnail for moment: Hemanatha strikes to dismiss Marsh ☝️"'
+              - generic: NEW
+              - generic [ref=e2803]: Hemanatha strikes to dismiss Marsh ☝️
+          - 'button "Moment button: Travis Head sends it flying 👊, new. Click to play moment. 216 of 498" [ref=e2804] [cursor=pointer]':
+            - generic [ref=e2806]:
+              - generic:
+                - 'img "Thumbnail for moment: Travis Head sends it flying 👊"'
+              - generic: NEW
+              - generic [ref=e2808]: Travis Head sends it flying 👊
+          - 'button "Moment button: Sri Lanka elect to field first against Australia 🏏, new. Click to play moment. 217 of 498" [ref=e2809] [cursor=pointer]':
+            - generic [ref=e2811]:
+              - generic:
+                - 'img "Thumbnail for moment: Sri Lanka elect to field first against Australia 🏏"'
+              - generic: NEW
+              - generic [ref=e2813]: Sri Lanka elect to field first against Australia 🏏
+          - 'button "Moment button: England secure a spot in the Super 8 🙌, new. Click to play moment. 218 of 498" [ref=e2814] [cursor=pointer]':
+            - generic [ref=e2816]:
+              - generic:
+                - 'img "Thumbnail for moment: England secure a spot in the Super 8 🙌"'
+              - generic: NEW
+              - generic [ref=e2818]: England secure a spot in the Super 8 🙌
+          - 'button "Moment button: Colossal hit from Grant Stewart 🚀, new. Click to play moment. 219 of 498" [ref=e2819] [cursor=pointer]':
+            - generic [ref=e2821]:
+              - generic:
+                - 'img "Thumbnail for moment: Colossal hit from Grant Stewart 🚀"'
+              - generic: NEW
+              - generic [ref=e2823]: Colossal hit from Grant Stewart 🚀
+          - 'button "Moment button: A action-packed over 💥, new. Click to play moment. 220 of 498" [ref=e2824] [cursor=pointer]':
+            - generic [ref=e2826]:
+              - generic:
+                - 'img "Thumbnail for moment: A action-packed over 💥"'
+              - generic: NEW
+              - generic [ref=e2828]: A action-packed over 💥
+          - 'button "Moment button: Benjamin Manenti sends it all the way 👊, new. Click to play moment. 221 of 498" [ref=e2829] [cursor=pointer]':
+            - generic [ref=e2831]:
+              - generic:
+                - 'img "Thumbnail for moment: Benjamin Manenti sends it all the way 👊"'
+              - generic: NEW
+              - generic [ref=e2833]: Benjamin Manenti sends it all the way 👊
+          - 'button "Moment button: A flying Jos Buttler holds on to a beauty 🤯, new. Click to play moment. 222 of 498" [ref=e2834] [cursor=pointer]':
+            - generic [ref=e2836]:
+              - generic:
+                - 'img "Thumbnail for moment: A flying Jos Buttler holds on to a beauty 🤯"'
+              - generic: NEW
+              - generic [ref=e2838]: A flying Jos Buttler holds on to a beauty 🤯
+          - 'button "Moment button: Fiery opening spell from Jofra Archer 🔥, new. Click to play moment. 223 of 498" [ref=e2839] [cursor=pointer]':
+            - generic [ref=e2841]:
+              - generic:
+                - 'img "Thumbnail for moment: Fiery opening spell from Jofra Archer 🔥"'
+              - generic: NEW
+              - generic [ref=e2843]: Fiery opening spell from Jofra Archer 🔥
+          - 'button "Moment button: Will Jacks brings up his half-century in style 🤩, new. Click to play moment. 224 of 498" [ref=e2844] [cursor=pointer]':
+            - generic [ref=e2846]:
+              - generic:
+                - 'img "Thumbnail for moment: Will Jacks brings up his half-century in style 🤩"'
+              - generic: NEW
+              - generic [ref=e2848]: Will Jacks brings up his half-century in style 🤩
+          - 'button "Moment button: Sam Curran clears the ropes with power 💪, new. Click to play moment. 225 of 498" [ref=e2849] [cursor=pointer]':
+            - generic [ref=e2851]:
+              - generic:
+                - 'img "Thumbnail for moment: Sam Curran clears the ropes with power 💪"'
+              - generic: NEW
+              - generic [ref=e2853]: Sam Curran clears the ropes with power 💪
+          - 'button "Moment button: Italy combined superbly to dismiss Brooks 👏, new. Click to play moment. 226 of 498" [ref=e2854] [cursor=pointer]':
+            - generic [ref=e2856]:
+              - generic:
+                - 'img "Thumbnail for moment: Italy combined superbly to dismiss Brooks 👏"'
+              - generic: NEW
+              - generic [ref=e2858]: Italy combined superbly to dismiss Brooks 👏
+          - 'button "Moment button: Bethell times it to perfection 👌, new. Click to play moment. 227 of 498" [ref=e2859] [cursor=pointer]':
+            - generic [ref=e2861]:
+              - generic:
+                - 'img "Thumbnail for moment: Bethell times it to perfection 👌"'
+              - generic: NEW
+              - generic [ref=e2863]: Bethell times it to perfection 👌
+          - 'button "Moment button: England to bat first against Italy 🏏, new. Click to play moment. 228 of 498" [ref=e2864] [cursor=pointer]':
+            - generic [ref=e2866]:
+              - generic:
+                - 'img "Thumbnail for moment: England to bat first against Italy 🏏"'
+              - generic: NEW
+              - generic [ref=e2868]: England to bat first against Italy 🏏
+          - 'button "Moment button: First win on the board for Afghanistan 👏, new. Click to play moment. 229 of 498" [ref=e2869] [cursor=pointer]':
+            - generic [ref=e2871]:
+              - generic:
+                - 'img "Thumbnail for moment: First win on the board for Afghanistan 👏"'
+              - generic: NEW
+              - generic [ref=e2873]: First win on the board for Afghanistan 👏
+          - 'button "Moment button: Azmatullah Omarzai hammers it flat for six 👌, new. Click to play moment. 230 of 498" [ref=e2874] [cursor=pointer]':
+            - generic [ref=e2876]:
+              - generic:
+                - 'img "Thumbnail for moment: Azmatullah Omarzai hammers it flat for six 👌"'
+              - generic: NEW
+              - generic [ref=e2878]: Azmatullah Omarzai hammers it flat for six 👌
+          - 'button "Moment button: Sediqullah Atal goes big 😍, new. Click to play moment. 231 of 498" [ref=e2879] [cursor=pointer]':
+            - generic [ref=e2881]:
+              - generic:
+                - 'img "Thumbnail for moment: Sediqullah Atal goes big 😍"'
+              - generic: NEW
+              - generic [ref=e2883]: Sediqullah Atal goes big 😍
+          - 'button "Moment button: An unlucky way to go for Muhammad Arfan 🫣, new. Click to play moment. 232 of 498" [ref=e2884] [cursor=pointer]':
+            - generic [ref=e2886]:
+              - generic:
+                - 'img "Thumbnail for moment: An unlucky way to go for Muhammad Arfan 🫣"'
+              - generic: NEW
+              - generic [ref=e2888]: An unlucky way to go for Muhammad Arfan 🫣
+          - 'button "Moment button: Syed Haider muscles it for a maximum 💪, new. Click to play moment. 233 of 498" [ref=e2889] [cursor=pointer]':
+            - generic [ref=e2891]:
+              - generic:
+                - 'img "Thumbnail for moment: Syed Haider muscles it for a maximum 💪"'
+              - generic: NEW
+              - generic [ref=e2893]: Syed Haider muscles it for a maximum 💪
+          - 'button "Moment button: Sohaib Khan smashes it down the ground 👊, new. Click to play moment. 234 of 498" [ref=e2894] [cursor=pointer]':
+            - generic [ref=e2896]:
+              - generic:
+                - 'img "Thumbnail for moment: Sohaib Khan smashes it down the ground 👊"'
+              - generic: NEW
+              - generic [ref=e2898]: Sohaib Khan smashes it down the ground 👊
+          - 'button "Moment button: India register a big win 👏, new. Click to play moment. 235 of 498" [ref=e2899] [cursor=pointer]':
+            - generic [ref=e2901]:
+              - generic:
+                - 'img "Thumbnail for moment: India register a big win 👏"'
+              - generic: NEW
+              - generic [ref=e2903]: India register a big win 👏
+          - 'button "Moment button: Peach of a delivery from Axar Patel 😍, new. Click to play moment. 236 of 498" [ref=e2904] [cursor=pointer]':
+            - generic [ref=e2906]:
+              - generic:
+                - 'img "Thumbnail for moment: Peach of a delivery from Axar Patel 😍"'
+              - generic: NEW
+              - generic [ref=e2908]: Peach of a delivery from Axar Patel 😍
+          - 'button "Moment button: India start off in style 👊, new. Click to play moment. 237 of 498" [ref=e2909] [cursor=pointer]':
+            - generic [ref=e2911]:
+              - generic:
+                - 'img "Thumbnail for moment: India start off in style 👊"'
+              - generic: NEW
+              - generic [ref=e2913]: India start off in style 👊
+          - 'button "Moment button: A massive six from Rinku Singh 💪, new. Click to play moment. 238 of 498" [ref=e2914] [cursor=pointer]':
+            - generic [ref=e2916]:
+              - generic:
+                - 'img "Thumbnail for moment: A massive six from Rinku Singh 💪"'
+              - generic: NEW
+              - generic [ref=e2918]: A massive six from Rinku Singh 💪
+          - 'button "Moment button: Ayub strikes to remove Kishan 👌, new. Click to play moment. 239 of 498" [ref=e2919] [cursor=pointer]':
+            - generic [ref=e2921]:
+              - generic:
+                - 'img "Thumbnail for moment: Ayub strikes to remove Kishan 👌"'
+              - generic: NEW
+              - generic [ref=e2923]: Ayub strikes to remove Kishan 👌
+          - 'button "Moment button: Ishan Kishan absolutely clobbers it 🚀, new. Click to play moment. 240 of 498" [ref=e2924] [cursor=pointer]':
+            - generic [ref=e2926]:
+              - generic:
+                - 'img "Thumbnail for moment: Ishan Kishan absolutely clobbers it 🚀"'
+              - generic: NEW
+              - generic [ref=e2928]: Ishan Kishan absolutely clobbers it 🚀
+          - 'button "Moment button: Pakistan strike early 👊, new. Click to play moment. 241 of 498" [ref=e2929] [cursor=pointer]':
+            - generic [ref=e2931]:
+              - generic:
+                - 'img "Thumbnail for moment: Pakistan strike early 👊"'
+              - generic: NEW
+              - generic [ref=e2933]: Pakistan strike early 👊
+          - 'button "Moment button: USA secure victory with a all-round display 🙌, new. Click to play moment. 242 of 498" [ref=e2934] [cursor=pointer]':
+            - generic [ref=e2936]:
+              - generic:
+                - 'img "Thumbnail for moment: USA secure victory with a all-round display 🙌"'
+              - generic: NEW
+              - generic [ref=e2938]: USA secure victory with a all-round display 🙌
+          - 'button "Moment button: Brilliant glovework by Shayan Jahangir 🧤 , new. Click to play moment. 243 of 498" [ref=e2939] [cursor=pointer]':
+            - generic [ref=e2941]:
+              - generic:
+                - 'img "Thumbnail for moment: Brilliant glovework by Shayan Jahangir 🧤"'
+              - generic: NEW
+              - generic [ref=e2943]: Brilliant glovework by Shayan Jahangir 🧤
+          - 'button "Moment button: Ranjane strikes big with Steenkamp’s wicket 👊 , new. Click to play moment. 244 of 498" [ref=e2944] [cursor=pointer]':
+            - generic [ref=e2946]:
+              - generic:
+                - 'img "Thumbnail for moment: Ranjane strikes big with Steenkamp’s wicket 👊"'
+              - generic: NEW
+              - generic [ref=e2948]: Ranjane strikes big with Steenkamp’s wicket 👊
+          - 'button "Moment button: Caught and bowled by Shadley van Schalkwyk 👏, new. Click to play moment. 245 of 498" [ref=e2949] [cursor=pointer]':
+            - generic [ref=e2951]:
+              - generic:
+                - 'img "Thumbnail for moment: Caught and bowled by Shadley van Schalkwyk 👏"'
+              - generic: NEW
+              - generic [ref=e2953]: Caught and bowled by Shadley van Schalkwyk 👏
+          - 'button "Moment button: Sanjay Krishnamurthi times it to perfection 😮‍💨, new. Click to play moment. 246 of 498" [ref=e2954] [cursor=pointer]':
+            - generic [ref=e2956]:
+              - generic:
+                - 'img "Thumbnail for moment: Sanjay Krishnamurthi times it to perfection 😮‍💨"'
+              - generic: NEW
+              - generic [ref=e2958]: Sanjay Krishnamurthi times it to perfection 😮‍💨
+          - 'button "Moment button: Milind Kumar improvises brilliantly 👌, new. Click to play moment. 247 of 498" [ref=e2959] [cursor=pointer]':
+            - generic [ref=e2961]:
+              - generic:
+                - 'img "Thumbnail for moment: Milind Kumar improvises brilliantly 👌"'
+              - generic: NEW
+              - generic [ref=e2963]: Milind Kumar improvises brilliantly 👌
+          - 'button "Moment button: Sanjay Krishnamurthi deposits it deep into the stands 💥, new. Click to play moment. 248 of 498" [ref=e2964] [cursor=pointer]':
+            - generic [ref=e2966]:
+              - generic:
+                - 'img "Thumbnail for moment: Sanjay Krishnamurthi deposits it deep into the stands 💥"'
+              - generic: NEW
+              - generic [ref=e2968]: Sanjay Krishnamurthi deposits it deep into the stands 💥
+          - 'button "Moment button: Jan Nicol Loftie-Eaton pulls off a brilliant juggling effort 👏, new. Click to play moment. 249 of 498" [ref=e2969] [cursor=pointer]':
+            - generic [ref=e2971]:
+              - generic:
+                - 'img "Thumbnail for moment: Jan Nicol Loftie-Eaton pulls off a brilliant juggling effort 👏"'
+              - generic: NEW
+              - generic [ref=e2973]: Jan Nicol Loftie-Eaton pulls off a brilliant juggling effort 👏
+          - 'button "Moment button: Willem Myburgh claims the key wicket of Monank Patel 👊, new. Click to play moment. 250 of 498" [ref=e2974] [cursor=pointer]':
+            - generic [ref=e2976]:
+              - generic:
+                - 'img "Thumbnail for moment: Willem Myburgh claims the key wicket of Monank Patel 👊"'
+              - generic: NEW
+              - generic [ref=e2978]: Willem Myburgh claims the key wicket of Monank Patel 👊
+          - 'button "Moment button: Shayan Jahangir sends it soaring 🚀, new. Click to play moment. 251 of 498" [ref=e2979] [cursor=pointer]':
+            - generic [ref=e2981]:
+              - generic:
+                - 'img "Thumbnail for moment: Shayan Jahangir sends it soaring 🚀"'
+              - generic: NEW
+              - generic [ref=e2983]: Shayan Jahangir sends it soaring 🚀
+          - 'button "Moment button: USA to bat first against Namibia 🏏, new. Click to play moment. 252 of 498" [ref=e2984] [cursor=pointer]':
+            - generic [ref=e2986]:
+              - generic:
+                - 'img "Thumbnail for moment: USA to bat first against Namibia 🏏"'
+              - generic: NEW
+              - generic [ref=e2988]: USA to bat first against Namibia 🏏
+          - 'button "Moment button: West Indies qualify for the Super 8s 👏, new. Click to play moment. 253 of 498" [ref=e2989] [cursor=pointer]':
+            - generic [ref=e2991]:
+              - generic:
+                - 'img "Thumbnail for moment: West Indies qualify for the Super 8s 👏"'
+              - generic: NEW
+              - generic [ref=e2993]: West Indies qualify for the Super 8s 👏
+          - 'button "Moment button: Hetmyer dispatches it for six 👊, new. Click to play moment. 254 of 498" [ref=e2994] [cursor=pointer]':
+            - generic [ref=e2996]:
+              - generic:
+                - 'img "Thumbnail for moment: Hetmyer dispatches it for six 👊"'
+              - generic: NEW
+              - generic [ref=e2998]: Hetmyer dispatches it for six 👊
+          - 'button "Moment button: Hetmyer threads it fine for four 👌, new. Click to play moment. 255 of 498" [ref=e2999] [cursor=pointer]':
+            - generic [ref=e3001]:
+              - generic:
+                - 'img "Thumbnail for moment: Hetmyer threads it fine for four 👌"'
+              - generic: NEW
+              - generic [ref=e3003]: Hetmyer threads it fine for four 👌
+          - 'button "Moment button: Raw power from Dipendra Singh Airee 💪, new. Click to play moment. 256 of 498" [ref=e3004] [cursor=pointer]':
+            - generic [ref=e3006]:
+              - generic:
+                - 'img "Thumbnail for moment: Raw power from Dipendra Singh Airee 💪"'
+              - generic: NEW
+              - generic [ref=e3008]: Raw power from Dipendra Singh Airee 💪
+          - 'button "Moment button: Airee launches it over the ropes 6️⃣, new. Click to play moment. 257 of 498" [ref=e3009] [cursor=pointer]':
+            - generic [ref=e3011]:
+              - generic:
+                - 'img "Thumbnail for moment: Airee launches it over the ropes 6️⃣"'
+              - generic: NEW
+              - generic [ref=e3013]: Airee launches it over the ropes 6️⃣
+          - 'button "Moment button: Akeal Hosein serves up a gem 💎, new. Click to play moment. 258 of 498" [ref=e3014] [cursor=pointer]':
+            - generic [ref=e3016]:
+              - generic:
+                - 'img "Thumbnail for moment: Akeal Hosein serves up a gem 💎"'
+              - generic: NEW
+              - generic [ref=e3018]: Akeal Hosein serves up a gem 💎
+          - 'button "Moment button: Aiden Markram reaches fifty with a six 💪, new. Click to play moment. 259 of 498" [ref=e3019] [cursor=pointer]':
+            - generic [ref=e3021]:
+              - generic:
+                - 'img "Thumbnail for moment: Aiden Markram reaches fifty with a six 💪"'
+              - generic: NEW
+              - generic [ref=e3023]: Aiden Markram reaches fifty with a six 💪
+          - 'button "Moment button: All class from Aiden Markram 🤩, new. Click to play moment. 260 of 498" [ref=e3024] [cursor=pointer]':
+            - generic [ref=e3026]:
+              - generic:
+                - 'img "Thumbnail for moment: All class from Aiden Markram 🤩"'
+              - generic: NEW
+              - generic [ref=e3028]: All class from Aiden Markram 🤩
+          - 'button "Moment button: David Miller takes a good, low catch 👏, new. Click to play moment. 261 of 498" [ref=e3029] [cursor=pointer]':
+            - generic [ref=e3031]:
+              - generic:
+                - 'img "Thumbnail for moment: David Miller takes a good, low catch 👏"'
+              - generic: NEW
+              - generic [ref=e3033]: David Miller takes a good, low catch 👏
+          - 'button "Moment button: Marco Jansen gets the big wicket of Finn Allen ☝️, new. Click to play moment. 262 of 498" [ref=e3034] [cursor=pointer]':
+            - generic [ref=e3036]:
+              - generic:
+                - 'img "Thumbnail for moment: Marco Jansen gets the big wicket of Finn Allen ☝️"'
+              - generic: NEW
+              - generic [ref=e3038]: Marco Jansen gets the big wicket of Finn Allen ☝️
+          - 'button "Moment button: Will Jacks seals it for England with a boundary 👊, new. Click to play moment. 263 of 498" [ref=e3039] [cursor=pointer]':
+            - generic [ref=e3041]:
+              - generic:
+                - 'img "Thumbnail for moment: Will Jacks seals it for England with a boundary 👊"'
+              - generic: NEW
+              - generic [ref=e3043]: Will Jacks seals it for England with a boundary 👊
+          - 'button "Moment button: Sam Curran sends it deep into the stands 😲, new. Click to play moment. 264 of 498" [ref=e3044] [cursor=pointer]':
+            - generic [ref=e3046]:
+              - generic:
+                - 'img "Thumbnail for moment: Sam Curran sends it deep into the stands 😲"'
+              - generic: NEW
+              - generic [ref=e3048]: Sam Curran sends it deep into the stands 😲
+          - 'button "Moment button: Tom Banton hoicks it over cow corner for a biggie 🙌, new. Click to play moment. 265 of 498" [ref=e3049] [cursor=pointer]':
+            - generic [ref=e3051]:
+              - generic:
+                - 'img "Thumbnail for moment: Tom Banton hoicks it over cow corner for a biggie 🙌"'
+              - generic: NEW
+              - generic [ref=e3053]: Tom Banton hoicks it over cow corner for a biggie 🙌
+          - 'button "Moment button: Oliver Davidson gets innovative with the scoop 👏, new. Click to play moment. 266 of 498" [ref=e3054] [cursor=pointer]':
+            - generic [ref=e3056]:
+              - generic:
+                - 'img "Thumbnail for moment: Oliver Davidson gets innovative with the scoop 👏"'
+              - generic: NEW
+              - generic [ref=e3058]: Oliver Davidson gets innovative with the scoop 👏
+          - 'button "Moment button: What a ripper from Adil Rashid 🤯, new. Click to play moment. 267 of 498" [ref=e3059] [cursor=pointer]':
+            - generic [ref=e3061]:
+              - generic:
+                - 'img "Thumbnail for moment: What a ripper from Adil Rashid 🤯"'
+              - generic: NEW
+              - generic [ref=e3063]: What a ripper from Adil Rashid 🤯
+          - 'button "Moment button: A clean strike from Tom Bruce straight down the ground 🤩, new. Click to play moment. 268 of 498" [ref=e3064] [cursor=pointer]':
+            - generic [ref=e3066]:
+              - generic:
+                - 'img "Thumbnail for moment: A clean strike from Tom Bruce straight down the ground 🤩"'
+              - generic: NEW
+              - generic [ref=e3068]: A clean strike from Tom Bruce straight down the ground 🤩
+          - 'button "Moment button: Jofra Archer strikes twice early on 💥, new. Click to play moment. 269 of 498" [ref=e3069] [cursor=pointer]':
+            - generic [ref=e3071]:
+              - generic:
+                - 'img "Thumbnail for moment: Jofra Archer strikes twice early on 💥"'
+              - generic: NEW
+              - generic [ref=e3073]: Jofra Archer strikes twice early on 💥
+          - 'button "Moment button: Hammad Mirza sends it sailing 🤩, new. Click to play moment. 270 of 498" [ref=e3074] [cursor=pointer]':
+            - generic [ref=e3076]:
+              - generic:
+                - 'img "Thumbnail for moment: Hammad Mirza sends it sailing 🤩"'
+              - generic: NEW
+              - generic [ref=e3078]: Hammad Mirza sends it sailing 🤩
+          - 'button "Moment button: Dockrell clears the ropes with ease 👊, new. Click to play moment. 271 of 498" [ref=e3079] [cursor=pointer]':
+            - generic [ref=e3081]:
+              - generic:
+                - 'img "Thumbnail for moment: Dockrell clears the ropes with ease 👊"'
+              - generic: NEW
+              - generic [ref=e3083]: Dockrell clears the ropes with ease 👊
+          - 'button "Moment button: Lorcan Tucker goes wild in the 18th over 💥, new. Click to play moment. 272 of 498" [ref=e3084] [cursor=pointer]':
+            - generic [ref=e3086]:
+              - generic:
+                - 'img "Thumbnail for moment: Lorcan Tucker goes wild in the 18th over 💥"'
+              - generic: NEW
+              - generic [ref=e3088]: Lorcan Tucker goes wild in the 18th over 💥
+          - 'button "Moment button: Lorcan Tucker dispatches it for 6️⃣, new. Click to play moment. 273 of 498" [ref=e3089] [cursor=pointer]':
+            - generic [ref=e3091]:
+              - generic:
+                - 'img "Thumbnail for moment: Lorcan Tucker dispatches it for 6️⃣"'
+              - generic: NEW
+              - generic [ref=e3093]: Lorcan Tucker dispatches it for 6️⃣
+          - 'button "Moment button: Aamir Kaleem completes a crucial catch 👏, new. Click to play moment. 274 of 498" [ref=e3094] [cursor=pointer]':
+            - generic [ref=e3096]:
+              - generic:
+                - 'img "Thumbnail for moment: Aamir Kaleem completes a crucial catch 👏"'
+              - generic: NEW
+              - generic [ref=e3098]: Aamir Kaleem completes a crucial catch 👏
+          - 'button "Moment button: USA triumphant 🇺🇲, new. Click to play moment. 275 of 498" [ref=e3099] [cursor=pointer]':
+            - generic [ref=e3101]:
+              - generic:
+                - 'img "Thumbnail for moment: USA triumphant 🇺🇲"'
+              - generic: NEW
+              - generic [ref=e3103]: USA triumphant 🇺🇲
+          - 'button "Moment button: Shadley van Schlalkwyk on the mark 🎯, new. Click to play moment. 276 of 498" [ref=e3104] [cursor=pointer]':
+            - generic [ref=e3106]:
+              - generic:
+                - 'img "Thumbnail for moment: Shadley van Schlalkwyk on the mark 🎯"'
+              - generic: NEW
+              - generic [ref=e3108]: Shadley van Schlalkwyk on the mark 🎯
+          - 'button "Moment button: Mohsin rattles stumps 🔥, new. Click to play moment. 277 of 498" [ref=e3109] [cursor=pointer]':
+            - generic [ref=e3111]:
+              - generic:
+                - 'img "Thumbnail for moment: Mohsin rattles stumps 🔥"'
+              - generic: NEW
+              - generic [ref=e3113]: Mohsin rattles stumps 🔥
+          - 'button "Moment button: Harmeet snaps big fish 🎣, new. Click to play moment. 278 of 498" [ref=e3114] [cursor=pointer]':
+            - generic [ref=e3116]:
+              - generic:
+                - 'img "Thumbnail for moment: Harmeet snaps big fish 🎣"'
+              - generic: NEW
+              - generic [ref=e3118]: Harmeet snaps big fish 🎣
+          - 'button "Moment button: Kenjige with the first ball impact 🌀, new. Click to play moment. 279 of 498" [ref=e3119] [cursor=pointer]':
+            - generic [ref=e3121]:
+              - generic:
+                - 'img "Thumbnail for moment: Kenjige with the first ball impact 🌀"'
+              - generic: NEW
+              - generic [ref=e3123]: Kenjige with the first ball impact 🌀
+          - 'button "Moment button: Ranjane dials up the creativity 🤩, new. Click to play moment. 280 of 498" [ref=e3124] [cursor=pointer]':
+            - generic [ref=e3126]:
+              - generic:
+                - 'img "Thumbnail for moment: Ranjane dials up the creativity 🤩"'
+              - generic: NEW
+              - generic [ref=e3128]: Ranjane dials up the creativity 🤩
+          - 'button "Moment button: De Leede nabs big wicket 👏, new. Click to play moment. 281 of 498" [ref=e3129] [cursor=pointer]':
+            - generic [ref=e3131]:
+              - generic:
+                - 'img "Thumbnail for moment: De Leede nabs big wicket 👏"'
+              - generic: NEW
+              - generic [ref=e3133]: De Leede nabs big wicket 👏
+          - 'button "Moment button: A fine 5️⃣0️⃣, new. Click to play moment. 282 of 498" [ref=e3134] [cursor=pointer]':
+            - generic [ref=e3136]:
+              - generic:
+                - 'img "Thumbnail for moment: A fine 5️⃣0️⃣"'
+              - generic: NEW
+              - generic [ref=e3138]: A fine 5️⃣0️⃣
+          - 'button "Moment button: Fred Klaassen strikes 💥, new. Click to play moment. 283 of 498" [ref=e3139] [cursor=pointer]':
+            - generic [ref=e3141]:
+              - generic:
+                - 'img "Thumbnail for moment: Fred Klaassen strikes 💥"'
+              - generic: NEW
+              - generic [ref=e3143]: Fred Klaassen strikes 💥
+          - 'button "Moment button: Klein cleans it up 👊, new. Click to play moment. 284 of 498" [ref=e3144] [cursor=pointer]':
+            - generic [ref=e3146]:
+              - generic:
+                - 'img "Thumbnail for moment: Klein cleans it up 👊"'
+              - generic: NEW
+              - generic [ref=e3148]: Klein cleans it up 👊
+          - 'button "Moment button: Gorgeous straight drive 🤌, new. Click to play moment. 285 of 498" [ref=e3149] [cursor=pointer]':
+            - generic [ref=e3151]:
+              - generic:
+                - 'img "Thumbnail for moment: Gorgeous straight drive 🤌"'
+              - generic: NEW
+              - generic [ref=e3153]: Gorgeous straight drive 🤌
+          - 'button "Moment button: Exquisite hitting from Jahangir 👌, new. Click to play moment. 286 of 498" [ref=e3154] [cursor=pointer]':
+            - generic [ref=e3156]:
+              - generic:
+                - 'img "Thumbnail for moment: Exquisite hitting from Jahangir 👌"'
+              - generic: NEW
+              - generic [ref=e3158]: Exquisite hitting from Jahangir 👌
+          - 'button "Moment button: Aryansh times it to perfection 6️⃣, new. Click to play moment. 287 of 498" [ref=e3159] [cursor=pointer]':
+            - generic [ref=e3161]:
+              - generic:
+                - 'img "Thumbnail for moment: Aryansh times it to perfection 6️⃣"'
+              - generic: NEW
+              - generic [ref=e3163]: Aryansh times it to perfection 6️⃣
+          - 'button "Moment button: UAE script win 👏, new. Click to play moment. 288 of 498" [ref=e3164] [cursor=pointer]':
+            - generic [ref=e3166]:
+              - generic:
+                - 'img "Thumbnail for moment: UAE script win 👏"'
+              - generic: NEW
+              - generic [ref=e3168]: UAE script win 👏
+          - 'button "Moment button: Sohaib takes aerial route ✈️, new. Click to play moment. 289 of 498" [ref=e3169] [cursor=pointer]':
+            - generic [ref=e3171]:
+              - generic:
+                - 'img "Thumbnail for moment: Sohaib takes aerial route ✈️"'
+              - generic: NEW
+              - generic [ref=e3173]: Sohaib takes aerial route ✈️
+          - 'button "Moment button: Aryansh caps his effort with a fifty 🙌, new. Click to play moment. 290 of 498" [ref=e3174] [cursor=pointer]':
+            - generic [ref=e3176]:
+              - generic:
+                - 'img "Thumbnail for moment: Aryansh caps his effort with a fifty 🙌"'
+              - generic: NEW
+              - generic [ref=e3178]: Aryansh caps his effort with a fifty 🙌
+          - 'button "Moment button: Impactful Bin Zafar brings the wicket 🕺, new. Click to play moment. 291 of 498" [ref=e3179] [cursor=pointer]':
+            - generic [ref=e3181]:
+              - generic:
+                - 'img "Thumbnail for moment: Impactful Bin Zafar brings the wicket 🕺"'
+              - generic: NEW
+              - generic [ref=e3183]: Impactful Bin Zafar brings the wicket 🕺
+          - 'button "Moment button: Aryansh cashes in at the sixth over ☄️, new. Click to play moment. 292 of 498" [ref=e3184] [cursor=pointer]':
+            - generic [ref=e3186]:
+              - generic:
+                - 'img "Thumbnail for moment: Aryansh cashes in at the sixth over ☄️"'
+              - generic: NEW
+              - generic [ref=e3188]: Aryansh cashes in at the sixth over ☄️
+          - 'button "Moment button: Junaid strikes 💥, new. Click to play moment. 293 of 498" [ref=e3189] [cursor=pointer]':
+            - generic [ref=e3191]:
+              - generic:
+                - 'img "Thumbnail for moment: Junaid strikes 💥"'
+              - generic: NEW
+              - generic [ref=e3193]: Junaid strikes 💥
+          - 'button "Moment button: Junaid etches his name in the history books 💪, new. Click to play moment. 294 of 498" [ref=e3194] [cursor=pointer]':
+            - generic [ref=e3196]:
+              - generic:
+                - 'img "Thumbnail for moment: Junaid etches his name in the history books 💪"'
+              - generic: NEW
+              - generic [ref=e3198]: Junaid etches his name in the history books 💪
+          - 'button "Moment button: Thaker departs after a fine fifty 👏, new. Click to play moment. 295 of 498" [ref=e3199] [cursor=pointer]':
+            - generic [ref=e3201]:
+              - generic:
+                - 'img "Thumbnail for moment: Thaker departs after a fine fifty 👏"'
+              - generic: NEW
+              - generic [ref=e3203]: Thaker departs after a fine fifty 👏
+          - 'button "Moment button: Arfan hits the bullseye 🎯, new. Click to play moment. 296 of 498" [ref=e3204] [cursor=pointer]':
+            - generic [ref=e3206]:
+              - generic:
+                - 'img "Thumbnail for moment: Arfan hits the bullseye 🎯"'
+              - generic: NEW
+              - generic [ref=e3208]: Arfan hits the bullseye 🎯
+          - 'button "Moment button: Thaker gets going 🚀, new. Click to play moment. 297 of 498" [ref=e3209] [cursor=pointer]':
+            - generic [ref=e3211]:
+              - generic:
+                - 'img "Thumbnail for moment: Thaker gets going 🚀"'
+              - generic: NEW
+              - generic [ref=e3213]: Thaker gets going 🚀
+          - 'button "Moment button: Jaw-dropping stunner for Munyonga 🤯, new. Click to play moment. 298 of 498" [ref=e3214] [cursor=pointer]':
+            - generic [ref=e3216]:
+              - generic:
+                - 'img "Thumbnail for moment: Jaw-dropping stunner for Munyonga 🤯"'
+              - generic: NEW
+              - generic [ref=e3218]: Jaw-dropping stunner for Munyonga 🤯
+          - 'button "Moment button: Incredible win for Zimbabwe 👏, new. Click to play moment. 299 of 498" [ref=e3219] [cursor=pointer]':
+            - generic [ref=e3221]:
+              - generic:
+                - 'img "Thumbnail for moment: Incredible win for Zimbabwe 👏"'
+              - generic: NEW
+              - generic [ref=e3223]: Incredible win for Zimbabwe 👏
+          - 'button "Moment button: Renshaw times it to perfection 😮‍💨, new. Click to play moment. 300 of 498" [ref=e3224] [cursor=pointer]':
+            - generic [ref=e3226]:
+              - generic:
+                - 'img "Thumbnail for moment: Renshaw times it to perfection 😮‍💨"'
+              - generic: NEW
+              - generic [ref=e3228]: Renshaw times it to perfection 😮‍💨
+          - 'button "Moment button: A sublime reverse sweep from Maxwell ✨, new. Click to play moment. 301 of 498" [ref=e3229] [cursor=pointer]':
+            - generic [ref=e3231]:
+              - generic:
+                - 'img "Thumbnail for moment: A sublime reverse sweep from Maxwell ✨"'
+              - generic: NEW
+              - generic [ref=e3233]: A sublime reverse sweep from Maxwell ✨
+          - 'button "Moment button: Early breakthrough for Zimbabwe 💪, new. Click to play moment. 302 of 498" [ref=e3234] [cursor=pointer]':
+            - generic [ref=e3236]:
+              - generic:
+                - 'img "Thumbnail for moment: Early breakthrough for Zimbabwe 💪"'
+              - generic: NEW
+              - generic [ref=e3238]: Early breakthrough for Zimbabwe 💪
+          - 'button "Moment button: Zimbabwe finish with a six 💥, new. Click to play moment. 303 of 498" [ref=e3239] [cursor=pointer]':
+            - generic [ref=e3241]:
+              - generic:
+                - 'img "Thumbnail for moment: Zimbabwe finish with a six 💥"'
+              - generic: NEW
+              - generic [ref=e3243]: Zimbabwe finish with a six 💥
+          - 'button "Moment button: Bennett''s lovely cover drive 😍, new. Click to play moment. 304 of 498" [ref=e3244] [cursor=pointer]':
+            - generic [ref=e3246]:
+              - generic:
+                - 'img "Thumbnail for moment: Bennett''s lovely cover drive 😍"'
+              - generic: NEW
+              - generic [ref=e3248]: Bennett's lovely cover drive 😍
+          - 'button "Moment button: Bennett goes straight for a four 👊, new. Click to play moment. 305 of 498" [ref=e3249] [cursor=pointer]':
+            - generic [ref=e3251]:
+              - generic:
+                - 'img "Thumbnail for moment: Bennett goes straight for a four 👊"'
+              - generic: NEW
+              - generic [ref=e3253]: Bennett goes straight for a four 👊
+          - 'button "Moment button: India register second win in T20WC 👊, new. Click to play moment. 306 of 498" [ref=e3254] [cursor=pointer]':
+            - generic [ref=e3256]:
+              - generic:
+                - 'img "Thumbnail for moment: India register second win in T20WC 👊"'
+              - generic: NEW
+              - generic [ref=e3258]: India register second win in T20WC 👊
+          - 'button "Moment button: Bumrah''s special yorker 🤩, new. Click to play moment. 307 of 498" [ref=e3259] [cursor=pointer]':
+            - generic [ref=e3261]:
+              - generic:
+                - 'img "Thumbnail for moment: Bumrah''s special yorker 🤩"'
+              - generic: NEW
+              - generic [ref=e3263]: Bumrah's special yorker 🤩
+          - 'button "Moment button: Bumrah holds onto a top catch 😮, new. Click to play moment. 308 of 498" [ref=e3264] [cursor=pointer]':
+            - generic [ref=e3266]:
+              - generic:
+                - 'img "Thumbnail for moment: Bumrah holds onto a top catch 😮"'
+              - generic: NEW
+              - generic [ref=e3268]: Bumrah holds onto a top catch 😮
+          - 'button "Moment button: Chakaravarthy cleans up JJ Smit 🔥, new. Click to play moment. 309 of 498" [ref=e3269] [cursor=pointer]':
+            - generic [ref=e3271]:
+              - generic:
+                - 'img "Thumbnail for moment: Chakaravarthy cleans up JJ Smit 🔥"'
+              - generic: NEW
+              - generic [ref=e3273]: Chakaravarthy cleans up JJ Smit 🔥
+          - 'button "Moment button: Steenkamp finishes the powerplay with a maximum 🙌, new. Click to play moment. 310 of 498" [ref=e3274] [cursor=pointer]':
+            - generic [ref=e3276]:
+              - generic:
+                - 'img "Thumbnail for moment: Steenkamp finishes the powerplay with a maximum 🙌"'
+              - generic: NEW
+              - generic [ref=e3278]: Steenkamp finishes the powerplay with a maximum 🙌
+          - 'button "Moment button: Namibia strike back 👊, new. Click to play moment. 311 of 498" [ref=e3279] [cursor=pointer]':
+            - generic [ref=e3281]:
+              - generic:
+                - 'img "Thumbnail for moment: Namibia strike back 👊"'
+              - generic: NEW
+              - generic [ref=e3283]: Namibia strike back 👊
+          - 'button "Moment button: Pandya brings up his fifty in style 💥, new. Click to play moment. 312 of 498" [ref=e3284] [cursor=pointer]':
+            - generic [ref=e3286]:
+              - generic:
+                - 'img "Thumbnail for moment: Pandya brings up his fifty in style 💥"'
+              - generic: NEW
+              - generic [ref=e3288]: Pandya brings up his fifty in style 💥
+          - 'button "Moment button: Dube with a monstrous hit 🚀, new. Click to play moment. 313 of 498" [ref=e3289] [cursor=pointer]':
+            - generic [ref=e3291]:
+              - generic:
+                - 'img "Thumbnail for moment: Dube with a monstrous hit 🚀"'
+              - generic: NEW
+              - generic [ref=e3293]: Dube with a monstrous hit 🚀
+          - 'button "Moment button: Excellent stumping from Zane Green 🧤, new. Click to play moment. 314 of 498" [ref=e3294] [cursor=pointer]':
+            - generic [ref=e3296]:
+              - generic:
+                - 'img "Thumbnail for moment: Excellent stumping from Zane Green 🧤"'
+              - generic: NEW
+              - generic [ref=e3298]: Excellent stumping from Zane Green 🧤
+          - 'button "Moment button: Erasmus gets the crucial breakthrough 👊, new. Click to play moment. 315 of 498" [ref=e3299] [cursor=pointer]':
+            - generic [ref=e3301]:
+              - generic:
+                - 'img "Thumbnail for moment: Erasmus gets the crucial breakthrough 👊"'
+              - generic: NEW
+              - generic [ref=e3303]: Erasmus gets the crucial breakthrough 👊
+          - 'button "Moment button: Ishan Kishan goes berserk 🔥, new. Click to play moment. 316 of 498" [ref=e3304] [cursor=pointer]':
+            - generic [ref=e3306]:
+              - generic:
+                - 'img "Thumbnail for moment: Ishan Kishan goes berserk 🔥"'
+              - generic: NEW
+              - generic [ref=e3308]: Ishan Kishan goes berserk 🔥
+          - 'button "Moment button: Sanju Samson flicks it away for 6️⃣, new. Click to play moment. 317 of 498" [ref=e3309] [cursor=pointer]':
+            - generic [ref=e3311]:
+              - generic:
+                - 'img "Thumbnail for moment: Sanju Samson flicks it away for 6️⃣"'
+              - generic: NEW
+              - generic [ref=e3313]: Sanju Samson flicks it away for 6️⃣
+          - 'button "Moment button: Gerhard Erasmus with a Golden Ducks, new. Click to play moment. 318 of 498" [ref=e3314] [cursor=pointer]':
+            - generic [ref=e3316]:
+              - generic:
+                - 'img "Thumbnail for moment: Gerhard Erasmus with a Golden Ducks"'
+              - generic: NEW
+              - generic [ref=e3318]: Gerhard Erasmus with a Golden Ducks
+          - 'button "Moment button: A historic win for Italy 🙌, new. Click to play moment. 319 of 498" [ref=e3319] [cursor=pointer]':
+            - generic [ref=e3321]:
+              - generic:
+                - 'img "Thumbnail for moment: A historic win for Italy 🙌"'
+              - generic: NEW
+              - generic [ref=e3323]: A historic win for Italy 🙌
+          - 'button "Moment button: Anthony Mosca times it to perfection 👊, new. Click to play moment. 320 of 498" [ref=e3324] [cursor=pointer]':
+            - generic [ref=e3326]:
+              - generic:
+                - 'img "Thumbnail for moment: Anthony Mosca times it to perfection 👊"'
+              - generic: NEW
+              - generic [ref=e3328]: Anthony Mosca times it to perfection 👊
+          - 'button "Moment button: Justin Mosca sends it soaring 🔥, new. Click to play moment. 321 of 498" [ref=e3329] [cursor=pointer]':
+            - generic [ref=e3331]:
+              - generic:
+                - 'img "Thumbnail for moment: Justin Mosca sends it soaring 🔥"'
+              - generic: NEW
+              - generic [ref=e3333]: Justin Mosca sends it soaring 🔥
+          - 'button "Moment button: Karan KC launches it into the stands 👊, new. Click to play moment. 322 of 498" [ref=e3334] [cursor=pointer]':
+            - generic [ref=e3336]:
+              - generic:
+                - 'img "Thumbnail for moment: Karan KC launches it into the stands 👊"'
+              - generic: NEW
+              - generic [ref=e3338]: Karan KC launches it into the stands 👊
+          - 'button "Moment button: Crishan Kalugamage''s googly does the magic 💫, new. Click to play moment. 323 of 498" [ref=e3339] [cursor=pointer]':
+            - generic [ref=e3341]:
+              - generic:
+                - 'img "Thumbnail for moment: Crishan Kalugamage''s googly does the magic 💫"'
+              - generic: NEW
+              - generic [ref=e3343]: Crishan Kalugamage's googly does the magic 💫
+          - 'button "Moment button: Rohit Paudel dispatches it for a six 💥, new. Click to play moment. 324 of 498" [ref=e3344] [cursor=pointer]':
+            - generic [ref=e3346]:
+              - generic:
+                - 'img "Thumbnail for moment: Rohit Paudel dispatches it for a six 💥"'
+              - generic: NEW
+              - generic [ref=e3348]: Rohit Paudel dispatches it for a six 💥
+          - 'button "Moment button: Rohit Paudel strikes it pure 😮‍💨, new. Click to play moment. 325 of 498" [ref=e3349] [cursor=pointer]':
+            - generic [ref=e3351]:
+              - generic:
+                - 'img "Thumbnail for moment: Rohit Paudel strikes it pure 😮‍💨"'
+              - generic: NEW
+              - generic [ref=e3353]: Rohit Paudel strikes it pure 😮‍💨
+          - 'button "Moment button: Italy elect to field first 🏏, new. Click to play moment. 326 of 498" [ref=e3354] [cursor=pointer]':
+            - generic [ref=e3356]:
+              - generic:
+                - 'img "Thumbnail for moment: Italy elect to field first 🏏"'
+              - generic: NEW
+              - generic [ref=e3358]: Italy elect to field first 🏏
+          - 'button "Moment button: Sri Lanka make it two wins in a row 🤩, new. Click to play moment. 327 of 498" [ref=e3359] [cursor=pointer]':
+            - generic [ref=e3361]:
+              - generic:
+                - 'img "Thumbnail for moment: Sri Lanka make it two wins in a row 🤩"'
+              - generic: NEW
+              - generic [ref=e3363]: Sri Lanka make it two wins in a row 🤩
+          - 'button "Moment button: Kamil Mishara hits the bullseye 🎯, new. Click to play moment. 328 of 498" [ref=e3364] [cursor=pointer]':
+            - generic [ref=e3366]:
+              - generic:
+                - 'img "Thumbnail for moment: Kamil Mishara hits the bullseye 🎯"'
+              - generic: NEW
+              - generic [ref=e3368]: Kamil Mishara hits the bullseye 🎯
+          - 'button "Moment button: Wasim Ali goes big 💪, new. Click to play moment. 329 of 498" [ref=e3369] [cursor=pointer]':
+            - generic [ref=e3371]:
+              - generic:
+                - 'img "Thumbnail for moment: Wasim Ali goes big 💪"'
+              - generic: NEW
+              - generic [ref=e3373]: Wasim Ali goes big 💪
+          - 'button "Moment button: Kamindu Mendis caps off the innings in style 👊, new. Click to play moment. 330 of 498" [ref=e3374] [cursor=pointer]':
+            - generic [ref=e3376]:
+              - generic:
+                - 'img "Thumbnail for moment: Kamindu Mendis caps off the innings in style 👊"'
+              - generic: NEW
+              - generic [ref=e3378]: Kamindu Mendis caps off the innings in style 👊
+          - 'button "Moment button: Dasun Shanaka sends it sailing 🚀, new. Click to play moment. 331 of 498" [ref=e3379] [cursor=pointer]':
+            - generic [ref=e3381]:
+              - generic:
+                - 'img "Thumbnail for moment: Dasun Shanaka sends it sailing 🚀"'
+              - generic: NEW
+              - generic [ref=e3383]: Dasun Shanaka sends it sailing 🚀
+          - 'button "Moment button: Pavan Rathnayake makes it look effortless 😮‍💨, new. Click to play moment. 332 of 498" [ref=e3384] [cursor=pointer]':
+            - generic [ref=e3386]:
+              - generic:
+                - 'img "Thumbnail for moment: Pavan Rathnayake makes it look effortless 😮‍💨"'
+              - generic: NEW
+              - generic [ref=e3388]: Pavan Rathnayake makes it look effortless 😮‍💨
+          - 'button "Moment button: Superb bowling from Jay Odedra 💥, new. Click to play moment. 333 of 498" [ref=e3389] [cursor=pointer]':
+            - generic [ref=e3391]:
+              - generic:
+                - 'img "Thumbnail for moment: Superb bowling from Jay Odedra 💥"'
+              - generic: NEW
+              - generic [ref=e3393]: Superb bowling from Jay Odedra 💥
+          - 'button "Moment button: Windies notch up two wins in a row 🤩, new. Click to play moment. 334 of 498" [ref=e3394] [cursor=pointer]':
+            - generic [ref=e3396]:
+              - generic:
+                - 'img "Thumbnail for moment: Windies notch up two wins in a row 🤩"'
+              - generic: NEW
+              - generic [ref=e3398]: Windies notch up two wins in a row 🤩
+          - 'button "Moment button: Powell holds onto a crucial catch 👌, new. Click to play moment. 335 of 498" [ref=e3399] [cursor=pointer]':
+            - generic [ref=e3401]:
+              - generic:
+                - 'img "Thumbnail for moment: Powell holds onto a crucial catch 👌"'
+              - generic: NEW
+              - generic [ref=e3403]: Powell holds onto a crucial catch 👌
+          - 'button "Moment button: Holder with a vital run out 🎯, new. Click to play moment. 336 of 498" [ref=e3404] [cursor=pointer]':
+            - generic [ref=e3406]:
+              - generic:
+                - 'img "Thumbnail for moment: Holder with a vital run out 🎯"'
+              - generic: NEW
+              - generic [ref=e3408]: Holder with a vital run out 🎯
+          - 'button "Moment button: Excellant Motie gets skipper Brook 💪, new. Click to play moment. 337 of 498" [ref=e3409] [cursor=pointer]':
+            - generic [ref=e3411]:
+              - generic:
+                - 'img "Thumbnail for moment: Excellant Motie gets skipper Brook 💪"'
+              - generic: NEW
+              - generic [ref=e3413]: Excellant Motie gets skipper Brook 💪
+          - 'button "Moment button: Motie his the timber 🔥, new. Click to play moment. 338 of 498" [ref=e3414] [cursor=pointer]':
+            - generic [ref=e3416]:
+              - generic:
+                - 'img "Thumbnail for moment: Motie his the timber 🔥"'
+              - generic: NEW
+              - generic [ref=e3418]: Motie his the timber 🔥
+          - 'button "Moment button: West Indies get Salt early 👏, new. Click to play moment. 339 of 498" [ref=e3419] [cursor=pointer]':
+            - generic [ref=e3421]:
+              - generic:
+                - 'img "Thumbnail for moment: West Indies get Salt early 👏"'
+              - generic: NEW
+              - generic [ref=e3423]: West Indies get Salt early 👏
+          - 'button "Moment button: Holder takes on Curran 🏏, new. Click to play moment. 340 of 498" [ref=e3424] [cursor=pointer]':
+            - generic [ref=e3426]:
+              - generic:
+                - 'img "Thumbnail for moment: Holder takes on Curran 🏏"'
+              - generic: NEW
+              - generic [ref=e3428]: Holder takes on Curran 🏏
+          - 'button "Moment button: Rutherford smashes half ton with a maximum 👊, new. Click to play moment. 341 of 498" [ref=e3429] [cursor=pointer]':
+            - generic [ref=e3431]:
+              - generic:
+                - 'img "Thumbnail for moment: Rutherford smashes half ton with a maximum 👊"'
+              - generic: NEW
+              - generic [ref=e3433]: Rutherford smashes half ton with a maximum 👊
+          - 'button "Moment button: Raw power by Rutherford 💪, new. Click to play moment. 342 of 498" [ref=e3434] [cursor=pointer]':
+            - generic [ref=e3436]:
+              - generic:
+                - 'img "Thumbnail for moment: Raw power by Rutherford 💪"'
+              - generic: NEW
+              - generic [ref=e3438]: Raw power by Rutherford 💪
+          - 'button "Moment button: Hetmyer''s maximum with a sweep 😮, new. Click to play moment. 343 of 498" [ref=e3439] [cursor=pointer]':
+            - generic [ref=e3441]:
+              - generic:
+                - 'img "Thumbnail for moment: Hetmyer''s maximum with a sweep 😮"'
+              - generic: NEW
+              - generic [ref=e3443]: Hetmyer's maximum with a sweep 😮
+          - 'button "Moment button: Aus make a winning start to the T20WC 💪, new. Click to play moment. 344 of 498" [ref=e3444] [cursor=pointer]':
+            - generic [ref=e3446]:
+              - generic:
+                - 'img "Thumbnail for moment: Aus make a winning start to the T20WC 💪"'
+              - generic: NEW
+              - generic [ref=e3448]: Aus make a winning start to the T20WC 💪
+          - 'button "Moment button: Ellis on a roll in Colombo 😍, new. Click to play moment. 345 of 498" [ref=e3449] [cursor=pointer]':
+            - generic [ref=e3451]:
+              - generic:
+                - 'img "Thumbnail for moment: Ellis on a roll in Colombo 😍"'
+              - generic: NEW
+              - generic [ref=e3453]: Ellis on a roll in Colombo 😍
+          - 'button "Moment button: Connolly''s cracking hit 👌, new. Click to play moment. 346 of 498" [ref=e3454] [cursor=pointer]':
+            - generic [ref=e3456]:
+              - generic:
+                - 'img "Thumbnail for moment: Connolly''s cracking hit 👌"'
+              - generic: NEW
+              - generic [ref=e3458]: Connolly's cracking hit 👌
+          - 'button "Moment button: Humphreys breaks through Renshaw''s defence 🙌, new. Click to play moment. 347 of 498" [ref=e3459] [cursor=pointer]':
+            - generic [ref=e3461]:
+              - generic:
+                - 'img "Thumbnail for moment: Humphreys breaks through Renshaw''s defence 🙌"'
+              - generic: NEW
+              - generic [ref=e3463]: Humphreys breaks through Renshaw's defence 🙌
+          - 'button "Moment button: Tector gets the better of Maxwell 💪, new. Click to play moment. 348 of 498" [ref=e3464] [cursor=pointer]':
+            - generic [ref=e3466]:
+              - generic:
+                - 'img "Thumbnail for moment: Tector gets the better of Maxwell 💪"'
+              - generic: NEW
+              - generic [ref=e3468]: Tector gets the better of Maxwell 💪
+          - 'button "Moment button: Stirling pulls off a top catch 😮, new. Click to play moment. 349 of 498" [ref=e3469] [cursor=pointer]':
+            - generic [ref=e3471]:
+              - generic:
+                - 'img "Thumbnail for moment: Stirling pulls off a top catch 😮"'
+              - generic: NEW
+              - generic [ref=e3473]: Stirling pulls off a top catch 😮
+          - 'button "Moment button: Proteas prevail in humdinger of a clash 😮‍💨, new. Click to play moment. 350 of 498" [ref=e3474] [cursor=pointer]':
+            - generic [ref=e3476]:
+              - generic:
+                - 'img "Thumbnail for moment: Proteas prevail in humdinger of a clash 😮‍💨"'
+              - generic: NEW
+              - generic [ref=e3478]: Proteas prevail in humdinger of a clash 😮‍💨
+          - 'button "Moment button: Gurbaz smashes a maximum in the second Super Over 6️⃣, new. Click to play moment. 351 of 498" [ref=e3479] [cursor=pointer]':
+            - generic [ref=e3481]:
+              - generic:
+                - 'img "Thumbnail for moment: Gurbaz smashes a maximum in the second Super Over 6️⃣"'
+              - generic: NEW
+              - generic [ref=e3483]: Gurbaz smashes a maximum in the second Super Over 6️⃣
+          - 'button "Moment button: Stubbs'' six leads to another Super Over 🤯, new. Click to play moment. 352 of 498" [ref=e3484] [cursor=pointer]':
+            - generic [ref=e3486]:
+              - generic:
+                - 'img "Thumbnail for moment: Stubbs'' six leads to another Super Over 🤯"'
+              - generic: NEW
+              - generic [ref=e3488]: Stubbs' six leads to another Super Over 🤯
+          - 'button "Moment button: Ngidi pulls off a stunning return catch 👏, new. Click to play moment. 353 of 498" [ref=e3489] [cursor=pointer]':
+            - generic [ref=e3491]:
+              - generic:
+                - 'img "Thumbnail for moment: Ngidi pulls off a stunning return catch 👏"'
+              - generic: NEW
+              - generic [ref=e3493]: Ngidi pulls off a stunning return catch 👏
+          - 'button "Moment button: Gurbaz departs after a stunning knock 🙌, new. Click to play moment. 354 of 498" [ref=e3494] [cursor=pointer]':
+            - generic [ref=e3496]:
+              - generic:
+                - 'img "Thumbnail for moment: Gurbaz departs after a stunning knock 🙌"'
+              - generic: NEW
+              - generic [ref=e3498]: Gurbaz departs after a stunning knock 🙌
+          - 'button "Moment button: Gurbaz with a mammoth maximum 😮, new. Click to play moment. 355 of 498" [ref=e3499] [cursor=pointer]':
+            - generic [ref=e3501]:
+              - generic:
+                - 'img "Thumbnail for moment: Gurbaz with a mammoth maximum 😮"'
+              - generic: NEW
+              - generic [ref=e3503]: Gurbaz with a mammoth maximum 😮
+          - 'button "Moment button: Rashid gets the big wicket of Rickelton 👊, new. Click to play moment. 356 of 498" [ref=e3504] [cursor=pointer]':
+            - generic [ref=e3506]:
+              - generic:
+                - 'img "Thumbnail for moment: Rashid gets the big wicket of Rickelton 👊"'
+              - generic: NEW
+              - generic [ref=e3508]: Rashid gets the big wicket of Rickelton 👊
+          - 'button "Moment button: A brilliant half-century by De Kock 👌, new. Click to play moment. 357 of 498" [ref=e3509] [cursor=pointer]':
+            - generic [ref=e3511]:
+              - generic:
+                - 'img "Thumbnail for moment: A brilliant half-century by De Kock 👌"'
+              - generic: NEW
+              - generic [ref=e3513]: A brilliant half-century by De Kock 👌
+          - 'button "Moment button: Quinton De Kock clears the rope 💪, new. Click to play moment. 358 of 498" [ref=e3514] [cursor=pointer]':
+            - generic [ref=e3516]:
+              - generic:
+                - 'img "Thumbnail for moment: Quinton De Kock clears the rope 💪"'
+              - generic: NEW
+              - generic [ref=e3518]: Quinton De Kock clears the rope 💪
+          - 'button "Moment button: Tristan Stubbs with a Caught Outs, new. Click to play moment. 359 of 498" [ref=e3519] [cursor=pointer]':
+            - generic [ref=e3521]:
+              - generic:
+                - 'img "Thumbnail for moment: Tristan Stubbs with a Caught Outs"'
+              - generic: NEW
+              - generic [ref=e3523]: Tristan Stubbs with a Caught Outs
+          - 'button "Moment button: Pakistan go ✌️ in ✌️, new. Click to play moment. 360 of 498" [ref=e3524] [cursor=pointer]':
+            - generic [ref=e3526]:
+              - generic:
+                - 'img "Thumbnail for moment: Pakistan go ✌️ in ✌️"'
+              - generic: NEW
+              - generic [ref=e3528]: Pakistan go ✌️ in ✌️
+          - 'button "Moment button: Tariq''s dream debut continues 💯, new. Click to play moment. 361 of 498" [ref=e3529] [cursor=pointer]':
+            - generic [ref=e3531]:
+              - generic:
+                - 'img "Thumbnail for moment: Tariq''s dream debut continues 💯"'
+              - generic: NEW
+              - generic [ref=e3533]: Tariq's dream debut continues 💯
+          - 'button "Moment button: Right on the money goes Abarar 🎯, new. Click to play moment. 362 of 498" [ref=e3534] [cursor=pointer]':
+            - generic [ref=e3536]:
+              - generic:
+                - 'img "Thumbnail for moment: Right on the money goes Abarar 🎯"'
+              - generic: NEW
+              - generic [ref=e3538]: Right on the money goes Abarar 🎯
+          - 'button "Moment button: Ranjane''s cracking six 💥, new. Click to play moment. 363 of 498" [ref=e3539] [cursor=pointer]':
+            - generic [ref=e3541]:
+              - generic:
+                - 'img "Thumbnail for moment: Ranjane''s cracking six 💥"'
+              - generic: NEW
+              - generic [ref=e3543]: Ranjane's cracking six 💥
+          - 'button "Moment button: Safe as houses catch from Shadab 👌, new. Click to play moment. 364 of 498" [ref=e3544] [cursor=pointer]':
+            - generic [ref=e3546]:
+              - generic:
+                - 'img "Thumbnail for moment: Safe as houses catch from Shadab 👌"'
+              - generic: NEW
+              - generic [ref=e3548]: Safe as houses catch from Shadab 👌
+          - 'button "Moment button: Harmeet removes Farhan 🌪️, new. Click to play moment. 365 of 498" [ref=e3549] [cursor=pointer]':
+            - generic [ref=e3551]:
+              - generic:
+                - 'img "Thumbnail for moment: Harmeet removes Farhan 🌪️"'
+              - generic: NEW
+              - generic [ref=e3553]: Harmeet removes Farhan 🌪️
+          - 'button "Moment button: Babar takes aerial route 🚀, new. Click to play moment. 366 of 498" [ref=e3554] [cursor=pointer]':
+            - generic [ref=e3556]:
+              - generic:
+                - 'img "Thumbnail for moment: Babar takes aerial route 🚀"'
+              - generic: NEW
+              - generic [ref=e3558]: Babar takes aerial route 🚀
+          - 'button "Moment button: Farhan on song 🎶, new. Click to play moment. 367 of 498" [ref=e3559] [cursor=pointer]':
+            - generic [ref=e3561]:
+              - generic:
+                - 'img "Thumbnail for moment: Farhan on song 🎶"'
+              - generic: NEW
+              - generic [ref=e3563]: Farhan on song 🎶
+          - 'button "Moment button: Opening strike for USA 💥, new. Click to play moment. 368 of 498" [ref=e3564] [cursor=pointer]':
+            - generic [ref=e3566]:
+              - generic:
+                - 'img "Thumbnail for moment: Opening strike for USA 💥"'
+              - generic: NEW
+              - generic [ref=e3568]: Opening strike for USA 💥
+          - 'button "Moment button: NZ seal second win 🙌, new. Click to play moment. 369 of 498" [ref=e3569] [cursor=pointer]':
+            - generic [ref=e3571]:
+              - generic:
+                - 'img "Thumbnail for moment: NZ seal second win 🙌"'
+              - generic: NEW
+              - generic [ref=e3573]: NZ seal second win 🙌
+          - 'button "Moment button: Seifert takes to the skies ✈️, new. Click to play moment. 370 of 498" [ref=e3574] [cursor=pointer]':
+            - generic [ref=e3576]:
+              - generic:
+                - 'img "Thumbnail for moment: Seifert takes to the skies ✈️"'
+              - generic: NEW
+              - generic [ref=e3578]: Seifert takes to the skies ✈️
+          - 'button "Moment button: Unconventional but effective 💯, new. Click to play moment. 371 of 498" [ref=e3579] [cursor=pointer]':
+            - generic [ref=e3581]:
+              - generic:
+                - 'img "Thumbnail for moment: Unconventional but effective 💯"'
+              - generic: NEW
+              - generic [ref=e3583]: Unconventional but effective 💯
+          - 'button "Moment button: Seifert’s half-century 👏, new. Click to play moment. 372 of 498" [ref=e3584] [cursor=pointer]':
+            - generic [ref=e3586]:
+              - generic:
+                - 'img "Thumbnail for moment: Seifert’s half-century 👏"'
+              - generic: NEW
+              - generic [ref=e3588]: Seifert’s half-century 👏
+          - 'button "Moment button: Openers on the offensive 👊, new. Click to play moment. 373 of 498" [ref=e3589] [cursor=pointer]':
+            - generic [ref=e3591]:
+              - generic:
+                - 'img "Thumbnail for moment: Openers on the offensive 👊"'
+              - generic: NEW
+              - generic [ref=e3593]: Openers on the offensive 👊
+          - 'button "Moment button: Finn Allen scoops it over 😲, new. Click to play moment. 374 of 498" [ref=e3594] [cursor=pointer]':
+            - generic [ref=e3596]:
+              - generic:
+                - 'img "Thumbnail for moment: Finn Allen scoops it over 😲"'
+              - generic: NEW
+              - generic [ref=e3598]: Finn Allen scoops it over 😲
+          - 'button "Moment button: Splendid team catch 🇳🇿, new. Click to play moment. 375 of 498" [ref=e3599] [cursor=pointer]':
+            - generic [ref=e3601]:
+              - generic:
+                - 'img "Thumbnail for moment: Splendid team catch 🇳🇿"'
+              - generic: NEW
+              - generic [ref=e3603]: Splendid team catch 🇳🇿
+          - 'button "Moment button: Sharafu brings up 5️⃣0️⃣, new. Click to play moment. 376 of 498" [ref=e3604] [cursor=pointer]':
+            - generic [ref=e3606]:
+              - generic:
+                - 'img "Thumbnail for moment: Sharafu brings up 5️⃣0️⃣"'
+              - generic: NEW
+              - generic [ref=e3608]: Sharafu brings up 5️⃣0️⃣
+          - 'button "Moment button: Inventive six 🔥, new. Click to play moment. 377 of 498" [ref=e3609] [cursor=pointer]':
+            - generic [ref=e3611]:
+              - generic:
+                - 'img "Thumbnail for moment: Inventive six 🔥"'
+              - generic: NEW
+              - generic [ref=e3613]: Inventive six 🔥
+          - 'button "Moment button: Sharafu’s crunching drive 👌, new. Click to play moment. 378 of 498" [ref=e3614] [cursor=pointer]':
+            - generic [ref=e3616]:
+              - generic:
+                - 'img "Thumbnail for moment: Sharafu’s crunching drive 👌"'
+              - generic: NEW
+              - generic [ref=e3618]: Sharafu’s crunching drive 👌
+          - 'button "Moment button: Waseem goes big 💥, new. Click to play moment. 379 of 498" [ref=e3619] [cursor=pointer]':
+            - generic [ref=e3621]:
+              - generic:
+                - 'img "Thumbnail for moment: Waseem goes big 💥"'
+              - generic: NEW
+              - generic [ref=e3623]: Waseem goes big 💥
+          - 'button "Moment button: UAE elect to bat 🏏, new. Click to play moment. 380 of 498" [ref=e3624] [cursor=pointer]':
+            - generic [ref=e3626]:
+              - generic:
+                - 'img "Thumbnail for moment: UAE elect to bat 🏏"'
+              - generic: NEW
+              - generic [ref=e3628]: UAE elect to bat 🏏
+          - 'button "Moment button: A emphatic win for Netherlands 🙌, new. Click to play moment. 381 of 498" [ref=e3629] [cursor=pointer]':
+            - generic [ref=e3631]:
+              - generic:
+                - 'img "Thumbnail for moment: A emphatic win for Netherlands 🙌"'
+              - generic: NEW
+              - generic [ref=e3633]: A emphatic win for Netherlands 🙌
+          - 'button "Moment button: Bas de Leede goes all the way 💪, new. Click to play moment. 382 of 498" [ref=e3634] [cursor=pointer]':
+            - generic [ref=e3636]:
+              - generic:
+                - 'img "Thumbnail for moment: Bas de Leede goes all the way 💪"'
+              - generic: NEW
+              - generic [ref=e3638]: Bas de Leede goes all the way 💪
+          - 'button "Moment button: Bas de Leede launches it into the stands 💥, new. Click to play moment. 383 of 498" [ref=e3639] [cursor=pointer]':
+            - generic [ref=e3641]:
+              - generic:
+                - 'img "Thumbnail for moment: Bas de Leede launches it into the stands 💥"'
+              - generic: NEW
+              - generic [ref=e3643]: Bas de Leede launches it into the stands 💥
+          - 'button "Moment button: JJ Smit with a cracking hit 😍, new. Click to play moment. 384 of 498" [ref=e3644] [cursor=pointer]':
+            - generic [ref=e3646]:
+              - generic:
+                - 'img "Thumbnail for moment: JJ Smit with a cracking hit 😍"'
+              - generic: NEW
+              - generic [ref=e3648]: JJ Smit with a cracking hit 😍
+          - 'button "Moment button: Gerhard Erasmus times it to perfection 👌, new. Click to play moment. 385 of 498" [ref=e3649] [cursor=pointer]':
+            - generic [ref=e3651]:
+              - generic:
+                - 'img "Thumbnail for moment: Gerhard Erasmus times it to perfection 👌"'
+              - generic: NEW
+              - generic [ref=e3653]: Gerhard Erasmus times it to perfection 👌
+          - 'button "Moment button: Jan Frylinck smashes a biggie 😮‍💨, new. Click to play moment. 386 of 498" [ref=e3654] [cursor=pointer]':
+            - generic [ref=e3656]:
+              - generic:
+                - 'img "Thumbnail for moment: Jan Frylinck smashes a biggie 😮‍💨"'
+              - generic: NEW
+              - generic [ref=e3658]: Jan Frylinck smashes a biggie 😮‍💨
+          - 'button "Moment button: Scott Edwards'' fast hands at work 🧤, new. Click to play moment. 387 of 498" [ref=e3659] [cursor=pointer]':
+            - generic [ref=e3661]:
+              - generic:
+                - 'img "Thumbnail for moment: Scott Edwards'' fast hands at work 🧤"'
+              - generic: NEW
+              - generic [ref=e3663]: Scott Edwards' fast hands at work 🧤
+          - 'button "Moment button: Proteas off to a winning start in T20WC 🎉, new. Click to play moment. 388 of 498" [ref=e3664] [cursor=pointer]':
+            - generic [ref=e3666]:
+              - generic:
+                - 'img "Thumbnail for moment: Proteas off to a winning start in T20WC 🎉"'
+              - generic: NEW
+              - generic [ref=e3668]: Proteas off to a winning start in T20WC 🎉
+          - 'button "Moment button: Dhaliwal falls after a fighting knock 👏, new. Click to play moment. 389 of 498" [ref=e3669] [cursor=pointer]':
+            - generic [ref=e3671]:
+              - generic:
+                - 'img "Thumbnail for moment: Dhaliwal falls after a fighting knock 👏"'
+              - generic: NEW
+              - generic [ref=e3673]: Dhaliwal falls after a fighting knock 👏
+          - 'button "Moment button: Rabada on target to disturb the timber 🎯, new. Click to play moment. 390 of 498" [ref=e3674] [cursor=pointer]':
+            - generic [ref=e3676]:
+              - generic:
+                - 'img "Thumbnail for moment: Rabada on target to disturb the timber 🎯"'
+              - generic: NEW
+              - generic [ref=e3678]: Rabada on target to disturb the timber 🎯
+          - 'button "Moment button: Dhaliwal creams one to the boundary 😍, new. Click to play moment. 391 of 498" [ref=e3679] [cursor=pointer]':
+            - generic [ref=e3681]:
+              - generic:
+                - 'img "Thumbnail for moment: Dhaliwal creams one to the boundary 😍"'
+              - generic: NEW
+              - generic [ref=e3683]: Dhaliwal creams one to the boundary 😍
+          - 'button "Moment button: Miller smashes it to the stands 🔥, new. Click to play moment. 392 of 498" [ref=e3684] [cursor=pointer]':
+            - generic [ref=e3686]:
+              - generic:
+                - 'img "Thumbnail for moment: Miller smashes it to the stands 🔥"'
+              - generic: NEW
+              - generic [ref=e3688]: Miller smashes it to the stands 🔥
+          - 'button "Moment button: Stubbs goes up and over 🚀, new. Click to play moment. 393 of 498" [ref=e3689] [cursor=pointer]':
+            - generic [ref=e3691]:
+              - generic:
+                - 'img "Thumbnail for moment: Stubbs goes up and over 🚀"'
+              - generic: NEW
+              - generic [ref=e3693]: Stubbs goes up and over 🚀
+          - 'button "Moment button: Heyliger''s smart catch near the boundary 🙌, new. Click to play moment. 394 of 498" [ref=e3694] [cursor=pointer]':
+            - generic [ref=e3696]:
+              - generic:
+                - 'img "Thumbnail for moment: Heyliger''s smart catch near the boundary 🙌"'
+              - generic: NEW
+              - generic [ref=e3698]: Heyliger's smart catch near the boundary 🙌
+          - 'button "Moment button: Picked up and dispatched by Markram 💥, new. Click to play moment. 395 of 498" [ref=e3699] [cursor=pointer]':
+            - generic [ref=e3701]:
+              - generic:
+                - 'img "Thumbnail for moment: Picked up and dispatched by Markram 💥"'
+              - generic: NEW
+              - generic [ref=e3703]: Picked up and dispatched by Markram 💥
+          - 'button "Moment button: Zim begin T20WC campaign with a win 👊, new. Click to play moment. 396 of 498" [ref=e3704] [cursor=pointer]':
+            - generic [ref=e3706]:
+              - generic:
+                - 'img "Thumbnail for moment: Zim begin T20WC campaign with a win 👊"'
+              - generic: NEW
+              - generic [ref=e3708]: Zim begin T20WC campaign with a win 👊
+          - 'button "Moment button: Bennett gets one away to the boundary 4️⃣, new. Click to play moment. 397 of 498" [ref=e3709] [cursor=pointer]':
+            - generic [ref=e3711]:
+              - generic:
+                - 'img "Thumbnail for moment: Bennett gets one away to the boundary 4️⃣"'
+              - generic: NEW
+              - generic [ref=e3713]: Bennett gets one away to the boundary 4️⃣
+          - 'button "Moment button: Wasim holds onto a top catch 😮, new. Click to play moment. 398 of 498" [ref=e3714] [cursor=pointer]':
+            - generic [ref=e3716]:
+              - generic:
+                - 'img "Thumbnail for moment: Wasim holds onto a top catch 😮"'
+              - generic: NEW
+              - generic [ref=e3718]: Wasim holds onto a top catch 😮
+          - 'button "Moment button: Bennett pulls off a jaw-dropping stunner 😱, new. Click to play moment. 399 of 498" [ref=e3719] [cursor=pointer]':
+            - generic [ref=e3721]:
+              - generic:
+                - 'img "Thumbnail for moment: Bennett pulls off a jaw-dropping stunner 😱"'
+              - generic: NEW
+              - generic [ref=e3723]: Bennett pulls off a jaw-dropping stunner 😱
+          - 'button "Moment button: Nadeem smashes the first six of the game 6️⃣, new. Click to play moment. 400 of 498" [ref=e3724] [cursor=pointer]':
+            - generic [ref=e3726]:
+              - generic:
+                - 'img "Thumbnail for moment: Nadeem smashes the first six of the game 6️⃣"'
+              - generic: NEW
+              - generic [ref=e3728]: Nadeem smashes the first six of the game 6️⃣
+          - 'button "Moment button: Sufyan''s perfect reverse sweep 👏, new. Click to play moment. 401 of 498" [ref=e3729] [cursor=pointer]':
+            - generic [ref=e3731]:
+              - generic:
+                - 'img "Thumbnail for moment: Sufyan''s perfect reverse sweep 👏"'
+              - generic: NEW
+              - generic [ref=e3733]: Sufyan's perfect reverse sweep 👏
+          - 'button "Moment button: Raza hits the timber with a beauty 🤌, new. Click to play moment. 402 of 498" [ref=e3734] [cursor=pointer]':
+            - generic [ref=e3736]:
+              - generic:
+                - 'img "Thumbnail for moment: Raza hits the timber with a beauty 🤌"'
+              - generic: NEW
+              - generic [ref=e3738]: Raza hits the timber with a beauty 🤌
+          - 'button "Moment button: Muzarabani''s double blow in an over 💥, new. Click to play moment. 403 of 498" [ref=e3739] [cursor=pointer]':
+            - generic [ref=e3741]:
+              - generic:
+                - 'img "Thumbnail for moment: Muzarabani''s double blow in an over 💥"'
+              - generic: NEW
+              - generic [ref=e3743]: Muzarabani's double blow in an over 💥
+          - 'button "Moment button: Scotland register first win in T20WC 2026 🙌, new. Click to play moment. 404 of 498" [ref=e3744] [cursor=pointer]':
+            - generic [ref=e3746]:
+              - generic:
+                - 'img "Thumbnail for moment: Scotland register first win in T20WC 2026 🙌"'
+              - generic: NEW
+              - generic [ref=e3748]: Scotland register first win in T20WC 2026 🙌
+          - 'button "Moment button: Benjamin Manenti gets to his fifty in style 👌, new. Click to play moment. 405 of 498" [ref=e3749] [cursor=pointer]':
+            - generic [ref=e3751]:
+              - generic:
+                - 'img "Thumbnail for moment: Benjamin Manenti gets to his fifty in style 👌"'
+              - generic: NEW
+              - generic [ref=e3753]: Benjamin Manenti gets to his fifty in style 👌
+          - 'button "Moment button: Harry Manenti sends it down the ground for 6️⃣, new. Click to play moment. 406 of 498" [ref=e3754] [cursor=pointer]':
+            - generic [ref=e3756]:
+              - generic:
+                - 'img "Thumbnail for moment: Harry Manenti sends it down the ground for 6️⃣"'
+              - generic: NEW
+              - generic [ref=e3758]: Harry Manenti sends it down the ground for 6️⃣
+          - 'button "Moment button: George Munsey picks a blinder 🤯, new. Click to play moment. 407 of 498" [ref=e3759] [cursor=pointer]':
+            - generic [ref=e3761]:
+              - generic:
+                - 'img "Thumbnail for moment: George Munsey picks a blinder 🤯"'
+              - generic: NEW
+              - generic [ref=e3763]: George Munsey picks a blinder 🤯
+          - 'button "Moment button: Scotland breach the 200-run mark 💪, new. Click to play moment. 408 of 498" [ref=e3764] [cursor=pointer]':
+            - generic [ref=e3766]:
+              - generic:
+                - 'img "Thumbnail for moment: Scotland breach the 200-run mark 💪"'
+              - generic: NEW
+              - generic [ref=e3768]: Scotland breach the 200-run mark 💪
+          - 'button "Moment button: Italy''s first World Cup wicket 👏, new. Click to play moment. 409 of 498" [ref=e3769] [cursor=pointer]':
+            - generic [ref=e3771]:
+              - generic:
+                - 'img "Thumbnail for moment: Italy''s first World Cup wicket 👏"'
+              - generic: NEW
+              - generic [ref=e3773]: Italy's first World Cup wicket 👏
+          - 'button "Moment button: George Munsey races to 50 👊, new. Click to play moment. 410 of 498" [ref=e3774] [cursor=pointer]':
+            - generic [ref=e3776]:
+              - generic:
+                - 'img "Thumbnail for moment: George Munsey races to 50 👊"'
+              - generic: NEW
+              - generic [ref=e3778]: George Munsey races to 50 👊
+          - 'button "Moment button: Trouble for Italy skipper 👀, new. Click to play moment. 411 of 498" [ref=e3779] [cursor=pointer]':
+            - generic [ref=e3781]:
+              - generic:
+                - 'img "Thumbnail for moment: Trouble for Italy skipper 👀"'
+              - generic: NEW
+              - generic [ref=e3783]: Trouble for Italy skipper 👀
+          - 'button "Moment button: Sri Lanka win in Colombo 🎊, new. Click to play moment. 412 of 498" [ref=e3784] [cursor=pointer]':
+            - generic [ref=e3786]:
+              - generic:
+                - 'img "Thumbnail for moment: Sri Lanka win in Colombo 🎊"'
+              - generic: NEW
+              - generic [ref=e3788]: Sri Lanka win in Colombo 🎊
+          - 'button "Moment button: Kusal stumps Calitz ⚡, new. Click to play moment. 413 of 498" [ref=e3789] [cursor=pointer]':
+            - generic [ref=e3791]:
+              - generic:
+                - 'img "Thumbnail for moment: Kusal stumps Calitz ⚡"'
+              - generic: NEW
+              - generic [ref=e3793]: Kusal stumps Calitz ⚡
+          - 'button "Moment button: A biggie dispatched by Ross Adair ☄️, new. Click to play moment. 414 of 498" [ref=e3794] [cursor=pointer]':
+            - generic [ref=e3796]:
+              - generic:
+                - 'img "Thumbnail for moment: A biggie dispatched by Ross Adair ☄️"'
+              - generic: NEW
+              - generic [ref=e3798]: A biggie dispatched by Ross Adair ☄️
+          - 'button "Moment button: Theekshana rattles Stirling''s stumps \\|/, new. Click to play moment. 415 of 498" [ref=e3799] [cursor=pointer]':
+            - generic [ref=e3801]:
+              - generic:
+                - 'img "Thumbnail for moment: Theekshana rattles Stirling''s stumps \\|/"'
+              - generic: NEW
+              - generic [ref=e3803]: Theekshana rattles Stirling's stumps \|/
+          - 'button "Moment button: Kusal stands tall with a 50 🔥, new. Click to play moment. 416 of 498" [ref=e3804] [cursor=pointer]':
+            - generic [ref=e3806]:
+              - generic:
+                - 'img "Thumbnail for moment: Kusal stands tall with a 50 🔥"'
+              - generic: NEW
+              - generic [ref=e3808]: Kusal stands tall with a 50 🔥
+          - 'button "Moment button: Kamindu with the innovation 😲, new. Click to play moment. 417 of 498" [ref=e3809] [cursor=pointer]':
+            - generic [ref=e3811]:
+              - generic:
+                - 'img "Thumbnail for moment: Kamindu with the innovation 😲"'
+              - generic: NEW
+              - generic [ref=e3813]: Kamindu with the innovation 😲
+          - 'button "Moment button: Stirling pouches a sharp take 💪, new. Click to play moment. 418 of 498" [ref=e3814] [cursor=pointer]':
+            - generic [ref=e3816]:
+              - generic:
+                - 'img "Thumbnail for moment: Stirling pouches a sharp take 💪"'
+              - generic: NEW
+              - generic [ref=e3818]: Stirling pouches a sharp take 💪
+          - 'button "Moment button: Brilliant maximum from Nissanka 👌, new. Click to play moment. 419 of 498" [ref=e3819] [cursor=pointer]':
+            - generic [ref=e3821]:
+              - generic:
+                - 'img "Thumbnail for moment: Brilliant maximum from Nissanka 👌"'
+              - generic: NEW
+              - generic [ref=e3823]: Brilliant maximum from Nissanka 👌
+          - 'button "Moment button: England seal thriller 🍿, new. Click to play moment. 420 of 498" [ref=e3824] [cursor=pointer]':
+            - generic [ref=e3826]:
+              - generic:
+                - 'img "Thumbnail for moment: England seal thriller 🍿"'
+              - generic: NEW
+              - generic [ref=e3828]: England seal thriller 🍿
+          - 'button "Moment button: Bam goes boom 💥, new. Click to play moment. 421 of 498" [ref=e3829] [cursor=pointer]':
+            - generic [ref=e3831]:
+              - generic:
+                - 'img "Thumbnail for moment: Bam goes boom 💥"'
+              - generic: NEW
+              - generic [ref=e3833]: Bam goes boom 💥
+          - 'button "Moment button: Nepal continue the fight 💪, new. Click to play moment. 422 of 498" [ref=e3834] [cursor=pointer]':
+            - generic [ref=e3836]:
+              - generic:
+                - 'img "Thumbnail for moment: Nepal continue the fight 💪"'
+              - generic: NEW
+              - generic [ref=e3838]: Nepal continue the fight 💪
+          - 'button "Moment button: Curran’s crucial strike 🙌, new. Click to play moment. 423 of 498" [ref=e3839] [cursor=pointer]':
+            - generic [ref=e3841]:
+              - generic:
+                - 'img "Thumbnail for moment: Curran’s crucial strike 🙌"'
+              - generic: NEW
+              - generic [ref=e3843]: Curran’s crucial strike 🙌
+          - 'button "Moment button: Nepal set the tempo 🏏, new. Click to play moment. 424 of 498" [ref=e3844] [cursor=pointer]':
+            - generic [ref=e3846]:
+              - generic:
+                - 'img "Thumbnail for moment: Nepal set the tempo 🏏"'
+              - generic: NEW
+              - generic [ref=e3848]: Nepal set the tempo 🏏
+          - 'button "Moment button: Bhurtel gets Nepal going 👊, new. Click to play moment. 425 of 498" [ref=e3849] [cursor=pointer]':
+            - generic [ref=e3851]:
+              - generic:
+                - 'img "Thumbnail for moment: Bhurtel gets Nepal going 👊"'
+              - generic: NEW
+              - generic [ref=e3853]: Bhurtel gets Nepal going 👊
+          - 'button "Moment button: Captain’s knock from Brook 👌, new. Click to play moment. 426 of 498" [ref=e3854] [cursor=pointer]':
+            - generic [ref=e3856]:
+              - generic:
+                - 'img "Thumbnail for moment: Captain’s knock from Brook 👌"'
+              - generic: NEW
+              - generic [ref=e3858]: Captain’s knock from Brook 👌
+          - 'button "Moment button: Nepal strike back ⚡, new. Click to play moment. 427 of 498" [ref=e3859] [cursor=pointer]':
+            - generic [ref=e3861]:
+              - generic:
+                - 'img "Thumbnail for moment: Nepal strike back ⚡"'
+              - generic: NEW
+              - generic [ref=e3863]: Nepal strike back ⚡
+          - 'button "Moment button: Bethell brings up 5️⃣0️⃣, new. Click to play moment. 428 of 498" [ref=e3864] [cursor=pointer]':
+            - generic [ref=e3866]:
+              - generic:
+                - 'img "Thumbnail for moment: Bethell brings up 5️⃣0️⃣"'
+              - generic: NEW
+              - generic [ref=e3868]: Bethell brings up 5️⃣0️⃣
+          - 'button "Moment button: Bethell takes off 🚀, new. Click to play moment. 429 of 498" [ref=e3869] [cursor=pointer]':
+            - generic [ref=e3871]:
+              - generic:
+                - 'img "Thumbnail for moment: Bethell takes off 🚀"'
+              - generic: NEW
+              - generic [ref=e3873]: Bethell takes off 🚀
+          - 'button "Moment button: Nepal tighten their grip 💪, new. Click to play moment. 430 of 498" [ref=e3874] [cursor=pointer]':
+            - generic [ref=e3876]:
+              - generic:
+                - 'img "Thumbnail for moment: Nepal tighten their grip 💪"'
+              - generic: NEW
+              - generic [ref=e3878]: Nepal tighten their grip 💪
+          - 'button "Moment button: Nandan Yadav removes Buttler 💥, new. Click to play moment. 431 of 498" [ref=e3879] [cursor=pointer]':
+            - generic [ref=e3881]:
+              - generic:
+                - 'img "Thumbnail for moment: Nandan Yadav removes Buttler 💥"'
+              - generic: NEW
+              - generic [ref=e3883]: Nandan Yadav removes Buttler 💥
+          - 'button "Moment button: Sher Malla’s debut strike 🔥, new. Click to play moment. 432 of 498" [ref=e3884] [cursor=pointer]':
+            - generic [ref=e3886]:
+              - generic:
+                - 'img "Thumbnail for moment: Sher Malla’s debut strike 🔥"'
+              - generic: NEW
+              - generic [ref=e3888]: Sher Malla’s debut strike 🔥
+          - 'button "Moment button: England win the toss 🪙, new. Click to play moment. 433 of 498" [ref=e3889] [cursor=pointer]':
+            - generic [ref=e3891]:
+              - generic:
+                - 'img "Thumbnail for moment: England win the toss 🪙"'
+              - generic: NEW
+              - generic [ref=e3893]: England win the toss 🪙
+          - 'button "Moment button: Black Caps seal the win 👏, new. Click to play moment. 434 of 498" [ref=e3894] [cursor=pointer]':
+            - generic [ref=e3896]:
+              - generic:
+                - 'img "Thumbnail for moment: Black Caps seal the win 👏"'
+              - generic: NEW
+              - generic [ref=e3898]: Black Caps seal the win 👏
+          - 'button "Moment button: Santner clears the rope 👊, new. Click to play moment. 435 of 498" [ref=e3899] [cursor=pointer]':
+            - generic [ref=e3901]:
+              - generic:
+                - 'img "Thumbnail for moment: Santner clears the rope 👊"'
+              - generic: NEW
+              - generic [ref=e3903]: Santner clears the rope 👊
+          - 'button "Moment button: Tim Seifert hits a huge one 🤯, new. Click to play moment. 436 of 498" [ref=e3904] [cursor=pointer]':
+            - generic [ref=e3906]:
+              - generic:
+                - 'img "Thumbnail for moment: Tim Seifert hits a huge one 🤯"'
+              - generic: NEW
+              - generic [ref=e3908]: Tim Seifert hits a huge one 🤯
+          - 'button "Moment button: Glenn Phillips goes down the ground for 6️⃣, new. Click to play moment. 437 of 498" [ref=e3909] [cursor=pointer]':
+            - generic [ref=e3911]:
+              - generic:
+                - 'img "Thumbnail for moment: Glenn Phillips goes down the ground for 6️⃣"'
+              - generic: NEW
+              - generic [ref=e3913]: Glenn Phillips goes down the ground for 6️⃣
+          - 'button "Moment button: Mujeeb bamboozles Rachin 💫, new. Click to play moment. 438 of 498" [ref=e3914] [cursor=pointer]':
+            - generic [ref=e3916]:
+              - generic:
+                - 'img "Thumbnail for moment: Mujeeb bamboozles Rachin 💫"'
+              - generic: NEW
+              - generic [ref=e3918]: Mujeeb bamboozles Rachin 💫
+          - 'button "Moment button: Nabi launches it for six 👊, new. Click to play moment. 439 of 498" [ref=e3919] [cursor=pointer]':
+            - generic [ref=e3921]:
+              - generic:
+                - 'img "Thumbnail for moment: Nabi launches it for six 👊"'
+              - generic: NEW
+              - generic [ref=e3923]: Nabi launches it for six 👊
+          - 'button "Moment button: Gulbadin Naib smashes it for 6️⃣, new. Click to play moment. 440 of 498" [ref=e3924] [cursor=pointer]':
+            - generic [ref=e3926]:
+              - generic:
+                - 'img "Thumbnail for moment: Gulbadin Naib smashes it for 6️⃣"'
+              - generic: NEW
+              - generic [ref=e3928]: Gulbadin Naib smashes it for 6️⃣
+          - 'button "Moment button: Rahmanullah Gurbaz showing his finesse 👌, new. Click to play moment. 441 of 498" [ref=e3929] [cursor=pointer]':
+            - generic [ref=e3931]:
+              - generic:
+                - 'img "Thumbnail for moment: Rahmanullah Gurbaz showing his finesse 👌"'
+              - generic: NEW
+              - generic [ref=e3933]: Rahmanullah Gurbaz showing his finesse 👌
+          - 'button "Moment button: India seal victory in Mumbai 🇮🇳👌, new. Click to play moment. 442 of 498" [ref=e3934] [cursor=pointer]':
+            - generic [ref=e3936]:
+              - generic:
+                - 'img "Thumbnail for moment: India seal victory in Mumbai 🇮🇳👌"'
+              - generic: NEW
+              - generic [ref=e3938]: India seal victory in Mumbai 🇮🇳👌
+          - 'button "Moment button: Ranjane braves the pain 💪, new. Click to play moment. 443 of 498" [ref=e3939] [cursor=pointer]':
+            - generic [ref=e3941]:
+              - generic:
+                - 'img "Thumbnail for moment: Ranjane braves the pain 💪"'
+              - generic: NEW
+              - generic [ref=e3943]: Ranjane braves the pain 💪
+          - 'button "Moment button: Arshdeep gets the USA skipper 💪, new. Click to play moment. 444 of 498" [ref=e3944] [cursor=pointer]':
+            - generic [ref=e3946]:
+              - generic:
+                - 'img "Thumbnail for moment: Arshdeep gets the USA skipper 💪"'
+              - generic: NEW
+              - generic [ref=e3948]: Arshdeep gets the USA skipper 💪
+          - 'button "Moment button: Final over blitz by Suryakumar 💥, new. Click to play moment. 445 of 498" [ref=e3949] [cursor=pointer]':
+            - generic [ref=e3951]:
+              - generic:
+                - 'img "Thumbnail for moment: Final over blitz by Suryakumar 💥"'
+              - generic: NEW
+              - generic [ref=e3953]: Final over blitz by Suryakumar 💥
+          - 'button "Moment button: India turning the tide 🌊, new. Click to play moment. 446 of 498" [ref=e3954] [cursor=pointer]':
+            - generic [ref=e3956]:
+              - generic:
+                - 'img "Thumbnail for moment: India turning the tide 🌊"'
+              - generic: NEW
+              - generic [ref=e3958]: India turning the tide 🌊
+          - 'button "Moment button: SKY lets it fly ✈️, new. Click to play moment. 447 of 498" [ref=e3959] [cursor=pointer]':
+            - generic [ref=e3961]:
+              - generic:
+                - 'img "Thumbnail for moment: SKY lets it fly ✈️"'
+              - generic: NEW
+              - generic [ref=e3963]: SKY lets it fly ✈️
+          - 'button "Moment button: Van Schalkwyk on fire 🔥 , new. Click to play moment. 448 of 498" [ref=e3964] [cursor=pointer]':
+            - generic [ref=e3966]:
+              - generic:
+                - 'img "Thumbnail for moment: Van Schalkwyk on fire 🔥"'
+              - generic: NEW
+              - generic [ref=e3968]: Van Schalkwyk on fire 🔥
+          - 'button "Moment button: Kishan departs, USA mount pressure 👊, new. Click to play moment. 449 of 498" [ref=e3969] [cursor=pointer]':
+            - generic [ref=e3971]:
+              - generic:
+                - 'img "Thumbnail for moment: Kishan departs, USA mount pressure 👊"'
+              - generic: NEW
+              - generic [ref=e3973]: Kishan departs, USA mount pressure 👊
+          - 'button "Moment button: Ali Khan snaps Abhishek for a golden duck 🔥, new. Click to play moment. 450 of 498" [ref=e3974] [cursor=pointer]':
+            - generic [ref=e3976]:
+              - generic:
+                - 'img "Thumbnail for moment: Ali Khan snaps Abhishek for a golden duck 🔥"'
+              - generic: NEW
+              - generic [ref=e3978]: Ali Khan snaps Abhishek for a golden duck 🔥
+          - 'button "Moment button: West Indies win in Kolkata 👏, new. Click to play moment. 451 of 498" [ref=e3979] [cursor=pointer]':
+            - generic [ref=e3981]:
+              - generic:
+                - 'img "Thumbnail for moment: West Indies win in Kolkata 👏"'
+              - generic: NEW
+              - generic [ref=e3983]: West Indies win in Kolkata 👏
+          - 'button "Moment button: Shepherd clinches hat-trick 💥, new. Click to play moment. 452 of 498" [ref=e3984] [cursor=pointer]':
+            - generic [ref=e3986]:
+              - generic:
+                - 'img "Thumbnail for moment: Shepherd clinches hat-trick 💥"'
+              - generic: NEW
+              - generic [ref=e3988]: Shepherd clinches hat-trick 💥
+          - 'button "Moment button: Bruce keeps Scotland in hunt 👏, new. Click to play moment. 453 of 498" [ref=e3989] [cursor=pointer]':
+            - generic [ref=e3991]:
+              - generic:
+                - 'img "Thumbnail for moment: Bruce keeps Scotland in hunt 👏"'
+              - generic: NEW
+              - generic [ref=e3993]: Bruce keeps Scotland in hunt 👏
+          - 'button "Moment button: Hetmyer screamer 🫨, new. Click to play moment. 454 of 498" [ref=e3994] [cursor=pointer]':
+            - generic [ref=e3996]:
+              - generic:
+                - 'img "Thumbnail for moment: Hetmyer screamer 🫨"'
+              - generic: NEW
+              - generic [ref=e3998]: Hetmyer screamer 🫨
+          - 'button "Moment button: McMullen’s stunning catch 😲, new. Click to play moment. 455 of 498" [ref=e3999] [cursor=pointer]':
+            - generic [ref=e4001]:
+              - generic:
+                - 'img "Thumbnail for moment: McMullen’s stunning catch 😲"'
+              - generic: NEW
+              - generic [ref=e4003]: McMullen’s stunning catch 😲
+          - 'button "Moment button: Rutherford launches the offensive 👊, new. Click to play moment. 456 of 498" [ref=e4004] [cursor=pointer]':
+            - generic [ref=e4006]:
+              - generic:
+                - 'img "Thumbnail for moment: Rutherford launches the offensive 👊"'
+              - generic: NEW
+              - generic [ref=e4008]: Rutherford launches the offensive 👊
+          - 'button "Moment button: Munsey’s two-take catch 🙌, new. Click to play moment. 457 of 498" [ref=e4009] [cursor=pointer]':
+            - generic [ref=e4011]:
+              - generic:
+                - 'img "Thumbnail for moment: Munsey’s two-take catch 🙌"'
+              - generic: NEW
+              - generic [ref=e4013]: Munsey’s two-take catch 🙌
+          - 'button "Moment button: Brandon King takes to the skies 🚀, new. Click to play moment. 458 of 498" [ref=e4014] [cursor=pointer]':
+            - generic [ref=e4016]:
+              - generic:
+                - 'img "Thumbnail for moment: Brandon King takes to the skies 🚀"'
+              - generic: NEW
+              - generic [ref=e4018]: Brandon King takes to the skies 🚀
+          - 'button "Moment button: Scotland win the toss 🪙 , new. Click to play moment. 459 of 498" [ref=e4019] [cursor=pointer]':
+            - generic [ref=e4021]:
+              - generic:
+                - 'img "Thumbnail for moment: Scotland win the toss 🪙"'
+              - generic: NEW
+              - generic [ref=e4023]: Scotland win the toss 🪙
+          - 'button "Moment button: Faheem win urdu (reel), new. Click to play moment. 460 of 498" [ref=e4024] [cursor=pointer]':
+            - generic [ref=e4026]:
+              - generic:
+                - 'img "Thumbnail for moment: Faheem win urdu (reel)"'
+              - generic: NEW
+              - generic [ref=e4028]: Faheem win urdu (reel)
+          - 'button "Moment button: Pakistan off to winning start 👏, new. Click to play moment. 461 of 498" [ref=e4029] [cursor=pointer]':
+            - generic [ref=e4031]:
+              - generic:
+                - 'img "Thumbnail for moment: Pakistan off to winning start 👏"'
+              - generic: NEW
+              - generic [ref=e4033]: Pakistan off to winning start 👏
+          - 'button "Moment button: Faheem’s towering six 💥, new. Click to play moment. 462 of 498" [ref=e4034] [cursor=pointer]':
+            - generic [ref=e4036]:
+              - generic:
+                - 'img "Thumbnail for moment: Faheem’s towering six 💥"'
+              - generic: NEW
+              - generic [ref=e4038]: Faheem’s towering six 💥
+          - 'button "Moment button: Dangerous Farhan departs ⚡, new. Click to play moment. 463 of 498" [ref=e4039] [cursor=pointer]':
+            - generic [ref=e4041]:
+              - generic:
+                - 'img "Thumbnail for moment: Dangerous Farhan departs ⚡"'
+              - generic: NEW
+              - generic [ref=e4043]: Dangerous Farhan departs ⚡
+          - 'button "Moment button: Saim Ayub launches it for six 6️⃣, new. Click to play moment. 464 of 498" [ref=e4044] [cursor=pointer]':
+            - generic [ref=e4046]:
+              - generic:
+                - 'img "Thumbnail for moment: Saim Ayub launches it for six 6️⃣"'
+              - generic: NEW
+              - generic [ref=e4048]: Saim Ayub launches it for six 6️⃣
+          - 'button "Moment button: Solid catch by Sahibzada Farhan 👌, new. Click to play moment. 465 of 498" [ref=e4049] [cursor=pointer]':
+            - generic [ref=e4051]:
+              - generic:
+                - 'img "Thumbnail for moment: Solid catch by Sahibzada Farhan 👌"'
+              - generic: NEW
+              - generic [ref=e4053]: Solid catch by Sahibzada Farhan 👌
+          - 'button "Moment button: Aryan Dutt drives it for 4️⃣, new. Click to play moment. 466 of 498" [ref=e4054] [cursor=pointer]':
+            - generic [ref=e4056]:
+              - generic:
+                - 'img "Thumbnail for moment: Aryan Dutt drives it for 4️⃣"'
+              - generic: NEW
+              - generic [ref=e4058]: Aryan Dutt drives it for 4️⃣
+          - 'button "Moment button: Perfect start for Netherlands 👊, new. Click to play moment. 467 of 498" [ref=e4059] [cursor=pointer]':
+            - generic [ref=e4061]:
+              - generic:
+                - 'img "Thumbnail for moment: Perfect start for Netherlands 👊"'
+              - generic: NEW
+              - generic [ref=e4063]: Perfect start for Netherlands 👊
+          - 'button "Moment button: Babar and Shaheen combine to take a brilliant catch, new. Click to play moment. 468 of 498" [ref=e4064] [cursor=pointer]':
+            - generic [ref=e4066]:
+              - generic:
+                - 'img "Thumbnail for moment: Babar and Shaheen combine to take a brilliant catch"'
+              - generic: NEW
+              - generic [ref=e4068]: Babar and Shaheen combine to take a brilliant catch
+          - 'button "Moment button: Composure from Leicher to complete a great catch 👌, new. Click to play moment. 469 of 498" [ref=e4069] [cursor=pointer]':
+            - generic [ref=e4071]:
+              - generic:
+                - 'img "Thumbnail for moment: Composure from Leicher to complete a great catch 👌"'
+              - generic: NEW
+              - generic [ref=e4073]: Composure from Leicher to complete a great catch 👌
+          - 'button "Moment button: Bowlers wrap a huge win 🇮🇹💪, new. Click to play moment. 470 of 498" [ref=e4074] [cursor=pointer]':
+            - generic [ref=e4076]:
+              - generic:
+                - 'img "Thumbnail for moment: Bowlers wrap a huge win 🇮🇹💪"'
+              - generic: NEW
+              - generic [ref=e4078]: Bowlers wrap a huge win 🇮🇹💪
+          - 'button "Moment button: Stewart is on a roll 😲, new. Click to play moment. 471 of 498" [ref=e4079] [cursor=pointer]':
+            - generic [ref=e4081]:
+              - generic:
+                - 'img "Thumbnail for moment: Stewart is on a roll 😲"'
+              - generic: NEW
+              - generic [ref=e4083]: Stewart is on a roll 😲
+          - 'button "Moment button: Dispatched with ease by Stewart 💪, new. Click to play moment. 472 of 498" [ref=e4084] [cursor=pointer]':
+            - generic [ref=e4086]:
+              - generic:
+                - 'img "Thumbnail for moment: Dispatched with ease by Stewart 💪"'
+              - generic: NEW
+              - generic [ref=e4088]: Dispatched with ease by Stewart 💪
+          - 'button "Moment button: Jawadullah''s perfect delivery 👌, new. Click to play moment. 473 of 498" [ref=e4089] [cursor=pointer]':
+            - generic [ref=e4091]:
+              - generic:
+                - 'img "Thumbnail for moment: Jawadullah''s perfect delivery 👌"'
+              - generic: NEW
+              - generic [ref=e4093]: Jawadullah's perfect delivery 👌
+          - 'button "Moment button: Anthony Mosca on the charge 🇮🇹😍, new. Click to play moment. 474 of 498" [ref=e4094] [cursor=pointer]':
+            - generic [ref=e4096]:
+              - generic:
+                - 'img "Thumbnail for moment: Anthony Mosca on the charge 🇮🇹😍"'
+              - generic: NEW
+              - generic [ref=e4098]: Anthony Mosca on the charge 🇮🇹😍
+          - 'button "Moment button: Milind''s massive six to fight back 💪, new. Click to play moment. 475 of 498" [ref=e4099] [cursor=pointer]':
+            - generic [ref=e4101]:
+              - generic:
+                - 'img "Thumbnail for moment: Milind''s massive six to fight back 💪"'
+              - generic: NEW
+              - generic [ref=e4103]: Milind's massive six to fight back 💪
+          - 'button "Moment button: Neesham''s airborne beauty 🤯, new. Click to play moment. 476 of 498" [ref=e4104] [cursor=pointer]':
+            - generic [ref=e4106]:
+              - generic:
+                - 'img "Thumbnail for moment: Neesham''s airborne beauty 🤯"'
+              - generic: NEW
+              - generic [ref=e4108]: Neesham's airborne beauty 🤯
+          - 'button "Moment button: Phillips plays the switch-hit with ease 🤌, new. Click to play moment. 477 of 498" [ref=e4109] [cursor=pointer]':
+            - generic [ref=e4111]:
+              - generic:
+                - 'img "Thumbnail for moment: Phillips plays the switch-hit with ease 🤌"'
+              - generic: NEW
+              - generic [ref=e4113]: Phillips plays the switch-hit with ease 🤌
+          - 'button "Moment button: Bhurtel''s sublime timing 👌, new. Click to play moment. 478 of 498" [ref=e4114] [cursor=pointer]':
+            - generic [ref=e4116]:
+              - generic:
+                - 'img "Thumbnail for moment: Bhurtel''s sublime timing 👌"'
+              - generic: NEW
+              - generic [ref=e4118]: Bhurtel's sublime timing 👌
+          - 'button "Moment button: Nadeem Khan castles Madande \\|/, new. Click to play moment. 479 of 498" [ref=e4119] [cursor=pointer]':
+            - generic [ref=e4121]:
+              - generic:
+                - 'img "Thumbnail for moment: Nadeem Khan castles Madande \\|/"'
+              - generic: NEW
+              - generic [ref=e4123]: Nadeem Khan castles Madande \|/
+          - 'button "Moment button: Jansen''s booming six 🤯, new. Click to play moment. 480 of 498" [ref=e4124] [cursor=pointer]':
+            - generic [ref=e4126]:
+              - generic:
+                - 'img "Thumbnail for moment: Jansen''s booming six 🤯"'
+              - generic: NEW
+              - generic [ref=e4128]: Jansen's booming six 🤯
+          - 'button "Moment button: Acrobatic from Kishan 🤸‍♂️, new. Click to play moment. 481 of 498" [ref=e4129] [cursor=pointer]':
+            - generic [ref=e4131]:
+              - generic:
+                - 'img "Thumbnail for moment: Acrobatic from Kishan 🤸‍♂️"'
+              - generic: NEW
+              - generic [ref=e4133]: Acrobatic from Kishan 🤸‍♂️
+          - 'button "Moment button: Tremendous sweep from Rickelton 🙌, new. Click to play moment. 482 of 498" [ref=e4134] [cursor=pointer]':
+            - generic [ref=e4136]:
+              - generic:
+                - 'img "Thumbnail for moment: Tremendous sweep from Rickelton 🙌"'
+              - generic: NEW
+              - generic [ref=e4138]: Tremendous sweep from Rickelton 🙌
+          - 'button "Moment button: Markram''s brute force in the wrists 🔥, new. Click to play moment. 483 of 498" [ref=e4139] [cursor=pointer]':
+            - generic [ref=e4141]:
+              - generic:
+                - 'img "Thumbnail for moment: Markram''s brute force in the wrists 🔥"'
+              - generic: NEW
+              - generic [ref=e4143]: Markram's brute force in the wrists 🔥
+          - 'button "Moment button: Safe hands from Stubbs 👌, new. Click to play moment. 484 of 498" [ref=e4144] [cursor=pointer]':
+            - generic [ref=e4146]:
+              - generic:
+                - 'img "Thumbnail for moment: Safe hands from Stubbs 👌"'
+              - generic: NEW
+              - generic [ref=e4148]: Safe hands from Stubbs 👌
+          - 'button "Moment button: Dispatched to stands by Axar 😲, new. Click to play moment. 485 of 498" [ref=e4149] [cursor=pointer]':
+            - generic [ref=e4151]:
+              - generic:
+                - 'img "Thumbnail for moment: Dispatched to stands by Axar 😲"'
+              - generic: NEW
+              - generic [ref=e4153]: Dispatched to stands by Axar 😲
+          - 'button "Moment button: Kishan''s electric maximum 🚀, new. Click to play moment. 486 of 498" [ref=e4154] [cursor=pointer]':
+            - generic [ref=e4156]:
+              - generic:
+                - 'img "Thumbnail for moment: Kishan''s electric maximum 🚀"'
+              - generic: NEW
+              - generic [ref=e4158]: Kishan's electric maximum 🚀
+          - 'button "Moment button: Nabi breaksthrough Powell''s defence \\|/, new. Click to play moment. 487 of 498" [ref=e4159] [cursor=pointer]':
+            - generic [ref=e4161]:
+              - generic:
+                - 'img "Thumbnail for moment: Nabi breaksthrough Powell''s defence \\|/"'
+              - generic: NEW
+              - generic [ref=e4163]: Nabi breaksthrough Powell's defence \|/
+          - 'button "Moment button: Exquisite from Ibrahim Zadran 🤩, new. Click to play moment. 488 of 498" [ref=e4164] [cursor=pointer]':
+            - generic [ref=e4166]:
+              - generic:
+                - 'img "Thumbnail for moment: Exquisite from Ibrahim Zadran 🤩"'
+              - generic: NEW
+              - generic [ref=e4168]: Exquisite from Ibrahim Zadran 🤩
+          - 'button "Moment button: Sheikh gets the win for Nepal 🔥, new. Click to play moment. 489 of 498" [ref=e4169] [cursor=pointer]':
+            - generic [ref=e4171]:
+              - generic:
+                - 'img "Thumbnail for moment: Sheikh gets the win for Nepal 🔥"'
+              - generic: NEW
+              - generic [ref=e4173]: Sheikh gets the win for Nepal 🔥
+          - 'button "Moment button: Cremer gets it to turn big 🌀, new. Click to play moment. 490 of 498" [ref=e4174] [cursor=pointer]':
+            - generic [ref=e4176]:
+              - generic:
+                - 'img "Thumbnail for moment: Cremer gets it to turn big 🌀"'
+              - generic: NEW
+              - generic [ref=e4178]: Cremer gets it to turn big 🌀
+          - 'button "Moment button: Airee never misses 📌, new. Click to play moment. 491 of 498" [ref=e4179] [cursor=pointer]':
+            - generic [ref=e4181]:
+              - generic:
+                - 'img "Thumbnail for moment: Airee never misses 📌"'
+              - generic: NEW
+              - generic [ref=e4183]: Airee never misses 📌
+          - 'button "Moment button: Sensational grab from Brad Evans 👏, new. Click to play moment. 492 of 498" [ref=e4184] [cursor=pointer]':
+            - generic [ref=e4186]:
+              - generic:
+                - 'img "Thumbnail for moment: Sensational grab from Brad Evans 👏"'
+              - generic: NEW
+              - generic [ref=e4188]: Sensational grab from Brad Evans 👏
+          - 'button "Moment button: Sensational diving catch by Sufyan 🤩, new. Click to play moment. 493 of 498" [ref=e4189] [cursor=pointer]':
+            - generic [ref=e4191]:
+              - generic:
+                - 'img "Thumbnail for moment: Sensational diving catch by Sufyan 🤩"'
+              - generic: NEW
+              - generic [ref=e4193]: Sensational diving catch by Sufyan 🤩
+          - 'button "Moment button: Italy seal a motivating win 👏, new. Click to play moment. 494 of 498" [ref=e4194] [cursor=pointer]':
+            - generic [ref=e4196]:
+              - generic:
+                - 'img "Thumbnail for moment: Italy seal a motivating win 👏"'
+              - generic: NEW
+              - generic [ref=e4198]: Italy seal a motivating win 👏
+          - 'button "Moment button: Samra''s effortless pull for a six 😍, new. Click to play moment. 495 of 498" [ref=e4199] [cursor=pointer]':
+            - generic [ref=e4201]:
+              - generic:
+                - 'img "Thumbnail for moment: Samra''s effortless pull for a six 😍"'
+              - generic: NEW
+              - generic [ref=e4203]: Samra's effortless pull for a six 😍
+          - 'button "Moment button: Jaskarandeep finds the first break 🔥, new. Click to play moment. 496 of 498" [ref=e4204] [cursor=pointer]':
+            - generic [ref=e4206]:
+              - generic:
+                - 'img "Thumbnail for moment: Jaskarandeep finds the first break 🔥"'
+              - generic: NEW
+              - generic [ref=e4208]: Jaskarandeep finds the first break 🔥
+          - 'button "Moment button: Naib uproots the middle stump \\|/, new. Click to play moment. 497 of 498" [ref=e4209] [cursor=pointer]':
+            - generic [ref=e4211]:
+              - generic:
+                - 'img "Thumbnail for moment: Naib uproots the middle stump \\|/"'
+              - generic: NEW
+              - generic [ref=e4213]: Naib uproots the middle stump \|/
+          - 'button "Moment button: Zadran''s picturesque six 👌, new. Click to play moment. 498 of 498" [ref=e4214] [cursor=pointer]':
+            - generic [ref=e4216]:
+              - generic:
+                - 'img "Thumbnail for moment: Zadran''s picturesque six 👌"'
+              - generic: NEW
+              - generic [ref=e4218]: Zadran's picturesque six 👌
+      - link [ref=e4221] [cursor=pointer]:
+        - /url: https://insights.t20worldcup.com/chat/home
+        - figure [ref=e4222]:
+          - img "ICC Men's T20 World Cup 2026" [ref=e4224]
+      - generic [ref=e4228]:
+        - generic [ref=e4229]:
+          - heading "Feel The Thrill Previews" [level=3] [ref=e4230]
+          - link "More Videos" [ref=e4231] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/feel-the-thrill-previews-icc-men-s-t20-world-cup-2026
+            - generic [ref=e4232]: More Videos
+            - img [ref=e4233]
+        - generic [ref=e4236]:
+          - generic [ref=e4237]:
+            - link "ICC Men's T20 World Cup, 2026 India v England | Feel The Thrill | Match Preview | T20WC 2026 8h" [ref=e4240] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-v-england-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4242]
+              - figure [ref=e4246]:
+                - img "FTT INDvENG" [ref=e4248]
+              - generic [ref=e4249]:
+                - generic [ref=e4250]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4251]: India v England | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4252]: 8h
+            - link "ICC Men's T20 World Cup, 2026 South Africa v New Zealand semi-final | Feel The Thrill | T20WC 2026 1d" [ref=e4255] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/south-africa-v-new-zealand-semi-final-feel-the-thrill-t20wc-2026
+              - img [ref=e4257]
+              - figure [ref=e4261]:
+                - img "FTTSF_SAvNZ" [ref=e4263]
+              - generic [ref=e4264]:
+                - generic [ref=e4265]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4266]: South Africa v New Zealand semi-final | Feel The Thrill | T20WC 2026
+                - time [ref=e4267]: 1d
+            - link "ICC Men's T20 World Cup, 2026 India v West Indies | Feel The Thrill | Match Preview | T20WC 2026 4d" [ref=e4270] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-v-west-indies-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4272]
+              - figure [ref=e4276]:
+                - img "FTT IND v WI" [ref=e4278]
+              - generic [ref=e4279]:
+                - generic [ref=e4280]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4281]: India v West Indies | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4282]: 4d
+            - link "ICC Men's T20 World Cup, 2026 Zimbabwe v South Africa | Feel The Thrill | Match Preview | T20WC 2026 4d" [ref=e4285] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/zimbabwe-v-south-africa-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4287]
+              - figure [ref=e4291]:
+                - img "FTT ZIMvSA" [ref=e4293]
+              - generic [ref=e4294]:
+                - generic [ref=e4295]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4296]: Zimbabwe v South Africa | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4297]: 4d
+            - link "ICC Men's T20 World Cup, 2026 Sri Lanka v Pakistan | Feel The Thrill | Match Preview | T20WC 2026 5d" [ref=e4300] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/sri-lanka-v-pakistan-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4302]
+              - figure [ref=e4306]:
+                - img "FTT SLvPAK" [ref=e4308]
+              - generic [ref=e4309]:
+                - generic [ref=e4310]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4311]: Sri Lanka v Pakistan | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4312]: 5d
+            - link "ICC Men's T20 World Cup, 2026 England v New Zealand | Feel The Thrill | Match Preview | T20WC 2026 6d" [ref=e4315] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-v-new-zealand-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4317]
+              - figure [ref=e4321]:
+                - img "FTT ENGvNZ" [ref=e4323]
+              - generic [ref=e4324]:
+                - generic [ref=e4325]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4326]: England v New Zealand | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4327]: 6d
+            - link "ICC Men's T20 World Cup, 2026 India v Zimbabwe | Feel The Thrill | Match Preview | T20WC 2026 7d" [ref=e4330] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-v-zimbabwe-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4332]
+              - figure [ref=e4336]:
+                - img "FTT INDvZIM" [ref=e4338]
+              - generic [ref=e4339]:
+                - generic [ref=e4340]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4341]: India v Zimbabwe | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4342]: 7d
+            - link "ICC Men's T20 World Cup, 2026 West Indies v South Africa | Feel The Thrill | Match Preview | T20WC 2026 7d" [ref=e4345] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/west-indies-v-south-africa-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4347]
+              - figure [ref=e4351]:
+                - img "FTT WIvSA" [ref=e4353]
+              - generic [ref=e4354]:
+                - generic [ref=e4355]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4356]: West Indies v South Africa | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4357]: 7d
+            - link "ICC Men's T20 World Cup, 2026 Sri Lanka v New Zealand | Feel The Thrill | Match Preview | T20WC 2026 24 February, 2026" [ref=e4360] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/sri-lanka-v-new-zealand-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4362]
+              - figure [ref=e4366]:
+                - img "FTT SLvNZ" [ref=e4368]
+              - generic [ref=e4369]:
+                - generic [ref=e4370]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4371]: Sri Lanka v New Zealand | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4372]: 24 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 England v Pakistan | Feel The Thrill | Match Preview | T20WC 2026 23 February, 2026" [ref=e4375] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-v-pakistan-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4377]
+              - figure [ref=e4381]:
+                - img "FEEL THE THRILL" [ref=e4383]
+              - generic [ref=e4384]:
+                - generic [ref=e4385]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4386]: England v Pakistan | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4387]: 23 February, 2026
+          - text: prev next
+          - generic [ref=e4388]:
+            - button "1" [ref=e4389] [cursor=pointer]
+            - button "2" [ref=e4390] [cursor=pointer]
+            - button "3" [ref=e4391] [cursor=pointer]
+            - button "4" [ref=e4392] [cursor=pointer]
+            - button "5" [ref=e4393] [cursor=pointer]
+            - button "6" [ref=e4394] [cursor=pointer]
+            - button "7" [ref=e4395] [cursor=pointer]
+      - generic [ref=e4399]:
+        - heading "Galleries" [level=3] [ref=e4401]
+        - generic [ref=e4403]:
+          - generic [ref=e4404]:
+            - link "ICC Men's T20 World Cup, 2026 England v New Zealand | T20WC 2026 | 26 February 2026 4d" [ref=e4407] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/england-v-new-zealand-t20wc-2026-26-february-2026
+              - figure [ref=e4408]:
+                - img "GettyImages-2263899427" [ref=e4410]
+              - generic [ref=e4411]:
+                - generic [ref=e4412]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4413]: England v New Zealand | T20WC 2026 | 26 February 2026
+                - time [ref=e4414]: 4d
+            - link "ICC Men's T20 World Cup, 2026 India v Zimbabwe | T20WC 2026 | 26 February 2026 6d" [ref=e4417] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/india-v-zimbabwe-t20wc-2026-26-february-2026
+              - figure [ref=e4418]:
+                - img "Abhishek Sharma on the attack" [ref=e4420]
+              - generic [ref=e4421]:
+                - generic [ref=e4422]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4423]: India v Zimbabwe | T20WC 2026 | 26 February 2026
+                - time [ref=e4424]: 6d
+            - link "ICC Men's T20 World Cup, 2026 West Indies v South Africa | T20 World Cup 2026 6d" [ref=e4427] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/west-indies-v-south-africa-t20-world-cup-2026
+              - figure [ref=e4428]:
+                - img "Shai Hope of West Indies and Aiden Markram of South Africa lead their teams out" [ref=e4430]
+              - generic [ref=e4431]:
+                - generic [ref=e4432]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4433]: West Indies v South Africa | T20 World Cup 2026
+                - time [ref=e4434]: 6d
+            - link "ICC Men's T20 World Cup, 2026 Sri Lanka v New Zealand | T20WC 2026 | 25 February 2026 7d" [ref=e4437] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/sri-lanka-v-new-zealand-t20wc-2026-24-february-2026
+              - figure [ref=e4438]:
+                - img "Fans of Sri Lanka look on from the crowd during the ICC Men's T20 World Cup" [ref=e4440]
+              - generic [ref=e4441]:
+                - generic [ref=e4442]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4443]: Sri Lanka v New Zealand | T20WC 2026 | 25 February 2026
+                - time [ref=e4444]: 7d
+            - link "ICC Men's T20 World Cup, 2026 England v Pakistan | T20WC 2026 | 24 February 2026 24 February, 2026" [ref=e4447] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/england-v-pakistan-t20wc-2026-15-february-2026
+              - figure [ref=e4448]:
+                - img "Sahibzada Farhan sweeps as Jos Buttler keeps for England" [ref=e4450]
+              - generic [ref=e4451]:
+                - generic [ref=e4452]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4453]: England v Pakistan | T20WC 2026 | 24 February 2026
+                - time [ref=e4454]: 24 February, 2026
+          - text: prev next
+          - generic [ref=e4455]:
+            - button "1" [ref=e4456] [cursor=pointer]
+            - button "2" [ref=e4457] [cursor=pointer]
+      - link [ref=e4460] [cursor=pointer]:
+        - /url: https://sparkfabric.co/space/icc
+        - figure [ref=e4461]:
+          - img "ICC Men's T20 World Cup, 2026" [ref=e4463]
+      - generic [ref=e4467]:
+        - generic [ref=e4468]:
+          - heading "Latest Videos" [level=3] [ref=e4469]
+          - link "More Videos" [ref=e4470] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/latest-videos-icc-men-s-t20-world-cup-2026
+            - generic [ref=e4471]: More Videos
+            - img [ref=e4472]
+        - generic [ref=e4475]:
+          - generic [ref=e4476]:
+            - link "ICC Men's T20 World Cup, 2026 New Zealand storm into the finals | T20WC 2026 6h" [ref=e4479] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-storm-into-the-finals-t20wc-2026
+              - img [ref=e4481]
+              - figure [ref=e4485]:
+                - img "GettyImages-2264765962" [ref=e4487]
+              - generic [ref=e4488]:
+                - generic [ref=e4489]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4490]: New Zealand storm into the finals | T20WC 2026
+                - time [ref=e4491]: 6h
+            - link "ICC Men's T20 World Cup, 2026 Powered over with ease by Allen | T20WC 2026 6h" [ref=e4494] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/powered-over-with-ease-by-allen-t20wc-2026
+              - img [ref=e4496]
+              - figure [ref=e4500]:
+                - img "2264763004" [ref=e4502]
+              - generic [ref=e4503]:
+                - generic [ref=e4504]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4505]: Powered over with ease by Allen | T20WC 2026
+                - time [ref=e4506]: 6h
+            - link "ICC Men's T20 World Cup, 2026 New Zealand get going from ball one | Powerplay Highlights | T20WC 2026 6h" [ref=e4509] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-get-going-from-ball-one-powerplay-highlights-t20wc-2026
+              - img [ref=e4511]
+              - figure [ref=e4515]:
+                - img "PP HLs (19)" [ref=e4517]
+              - generic [ref=e4518]:
+                - generic [ref=e4519]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4520]: New Zealand get going from ball one | Powerplay Highlights | T20WC 2026
+                - time [ref=e4521]: 6h
+            - link "ICC Men's T20 World Cup, 2026 Allen puts on an early show | T20WC 2026 6h" [ref=e4524] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/allen-puts-on-an-early-show-t20wc-2026
+              - img [ref=e4526]
+              - figure [ref=e4530]:
+                - img "GettyImages-2264757292" [ref=e4532]
+              - generic [ref=e4533]:
+                - generic [ref=e4534]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4535]: Allen puts on an early show | T20WC 2026
+                - time [ref=e4536]: 6h
+            - link "ICC Men's T20 World Cup, 2026 Stellar batting from New Zealand | T20WC 2026 7h" [ref=e4539] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/stellar-batting-from-new-zealand-t20wc-2026
+              - img [ref=e4541]
+              - figure [ref=e4545]:
+                - img "GettyImages-2264757293" [ref=e4547]
+              - generic [ref=e4548]:
+                - generic [ref=e4549]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4550]: Stellar batting from New Zealand | T20WC 2026
+                - time [ref=e4551]: 7h
+            - link "ICC Men's T20 World Cup, 2026 A strong finish boosts South Africa | Innings Highlights | T20WC 2026 7h" [ref=e4554] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/a-strong-finish-boosts-south-africa-innings-highlights-t20wc-2026
+              - img [ref=e4556]
+              - figure [ref=e4560]:
+                - img "SA INNINGS v NZ" [ref=e4562]
+              - generic [ref=e4563]:
+                - generic [ref=e4564]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4565]: A strong finish boosts South Africa | Innings Highlights | T20WC 2026
+                - time [ref=e4566]: 7h
+            - link "ICC Men's T20 World Cup, 2026 Jansen's glorious hit for fifty | T20WC 2026 7h" [ref=e4569] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/jansen-s-glorious-hit-for-fifty-t20wc-2026
+              - img [ref=e4571]
+              - figure [ref=e4575]:
+                - img "GettyImages-2264176722" [ref=e4577]
+              - generic [ref=e4578]:
+                - generic [ref=e4579]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4580]: Jansen's glorious hit for fifty | T20WC 2026
+                - time [ref=e4581]: 7h
+            - link "ICC Men's T20 World Cup, 2026 South Africa take charge in style | T20WC 2026 7h" [ref=e4584] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/south-africa-take-charge-in-style-t20wc-2026
+              - img [ref=e4586]
+              - figure [ref=e4590]:
+                - img "GettyImages-2264176669" [ref=e4592]
+              - generic [ref=e4593]:
+                - generic [ref=e4594]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4595]: South Africa take charge in style | T20WC 2026
+                - time [ref=e4596]: 7h
+            - link "ICC Men's T20 World Cup, 2026 Jansen's booming no-look | T20WC 2026 7h" [ref=e4599] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/jansen-s-booming-no-look-t20wc-2026
+              - img [ref=e4601]
+              - figure [ref=e4605]:
+                - img "Screenshot 2026-03-04 202711" [ref=e4607]
+              - generic [ref=e4608]:
+                - generic [ref=e4609]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4610]: Jansen's booming no-look | T20WC 2026
+                - time [ref=e4611]: 7h
+            - link "ICC Men's T20 World Cup, 2026 India v England | Feel The Thrill | Match Preview | T20WC 2026 8h" [ref=e4614] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-v-england-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4616]
+              - figure [ref=e4620]:
+                - img "FTT INDvENG" [ref=e4622]
+              - generic [ref=e4623]:
+                - generic [ref=e4624]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4625]: India v England | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4626]: 8h
+          - text: prev next
+          - generic [ref=e4627]:
+            - button "1" [ref=e4628] [cursor=pointer]
+            - button "2" [ref=e4629] [cursor=pointer]
+            - button "3" [ref=e4630] [cursor=pointer]
+            - button "4" [ref=e4631] [cursor=pointer]
+            - button "5" [ref=e4632] [cursor=pointer]
+            - button "6" [ref=e4633] [cursor=pointer]
+            - button "7" [ref=e4634] [cursor=pointer]
+      - generic [ref=e4638]:
+        - generic [ref=e4639]:
+          - heading "Warm Up Highlights" [level=3] [ref=e4640]
+          - link "More Videos" [ref=e4641] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/warm-up-highlights-icc-men-s-t20-world-cup-2026
+            - generic [ref=e4642]: More Videos
+            - img [ref=e4643]
+        - generic [ref=e4646]:
+          - generic [ref=e4647]:
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 A testing workout for Namibia | Match Highlights | T20WC 2026 Warm-up 6 February, 2026" [ref=e4650] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/a-testing-workout-for-namibia-match-highlights-t20wc-2026-warm-up
+              - img [ref=e4652]
+              - figure [ref=e4656]:
+                - img "NAMvINDA MATCH HLs" [ref=e4658]
+              - generic [ref=e4659]:
+                - generic [ref=e4660]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e4661]: A testing workout for Namibia | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e4662]: 6 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 A clinical display from Italy | Match Highlights | T20WC 2026 Warm-up 6 February, 2026" [ref=e4665] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/a-clinical-display-from-italy-match-highlights-t20wc-2026-warm-up
+              - img [ref=e4667]
+              - figure [ref=e4671]:
+                - img "ITAvUAE MATCH HLS" [ref=e4673]
+              - generic [ref=e4674]:
+                - generic [ref=e4675]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e4676]: A clinical display from Italy | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e4677]: 6 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 New Zealand prevail in a close contest | Match Highlights | T20WC 2026 Warm-up 5 February, 2026" [ref=e4680] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-prevail-in-a-close-contest-match-highlights-t20wc-2026-warm-up
+              - img [ref=e4682]
+              - figure [ref=e4686]:
+                - img "NZvUSA MATCH HLS" [ref=e4688]
+              - generic [ref=e4689]:
+                - generic [ref=e4690]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e4691]: New Zealand prevail in a close contest | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e4692]: 5 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 Nepal deliver on all fronts | Match Highlights | T20WC 2026 Warm-up 5 February, 2026" [ref=e4695] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/nepal-deliver-on-all-fronts-match-highlights-t20wc-2026-warm-up
+              - img [ref=e4697]
+              - figure [ref=e4701]:
+                - img "NEPvCAN MATCH HLs" [ref=e4703]
+              - generic [ref=e4704]:
+                - generic [ref=e4705]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e4706]: Nepal deliver on all fronts | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e4707]: 5 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 Oman seal a well-rounded win | Match Highlights | T20WC 2026 Warm-up 5 February, 2026" [ref=e4710] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/oman-seal-a-well-rounded-win-match-highlights-t20wc-2026-warm-up
+              - img [ref=e4712]
+              - figure [ref=e4716]:
+                - img "ZIMvOMN MATCH HLs" [ref=e4718]
+              - generic [ref=e4719]:
+                - generic [ref=e4720]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e4721]: Oman seal a well-rounded win | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e4722]: 5 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 Batting firepower inspires India win | Match Highlights | T20WC 2026 Warm-up 4 February, 2026" [ref=e4725] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/batting-firepower-powers-an-india-win-match-highlights-t20wc-2026-warm-up
+              - img [ref=e4727]
+              - figure [ref=e4731]:
+                - img "INDvSA WARM UP HLS" [ref=e4733]
+              - generic [ref=e4734]:
+                - generic [ref=e4735]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e4736]: Batting firepower inspires India win | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e4737]: 4 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 Namibia trump past Scotland in a thrilling contest | Match Highlights | T20WC 2026 Warm-up 4 February, 2026" [ref=e4740] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/namibia-trump-past-scotland-in-a-thrilling-contest-match-highlights-t20wc-2026-warm-up
+              - img [ref=e4742]
+              - figure [ref=e4746]:
+                - img "SCOvNAM MATCH HLS" [ref=e4748]
+              - generic [ref=e4749]:
+                - generic [ref=e4750]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e4751]: Namibia trump past Scotland in a thrilling contest | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e4752]: 4 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 Zimbabwe off to a strong start | Match Highlights | T20WC 2026 Warm-up 4 February, 2026" [ref=e4755] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/zimbabwe-off-to-a-strong-start-match-highlights-t20wc-2026-warm-up
+              - img [ref=e4757]
+              - figure [ref=e4761]:
+                - img "IMG_9023" [ref=e4763]
+              - generic [ref=e4764]:
+                - generic [ref=e4765]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e4766]: Zimbabwe off to a strong start | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e4767]: 4 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 All-round Nepal off to a strong start | Match Highlights | T20WC 2026 Warm-up 3 February, 2026" [ref=e4770] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/all-round-nepal-off-to-a-strong-start-match-highlights-t20wc-2026-warm-up
+              - img [ref=e4772]
+              - figure [ref=e4776]:
+                - img "NEP" [ref=e4778]
+              - generic [ref=e4779]:
+                - generic [ref=e4780]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e4781]: All-round Nepal off to a strong start | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e4782]: 3 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 A confident win for Oman | Match Highlights | T20WC 2026 Warm-up 3 February, 2026" [ref=e4785] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/a-confident-win-for-oman-match-highlights-t20wc-2026-warm-up
+              - img [ref=e4787]
+              - figure [ref=e4791]:
+                - img "OMAN V SLA MATCH HLS" [ref=e4793]
+              - generic [ref=e4794]:
+                - generic [ref=e4795]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e4796]: A confident win for Oman | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e4797]: 3 February, 2026
+          - text: prev next
+          - generic [ref=e4798]:
+            - button "1" [ref=e4799] [cursor=pointer]
+            - button "2" [ref=e4800] [cursor=pointer]
+            - button "3" [ref=e4801] [cursor=pointer]
+            - button "4" [ref=e4802] [cursor=pointer]
+            - button "5" [ref=e4803] [cursor=pointer]
+            - button "6" [ref=e4804] [cursor=pointer]
+            - button "7" [ref=e4805] [cursor=pointer]
+      - generic [ref=e4808]:
+        - heading "Latest News" [level=2] [ref=e4810]
+        - generic [ref=e4812]:
+          - generic [ref=e4814]:
+            - link "ICC Men's T20 World Cup, 2026 Brook and England believe ahead of India semi-final 9h" [ref=e4815] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/brook-and-england-believe-ahead-of-india-semi-final
+              - figure [ref=e4816]:
+                - img "Brook and England believe ahead of India semi-final" [ref=e4818]
+              - generic [ref=e4819]:
+                - generic [ref=e4820]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4821]: Brook and England believe ahead of India semi-final
+                - time [ref=e4822]: 9h
+            - link "ICC Men's T20 World Cup, 2026 Record ton by Allen powers New Zealand to final 10h" [ref=e4823] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/live-new-zealand-take-on-unbeaten-south-africa-in-semi-final
+              - figure [ref=e4824]:
+                - img "Record ton by Allen powers New Zealand to final" [ref=e4826]
+              - generic [ref=e4827]:
+                - generic [ref=e4828]: ICC Men's T20 World Cup, 2026
+                - paragraph: Record ton by Allen powers New Zealand to final
+                - time [ref=e4829]: 10h
+            - link "ICC Men's T20 World Cup, 2026 Morkel backs Abhishek to find his mojo for England clash 11h" [ref=e4830] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/morkel-backs-abhishek-to-find-his-mojo-for-england-clash
+              - figure [ref=e4831]:
+                - img "Morkel backs Abhishek to find his mojo for England clash" [ref=e4833]
+              - generic [ref=e4834]:
+                - generic [ref=e4835]: ICC Men's T20 World Cup, 2026
+                - paragraph: Morkel backs Abhishek to find his mojo for England clash
+                - time [ref=e4836]: 11h
+            - link "ICC Men's T20 World Cup, 2026 Batter rankings tighten as Pakistan star closes on Abhishek 14h" [ref=e4837] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/batter-rankings-tighten-as-pakistan-star-closes-on-abhishek
+              - figure [ref=e4838]:
+                - img "Batter rankings tighten as Pakistan star closes on Abhishek" [ref=e4840]
+              - generic [ref=e4841]:
+                - generic [ref=e4842]: ICC Men's T20 World Cup, 2026
+                - paragraph: Batter rankings tighten as Pakistan star closes on Abhishek
+                - time [ref=e4843]: 14h
+            - link "ICC Men's T20 World Cup, 2026 Markram, South Africa pin focus on basics for T20WC semis 1d" [ref=e4844] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/markram-south-africa-pin-focus-on-basics-for-t20wc-semis
+              - figure [ref=e4845]:
+                - img "Markram, South Africa pin focus on basics for T20WC semis" [ref=e4847]
+              - generic [ref=e4848]:
+                - generic [ref=e4849]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4850]: Markram, South Africa pin focus on basics for T20WC semis
+                - time [ref=e4851]: 1d
+            - link "ICC Men's T20 World Cup, 2026 Santner backs New Zealand to rise to the occasion 1d" [ref=e4852] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/santner-backs-new-zealand-to-rise-to-the-occasion
+              - figure [ref=e4853]:
+                - img "Santner backs New Zealand to rise to the occasion" [ref=e4855]
+              - generic [ref=e4856]:
+                - generic [ref=e4857]: ICC Men's T20 World Cup, 2026
+                - paragraph: Santner backs New Zealand to rise to the occasion
+                - time [ref=e4858]: 1d
+            - link "more news" [ref=e4860] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/news
+              - generic [ref=e4861]: more news
+              - img [ref=e4862]
+          - generic [ref=e4865]:
+            - heading "Popular Content" [level=2] [ref=e4866]
+            - list [ref=e4867]:
+              - listitem [ref=e4868]:
+                - link "ICC Men's T20 World Cup, 2026 Kallis outlines reasons why Proteas can win T20 World Cup" [ref=e4869] [cursor=pointer]:
+                  - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/kallis-outlines-reasons-why-proteas-can-win-t20-world-cup
+                  - generic [ref=e4870]:
+                    - generic [ref=e4871]: ICC Men's T20 World Cup, 2026
+                    - paragraph [ref=e4872]: Kallis outlines reasons why Proteas can win T20 World Cup
+              - listitem [ref=e4873]:
+                - link "ICC Men's T20 World Cup, 2026 Five must-watch matches at ICC Men’s T20 World Cup 2026" [ref=e4874] [cursor=pointer]:
+                  - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/five-must-watch-matches-at-icc-men-s-t20-world-cup-2026
+                  - generic [ref=e4875]:
+                    - generic [ref=e4876]: ICC Men's T20 World Cup, 2026
+                    - paragraph [ref=e4877]: Five must-watch matches at ICC Men’s T20 World Cup 2026
+              - listitem [ref=e4878]:
+                - link "ICC Men's T20 World Cup, 2026 Fixtures, groups released for ICC Men's T20 World Cup 2026" [ref=e4879] [cursor=pointer]:
+                  - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/fixtures-groups-released-for-icc-men-s-t20-world-cup-2026
+                  - generic [ref=e4880]:
+                    - generic [ref=e4881]: ICC Men's T20 World Cup, 2026
+                    - paragraph [ref=e4882]: Fixtures, groups released for ICC Men's T20 World Cup 2026
+      - iframe [ref=e4886]:
+        - generic [ref=f6e1]:
+          - link [ref=f6e2] [cursor=pointer]:
+            - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsuLovuHor8zJDU8j7jjuEE9hg6Ye6CT6dxrrHc2hYSh90SpxIDya38TrdQIwjVmvTnBISz5XyDYR4Kpyv_LbEUcStVkGNV3fzC_2EtqjBUh41d8ZidZXUYnZj9u-ma9X2cQrkliA0SraOPr5SP85rpdTX-j89gN-s2_kjyvNZYU9dheWp91c_F9CQL7Ai7r0MV24HJEOcS97x7oiiASeOcqOnY3w07oyf1J68XFCH_uj8yot-MTk7-1loV2AQg6xB5_paf5gT2nHPciIwHzFGjEkYvXV2xYBwIQfTrq7fQZQmcaxcioyJ2TvUSk2aZtRBhyT_-og3zLb9ZuzUwlX2KYrw9sLvUER5aohEpr8rNss4TDuvc2UN_gct-SrfDQkWiaZC0SxqQ87v3Y8GL8JA&sai=AMfl-YReZxeh32yUXZK6JveQMD8Z58TJ1FDg-B04y4R0iutYslOQiZSSknxiA4kBqlbNKw-288Vqsfo6HiDdwTexKgBuIrrGvbMavajg20iJ9yaW_dEQggwQizcsEzWOoA4NNLW3jdQvny4bKyWxinucXRg_mc4EZzVp6sEF150bh_1lS7NEopOolPMCbcRqv51X4R1SNE7Kwy2guxWtIvjpIYRhU40ueup7s7BDk0jwZ7HFYDE1CaxlHlqfxKFvXYTj9t_lLJzkdYUeVaRLK7Esug&sig=Cg0ArKJSzDCqVkZ66y2e&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.emirates.com/english/%3Futm_source%3Dicccricket%26utm_medium%3Dreferral%26utm_campaign
+          - img [ref=f6e7]
+    - contentinfo [ref=e4887]:
+      - generic [ref=e4890]:
+        - generic [ref=e4892]:
+          - generic [ref=e4893]:
+            - link "star-sports-dark" [ref=e4894] [cursor=pointer]:
+              - /url: https://www.hotstar.com/
+              - img "star-sports-dark" [ref=e4895]
+            - link "disney-hotstar" [ref=e4896] [cursor=pointer]:
+              - /url: https://www.jiostar.com/
+              - img "disney-hotstar" [ref=e4897]
+          - heading [level=4]
+        - generic [ref=e4900]:
+          - generic [ref=e4901]:
+            - link "sky-sports-x7480" [ref=e4902] [cursor=pointer]:
+              - /url: https://www.skysports.com/
+              - img "sky-sports-x7480" [ref=e4903]
+            - link "super-sport-dark" [ref=e4904] [cursor=pointer]:
+              - /url: https://supersport.com/
+              - img "super-sport-dark" [ref=e4905]
+            - link "willow-dark" [ref=e4906] [cursor=pointer]:
+              - /url: https://www.willow.tv/
+              - img "willow-dark" [ref=e4907]
+            - link "prime-video-dark" [ref=e4908] [cursor=pointer]:
+              - /url: https://www.primevideo.com/
+              - img "prime-video-dark" [ref=e4909]
+            - link "criclife" [ref=e4910] [cursor=pointer]:
+              - /url: http://www.evision.ae/
+              - img "criclife" [ref=e4911]
+          - heading [level=4]
+        - generic [ref=e4914]:
+          - generic [ref=e4915]:
+            - link "myco" [ref=e4916] [cursor=pointer]:
+              - /url: https://myco.io/
+              - img "myco" [ref=e4917]
+            - link "ptvsports-dark" [ref=e4918] [cursor=pointer]:
+              - /url: https://myco.io/
+              - img "ptvsports-dark" [ref=e4919]
+            - link "espn-dark" [ref=e4920] [cursor=pointer]:
+              - /url: https://www.espn.com/
+              - img "espn-dark" [ref=e4921]
+            - link "sky-dark" [ref=e4922] [cursor=pointer]:
+              - /url: https://www.sky.co.nz/
+              - img "sky-dark" [ref=e4923]
+            - link "tsm-dark-background" [ref=e4924] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/
+              - img "tsm-dark-background" [ref=e4925]
+            - link "dialog" [ref=e4926] [cursor=pointer]:
+              - /url: https://www.dialog.lk/dialog-television
+              - img "dialog" [ref=e4927]
+            - link "icc-tv-dark" [ref=e4928] [cursor=pointer]:
+              - /url: https://icc.tv/
+              - img "icc-tv-dark" [ref=e4929]
+          - heading "Broadcast Partners" [level=4] [ref=e4930]
+        - generic [ref=e4933]:
+          - generic [ref=e4934]:
+            - link "emirates" [ref=e4935] [cursor=pointer]:
+              - /url: https://www.emirates.com/english/book/
+              - img "emirates" [ref=e4936]
+            - link "aramco" [ref=e4937] [cursor=pointer]:
+              - /url: https://www.aramco.com/
+              - img "aramco" [ref=e4938]
+            - link "dp-world-x1422" [ref=e4939] [cursor=pointer]:
+              - /url: https://www.dpworld.com/
+              - img "dp-world-x1422" [ref=e4940]
+            - link "hyundai-light" [ref=e4941] [cursor=pointer]:
+              - /url: https://www.hyundai.com
+              - img "hyundai-light" [ref=e4942]
+          - heading "Premier Partners" [level=4] [ref=e4943]
+        - generic [ref=e4946]:
+          - generic [ref=e4947]:
+            - link "coca-cola" [ref=e4948] [cursor=pointer]:
+              - /url: https://www.coca-colacompany.com/
+              - img "coca-cola" [ref=e4949]
+            - link "sobha-x2752" [ref=e4950] [cursor=pointer]:
+              - /url: https://www.sobharealty.com/
+              - img "sobha-x2752" [ref=e4951]
+            - link "budweiser-logo-dark-bg" [ref=e4952] [cursor=pointer]:
+              - /url: http://budweiser.com/
+              - img "budweiser-logo-dark-bg" [ref=e4953]
+            - link "marriott" [ref=e4954] [cursor=pointer]:
+              - /url: https://www.marriott.com/
+              - img "marriott" [ref=e4955]
+            - link "google-x7357" [ref=e4956] [cursor=pointer]:
+              - /url: https://www.google.com/
+              - img "google-x7357" [ref=e4957]
+          - heading "Global Partners" [level=4] [ref=e4958]
+        - generic [ref=e4961]:
+          - generic [ref=e4962]:
+            - link "royal-stag-x3658" [ref=e4964] [cursor=pointer]:
+              - /url: https://www.royalstagfan.com/
+              - img "royal-stag-x3658" [ref=e4965]
+            - heading "official supporters" [level=4] [ref=e4966]
+          - generic [ref=e4968]:
+            - link "cricket4good-dark" [ref=e4970] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/about/the-icc/cricket-for-good
+              - img "cricket4good-dark" [ref=e4971]
+            - heading "social responsibility" [level=4] [ref=e4972]
+      - generic [ref=e4974]:
+        - link "facebook social icon" [ref=e4975] [cursor=pointer]:
+          - /url: https://www.facebook.com/icc
+          - img [ref=e4976]
+        - link "youtube social icon" [ref=e4979] [cursor=pointer]:
+          - /url: https://www.youtube.com/@ICC
+          - img [ref=e4980]
+        - link "instagram social icon" [ref=e4983] [cursor=pointer]:
+          - /url: https://www.Instagram.com/icc/
+          - img [ref=e4984]
+        - link "twitter social icon" [ref=e4987] [cursor=pointer]:
+          - /url: https://x.com/ICC
+          - img [ref=e4988]
+      - generic [ref=e4991]:
+        - navigation [ref=e4992]:
+          - generic [ref=e4995]:
+            - link "terms-of-service" [ref=e4997] [cursor=pointer]:
+              - /url: /about/the-icc/legal-notices/website-terms-of-use
+              - generic [ref=e5000]: Terms of Service
+            - link "Privacy Policy" [ref=e5002] [cursor=pointer]:
+              - /url: /about/the-icc/legal-notices/privacy-policy
+              - generic [ref=e5005]: Privacy Policy
+            - link "Careers" [ref=e5007] [cursor=pointer]:
+              - /url: /about/the-icc/working-at-icc/jobs-and-recruitment
+              - generic [ref=e5010]: Careers
+            - link "Related Sites" [ref=e5012] [cursor=pointer]:
+              - /url: /about/contact-us/social-media
+              - generic [ref=e5015]: Related Sites
+            - link "about" [ref=e5017] [cursor=pointer]:
+              - /url: /about/index
+              - generic [ref=e5020]: about
+            - button "cookie-preferences" [ref=e5022] [cursor=pointer]:
+              - generic [ref=e5025]: Cookie Preferences
+        - generic [ref=e5026]:
+          - link "ICC logo footer" [ref=e5028] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/index
+            - img "ICC logo footer" [ref=e5029]
+          - generic [ref=e5030]: Copyright 2025 ICC. All rights reserved.
+  - generic [ref=e5031] [cursor=pointer]:
+    - img
+  - alert [ref=e5032]
+  - region "Cookie banner" [active] [ref=e5033]:
+    - alertdialog "Privacy" [ref=e5034]:
+      - generic [ref=e5035]:
+        - generic [ref=e5038]:
+          - text: By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+          - link "More information about your privacy" [ref=e5039] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/about/the-icc/legal-notices/cookie-accepting-policy
+            - text: Cookie Policy
+        - generic [ref=e5041]:
+          - generic [ref=e5042]:
+            - button "Reject All" [ref=e5043] [cursor=pointer]
+            - button "Accept All Cookies" [ref=e5044] [cursor=pointer]
+          - button "Cookies Settings" [ref=e5045] [cursor=pointer]
+```
