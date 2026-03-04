@@ -41,7 +41,7 @@ test('Search and Verify new url', async ({ page }) => {
 
 
     // Verify the url contains cricket.
-    expect(homePage.page.url()).toContain('India');
+    expect(homePage.page.url()).toContain('Mexico');
     //await homePage.verifySearchResults('India');
 })
 
