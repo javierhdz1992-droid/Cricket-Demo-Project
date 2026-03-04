@@ -63,6 +63,7 @@ test('Verify menu tabs text and link', async ({ page }) => {
         "Your Call",
         "Predictor",
         "Player of the Match",
+        "Player of the Tournament",
         "Polls",
         "More",
         "Official Broadcasters",
@@ -109,6 +110,7 @@ test('Verify menu tabs text and link', async ({ page }) => {
         { text: "Your Call", href: "/tournaments/mens-t20-world-cup-2026/your-call" },
         { text: "Predictor", href: "/tournaments/mens-t20-world-cup-2026/predictor" },
         { text: "Player of the Match", href: "/tournaments/mens-t20-world-cup-2026/potm" },
+        { text: "Player of the Tournament", href: "/tournaments/mens-t20-world-cup-2026/pott" },
         { text: "Polls", href: "/tournaments/mens-t20-world-cup-2026/polls" },
         { text: "More", href: "#nolink" },
         { text: "Official Broadcasters", href: "/tournaments/mens-t20-world-cup-2026/official-broadcasters" },
@@ -143,7 +145,7 @@ test('Verify table number of rows', async ({ page }) => {
     await page.goto('https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/standings');
 
     // Count the total number of rows in the standings table.
-    const totalRows = page.locator('//table[@class="w-full"]//tr[@class="bg-white  shadow-inner h-12 border-b"] //td //a //span');
+    const totalRows = page.locator('//table[@class="w-full"] //tr //td //a //span');
     await expect(totalRows).toHaveCount(4);
 
     // Get all the rows text content and print in console.
