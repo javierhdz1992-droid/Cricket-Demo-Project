@@ -1,1 +1,1 @@
-{"uid":"83edc06c07f9ae9e47eb6dd1b683e4e2","name":"packages","children":[{"name":"home.spec.ts","children":[{"name":"Verify the url and the logo","uid":"b254ad7c726d77f6","parentUid":"5547eb51bd535c22ae5e008e3f4bcbfe","status":"passed","time":{"start":1772661202496,"stop":1772661213688,"duration":11192},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":["chromium"],"tags":[]}],"uid":"home.spec.ts"}]}
+{"uid":"83edc06c07f9ae9e47eb6dd1b683e4e2","name":"packages","children":[]}
