@@ -513,7 +513,7 @@
                     - paragraph [ref=e568]:
                       - generic "New Zealand" [ref=e569]: NZ
                       - img [ref=e570]
-                  - paragraph [ref=e574]: 28/0 (4.2)
+                  - paragraph [ref=e574]: 46/0 (6.0)
                 - generic [ref=e575]:
                   - generic [ref=e576]:
                     - img "flag" [ref=e577]
@@ -723,7 +723,7 @@
                     - paragraph [ref=e823]:
                       - generic "New Zealand" [ref=e824]: NZ
                       - img [ref=e825]
-                  - paragraph [ref=e829]: 28/0 (4.2)
+                  - paragraph [ref=e829]: 46/0 (6.0)
                 - generic [ref=e830]:
                   - generic [ref=e831]:
                     - img "flag" [ref=e832]
