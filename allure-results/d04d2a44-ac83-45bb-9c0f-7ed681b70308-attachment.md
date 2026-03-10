@@ -1,0 +1,3986 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - dialog "A pop-up has appeared on screen" [active] [ref=e2]:
+    - generic [ref=e3]:
+      - img [ref=e5] [cursor=pointer]
+      - generic [ref=e14]:
+        - link [ref=e17] [cursor=pointer]:
+          - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-clinch-a-landmark-win-in-style-final-match-highlights-t20wc-2026
+        - link "WATCH NOW!" [ref=e22] [cursor=pointer]:
+          - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-clinch-a-landmark-win-in-style-final-match-highlights-t20wc-2026
+          - img [ref=e23]
+          - generic [ref=e26]: WATCH NOW!
+  - generic [ref=e27]:
+    - banner [ref=e28]:
+      - button [ref=e30] [cursor=pointer]:
+        - text: ICC Home
+        - img [ref=e31]
+      - navigation [ref=e33]:
+        - img [ref=e34]
+        - generic [ref=e35]:
+          - generic [ref=e37]:
+            - button [ref=e38] [cursor=pointer]:
+              - img [ref=e39]
+            - generic [ref=e45]:
+              - link [ref=e48] [cursor=pointer]:
+                - /url: /tournaments/mens-t20-world-cup-2026
+                - img [ref=e49]
+              - generic [ref=e52]:
+                - link [ref=e54] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026
+                  - generic [ref=e55]:
+                    - generic [ref=e57]: Home
+                    - img [ref=e59]
+                - link [ref=e62] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/warm-up-matches
+                  - generic [ref=e63]:
+                    - generic [ref=e65]: Warm-Ups
+                    - img [ref=e67]
+                - link [ref=e70] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/matches
+                  - generic [ref=e71]:
+                    - generic [ref=e73]: Matches
+                    - img [ref=e75]
+                - link [ref=e78] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/teams
+                  - generic [ref=e79]:
+                    - generic [ref=e81]: Teams
+                    - img [ref=e83]
+                - link [ref=e86] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/standings
+                  - generic [ref=e87]:
+                    - generic [ref=e89]: Standings
+                    - img [ref=e91]
+                - link [ref=e94] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/news
+                  - generic [ref=e95]:
+                    - generic [ref=e97]: News
+                    - img [ref=e99]
+                - link [ref=e102] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/videos
+                  - generic [ref=e103]:
+                    - generic [ref=e105]: Videos
+                    - img [ref=e107]
+                - group [ref=e109]:
+                  - generic [ref=e110] [cursor=pointer]:
+                    - link [ref=e111]:
+                      - /url: /tournaments/mens-t20-world-cup-2026/stats
+                      - generic [ref=e114]: Stats
+                    - img [ref=e116]
+                - group [ref=e118]:
+                  - generic [ref=e119] [cursor=pointer]:
+                    - link:
+                      - /url: "#nolink"
+                      - generic:
+                        - generic:
+                          - generic: Game Hub
+                    - img [ref=e121]
+                - link [ref=e124] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/venues
+                  - generic [ref=e125]:
+                    - generic [ref=e127]: Venues
+                    - img [ref=e129]
+                - link [ref=e132] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/official-broadcasters
+                  - generic [ref=e133]:
+                    - generic [ref=e135]: Official Broadcasters
+                    - img [ref=e137]
+                - link [ref=e140] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/captains-day
+                  - generic [ref=e141]:
+                    - generic [ref=e143]: Captain's Day
+                    - img [ref=e145]
+                - group [ref=e147]:
+                  - generic [ref=e148] [cursor=pointer]:
+                    - link [ref=e149]:
+                      - /url: https://tickets.cricketworldcup.com/
+                      - generic [ref=e152]: Tickets
+                    - img [ref=e154]
+                - link [ref=e157] [cursor=pointer]:
+                  - /url: https://sparkfabric.co/space/icc
+                  - generic [ref=e158]:
+                    - generic [ref=e160]: Shop
+                    - img [ref=e162]
+                - link [ref=e165] [cursor=pointer]:
+                  - /url: https://images.icc-cricket.com/image/upload/prd/uhbsusjsfbydrkjtrecg.pdf
+                  - generic [ref=e166]:
+                    - generic [ref=e168]: Downloadable Schedule
+                    - img [ref=e170]
+                - link [ref=e173] [cursor=pointer]:
+                  - /url: https://images.icc-cricket.com/image/upload/prd/yyt7m8uh9c1uehrbvuwb.pdf
+                  - generic [ref=e174]:
+                    - generic [ref=e176]: Playing Conditions
+                    - img [ref=e178]
+              - generic [ref=e181]:
+                - link [ref=e182] [cursor=pointer]:
+                  - /url: https://www.facebook.com/icc
+                  - img [ref=e183]
+                - link [ref=e186] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@ICC
+                  - img [ref=e187]
+                - link [ref=e190] [cursor=pointer]:
+                  - /url: https://www.Instagram.com/icc/
+                  - img [ref=e191]
+                - link [ref=e194] [cursor=pointer]:
+                  - /url: https://x.com/ICC
+                  - img [ref=e195]
+          - generic [ref=e199]:
+            - button [ref=e200] [cursor=pointer]:
+              - link [ref=e202]:
+                - /url: /tournaments/mens-t20-world-cup-2026
+                - img [ref=e203]
+              - img [ref=e204]
+            - generic [ref=e206]:
+              - generic:
+                - img
+              - generic [ref=e207]:
+                - link [ref=e208] [cursor=pointer]:
+                  - /url: /index
+                  - generic [ref=e209]:
+                    - generic [ref=e210]:
+                      - img [ref=e211]
+                      - generic [ref=e212]: ICC Home
+                    - img [ref=e214]
+                - link [ref=e216] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026
+                  - generic [ref=e217]:
+                    - generic [ref=e218]:
+                      - img [ref=e219]
+                      - generic [ref=e220]: ICC Men's T20 World Cup, 2026
+                    - img [ref=e222]
+                - link [ref=e224] [cursor=pointer]:
+                  - /url: /tournaments/u19-cricket-worldcup-2026
+                  - generic [ref=e225]:
+                    - generic [ref=e226]:
+                      - img [ref=e227]
+                      - generic [ref=e228]: ICC Under-19 Cricket World Cup, 2026
+                    - img [ref=e230]
+                - link [ref=e232] [cursor=pointer]:
+                  - /url: /tournaments/womens-t20-worldcup-2026
+                  - generic [ref=e233]:
+                    - generic [ref=e234]:
+                      - img [ref=e235]
+                      - generic [ref=e236]: ICC Women's T20 World Cup, 2026
+                    - img [ref=e238]
+                - link [ref=e240] [cursor=pointer]:
+                  - /url: /tournaments/world-test-championship
+                  - generic [ref=e241]:
+                    - generic [ref=e242]:
+                      - img [ref=e243]
+                      - generic [ref=e244]: ICC World Test Championship, 2025-27
+                    - img [ref=e246]
+                - link [ref=e248] [cursor=pointer]:
+                  - /url: /tournaments/womens-emerging-nations-trophy-2025
+                  - generic [ref=e249]:
+                    - generic [ref=e250]:
+                      - img [ref=e251]
+                      - generic [ref=e252]: ICC Women's Emerging Nations Trophy, 2025
+                    - img [ref=e254]
+                - link [ref=e256] [cursor=pointer]:
+                  - /url: /tournaments/womens-cricket-worldcup-2025
+                  - generic [ref=e257]:
+                    - generic [ref=e258]:
+                      - img [ref=e259]
+                      - generic [ref=e260]: ICC Women's Cricket World Cup, 2025
+                    - img [ref=e262]
+                - link [ref=e264] [cursor=pointer]:
+                  - /url: /tournaments/champions-trophy-2025
+                  - generic [ref=e265]:
+                    - generic [ref=e266]:
+                      - img [ref=e267]
+                      - generic [ref=e268]: ICC Champions Trophy, 2025
+                    - img [ref=e270]
+                - link [ref=e272] [cursor=pointer]:
+                  - /url: /tournaments/u19-womenst20worldcup
+                  - generic [ref=e273]:
+                    - generic [ref=e274]:
+                      - img [ref=e275]
+                      - generic [ref=e276]: ICC Women's Under-19 T20 World Cup, 2025
+                    - img [ref=e278]
+                - link [ref=e280] [cursor=pointer]:
+                  - /url: /tournaments/cwc-challenge-league/matches
+                  - generic [ref=e281]:
+                    - generic [ref=e282]:
+                      - img [ref=e283]
+                      - generic [ref=e284]: ICC CWC Challenge League A and B, 2024-26
+                    - img [ref=e286]
+                - link [ref=e288] [cursor=pointer]:
+                  - /url: /tournaments/icc-cricket-world-cup-league-2
+                  - generic [ref=e289]:
+                    - generic [ref=e290]:
+                      - img [ref=e291]
+                      - generic [ref=e292]: ICC Cricket World Cup League 2, 2023-27
+                    - img [ref=e294]
+                - link [ref=e296] [cursor=pointer]:
+                  - /url: /tournaments/icc-womens-championship
+                  - generic [ref=e297]:
+                    - generic [ref=e298]:
+                      - img [ref=e299]
+                      - generic [ref=e300]: ICC Women's Championship, 2022-25
+                    - img [ref=e302]
+                - link [ref=e304] [cursor=pointer]:
+                  - /url: /tournaments/cricketworldcup
+                  - generic [ref=e305]:
+                    - generic [ref=e306]:
+                      - img [ref=e307]
+                      - generic [ref=e308]: ICC Cricket World Cup, 2023
+                    - img [ref=e310]
+              - link [ref=e312] [cursor=pointer]:
+                - /url: /icc-events
+                - generic [ref=e313]: See All Events
+                - img [ref=e314]
+          - generic [ref=e319]:
+            - link [ref=e321] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026
+              - generic [ref=e324]: Home
+            - link [ref=e326] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/matches
+              - generic [ref=e329]: Matches
+            - link [ref=e331] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/standings
+              - generic [ref=e334]: Standings
+            - link [ref=e336] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/news
+              - generic [ref=e339]: News
+            - link [ref=e341] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/videos
+              - generic [ref=e344]: Videos
+            - link [ref=e346] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/stats
+              - generic [ref=e349]: Stats
+            - generic [ref=e350]:
+              - link:
+                - /url: "#nolink"
+                - generic:
+                  - generic:
+                    - generic: Game Hub
+            - generic [ref=e351]:
+              - link:
+                - /url: "#nolink"
+                - generic:
+                  - generic:
+                    - generic: More
+            - link [ref=e353] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/icc-tv
+              - generic [ref=e356]: ICC.tv
+          - generic [ref=e359]:
+            - link [ref=e361] [cursor=pointer]:
+              - /url: /search
+              - generic [ref=e362]:
+                - generic [ref=e363]: Search
+                - img [ref=e364]
+            - button [ref=e367] [cursor=pointer]:
+              - generic [ref=e368]: Sign in
+              - img [ref=e369]
+          - img [ref=e371]
+    - main [ref=e372]:
+      - region [ref=e376]:
+        - button [ref=e377] [cursor=pointer]:
+          - generic [ref=e379]:
+            - generic:
+              - img
+          - generic [ref=e381]: All the records from T20WC
+        - button [ref=e382] [cursor=pointer]:
+          - generic [ref=e384]:
+            - generic:
+              - img
+          - generic [ref=e386]: T20WC team of the tournament announced
+        - button [ref=e387] [cursor=pointer]:
+          - generic [ref=e389]:
+            - generic:
+              - img
+          - generic [ref=e391]: Gambhir reveals key to India's T20WC success
+        - button [ref=e392] [cursor=pointer]:
+          - generic [ref=e394]:
+            - generic:
+              - img
+          - generic [ref=e396]: Proud Santner looks ahead
+        - button [ref=e397] [cursor=pointer]:
+          - generic [ref=e399]:
+            - generic:
+              - img
+          - generic [ref=e401]: Sanju credits Sachin
+        - button [ref=e402] [cursor=pointer]:
+          - generic [ref=e404]:
+            - generic:
+              - img
+          - generic [ref=e406]: India win T20WC 2026!
+        - button [ref=e407] [cursor=pointer]:
+          - generic [ref=e409]:
+            - generic:
+              - img
+          - generic [ref=e411]: Just Ricky Martin pumping himself up to Sukhbir's tunes before stealing the show!
+        - button [ref=e412] [cursor=pointer]:
+          - generic [ref=e414]:
+            - generic:
+              - img
+          - generic [ref=e416]: Ricky Martin lit up Ahmedabad with an electric show!
+        - button [ref=e417] [cursor=pointer]:
+          - generic [ref=e419]:
+            - generic:
+              - img
+          - generic [ref=e421]: Ahmedabad grooves to Sukhbir!
+        - button [ref=e422] [cursor=pointer]:
+          - generic [ref=e424]:
+            - generic:
+              - img
+          - generic [ref=e426]: Five key match-ups at T20WC Final
+        - button [ref=e427] [cursor=pointer]:
+          - generic [ref=e429]:
+            - generic:
+              - img
+          - generic [ref=e431]: Suryakumar Yadav banks on experience
+        - button [ref=e432] [cursor=pointer]:
+          - generic [ref=e434]:
+            - generic:
+              - img
+          - generic [ref=e436]: Santner speaks ahead of T20WC final
+        - button [ref=e437] [cursor=pointer]:
+          - generic [ref=e439]:
+            - generic:
+              - img
+          - generic [ref=e441]: India's road to Final
+        - button [ref=e442] [cursor=pointer]:
+          - generic [ref=e444]:
+            - generic:
+              - img
+          - generic [ref=e446]: New Zealand's road to Final
+        - button [ref=e447] [cursor=pointer]:
+          - generic [ref=e449]:
+            - generic:
+              - img
+          - generic [ref=e451]: Match officials for T20WC Final
+        - button [ref=e452] [cursor=pointer]:
+          - generic [ref=e454]:
+            - generic:
+              - img
+          - generic [ref=e456]: Samson relishes big-match moment
+        - button [ref=e457] [cursor=pointer]:
+          - generic [ref=e459]:
+            - generic:
+              - img
+          - generic [ref=e461]: Brook hails England fight
+        - button [ref=e462] [cursor=pointer]:
+          - generic [ref=e464]:
+            - generic:
+              - img
+          - generic [ref=e466]: T20WC Player of Tournament nominees
+        - button [ref=e467] [cursor=pointer]:
+          - generic [ref=e469]:
+            - generic:
+              - img
+          - generic [ref=e471]: Shastri highlights Samson success
+        - button [ref=e472] [cursor=pointer]:
+          - generic [ref=e474]:
+            - generic:
+              - img
+          - generic [ref=e476]: India edge a run-fest to enter Final
+        - button [ref=e477] [cursor=pointer]:
+          - generic [ref=e479]:
+            - generic:
+              - img
+          - generic [ref=e481]: No excuses from Proteas
+        - button [ref=e482] [cursor=pointer]:
+          - generic [ref=e486]: Allen looks to title decider
+        - button [ref=e487] [cursor=pointer]:
+          - generic [ref=e491]: Allen's record ton powers NZ to Finals
+        - button [ref=e492] [cursor=pointer]:
+          - generic [ref=e496]: Brook and England believe
+        - button [ref=e497] [cursor=pointer]:
+          - generic [ref=e501]: Morkel backs Abhishek
+        - button [ref=e502] [cursor=pointer]:
+          - generic [ref=e506]: SA, Markram pin focus on basics
+        - button [ref=e507] [cursor=pointer]:
+          - generic [ref=e511]: Santner backs Kiwis ahead of semis
+        - button [ref=e512] [cursor=pointer]:
+          - generic [ref=e516]: Shastri, Ponting urge faith in Abhishek
+        - button [ref=e517] [cursor=pointer]:
+          - generic [ref=e521]: Ponting decodes NZ's mantra
+        - button [ref=e522] [cursor=pointer]:
+          - generic [ref=e526]: T20WC records new benchmarks
+        - button [ref=e527] [cursor=pointer]:
+          - generic [ref=e531]: Officials named for T20WC semi-finals
+        - button [ref=e532] [cursor=pointer]:
+          - generic [ref=e536]: Rohit recalls memories of IND-PAK
+        - button [ref=e537] [cursor=pointer]:
+          - generic [ref=e541]: Hyundai Leaderboards - Bowling
+        - button [ref=e542] [cursor=pointer]:
+          - generic [ref=e546]: Hyundai Leaderboards - Batting
+        - button [ref=e547] [cursor=pointer]:
+          - generic [ref=e551]: Zimbabwe take lessons for future
+        - button [ref=e552] [cursor=pointer]:
+          - generic [ref=e556]: Windies count the positives
+        - button [ref=e557] [cursor=pointer]:
+          - generic [ref=e561]: Proteas take no extra pressure
+        - button [ref=e562] [cursor=pointer]:
+          - generic [ref=e566]: Mature Samson wins praise
+        - button [ref=e567] [cursor=pointer]:
+          - generic [ref=e571]: Semi-finals locked for T20WC 2026
+        - button [ref=e572] [cursor=pointer]:
+          - generic [ref=e576]: India power past West Indies
+        - button [ref=e577] [cursor=pointer]:
+          - generic [ref=e581]: Unbeaten SA edge past Zimbabwe
+        - button [ref=e582] [cursor=pointer]:
+          - generic [ref=e586]: Fielding moments that lit up Super 8
+        - button [ref=e587] [cursor=pointer]:
+          - generic [ref=e591]: Spinners at their best
+        - button [ref=e592] [cursor=pointer]:
+          - generic [ref=e596]: Elegant Fours from Super 8 so far
+        - button [ref=e597] [cursor=pointer]:
+          - generic [ref=e601]: Best Sixes from Super 8 so far
+        - button [ref=e602] [cursor=pointer]:
+          - generic [ref=e606]: Sri Lanka coach keen to finish
+        - button [ref=e607] [cursor=pointer]:
+          - generic [ref=e611]: Farhan breaks Kohli's record
+        - button [ref=e612] [cursor=pointer]:
+          - generic [ref=e616]: Pakistan triumph thriller in Kandy
+        - button [ref=e617] [cursor=pointer]:
+          - generic [ref=e621]: NZ book semis berth
+        - button [ref=e622] [cursor=pointer]:
+          - generic [ref=e626]: England focus on controllables
+        - button [ref=e627] [cursor=pointer]:
+          - generic [ref=e631]: NZ await semi-final fate
+        - button [ref=e632] [cursor=pointer]:
+          - generic [ref=e636]: SL aim to sign off on a high
+        - button [ref=e637] [cursor=pointer]:
+          - generic [ref=e641]: Batting blitz has IND ready for WI
+        - button [ref=e642] [cursor=pointer]:
+          - generic [ref=e646]: India ace Zimbabwe test
+        - button [ref=e647] [cursor=pointer]:
+          - generic [ref=e651]: Markram leads South Africa to big win
+        - button [ref=e652] [cursor=pointer]:
+          - generic [ref=e656]: Black Caps eye semis
+        - button [ref=e657] [cursor=pointer]:
+          - generic [ref=e661]: New Zealand knock out Sri Lanka
+        - button [ref=e662] [cursor=pointer]:
+          - generic [ref=e666]: Big changes in Men's Rankings
+        - button [ref=e667] [cursor=pointer]:
+          - generic [ref=e671]: Shastri, Ponting offer advice on India’s playing XI
+        - button [ref=e672] [cursor=pointer]:
+          - generic [ref=e676]: Listen to The ICC Review
+        - button [ref=e677] [cursor=pointer]:
+          - generic [ref=e681]: Equation for semis
+        - button [ref=e682] [cursor=pointer]:
+          - generic [ref=e686]: Shastri talks up India XI
+        - button [ref=e687] [cursor=pointer]:
+          - generic [ref=e691]: AUS finish on a positive note
+        - button [ref=e692] [cursor=pointer]:
+          - generic [ref=e696]: Match officials for T20WC Super 8
+        - button [ref=e697] [cursor=pointer]:
+          - generic [ref=e701]: Trott reflects on journey
+        - button [ref=e702] [cursor=pointer]:
+          - generic [ref=e706]: Scintillating action unfolds across venues
+        - button [ref=e707] [cursor=pointer]:
+          - generic [ref=e711]: Top run scorers of T20WC 2026
+        - button [ref=e712] [cursor=pointer]:
+          - generic [ref=e716]: Top wicket-takers of T20WC 2026
+        - button [ref=e717] [cursor=pointer]:
+          - generic [ref=e721]: Today's exciting play
+        - button [ref=e722] [cursor=pointer]:
+          - generic [ref=e726]: Groups, fixtures for Super 8
+        - button [ref=e727] [cursor=pointer]:
+          - generic [ref=e731]: Qualification details for 2028 T20WC
+        - button [ref=e732] [cursor=pointer]:
+          - generic [ref=e736]: Injury rules out key SL speedster
+        - button [ref=e737] [cursor=pointer]:
+          - generic [ref=e741]: PAK star back on top in Men's Rankings
+        - button [ref=e742] [cursor=pointer]:
+          - generic [ref=e746]: Ponting on AUS's campaign
+        - button [ref=e747] [cursor=pointer]:
+          - generic [ref=e751]: Thrilling action unfolds in T20WC
+        - button [ref=e752] [cursor=pointer]:
+          - generic [ref=e756]: "State of play: T20WC 2026"
+        - button [ref=e757] [cursor=pointer]:
+          - generic [ref=e761]: Canada teenager creates history
+        - button [ref=e762] [cursor=pointer]:
+          - generic [ref=e766]: More teams seal Super 8 spot
+        - button [ref=e767] [cursor=pointer]:
+          - generic [ref=e771]: AUS name Hazlewood replacement
+        - button [ref=e772] [cursor=pointer]:
+          - generic [ref=e776]: PAK turn attention to Namibia clash
+        - button [ref=e777] [cursor=pointer]:
+          - generic [ref=e781]: Shastri's advice for Abhishek
+        - button [ref=e782] [cursor=pointer]:
+          - generic [ref=e786]: Teams confirm Super 8 spots
+        - button [ref=e787] [cursor=pointer]:
+          - generic [ref=e791]: Blockbuster action unfolds at T20WC
+        - button [ref=e792] [cursor=pointer]:
+          - generic [ref=e796]: Injury forces IRE to replace captain
+        - button [ref=e797] [cursor=pointer]:
+          - generic [ref=e801]: Italy make history, co-hosts notch second wins
+        - button [ref=e802] [cursor=pointer]:
+          - generic [ref=e806]: Top run scorers of T20WC
+        - button [ref=e807] [cursor=pointer]:
+          - generic [ref=e811]: Top wicket-takers of T20WC
+        - button [ref=e812] [cursor=pointer]:
+          - generic [ref=e816]: Ireland captain sent for scans
+        - button [ref=e817] [cursor=pointer]:
+          - generic [ref=e821]: Re-live epic double Super Over drama 🇿🇦🇦🇫
+        - button [ref=e822] [cursor=pointer]:
+          - generic [ref=e826]: Incredible action Day 5
+        - button [ref=e827] [cursor=pointer]:
+          - generic [ref=e831]: Update on India stars
+        - button [ref=e832] [cursor=pointer]:
+          - generic [ref=e836]: AUS skipper misses opening game
+        - button [ref=e837] [cursor=pointer]:
+          - generic [ref=e841]: T20WC starts make gains in rankings
+        - button [ref=e842] [cursor=pointer]:
+          - generic [ref=e846]: T20 Insights
+        - button [ref=e847] [cursor=pointer]:
+          - generic [ref=e851]: Pakistan and NZ register second win
+        - button [ref=e852] [cursor=pointer]:
+          - generic [ref=e856]: Injury forces change for NZ
+        - button [ref=e857] [cursor=pointer]:
+          - generic [ref=e861]: SL's spin wizard ruled out of T20WC
+        - button [ref=e862] [cursor=pointer]:
+          - generic [ref=e866]: Australia batter to miss opening game
+        - button [ref=e867] [cursor=pointer]:
+          - generic [ref=e871]: First wins in the bag for three teams
+        - button [ref=e872] [cursor=pointer]:
+          - generic [ref=e876]: Pakistan's dilemma on Babar
+      - generic [ref=e878]:
+        - link [ref=e882] [cursor=pointer]:
+          - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/all-records-broken-at-the-icc-men-s-t20-world-cup-2026
+          - figure [ref=e884]:
+            - img [ref=e886]
+          - generic [ref=e887]:
+            - generic [ref=e888]: ICC Men's T20 World Cup, 2026
+            - heading [level=2] [ref=e889]: All records broken at the ICC Men's T20 World Cup 2026
+            - time [ref=e890]: 20h
+        - generic [ref=e894]:
+          - link [ref=e896] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/team-of-the-tournament-announced-for-t20-world-cup-2026
+            - figure [ref=e897]:
+              - img [ref=e899]
+            - generic [ref=e900]:
+              - generic [ref=e901]: ICC Men's T20 World Cup, 2026
+              - paragraph [ref=e902]: Team of the tournament announced for T20 World Cup 2026
+              - time [ref=e903]: 1d
+          - link [ref=e905] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/gambhir-reveals-key-behind-india-s-t20-world-cup-success
+            - figure [ref=e906]:
+              - img [ref=e908]
+            - generic [ref=e909]:
+              - generic [ref=e910]: ICC Men's T20 World Cup, 2026
+              - paragraph [ref=e911]: Gambhir reveals key behind India's T20 World Cup success
+              - time [ref=e912]: 2d
+          - link [ref=e914] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/proud-santner-looks-ahead-as-new-zealand-plan-for-next-step
+            - figure [ref=e915]:
+              - img [ref=e917]
+            - generic [ref=e918]:
+              - generic [ref=e919]: ICC Men's T20 World Cup, 2026
+              - paragraph [ref=e920]: Proud Santner looks ahead as New Zealand plan for next step
+              - time [ref=e921]: 2d
+          - link [ref=e923] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-clinch-a-landmark-win-in-style-final-match-highlights-t20wc-2026
+            - img [ref=e925]
+            - figure [ref=e929]:
+              - img [ref=e931]
+            - generic [ref=e932]:
+              - generic [ref=e933]: ICC Men's T20 World Cup, 2026
+              - paragraph [ref=e934]: India clinch a landmark win in style | Final | Match Highlights | T20WC 2026
+              - time [ref=e935]: 2d
+      - generic [ref=e939]:
+        - generic [ref=e940]:
+          - heading [level=3] [ref=e941]: Road to Glory
+          - link [ref=e942] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/icc-men-s-t20-world-cup-2026-road-to-glory
+            - generic [ref=e943]: More Videos
+            - img [ref=e944]
+        - generic [ref=e947]:
+          - generic [ref=e948]:
+            - link [ref=e951] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/spanish-tournament-review-t20wc-2026
+              - img [ref=e953]
+              - figure [ref=e957]:
+                - img [ref=e959]
+              - generic [ref=e960]:
+                - generic [ref=e961]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e962]: El camino a la gloria | Spanish Tournament Review | T20WC 2026
+                - time [ref=e963]: 2d
+            - link [ref=e966] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/korean-tournament-review-t20wc-2026
+              - img [ref=e968]
+              - figure [ref=e972]:
+                - img [ref=e974]
+              - generic [ref=e975]:
+                - generic [ref=e976]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e977]: 영광으로 가는 길 | Korean Tournament Review | T20WC 2026
+                - time [ref=e978]: 2d
+            - link [ref=e981] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/portuguese-brazil-tournament-review-t20wc-2026
+              - img [ref=e983]
+              - figure [ref=e987]:
+                - img [ref=e989]
+              - generic [ref=e990]:
+                - generic [ref=e991]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e992]: O caminho para a glória | Brazilian Portuguese Tournament Review | T20WC 2026
+                - time [ref=e993]: 2d
+            - link [ref=e996] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/italian--tournament-review-t20wc-2026
+              - img [ref=e998]
+              - figure [ref=e1002]:
+                - img [ref=e1004]
+              - generic [ref=e1005]:
+                - generic [ref=e1006]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1007]: La strada per la gloria | Italian Tournament Review | T20WC 2026
+                - time [ref=e1008]: 2d
+            - link [ref=e1011] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/arabic-tournament-review-t20wc-2026
+              - img [ref=e1013]
+              - figure [ref=e1017]:
+                - img [ref=e1019]
+              - generic [ref=e1020]:
+                - generic [ref=e1021]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1022]: الطريق إلى المجد | Arabic Tournament Review | T20WC 2026
+                - time [ref=e1023]: 2d
+            - link [ref=e1026] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/dutch-tournament-review-t20wc-2026
+              - img [ref=e1028]
+              - figure [ref=e1032]:
+                - img [ref=e1034]
+              - generic [ref=e1035]:
+                - generic [ref=e1036]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1037]: De weg naar glorie | Dutch Tournament Review | T20WC 2026
+                - time [ref=e1038]: 2d
+            - link [ref=e1041] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/french-tournament-review-t20wc-2026
+              - img [ref=e1043]
+              - figure [ref=e1047]:
+                - img [ref=e1049]
+              - generic [ref=e1050]:
+                - generic [ref=e1051]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1052]: Le chemin de la gloire | French Tournament Review | T20WC 2026
+                - time [ref=e1053]: 2d
+            - link [ref=e1056] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/mandarin-tournament-review-t20wc-2026
+              - img [ref=e1058]
+              - figure [ref=e1062]:
+                - img [ref=e1064]
+              - generic [ref=e1065]:
+                - generic [ref=e1066]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1067]: 通往荣耀之路 | Mandarin Tournament Review | T20WC 2026
+                - time [ref=e1068]: 2d
+            - link [ref=e1071] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/japanese-tournament-review-t20wc-2026
+              - img [ref=e1073]
+              - figure [ref=e1077]:
+                - img [ref=e1079]
+              - generic [ref=e1080]:
+                - generic [ref=e1081]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1082]: 栄光への道 | Japanese Tournament Review | T20WC 2026
+                - time [ref=e1083]: 2d
+            - link [ref=e1086] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/german-tournament-review-t20wc-2026
+              - img [ref=e1088]
+              - figure [ref=e1092]:
+                - img [ref=e1094]
+              - generic [ref=e1095]:
+                - generic [ref=e1096]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1097]: Der Weg zum Ruhm | German Tournament Review | T20WC 2026
+                - time [ref=e1098]: 2d
+          - text: prev next
+          - generic [ref=e1099]:
+            - button [ref=e1100] [cursor=pointer]
+            - button [ref=e1101] [cursor=pointer]
+            - button [ref=e1102] [cursor=pointer]
+            - button [ref=e1103] [cursor=pointer]
+            - button [ref=e1104] [cursor=pointer]
+            - button [ref=e1105] [cursor=pointer]
+            - button [ref=e1106] [cursor=pointer]
+      - generic [ref=e1115]:
+        - heading [level=2] [ref=e1116]: Match Highlights
+        - generic [ref=e1119]:
+          - generic [ref=e1120]:
+            - link [ref=e1123] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-clinch-a-landmark-win-in-style-final-match-highlights-t20wc-2026
+              - img [ref=e1125]
+              - figure [ref=e1129]:
+                - img [ref=e1131]
+              - generic [ref=e1132]:
+                - generic [ref=e1133]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1134]: India clinch a landmark win in style | Final | Match Highlights | T20WC 2026
+                - time [ref=e1135]: 2d
+            - link [ref=e1138] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-edge-a-run-fest-to-make-the-final-match-highlights-t20wc-2026
+              - img [ref=e1140]
+              - figure [ref=e1144]:
+                - img [ref=e1146]
+              - generic [ref=e1147]:
+                - generic [ref=e1148]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1149]: India edge a run-fest to make the Final | Match Highlights | T20WC 2026
+                - time [ref=e1150]: 5d
+            - link [ref=e1153] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-dominate-to-book-final-spot-match-highlights-t20wc-2026
+              - img [ref=e1155]
+              - figure [ref=e1159]:
+                - img [ref=e1161]
+              - generic [ref=e1162]:
+                - generic [ref=e1163]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1164]: New Zealand dominate to book Final spot | Match Highlights | T20WC 2026
+                - time [ref=e1165]: 6d
+            - link [ref=e1168] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/clinical-india-power-into-the-last-four-match-highlights-t20wc-2026
+              - img [ref=e1170]
+              - figure [ref=e1174]:
+                - img [ref=e1176]
+              - generic [ref=e1177]:
+                - generic [ref=e1178]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1179]: Clinical India power into the last four | Match Highlights | T20WC 2026
+                - time [ref=e1180]: 1 March, 2026
+            - link [ref=e1183] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/recovery-seals-south-africa-s-perfect-run-match-highlights-t20wc-2026
+              - img [ref=e1185]
+              - figure [ref=e1189]:
+                - img [ref=e1191]
+              - generic [ref=e1192]:
+                - generic [ref=e1193]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1194]: Recovery ensures South Africa's perfect run | Match Highlights | T20WC 2026
+                - time [ref=e1195]: 1 March, 2026
+            - link [ref=e1198] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/pakistan-win-a-blockbuster-contest-in-kandy-match-highlights-t20wc-2026
+              - img [ref=e1200]
+              - figure [ref=e1204]:
+                - img [ref=e1206]
+              - generic [ref=e1207]:
+                - generic [ref=e1208]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1209]: Pakistan win a blockbuster contest in Kandy | Match Highlights | T20WC 2026
+                - time [ref=e1210]: 28 February, 2026
+            - link [ref=e1213] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-edge-a-dramatic-contest-in-colombo-match-highlights-t20wc-2026
+              - img [ref=e1215]
+              - figure [ref=e1219]:
+                - img [ref=e1221]
+              - generic [ref=e1222]:
+                - generic [ref=e1223]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1224]: England edge a dramatic contest in Colombo | Match Highlights | T20WC 2026
+                - time [ref=e1225]: 27 February, 2026
+            - link [ref=e1228] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-s-big-push-in-the-race-to-semi-finals-match-highlights-t20wc-2026
+              - img [ref=e1230]
+              - figure [ref=e1234]:
+                - img [ref=e1236]
+              - generic [ref=e1237]:
+                - generic [ref=e1238]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1239]: India's big push in the race to semi-finals | Match Highlights | T20WC 2026
+                - time [ref=e1240]: 26 February, 2026
+            - link [ref=e1243] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/flawless-south-africa-deliver-again-match-highlights-t20wc-2026
+              - img [ref=e1245]
+              - figure [ref=e1249]:
+                - img [ref=e1251]
+              - generic [ref=e1252]:
+                - generic [ref=e1253]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1254]: Flawless South Africa deliver again | Match Highlights | T20WC 2026
+                - time [ref=e1255]: 26 February, 2026
+            - link [ref=e1258] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-s-dominant-display-powers-big-win-match-highlights-t20wc-2026
+              - img [ref=e1260]
+              - figure [ref=e1264]:
+                - img [ref=e1266]
+              - generic [ref=e1267]:
+                - generic [ref=e1268]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1269]: New Zealand's dominant display powers big win | Match Highlights | T20WC 2026
+                - time [ref=e1270]: 25 February, 2026
+            - link [ref=e1273] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-advance-as-brook-delivers-big-match-highlights-t20wc-2026
+              - img [ref=e1275]
+              - figure [ref=e1279]:
+                - img [ref=e1281]
+              - generic [ref=e1282]:
+                - generic [ref=e1283]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1284]: England advance as Brook delivers big | Match Highlights | T20WC 2026
+                - time [ref=e1285]: 24 February, 2026
+            - link [ref=e1288] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/all-round-west-indies-ease-past-zimbabwe-match-highlights-t20wc-2026
+              - img [ref=e1290]
+              - figure [ref=e1294]:
+                - img [ref=e1296]
+              - generic [ref=e1297]:
+                - generic [ref=e1298]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1299]: All-round West Indies ease past Zimbabwe | Match Highlights | T20WC 2026
+                - time [ref=e1300]: 23 February, 2026
+            - link [ref=e1303] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/south-africa-take-charge-and-triumph-match-highlights-t20wc-2026
+              - img [ref=e1305]
+              - figure [ref=e1309]:
+                - img [ref=e1311]
+              - generic [ref=e1312]:
+                - generic [ref=e1313]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1314]: South Africa take charge and triumph | Match Highlights | T20WC 2026
+                - time [ref=e1315]: 22 February, 2026
+            - link [ref=e1318] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-s-attack-sets-up-the-win-match-highlights-t20wc-2026
+              - img [ref=e1320]
+              - figure [ref=e1324]:
+                - img [ref=e1326]
+              - generic [ref=e1327]:
+                - generic [ref=e1328]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1329]: England's attack sets up the win | Match Highlights | T20WC 2026
+                - time [ref=e1330]: 22 February, 2026
+            - link [ref=e1333] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/australia-sign-off-with-authority-match-highlights-t20wc-2026
+              - img [ref=e1335]
+              - figure [ref=e1339]:
+                - img [ref=e1341]
+              - generic [ref=e1342]:
+                - generic [ref=e1343]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1344]: Australia sign off with authority | Match Highlights | T20WC 2026
+                - time [ref=e1345]: 20 February, 2026
+            - link [ref=e1348] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/afghanistan-bow-out-in-dominance-match-highlights-t20wc-2026
+              - img [ref=e1350]
+              - figure [ref=e1354]:
+                - img [ref=e1356]
+              - generic [ref=e1357]:
+                - generic [ref=e1358]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1359]: Afghanistan bow out in dominance | Match Highlights | T20WC 2026
+                - time [ref=e1360]: 19 February, 2026
+            - link [ref=e1363] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/zimbabwe-show-quality-across-the-board-match-highlights-t20wc-2026
+              - img [ref=e1365]
+              - figure [ref=e1369]:
+                - img [ref=e1371]
+              - generic [ref=e1372]:
+                - generic [ref=e1373]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1374]: Zimbabwe show quality across the board | Match Highlights | T20WC 2026
+                - time [ref=e1375]: 19 February, 2026
+            - link [ref=e1378] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/west-indies-juggernaut-rolls-on-match-highlights-t20wc-2026
+              - img [ref=e1380]
+              - figure [ref=e1384]:
+                - img [ref=e1386]
+              - generic [ref=e1387]:
+                - generic [ref=e1388]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1389]: West Indies juggernaut rolls on | Match Highlights | T20WC 2026
+                - time [ref=e1390]: 19 February, 2026
+            - link [ref=e1393] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-show-resolve-in-ahmedabad-match-highlights-t20wc-2026
+              - img [ref=e1395]
+              - figure [ref=e1399]:
+                - img [ref=e1401]
+              - generic [ref=e1402]:
+                - generic [ref=e1403]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1404]: India show resolve in Ahmedabad | Match Highlights | T20WC 2026
+                - time [ref=e1405]: 18 February, 2026
+            - link [ref=e1408] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/pakistan-go-through-in-commanding-fashion-match-highlights-t20wc-2026
+              - img [ref=e1410]
+              - figure [ref=e1414]:
+                - img [ref=e1416]
+              - generic [ref=e1417]:
+                - generic [ref=e1418]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1419]: Pakistan go through in commanding fashion | Match Highlights | T20WC 2026
+                - time [ref=e1420]: 18 February, 2026
+            - link [ref=e1423] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/another-assured-display-from-south-africa-match-highlights-t20wc-2026
+              - img [ref=e1425]
+              - figure [ref=e1429]:
+                - img [ref=e1431]
+              - generic [ref=e1432]:
+                - generic [ref=e1433]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1434]: Another assured display from South Africa | Match Highlights | T20WC 2026
+                - time [ref=e1435]: 18 February, 2026
+            - link [ref=e1438] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/nepal-break-the-wait-with-a-memorable-chase-match-highlights-t20wc-2026
+              - img [ref=e1440]
+              - figure [ref=e1444]:
+                - img [ref=e1446]
+              - generic [ref=e1447]:
+                - generic [ref=e1448]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1449]: Nepal break the wait with a memorable chase | Match Highlights | T20WC 2026
+                - time [ref=e1450]: 17 February, 2026
+            - link [ref=e1453] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-move-ahead-with-confidence-match-highlights-t20wc-2026
+              - img [ref=e1455]
+              - figure [ref=e1459]:
+                - img [ref=e1461]
+              - generic [ref=e1462]:
+                - generic [ref=e1463]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1464]: New Zealand move ahead with confidence | Match Highlights | T20WC 2026
+                - time [ref=e1465]: 17 February, 2026
+            - link [ref=e1468] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/sri-lanka-power-on-with-complete-display-match-highlights-t20wc-2026
+              - img [ref=e1470]
+              - figure [ref=e1474]:
+                - img [ref=e1476]
+              - generic [ref=e1477]:
+                - generic [ref=e1478]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1479]: Sri Lanka power on with complete display | Match Highlights | T20WC 2026
+                - time [ref=e1480]: 16 February, 2026
+            - link [ref=e1483] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-fend-off-a-spirited-italy-match-highlights-t20wc-2026
+              - img [ref=e1485]
+              - figure [ref=e1489]:
+                - img [ref=e1491]
+              - generic [ref=e1492]:
+                - generic [ref=e1493]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1494]: England fend off a spirited Italy | Match Highlights | T20WC 2026
+                - time [ref=e1495]: 16 February, 2026
+          - text: prev next
+      - generic [ref=e1497]:
+        - generic [ref=e1502]:
+          - paragraph [ref=e1504]: Aramco Player of the tournament
+          - paragraph [ref=e1507]: Voting has ended. The winners are declared
+          - generic [ref=e1514]:
+            - generic [ref=e1515]:
+              - img [ref=e1519]
+              - button [ref=e1520] [cursor=pointer]:
+                - img [ref=e1522]
+              - generic [ref=e1526]:
+                - generic [ref=e1527]:
+                  - img [ref=e1529]
+                  - paragraph [ref=e1530]: Sanju
+                  - paragraph [ref=e1531]: Samson
+                  - paragraph [ref=e1532]: BATTER
+                - paragraph [ref=e1534]: WINNER
+            - generic [ref=e1535]:
+              - img [ref=e1539]
+              - button [ref=e1540] [cursor=pointer]:
+                - img [ref=e1541]
+              - generic [ref=e1544]:
+                - generic [ref=e1546]:
+                  - paragraph [ref=e1547]: "321"
+                  - paragraph [ref=e1548]: Runs
+                - generic [ref=e1550]:
+                  - paragraph [ref=e1551]: "5"
+                  - paragraph [ref=e1552]: Matches
+                - generic [ref=e1554]:
+                  - paragraph [ref=e1555]: "199.37"
+                  - paragraph [ref=e1556]: Batting Strike Rate
+        - generic [ref=e1562]:
+          - generic [ref=e1563]:
+            - link [ref=e1566] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-will-jacks-from-group-super-8-stages-t20wc-2026
+              - img [ref=e1568]
+              - figure [ref=e1572]:
+                - img [ref=e1574]
+              - generic [ref=e1575]:
+                - generic [ref=e1576]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1577]: Best of Will Jacks from Group and Super 8 Stages | T20WC 2026
+                - time [ref=e1578]: 5d
+            - link [ref=e1581] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-sahibzada-farhan-from-group-and-super-8-stages-t20wc-2026
+              - img [ref=e1583]
+              - figure [ref=e1587]:
+                - img [ref=e1589]
+              - generic [ref=e1590]:
+                - generic [ref=e1591]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1592]: Best of Sahibzada Farhan from Group and Super 8 stages | T20WC 2026
+                - time [ref=e1593]: 5d
+            - link [ref=e1596] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-lungi-ngidi-wicket-from-group-and-super-8-stages
+              - img [ref=e1598]
+              - figure [ref=e1602]:
+                - img [ref=e1604]
+              - generic [ref=e1605]:
+                - generic [ref=e1606]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1607]: Every Lungi Ngidi wicket from Group and Super 8 stages | T20WC 2026
+                - time [ref=e1608]: 5d
+            - link [ref=e1611] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-aiden-markram-with-the-bat-t20wc-2026
+              - img [ref=e1613]
+              - figure [ref=e1617]:
+                - img [ref=e1619]
+              - generic [ref=e1620]:
+                - generic [ref=e1621]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1622]: Best of Aiden Markram with the bat | T20WC 2026
+                - time [ref=e1623]: 5d
+            - link [ref=e1626] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-rachin-ravindra-from-the-group-and-super-8-stages-t20wc-2026
+              - img [ref=e1628]
+              - figure [ref=e1632]:
+                - img [ref=e1634]
+              - generic [ref=e1635]:
+                - generic [ref=e1636]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1637]: Best of Rachin Ravindra from the Group and Super 8 stages | T20WC 2026
+                - time [ref=e1638]: 5d
+            - link [ref=e1641] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-shadley-van-schalkwyk-wicket-from-group-stage-t20wc-2026
+              - img [ref=e1643]
+              - figure [ref=e1647]:
+                - img [ref=e1649]
+              - generic [ref=e1650]:
+                - generic [ref=e1651]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1652]: Every Shadley van Schalkwyk wicket from Group stage | T20WC 2026
+                - time [ref=e1653]: 5d
+            - link [ref=e1656] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/mt20wc26-sa-nz-seifert-batting-50-playerhls-16x9-x2022
+              - img [ref=e1658]
+              - figure [ref=e1662]:
+                - img [ref=e1664]
+              - generic [ref=e1665]:
+                - generic [ref=e1666]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1667]: Seifert's perfect opening act | Player Highlights | T20WC 2026
+                - time [ref=e1668]: 5d
+            - link [ref=e1671] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/samson-leads-the-charge-once-more-player-highlights-t20wc-2026
+              - img [ref=e1673]
+              - figure [ref=e1677]:
+                - img [ref=e1679]
+              - generic [ref=e1680]:
+                - generic [ref=e1681]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1682]: Samson leads the charge once more | Player Highlights | T20WC 2026
+                - time [ref=e1683]: 7d
+          - text: prev next
+          - generic [ref=e1684]:
+            - button [ref=e1685] [cursor=pointer]
+            - button [ref=e1686] [cursor=pointer]
+            - button [ref=e1687] [cursor=pointer]
+            - button [ref=e1688] [cursor=pointer]
+            - button [ref=e1689] [cursor=pointer]
+      - iframe [ref=e1693]:
+        - generic [ref=f4e1]:
+          - link [ref=f4e2] [cursor=pointer]:
+            - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjst5LtC--q_kdPwgWxjrNgwWAc-t2U540aGvXuY5wJLzZVsv8eG5dIyN2Ni0ug-f86oSKCZkPMMbH2_1oEnQz4N7em1w16eyZ9E6eZrQ1Gri_xHKYJSC8e3j5j8n940KYH4-LnsaRVG1isfIbH1NJADZkoii2kW3srzVDdeA1CfoDY0zdXyYZXSyvX_1Vdlw6KvydtrH6--g6oJRGe74sJ3Ry1nqRqbWiGISBqb0EeAU-xnXBIEzgaY_eUJrUtjGWFVkFwUpbMXwS7aBWk2Y4e4fl7yZuwv-Np2GBg0cFqhMhByS9VrH_oM667rjrgVzQUbb6Z2aPPDVLSqZbmk2vsQC-8N3EfIYd4xuR_l-NrKlNGi6sT6jbfcWFfxTk-LNmXbDdbWdRFACl7IKuH-_jZwThjvYstdJ&sai=AMfl-YRDbnTJ2lqnhdtS-fcFqyAGydsz3cQO4FR6e7eXBcHHdelVbykP0EdL9IAbBYDBUrn4c9dxi96X7MNSqvuTazV4iPCIvA6zC-k9FyQEdMKt1Iyta-eB82OwGKaZAKfvFITFttiXBrxdhEvilFOvJfuDXwJQfGJ5X1bJck9GG-9_nt58G-j3PijMGuaXPblJkiJ2OyvuHNoapZqHDl96sqQlcKKGjBnIZQS8FIBSiDkX8_zVEidmK1TwX2CxQ_3cZIipdfr4eChIiNFZhScYBQaV_eYdUdMDY1K_4DjJibwwVixZjAevToom1gINixZKAaV3om9v9DW00XraenDXKruuQUdH5XqfUSlDZb9XidgCm6f0aPcsbE8GXs44JLlBkA&sig=Cg0ArKJSzL0SJAt1rmgg&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://thunder-zone.coke2home.com/%3Futm_source%3Ddisplay_p%26utm_medium%3Ddisplay%26utm_campaign%3D%26utm_term%3DICC%26utm_content%3Dimage
+          - img [ref=f4e7]
+      - generic [ref=e1697]:
+        - generic [ref=e1698]:
+          - heading [level=3] [ref=e1699]: Aramco POTM Highlights
+          - link [ref=e1700] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/aramco-potm-highlights-icc-men-s-t20-world-cup-2026
+            - generic [ref=e1701]: More Videos
+            - img [ref=e1702]
+        - generic [ref=e1705]:
+          - generic [ref=e1706]:
+            - link [ref=e1709] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/bumrah-runs-the-show-in-ahmedabad-final-potm-highlights-t20wc-2026
+              - img [ref=e1711]
+              - figure [ref=e1715]:
+                - img [ref=e1717]
+              - generic [ref=e1718]:
+                - generic [ref=e1719]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1720]: Bumrah runs the show in Ahmedabad | Final | POTM Highlights | T20WC 2026
+                - time [ref=e1721]: 2d
+            - link [ref=e1724] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/samson-s-classy-knock-sets-up-the-win-potm-highlights-t20wc-2026
+              - img [ref=e1726]
+              - figure [ref=e1730]:
+                - img [ref=e1732]
+              - generic [ref=e1733]:
+                - generic [ref=e1734]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1735]: Samson's classy knock sets up the win | POTM Highlights | T20WC 2026
+                - time [ref=e1736]: 5d
+            - link [ref=e1739] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/allen-s-record-breaking-blitz-seals-the-deal-potm-highlights-t20wc-2026
+              - img [ref=e1741]
+              - figure [ref=e1745]:
+                - img [ref=e1747]
+              - generic [ref=e1748]:
+                - generic [ref=e1749]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1750]: Allen's record-breaking ton seals the deal | POTM Highlights | T20WC 2026
+                - time [ref=e1751]: 6d
+            - link [ref=e1754] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/a-samson-special-lights-up-kolkata-potm-highlights-t20wc-2026
+              - img [ref=e1756]
+              - figure [ref=e1760]:
+                - img [ref=e1762]
+              - generic [ref=e1763]:
+                - generic [ref=e1764]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1765]: A Samson special lights up Kolkata | POTM Highlights | T20WC 2026
+                - time [ref=e1766]: 1 March, 2026
+            - link [ref=e1769] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/exceptional-all-round-showing-from-raza-potm-highlights-t20wc-2026
+              - img [ref=e1771]
+              - figure [ref=e1775]:
+                - img [ref=e1777]
+              - generic [ref=e1778]:
+                - generic [ref=e1779]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1780]: Exceptional all-round showing from Raza | POTM Highlights | T20WC 2026
+                - time [ref=e1781]: 1 March, 2026
+            - link [ref=e1784] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/farhan-shines-with-a-golden-ton-potm-highlights-t20wc-2026
+              - img [ref=e1786]
+              - figure [ref=e1790]:
+                - img [ref=e1792]
+              - generic [ref=e1793]:
+                - generic [ref=e1794]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1795]: Farhan shines with a golden ton | POTM Highlights | T20WC 2026
+                - time [ref=e1796]: 28 February, 2026
+            - link [ref=e1799] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/jacks-ultimate-all-round-display-potm-highlights-t20wc-2026
+              - img [ref=e1801]
+              - figure [ref=e1805]:
+                - img [ref=e1807]
+              - generic [ref=e1808]:
+                - generic [ref=e1809]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1810]: Jacks' ultimate all-round display | POTM Highlights | T20WC 2026
+                - time [ref=e1811]: 27 February, 2026
+            - link [ref=e1814] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/pandya-adds-the-final-flourish-potm-highlights-t20wc-2026
+              - img [ref=e1816]
+              - figure [ref=e1820]:
+                - img [ref=e1822]
+              - generic [ref=e1823]:
+                - generic [ref=e1824]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1825]: Pandya adds the final flourish | POTM Highlights | T20WC 2026
+                - time [ref=e1826]: 26 February, 2026
+            - link [ref=e1829] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/skipper-markram-leads-the-chase-in-style-potm-highlights-t20wc-2026
+              - img [ref=e1831]
+              - figure [ref=e1835]:
+                - img [ref=e1837]
+              - generic [ref=e1838]:
+                - generic [ref=e1839]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1840]: Skipper Markram leads the chase in style | POTM Highlights | T20WC 2026
+                - time [ref=e1841]: 26 February, 2026
+            - link [ref=e1844] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/rachin-s-magical-spell-claims-four-potm-highlights-t20wc-2026
+              - img [ref=e1846]
+              - figure [ref=e1850]:
+                - img [ref=e1852]
+              - generic [ref=e1853]:
+                - generic [ref=e1854]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1855]: Rachin's magical spell claims four | POTM Highlights | T20WC 2026
+                - time [ref=e1856]: 25 February, 2026
+          - text: prev next
+          - generic [ref=e1857]:
+            - button [ref=e1858] [cursor=pointer]
+            - button [ref=e1859] [cursor=pointer]
+            - button [ref=e1860] [cursor=pointer]
+            - button [ref=e1861] [cursor=pointer]
+            - button [ref=e1862] [cursor=pointer]
+            - button [ref=e1863] [cursor=pointer]
+            - button [ref=e1864] [cursor=pointer]
+      - generic [ref=e1873]:
+        - heading [level=2] [ref=e1874]: Player Highlights
+        - generic [ref=e1877]:
+          - generic [ref=e1878]:
+            - link [ref=e1881] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/kishan-goes-hard-in-a-fiery-display-final-player-highlights-t20wc-2026
+              - img [ref=e1883]
+              - figure [ref=e1887]:
+                - img [ref=e1889]
+              - generic [ref=e1890]:
+                - generic [ref=e1891]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1892]: Kishan goes hard in a fiery display | Final | Player Highlights | T20WC 2026
+                - time [ref=e1893]: 2d
+            - link [ref=e1896] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/samson-lights-up-the-innings-again-final-player-highlights-t20wc-2026
+              - img [ref=e1898]
+              - figure [ref=e1902]:
+                - img [ref=e1904]
+              - generic [ref=e1905]:
+                - generic [ref=e1906]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1907]: Samson lights up the innings again | Final | Player Highlights | T20WC 2026
+                - time [ref=e1908]: 2d
+            - link [ref=e1911] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-will-jacks-from-group-super-8-stages-t20wc-2026
+              - img [ref=e1913]
+              - figure [ref=e1917]:
+                - img [ref=e1919]
+              - generic [ref=e1920]:
+                - generic [ref=e1921]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1922]: Best of Will Jacks from Group and Super 8 Stages | T20WC 2026
+                - time [ref=e1923]: 5d
+            - link [ref=e1926] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-sahibzada-farhan-from-group-and-super-8-stages-t20wc-2026
+              - img [ref=e1928]
+              - figure [ref=e1932]:
+                - img [ref=e1934]
+              - generic [ref=e1935]:
+                - generic [ref=e1936]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1937]: Best of Sahibzada Farhan from Group and Super 8 stages | T20WC 2026
+                - time [ref=e1938]: 5d
+            - link [ref=e1941] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/bethell-s-resolute-century-effort-player-highlights-t20wc-2026
+              - img [ref=e1943]
+              - figure [ref=e1947]:
+                - img [ref=e1949]
+              - generic [ref=e1950]:
+                - generic [ref=e1951]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1952]: Bethell's resolute century effort | Player Highlights | T20WC 2026
+                - time [ref=e1953]: 5d
+            - link [ref=e1956] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-lungi-ngidi-wicket-from-group-and-super-8-stages
+              - img [ref=e1958]
+              - figure [ref=e1962]:
+                - img [ref=e1964]
+              - generic [ref=e1965]:
+                - generic [ref=e1966]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1967]: Every Lungi Ngidi wicket from Group and Super 8 stages | T20WC 2026
+                - time [ref=e1968]: 5d
+            - link [ref=e1971] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-aiden-markram-with-the-bat-t20wc-2026
+              - img [ref=e1973]
+              - figure [ref=e1977]:
+                - img [ref=e1979]
+              - generic [ref=e1980]:
+                - generic [ref=e1981]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1982]: Best of Aiden Markram with the bat | T20WC 2026
+                - time [ref=e1983]: 5d
+            - link [ref=e1986] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-rachin-ravindra-from-the-group-and-super-8-stages-t20wc-2026
+              - img [ref=e1988]
+              - figure [ref=e1992]:
+                - img [ref=e1994]
+              - generic [ref=e1995]:
+                - generic [ref=e1996]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1997]: Best of Rachin Ravindra from the Group and Super 8 stages | T20WC 2026
+                - time [ref=e1998]: 5d
+            - link [ref=e2001] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-shadley-van-schalkwyk-wicket-from-group-stage-t20wc-2026
+              - img [ref=e2003]
+              - figure [ref=e2007]:
+                - img [ref=e2009]
+              - generic [ref=e2010]:
+                - generic [ref=e2011]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2012]: Every Shadley van Schalkwyk wicket from Group stage | T20WC 2026
+                - time [ref=e2013]: 5d
+            - link [ref=e2016] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/mt20wc26-sa-nz-seifert-batting-50-playerhls-16x9-x2022
+              - img [ref=e2018]
+              - figure [ref=e2022]:
+                - img [ref=e2024]
+              - generic [ref=e2025]:
+                - generic [ref=e2026]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2027]: Seifert's perfect opening act | Player Highlights | T20WC 2026
+                - time [ref=e2028]: 5d
+            - link [ref=e2031] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/jansen-s-fearless-hitting-show-player-highlights-t20wc-2026
+              - img [ref=e2033]
+              - figure [ref=e2037]:
+                - img [ref=e2039]
+              - generic [ref=e2040]:
+                - generic [ref=e2041]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2042]: Jansen's fearless hitting show | Player Highlights | T20WC 2026
+                - time [ref=e2043]: 6d
+            - link [ref=e2046] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-hardik-pandya-wicket-and-six-from-group-and-super-8-stages-t20wc-2026
+              - img [ref=e2048]
+              - figure [ref=e2052]:
+                - img [ref=e2054]
+              - generic [ref=e2055]:
+                - generic [ref=e2056]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2057]: Every Hardik Pandya wicket and six from Group and Super 8 stages | T20WC 2026
+                - time [ref=e2058]: 7d
+            - link [ref=e2061] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-jasprit-bumrah-wicket-from-the-group-and-super-8-stages-t20wc-2026
+              - img [ref=e2063]
+              - figure [ref=e2067]:
+                - img [ref=e2069]
+              - generic [ref=e2070]:
+                - generic [ref=e2071]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2072]: Every Jasprit Bumrah wicket from the Group and Super 8 stages | T20WC 2026
+                - time [ref=e2073]: 7d
+            - link [ref=e2076] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/samson-leads-the-charge-once-more-player-highlights-t20wc-2026
+              - img [ref=e2078]
+              - figure [ref=e2082]:
+                - img [ref=e2084]
+              - generic [ref=e2085]:
+                - generic [ref=e2086]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2087]: Samson leads the charge once more | Player Highlights | T20WC 2026
+                - time [ref=e2088]: 7d
+            - link [ref=e2091] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-varun-chakravarthy-wicket-from-group-and-super-8-stages-t20wc-2026
+              - img [ref=e2093]
+              - figure [ref=e2097]:
+                - img [ref=e2099]
+              - generic [ref=e2100]:
+                - generic [ref=e2101]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2102]: Every Varun Chakravarthy wicket from Group and Super 8 stages | T20WC 2026
+                - time [ref=e2103]: 2 March, 2026
+            - link [ref=e2106] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-six-from-shimron-hetmyer-s-record-breaking-t20-world-cup-t20wc-2026
+              - img [ref=e2108]
+              - figure [ref=e2112]:
+                - img [ref=e2114]
+              - generic [ref=e2115]:
+                - generic [ref=e2116]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2117]: Every six from Shimron Hetmyer's record-breaking T20 World Cup | T20WC 2026
+                - time [ref=e2118]: 2 March, 2026
+            - link [ref=e2121] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/fearless-raza-takes-the-fight-on-player-highlights-t20wc-2026
+              - img [ref=e2123]
+              - figure [ref=e2127]:
+                - img [ref=e2129]
+              - generic [ref=e2130]:
+                - generic [ref=e2131]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2132]: Fearless Raza takes the fight on | Player Highlights | T20WC 2026
+                - time [ref=e2133]: 1 March, 2026
+            - link [ref=e2136] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/shanaka-s-gritty-fight-in-kandy-player-highlights-t20wc-2026
+              - img [ref=e2138]
+              - figure [ref=e2142]:
+                - img [ref=e2144]
+              - generic [ref=e2145]:
+                - generic [ref=e2146]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2147]: Shanaka's gritty fight in Kandy | Player Highlights | T20WC 2026
+                - time [ref=e2148]: 28 February, 2026
+            - link [ref=e2151] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/rathnayake-s-resilient-effort-player-highlights-t20wc-2026
+              - img [ref=e2153]
+              - figure [ref=e2157]:
+                - img [ref=e2159]
+              - generic [ref=e2160]:
+                - generic [ref=e2161]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2162]: Rathnayake's resilient effort | Player Highlights | T20WC 2026
+                - time [ref=e2163]: 28 February, 2026
+            - link [ref=e2166] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/farhan-s-monumental-innings-in-kandy-player-highlights-t20wc-2026
+              - img [ref=e2168]
+              - figure [ref=e2172]:
+                - img [ref=e2174]
+              - generic [ref=e2175]:
+                - generic [ref=e2176]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2177]: Farhan's monumental innings in Kandy | Player Highlights | T20WC 2026
+                - time [ref=e2178]: 28 February, 2026
+            - link [ref=e2181] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/zaman-steps-up-in-crunch-game-player-highlights-t20wc-2026
+              - img [ref=e2183]
+              - figure [ref=e2187]:
+                - img [ref=e2189]
+              - generic [ref=e2190]:
+                - generic [ref=e2191]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2192]: Zaman steps up in crunch game | Player Highlights | T20WC 2026
+                - time [ref=e2193]: 28 February, 2026
+            - link [ref=e2196] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/character-and-class-from-bennett-player-highlights-t20wc-2026
+              - img [ref=e2198]
+              - figure [ref=e2202]:
+                - img [ref=e2204]
+              - generic [ref=e2205]:
+                - generic [ref=e2206]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2207]: Character and class from Bennett | Player Highlights | T20WC 2026
+                - time [ref=e2208]: 26 February, 2026
+            - link [ref=e2211] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/pandya-s-quickfire-knock-in-chennai-player-highlights-t20wc-2026
+              - img [ref=e2213]
+              - figure [ref=e2217]:
+                - img [ref=e2219]
+              - generic [ref=e2220]:
+                - generic [ref=e2221]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2222]: Pandya's quickfire knock in Chennai | Player Highlights | T20WC 2026
+                - time [ref=e2223]: 26 February, 2026
+            - link [ref=e2226] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/abhishek-s-sparkling-timely-knock-player-highlights-t20wc-2026
+              - img [ref=e2228]
+              - figure [ref=e2232]:
+                - img [ref=e2234]
+              - generic [ref=e2235]:
+                - generic [ref=e2236]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2237]: Abhishek's sparkling timely knock | Player Highlights | T20WC 2026
+                - time [ref=e2238]: 26 February, 2026
+            - link [ref=e2241] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/romario-goes-into-beast-mode-player-highlights-t20wc-2026
+              - img [ref=e2243]
+              - figure [ref=e2247]:
+                - img [ref=e2249]
+              - generic [ref=e2250]:
+                - generic [ref=e2251]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2252]: Romario goes into beast mode | Player Highlights | T20WC 2026
+                - time [ref=e2253]: 26 February, 2026
+          - text: prev next
+      - generic [ref=e2255]:
+        - heading [level=2] [ref=e2257]: Top Moments
+        - region [ref=e2259]:
+          - button [ref=e2260] [cursor=pointer]:
+            - generic [ref=e2262]:
+              - generic: NEW
+              - generic [ref=e2264]: India clinch T20WC title for the third time 👏
+          - button [ref=e2265] [cursor=pointer]:
+            - generic [ref=e2267]:
+              - generic: NEW
+              - generic [ref=e2269]: A Bumrah special in the Final 🔥
+          - button [ref=e2270] [cursor=pointer]:
+            - generic [ref=e2272]:
+              - generic: NEW
+              - generic [ref=e2274]: Tense moment between Arshdeep and Mitchell 👀
+          - button [ref=e2275] [cursor=pointer]:
+            - generic [ref=e2277]:
+              - generic: NEW
+              - generic [ref=e2279]: Santner counter attacks with a massive six 💪
+          - button [ref=e2280] [cursor=pointer]:
+            - generic [ref=e2282]:
+              - generic: NEW
+              - generic [ref=e2284]: Axar gets through Phillips' defence 🙌
+          - button [ref=e2285] [cursor=pointer]:
+            - generic [ref=e2287]:
+              - generic: NEW
+              - generic [ref=e2289]: Kishan's stunner dismisses Rachin early 😮
+          - button [ref=e2290] [cursor=pointer]:
+            - generic [ref=e2292]:
+              - generic: NEW
+              - generic [ref=e2294]: Seifert with the ramp early in the innings 👊
+          - button [ref=e2295] [cursor=pointer]:
+            - generic [ref=e2297]:
+              - generic: NEW
+              - generic [ref=e2299]: Dube finishes off with a flourish 🚀
+          - button [ref=e2300] [cursor=pointer]:
+            - generic [ref=e2302]:
+              - generic: NEW
+              - generic [ref=e2304]: Rachin's stunner gets Surya 🤯
+          - button [ref=e2305] [cursor=pointer]:
+            - generic [ref=e2307]:
+              - generic: NEW
+              - generic [ref=e2309]: Samson scores 18 off three 😳
+          - button [ref=e2310] [cursor=pointer]:
+            - generic [ref=e2312]:
+              - generic: NEW
+              - generic [ref=e2314]: Kishan gets into the act with a maximum 💪
+          - button [ref=e2315] [cursor=pointer]:
+            - generic [ref=e2317]:
+              - generic: NEW
+              - generic [ref=e2319]: Just Ricky Martin pumping himself up to Sukhbir's tunes before stealing the show!
+          - button [ref=e2320] [cursor=pointer]:
+            - generic [ref=e2322]:
+              - generic: NEW
+              - generic [ref=e2324]: A vital breakthrough by Rachin ☝️
+          - button [ref=e2325] [cursor=pointer]:
+            - generic [ref=e2327]:
+              - generic: NEW
+              - generic [ref=e2329]: Abhishek sends one to the stands enroute to his 50 💪
+          - button [ref=e2330] [cursor=pointer]:
+            - generic [ref=e2332]:
+              - generic: NEW
+              - generic [ref=e2334]: Samson off the mark with a six 6️⃣
+          - button [ref=e2335] [cursor=pointer]:
+            - generic [ref=e2337]:
+              - generic: NEW
+              - generic [ref=e2339]: Former T20WC winning captains walk out with the trophy 🏆
+          - button [ref=e2340] [cursor=pointer]:
+            - generic [ref=e2342]:
+              - generic: NEW
+              - generic [ref=e2344]: Ricky Martin lit up Ahmedabad with an all-time classic ✨
+          - button [ref=e2345] [cursor=pointer]:
+            - generic [ref=e2347]:
+              - generic: NEW
+              - generic [ref=e2349]: Ahmedabad grooves to Sukhbir 🕺
+          - button [ref=e2350] [cursor=pointer]:
+            - generic [ref=e2352]:
+              - generic: NEW
+              - generic [ref=e2354]: India through to another T20WC final 👊
+          - button [ref=e2355] [cursor=pointer]:
+            - generic [ref=e2357]:
+              - generic: NEW
+              - generic [ref=e2359]: Bethell scores a fantastic ton 🙌💯
+          - button [ref=e2360] [cursor=pointer]:
+            - generic [ref=e2362]:
+              - generic: NEW
+              - generic [ref=e2364]: Axar and Dube's stunning relay catch ends Jacks' stay 🤯
+          - button [ref=e2365] [cursor=pointer]:
+            - generic [ref=e2367]:
+              - generic: NEW
+              - generic [ref=e2369]: It's raining sixes from Bethell's bat ☔
+          - button [ref=e2370] [cursor=pointer]:
+            - generic [ref=e2372]:
+              - generic: NEW
+              - generic [ref=e2374]: Bethell's perfect reverse sweep for a maximum 😮
+          - button [ref=e2375] [cursor=pointer]:
+            - generic [ref=e2377]:
+              - generic: NEW
+              - generic [ref=e2379]: Axar holds onto a stunner to send back Brook ☝️
+          - button [ref=e2380] [cursor=pointer]:
+            - generic [ref=e2382]:
+              - generic: NEW
+              - generic [ref=e2384]: Tilak slices one for a maximum 👏
+          - button [ref=e2385] [cursor=pointer]:
+            - generic [ref=e2387]:
+              - generic: NEW
+              - generic [ref=e2389]: Surya clears the rope as Dhoni approves 👀
+          - button [ref=e2390] [cursor=pointer]:
+            - generic [ref=e2392]:
+              - generic: NEW
+              - generic [ref=e2394]: Jacks gets the big wicket of Samson ☝️
+          - button [ref=e2395] [cursor=pointer]:
+            - generic [ref=e2397]:
+              - generic: NEW
+              - generic [ref=e2399]: Dube takes on Rashid 💪
+          - button [ref=e2400] [cursor=pointer]:
+            - generic [ref=e2402]:
+              - generic: NEW
+              - generic [ref=e2404]: Kishan creams one for a maximum 6️⃣
+          - button [ref=e2405] [cursor=pointer]:
+            - generic [ref=e2407]:
+              - generic: NEW
+              - generic [ref=e2409]: Back-to-back fifties for Sanju 👌
+          - button [ref=e2410] [cursor=pointer]:
+            - generic [ref=e2412]:
+              - generic: NEW
+              - generic [ref=e2414]: Samson making the most of the dropped chance 💪
+          - button [ref=e2415] [cursor=pointer]:
+            - generic [ref=e2417]:
+              - generic: NEW
+              - generic [ref=e2419]: Sanju takes off in the first over 🔥
+          - button [ref=e2420] [cursor=pointer]:
+            - generic [ref=e2422]:
+              - generic: NEW
+              - generic [ref=e2424]: Brook calls it right at the toss 🪙
+          - button [ref=e2425] [cursor=pointer]:
+            - generic [ref=e2427]:
+              - generic: NEW
+              - generic [ref=e2429]: Allen completes ton; NZ qualify for the final 👏
+          - button [ref=e2430] [cursor=pointer]:
+            - generic [ref=e2432]:
+              - generic: NEW
+              - generic [ref=e2434]: Allen with another monster hit 😮‍💨
+          - button [ref=e2435] [cursor=pointer]:
+            - generic [ref=e2437]:
+              - generic: NEW
+              - generic [ref=e2439]: Allen in a hurry to finish the game 👀
+          - button [ref=e2440] [cursor=pointer]:
+            - generic [ref=e2442]:
+              - generic: NEW
+              - generic [ref=e2444]: Allen and Seifert score all around the park 🏟️
+          - button [ref=e2445] [cursor=pointer]:
+            - generic [ref=e2447]:
+              - generic: NEW
+              - generic [ref=e2449]: Unreal six-hitting skill of Seifert 🤯
+          - button [ref=e2450] [cursor=pointer]:
+            - generic [ref=e2452]:
+              - generic: NEW
+              - generic [ref=e2454]: Jansen notches up a half ton with a powerful hit 💪
+          - button [ref=e2455] [cursor=pointer]:
+            - generic [ref=e2457]:
+              - generic: NEW
+              - generic [ref=e2459]: Proteas shift gears 💥
+          - button [ref=e2460] [cursor=pointer]:
+            - generic [ref=e2462]:
+              - generic: NEW
+              - generic [ref=e2464]: Jansen with a no look six 👌
+          - button [ref=e2465] [cursor=pointer]:
+            - generic [ref=e2467]:
+              - generic: NEW
+              - generic [ref=e2469]: Seifert recovers quickly after a blow 😳
+          - button [ref=e2470] [cursor=pointer]:
+            - generic [ref=e2472]:
+              - generic: NEW
+              - generic [ref=e2474]: Mitchell's inch-perfect catch sends back Markram 🤏
+          - button [ref=e2475] [cursor=pointer]:
+            - generic [ref=e2477]:
+              - generic: NEW
+              - generic [ref=e2479]: Proteas rebuild after early blows 🙌
+          - button [ref=e2480] [cursor=pointer]:
+            - generic [ref=e2482]:
+              - generic: NEW
+              - generic [ref=e2484]: McConchie gets two in two 😯
+          - button [ref=e2485] [cursor=pointer]:
+            - generic [ref=e2487]:
+              - generic: NEW
+              - generic [ref=e2489]: De Kock tees off with a maximum 6️⃣
+          - button [ref=e2490] [cursor=pointer]:
+            - generic [ref=e2492]:
+              - generic: NEW
+              - generic [ref=e2494]: Santner calls it right at the toss 🪙
+          - button [ref=e2495] [cursor=pointer]:
+            - generic [ref=e2497]:
+              - generic: NEW
+              - generic [ref=e2499]: Sanju Samson wins it for India 🤩
+          - button [ref=e2500] [cursor=pointer]:
+            - generic [ref=e2502]:
+              - generic: NEW
+              - generic [ref=e2504]: Shimron Hetmyer jumps and holds on to a splendid catch 👐
+          - button [ref=e2505] [cursor=pointer]:
+            - generic [ref=e2507]:
+              - generic: NEW
+              - generic [ref=e2509]: Sanju Samson reaches fifty with a four 👏
+          - button [ref=e2510] [cursor=pointer]:
+            - generic [ref=e2512]:
+              - generic: NEW
+              - generic [ref=e2514]: Sanju Samson makes it look easy and goes big 🙌
+          - button [ref=e2515] [cursor=pointer]:
+            - generic [ref=e2517]:
+              - generic: NEW
+              - generic [ref=e2519]: Rovman Powell smashes a monster six 💪
+          - button [ref=e2520] [cursor=pointer]:
+            - generic [ref=e2522]:
+              - generic: NEW
+              - generic [ref=e2524]: Superman Suryakumar Yadav with a stunning catch 🦸‍♂️
+          - button [ref=e2525] [cursor=pointer]:
+            - generic [ref=e2527]:
+              - generic: NEW
+              - generic [ref=e2529]: Varun Chakaravarthy leaves Shai Hope clueless with a ripper 💫
+          - button [ref=e2530] [cursor=pointer]:
+            - generic [ref=e2532]:
+              - generic: NEW
+              - generic [ref=e2534]: Incredible innovation from Roston Chase to scoop Jasprit Bumrah 👌
+          - button [ref=e2535] [cursor=pointer]:
+            - generic [ref=e2537]:
+              - generic: NEW
+              - generic [ref=e2539]: Big toss for the big game between India and West Indies 🪙
+          - button [ref=e2540] [cursor=pointer]:
+            - generic [ref=e2542]:
+              - generic: NEW
+              - generic [ref=e2544]: South Africa make it 7️⃣/7️⃣
+          - button [ref=e2545] [cursor=pointer]:
+            - generic [ref=e2547]:
+              - generic: NEW
+              - generic [ref=e2549]: Big hits from Dewald Brevis, including a no-look special 👀
+          - button [ref=e2550] [cursor=pointer]:
+            - generic [ref=e2552]:
+              - generic: NEW
+              - generic [ref=e2554]: WHAT A CATCH! Ryan Burl holds on to a stunner 😲
+          - button [ref=e2555] [cursor=pointer]:
+            - generic [ref=e2557]:
+              - generic: NEW
+              - generic [ref=e2559]: BOWLED'IM! Sikandar Raza removes his counterpart Aiden Markram 👏
+          - button [ref=e2560] [cursor=pointer]:
+            - generic [ref=e2562]:
+              - generic: NEW
+              - generic [ref=e2564]: Sikandar Raza strikes in the first over 🤩
+          - button [ref=e2565] [cursor=pointer]:
+            - generic [ref=e2567]:
+              - generic: NEW
+              - generic [ref=e2569]: Brad Evans gives Zimbabwe big impetus with a six 🙌
+          - button [ref=e2570] [cursor=pointer]:
+            - generic [ref=e2572]:
+              - generic: NEW
+              - generic [ref=e2574]: Corbin Bosch rattles Tony Munyonga's stumps 👊
+          - button [ref=e2575] [cursor=pointer]:
+            - generic [ref=e2577]:
+              - generic: NEW
+              - generic [ref=e2579]: Sikandar Raza sends it sailing over the ropes 🤩
+          - button [ref=e2580] [cursor=pointer]:
+            - generic [ref=e2582]:
+              - generic: NEW
+              - generic [ref=e2584]: Kwena Maphaka flattens Tadiwanashe Marumani's leg stump 😯
+          - button [ref=e2585] [cursor=pointer]:
+            - generic [ref=e2587]:
+              - generic: NEW
+              - generic [ref=e2589]: TOSS TIME at 🇿🇦🆚🇿🇼
+          - button [ref=e2590] [cursor=pointer]:
+            - generic [ref=e2592]:
+              - generic: NEW
+              - generic [ref=e2594]: Pakistan win a thriller 🇵🇰👏
+          - button [ref=e2595] [cursor=pointer]:
+            - generic [ref=e2597]:
+              - generic: NEW
+              - generic [ref=e2599]: A resilient fifty 👏
+          - button [ref=e2600] [cursor=pointer]:
+            - generic [ref=e2602]:
+              - generic: NEW
+              - generic [ref=e2604]: Shanaka clears the fence ✈️
+          - button [ref=e2605] [cursor=pointer]:
+            - generic [ref=e2607]:
+              - generic: NEW
+              - generic [ref=e2609]: Abrar cleans up Mishara 👊
+          - button [ref=e2610] [cursor=pointer]:
+            - generic [ref=e2612]:
+              - generic: NEW
+              - generic [ref=e2614]: Naseem’s early strike 👏
+          - button [ref=e2615] [cursor=pointer]:
+            - generic [ref=e2617]:
+              - generic: NEW
+              - generic [ref=e2619]: Farhan brings up 💯
+          - button [ref=e2620] [cursor=pointer]:
+            - generic [ref=e2622]:
+              - generic: NEW
+              - generic [ref=e2624]: Fakhar on 🔥
+          - button [ref=e2625] [cursor=pointer]:
+            - generic [ref=e2627]:
+              - generic: NEW
+              - generic [ref=e2629]: Farhan surpasses Kohli 👏
+          - button [ref=e2630] [cursor=pointer]:
+            - generic [ref=e2632]:
+              - generic: NEW
+              - generic [ref=e2634]: Farhan’s cracking 6️⃣
+          - button [ref=e2635] [cursor=pointer]:
+            - generic [ref=e2637]:
+              - generic: NEW
+              - generic [ref=e2639]: Sri Lanka win toss 🪙
+          - button [ref=e2640] [cursor=pointer]:
+            - generic [ref=e2642]:
+              - generic: NEW
+              - generic [ref=e2644]: England prevail in a thrilling run chase 🤩
+          - button [ref=e2645] [cursor=pointer]:
+            - generic [ref=e2647]:
+              - generic: NEW
+              - generic [ref=e2649]: Jacks pulls it back for England 💪
+          - button [ref=e2650] [cursor=pointer]:
+            - generic [ref=e2652]:
+              - generic: NEW
+              - generic [ref=e2654]: New Phillips stunner alert 🚨
+          - button [ref=e2655] [cursor=pointer]:
+            - generic [ref=e2657]:
+              - generic: NEW
+              - generic [ref=e2659]: Bowling change results in a vital wicket 🙌
+          - button [ref=e2660] [cursor=pointer]:
+            - generic [ref=e2662]:
+              - generic: NEW
+              - generic [ref=e2664]: Unbelievable shot by Brook 😳
+          - button [ref=e2665] [cursor=pointer]:
+            - generic [ref=e2667]:
+              - generic: NEW
+              - generic [ref=e2669]: Henry gets Salt with a jaffa 😮
+          - button [ref=e2670] [cursor=pointer]:
+            - generic [ref=e2672]:
+              - generic: NEW
+              - generic [ref=e2674]: Santner finishes NZ innings with a straight six 👌
+          - button [ref=e2675] [cursor=pointer]:
+            - generic [ref=e2677]:
+              - generic: NEW
+              - generic [ref=e2679]: Rehan disturbs the timber 💥
+          - button [ref=e2680] [cursor=pointer]:
+            - generic [ref=e2682]:
+              - generic: NEW
+              - generic [ref=e2684]: Jacks breaks Phillips' defence ☝️
+          - button [ref=e2685] [cursor=pointer]:
+            - generic [ref=e2687]:
+              - generic: NEW
+              - generic [ref=e2689]: Buttler's quick hands gets the better of Seifert 🧤
+          - button [ref=e2690] [cursor=pointer]:
+            - generic [ref=e2692]:
+              - generic: NEW
+              - generic [ref=e2694]: Allen clears the rope with ease 👏
+          - button [ref=e2695] [cursor=pointer]:
+            - generic [ref=e2697]:
+              - generic: NEW
+              - generic [ref=e2699]: India back to winning ways 💪
+          - button [ref=e2700] [cursor=pointer]:
+            - generic [ref=e2702]:
+              - generic: NEW
+              - generic [ref=e2704]: Bennett slams his fifty with a maximum 😮
+          - button [ref=e2705] [cursor=pointer]:
+            - generic [ref=e2707]:
+              - generic: NEW
+              - generic [ref=e2709]: Bennett goes big against Axar 👏
+          - button [ref=e2710] [cursor=pointer]:
+            - generic [ref=e2712]:
+              - generic: NEW
+              - generic [ref=e2714]: Some ⚽ skills on display by Bennett 👀
+          - button [ref=e2715] [cursor=pointer]:
+            - generic [ref=e2717]:
+              - generic: NEW
+              - generic [ref=e2719]: Hardik brings up his fifty in style 😎
+          - button [ref=e2720] [cursor=pointer]:
+            - generic [ref=e2722]:
+              - generic: NEW
+              - generic [ref=e2724]: Varma launches one to the stands 🚀
+          - button [ref=e2725] [cursor=pointer]:
+            - generic [ref=e2727]:
+              - generic: NEW
+              - generic [ref=e2729]: Six and gone ☝️
+          - button [ref=e2730] [cursor=pointer]:
+            - generic [ref=e2732]:
+              - generic: NEW
+              - generic [ref=e2734]: Abhishek smashes a maximum 🔥
+          - button [ref=e2735] [cursor=pointer]:
+            - generic [ref=e2737]:
+              - generic: NEW
+              - generic [ref=e2739]: Flurry of boundaries by the hosts 🇮🇳
+          - button [ref=e2740] [cursor=pointer]:
+            - generic [ref=e2742]:
+              - generic: NEW
+              - generic [ref=e2744]: Samson settles down with a maximum 6️⃣
+          - button [ref=e2745] [cursor=pointer]:
+            - generic [ref=e2747]:
+              - generic: NEW
+              - generic [ref=e2749]: Commanding win by the unbeaten Proteas 👊
+          - button [ref=e2750] [cursor=pointer]:
+            - generic [ref=e2752]:
+              - generic: NEW
+              - generic [ref=e2754]: Clean hitting by Markram 🤌
+          - button [ref=e2755] [cursor=pointer]:
+            - generic [ref=e2757]:
+              - generic: NEW
+              - generic [ref=e2759]: Chase gets the breakthrough for the Windies 🙌
+          - button [ref=e2760] [cursor=pointer]:
+            - generic [ref=e2762]:
+              - generic: NEW
+              - generic [ref=e2764]: A massive hit to the stands by de Kock 👌
+          - button [ref=e2765] [cursor=pointer]:
+            - generic [ref=e2767]:
+              - generic: NEW
+              - generic [ref=e2769]: De Kock begins acceleration 💥
+          - button [ref=e2770] [cursor=pointer]:
+            - generic [ref=e2772]:
+              - generic: NEW
+              - generic [ref=e2774]: Markram clears the rope in style 💪
+          - button [ref=e2775] [cursor=pointer]:
+            - generic [ref=e2777]:
+              - generic: NEW
+              - generic [ref=e2779]: Audacious shot by Markram 😳
+          - button [ref=e2780] [cursor=pointer]:
+            - generic [ref=e2782]:
+              - generic: NEW
+              - generic [ref=e2784]: Shepherd notches first T20I fifty 👏
+          - button [ref=e2785] [cursor=pointer]:
+            - generic [ref=e2787]:
+              - generic: NEW
+              - generic [ref=e2789]: Holder takes on Jansen 🔥
+          - button [ref=e2790] [cursor=pointer]:
+            - generic [ref=e2792]:
+              - generic: NEW
+              - generic [ref=e2794]: Shepherd's maximum adds crucial runs for the Windies 6️⃣
+          - button [ref=e2795] [cursor=pointer]:
+            - generic [ref=e2797]:
+              - generic: NEW
+              - generic [ref=e2799]: Ngidi shatters Chase's stumps 💥
+          - button [ref=e2800] [cursor=pointer]:
+            - generic [ref=e2802]:
+              - generic: NEW
+              - generic [ref=e2804]: South Africa snap in-form Hetmyer for a low score 😮
+          - button [ref=e2805] [cursor=pointer]:
+            - generic [ref=e2807]:
+              - generic: NEW
+              - generic [ref=e2809]: Proteas strike early with Hope's wicket 🙌
+          - button [ref=e2810] [cursor=pointer]:
+            - generic [ref=e2812]:
+              - generic: NEW
+              - generic [ref=e2814]: New Zealand win 🇳🇿
+          - button [ref=e2815] [cursor=pointer]:
+            - generic [ref=e2817]:
+              - generic: NEW
+              - generic [ref=e2819]: Wellalage clears the rope 👊
+          - button [ref=e2820] [cursor=pointer]:
+            - generic [ref=e2822]:
+              - generic: NEW
+              - generic [ref=e2824]: Santner joins the party 🎉
+          - button [ref=e2825] [cursor=pointer]:
+            - generic [ref=e2827]:
+              - generic: NEW
+              - generic [ref=e2829]: Twin stumping blows 🔥
+          - button [ref=e2830] [cursor=pointer]:
+            - generic [ref=e2832]:
+              - generic: NEW
+              - generic [ref=e2834]: First ball strike 🎯🇳🇿
+          - button [ref=e2835] [cursor=pointer]:
+            - generic [ref=e2837]:
+              - generic: NEW
+              - generic [ref=e2839]: Asalanka’s sharp catch 👌
+          - button [ref=e2840] [cursor=pointer]:
+            - generic [ref=e2842]:
+              - generic: NEW
+              - generic [ref=e2844]: Santner goes big 🙌
+          - button [ref=e2845] [cursor=pointer]:
+            - generic [ref=e2847]:
+              - generic: NEW
+              - generic [ref=e2849]: McConchie lets loose 💥
+          - button [ref=e2850] [cursor=pointer]:
+            - generic [ref=e2852]:
+              - generic: NEW
+              - generic [ref=e2854]: Theekshana on 🔥
+          - button [ref=e2855] [cursor=pointer]:
+            - generic [ref=e2857]:
+              - generic: NEW
+              - generic [ref=e2859]: Peach of a delivery 🍑
+          - button [ref=e2860] [cursor=pointer]:
+            - generic [ref=e2862]:
+              - generic: NEW
+              - generic [ref=e2864]: Stunning caught and bowled 👌
+          - button [ref=e2865] [cursor=pointer]:
+            - generic [ref=e2867]:
+              - generic: NEW
+              - generic [ref=e2869]: Allen takes aerial route ✈️
+          - button [ref=e2870] [cursor=pointer]:
+            - generic [ref=e2872]:
+              - generic: NEW
+              - generic [ref=e2874]: Sri Lanka win the toss 🪙
+          - button [ref=e2875] [cursor=pointer]:
+            - generic [ref=e2877]:
+              - generic: NEW
+              - generic [ref=e2879]: Harry Brook leads by example and gets to 💯
+          - button [ref=e2880] [cursor=pointer]:
+            - generic [ref=e2882]:
+              - generic: NEW
+              - generic [ref=e2884]: Usman Tariq gets a timely wicket ☝️
+          - button [ref=e2885] [cursor=pointer]:
+            - generic [ref=e2887]:
+              - generic: NEW
+              - generic [ref=e2889]: Harry Brook smacks it for a maximum 🙌
+          - button [ref=e2890] [cursor=pointer]:
+            - generic [ref=e2892]:
+              - generic: NEW
+              - generic [ref=e2894]: Shaheen Afridi strikes off the first ball 🔥
+          - button [ref=e2895] [cursor=pointer]:
+            - generic [ref=e2897]:
+              - generic: NEW
+              - generic [ref=e2899]: Liam Dawson in the hat-trick zone 👀
+          - button [ref=e2900] [cursor=pointer]:
+            - generic [ref=e2902]:
+              - generic: NEW
+              - generic [ref=e2904]: Sahibzada Farhan smashes a 100-metre monster six 🤯
+          - button [ref=e2905] [cursor=pointer]:
+            - generic [ref=e2907]:
+              - generic: NEW
+              - generic [ref=e2909]: Jamie Overton goes through Babar Azam 😲
+          - button [ref=e2910] [cursor=pointer]:
+            - generic [ref=e2912]:
+              - generic: NEW
+              - generic [ref=e2914]: Pakistan opt to bat first against England 🏏
+          - button [ref=e2915] [cursor=pointer]:
+            - generic [ref=e2917]:
+              - generic: NEW
+              - generic [ref=e2919]: Superb catch from Jamie Overton running in 🤩
+          - button [ref=e2920] [cursor=pointer]:
+            - generic [ref=e2922]:
+              - generic: NEW
+              - generic [ref=e2924]: West Indies keep up the winning momentum 💪
+          - button [ref=e2925] [cursor=pointer]:
+            - generic [ref=e2927]:
+              - generic: NEW
+              - generic [ref=e2929]: Evans innovative late flourish 👌
+          - button [ref=e2930] [cursor=pointer]:
+            - generic [ref=e2932]:
+              - generic: NEW
+              - generic [ref=e2934]: Evans' smashing sixes 💥
+          - button [ref=e2935] [cursor=pointer]:
+            - generic [ref=e2937]:
+              - generic: NEW
+              - generic [ref=e2939]: Terrific catch by Holder off his own bowling 😮
+          - button [ref=e2940] [cursor=pointer]:
+            - generic [ref=e2942]:
+              - generic: NEW
+              - generic [ref=e2944]: Motie almost secures a hat-trick 👀
+          - button [ref=e2945] [cursor=pointer]:
+            - generic [ref=e2947]:
+              - generic: NEW
+              - generic [ref=e2949]: Motie with a beauty to dismiss Myers 🤌
+          - button [ref=e2950] [cursor=pointer]:
+            - generic [ref=e2952]:
+              - generic: NEW
+              - generic [ref=e2954]: Bennett finally dismissed in T20WC 2026 😅
+          - button [ref=e2955] [cursor=pointer]:
+            - generic [ref=e2957]:
+              - generic: NEW
+              - generic [ref=e2959]: Holder with a powerful maximum 6️⃣
+          - button [ref=e2960] [cursor=pointer]:
+            - generic [ref=e2962]:
+              - generic: NEW
+              - generic [ref=e2964]: Hetmyer falls after a stunning knock 👏
+          - button [ref=e2965] [cursor=pointer]:
+            - generic [ref=e2967]:
+              - generic: NEW
+              - generic [ref=e2969]: Powell deposits one to the space 🌌
+          - button [ref=e2970] [cursor=pointer]:
+            - generic [ref=e2972]:
+              - generic: NEW
+              - generic [ref=e2974]: Hetmyer races to a fifty in no time 🤯
+          - button [ref=e2975] [cursor=pointer]:
+            - generic [ref=e2977]:
+              - generic: NEW
+              - generic [ref=e2979]: Hetmyer sends one to the stands 🚀
+          - button [ref=e2980] [cursor=pointer]:
+            - generic [ref=e2982]:
+              - generic: NEW
+              - generic [ref=e2984]: Bennett pulls off a stunner again 😮
+          - button [ref=e2985] [cursor=pointer]:
+            - generic [ref=e2987]:
+              - generic: NEW
+              - generic [ref=e2989]: Flurry of boundaries for the Windies 🔥
+          - button [ref=e2990] [cursor=pointer]:
+            - generic [ref=e2992]:
+              - generic: NEW
+              - generic [ref=e2994]: South Africa triumphant 🇿🇦
+          - button [ref=e2995] [cursor=pointer]:
+            - generic [ref=e2997]:
+              - generic: NEW
+              - generic [ref=e2999]: Proteas tighten grip 👊
+          - button [ref=e3000] [cursor=pointer]:
+            - generic [ref=e3002]:
+              - generic: NEW
+              - generic [ref=e3004]: Dube’s dazzling drive 🚙
+          - button [ref=e3005] [cursor=pointer]:
+            - generic [ref=e3007]:
+              - generic: NEW
+              - generic [ref=e3009]: Bosch’s brilliance in field 👌
+          - button [ref=e3010] [cursor=pointer]:
+            - generic [ref=e3012]:
+              - generic: NEW
+              - generic [ref=e3014]: A delicious six 😍
+          - button [ref=e3015] [cursor=pointer]:
+            - generic [ref=e3017]:
+              - generic: NEW
+              - generic [ref=e3019]: Abhishek off the mark 👊
+          - button [ref=e3020] [cursor=pointer]:
+            - generic [ref=e3022]:
+              - generic: NEW
+              - generic [ref=e3024]: Markram notches early wicket 💥
+          - button [ref=e3025] [cursor=pointer]:
+            - generic [ref=e3027]:
+              - generic: NEW
+              - generic [ref=e3029]: Stubbs clears the rope 💪
+          - button [ref=e3030] [cursor=pointer]:
+            - generic [ref=e3032]:
+              - generic: NEW
+              - generic [ref=e3034]: Miller brings 5️⃣0️⃣
+          - button [ref=e3035] [cursor=pointer]:
+            - generic [ref=e3037]:
+              - generic: NEW
+              - generic [ref=e3039]: Brevis' no-look six 😎
+          - button [ref=e3040] [cursor=pointer]:
+            - generic [ref=e3042]:
+              - generic: NEW
+              - generic [ref=e3044]: Arshdeep removes Markram 👏
+          - button [ref=e3045] [cursor=pointer]:
+            - generic [ref=e3047]:
+              - generic: NEW
+              - generic [ref=e3049]: Bumrah’s beauty 👌
+          - button [ref=e3050] [cursor=pointer]:
+            - generic [ref=e3052]:
+              - generic: NEW
+              - generic [ref=e3054]: Rashid seals the win 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+          - button [ref=e3055] [cursor=pointer]:
+            - generic [ref=e3057]:
+              - generic: NEW
+              - generic [ref=e3059]: England on the verge 👌
+          - button [ref=e3060] [cursor=pointer]:
+            - generic [ref=e3062]:
+              - generic: NEW
+              - generic [ref=e3064]: Shanaka takes to the skies 🌫️
+          - button [ref=e3065] [cursor=pointer]:
+            - generic [ref=e3067]:
+              - generic: NEW
+              - generic [ref=e3069]: England on the offensive 💪
+          - button [ref=e3070] [cursor=pointer]:
+            - generic [ref=e3072]:
+              - generic: NEW
+              - generic [ref=e3074]: England snap Nissanka 👏
+          - button [ref=e3075] [cursor=pointer]:
+            - generic [ref=e3077]:
+              - generic: NEW
+              - generic [ref=e3079]: Overton goes big 🚀
+          - button [ref=e3080] [cursor=pointer]:
+            - generic [ref=e3082]:
+              - generic: NEW
+              - generic [ref=e3084]: Salt’s innovative 6️⃣
+          - button [ref=e3085] [cursor=pointer]:
+            - generic [ref=e3087]:
+              - generic: NEW
+              - generic [ref=e3089]: Wellalage removes Salt 💥
+          - button [ref=e3090] [cursor=pointer]:
+            - generic [ref=e3092]:
+              - generic: NEW
+              - generic [ref=e3094]: Brook pummels it for four 👊
+          - button [ref=e3095] [cursor=pointer]:
+            - generic [ref=e3097]:
+              - generic: NEW
+              - generic [ref=e3099]: Shanaka’s direct hit removes Banton 🎯
+          - button [ref=e3100] [cursor=pointer]:
+            - generic [ref=e3102]:
+              - generic: NEW
+              - generic [ref=e3104]: Diving catch 👌🇱🇰
+          - button [ref=e3105] [cursor=pointer]:
+            - generic [ref=e3107]:
+              - generic: NEW
+              - generic [ref=e3109]: Sri Lanka win the toss 🪙
+          - button [ref=e3110] [cursor=pointer]:
+            - generic [ref=e3112]:
+              - generic: NEW
+              - generic [ref=e3114]: Australia bow out with a win 👏
+          - button [ref=e3115] [cursor=pointer]:
+            - generic [ref=e3117]:
+              - generic: NEW
+              - generic [ref=e3119]: Marsh's mammoth 99 metre six 🚀
+          - button [ref=e3120] [cursor=pointer]:
+            - generic [ref=e3122]:
+              - generic: NEW
+              - generic [ref=e3124]: Boundaries flow for Australia 💥
+          - button [ref=e3125] [cursor=pointer]:
+            - generic [ref=e3127]:
+              - generic: NEW
+              - generic [ref=e3129]: Effortlessly picked up by Marsh 😮‍💨
+          - button [ref=e3130] [cursor=pointer]:
+            - generic [ref=e3132]:
+              - generic: NEW
+              - generic [ref=e3134]: Historic clinical masterclass from Australia \|/
+          - button [ref=e3135] [cursor=pointer]:
+            - generic [ref=e3137]:
+              - generic: NEW
+              - generic [ref=e3139]: Maxwell's sweet timber strike 🎯
+          - button [ref=e3140] [cursor=pointer]:
+            - generic [ref=e3142]:
+              - generic: NEW
+              - generic [ref=e3144]: Back-foot power from Hammad 👌
+          - button [ref=e3145] [cursor=pointer]:
+            - generic [ref=e3147]:
+              - generic: NEW
+              - generic [ref=e3149]: Bartlett with the dream start 😍
+          - button [ref=e3150] [cursor=pointer]:
+            - generic [ref=e3152]:
+              - generic: NEW
+              - generic [ref=e3154]: Afghanistan sign off with a win 👏afg🇦🇫
+          - button [ref=e3155] [cursor=pointer]:
+            - generic [ref=e3157]:
+              - generic: NEW
+              - generic [ref=e3159]: Clinical Nabi strikes 💥
+          - button [ref=e3160] [cursor=pointer]:
+            - generic [ref=e3162]:
+              - generic: NEW
+              - generic [ref=e3164]: Mujeeb bags the first 👌
+          - button [ref=e3165] [cursor=pointer]:
+            - generic [ref=e3167]:
+              - generic: NEW
+              - generic [ref=e3169]: Zadran's clever shot for a maximum 👏
+          - button [ref=e3170] [cursor=pointer]:
+            - generic [ref=e3172]:
+              - generic: NEW
+              - generic [ref=e3174]: Atal with a top-notch shot 6️⃣
+          - button [ref=e3175] [cursor=pointer]:
+            - generic [ref=e3177]:
+              - generic: NEW
+              - generic [ref=e3179]: Canada get Gurbaz early 💪
+          - button [ref=e3180] [cursor=pointer]:
+            - generic [ref=e3182]:
+              - generic: NEW
+              - generic [ref=e3184]: Zimbabwe juggernaut continues to roll 😍
+          - button [ref=e3185] [cursor=pointer]:
+            - generic [ref=e3187]:
+              - generic: NEW
+              - generic [ref=e3189]: Shanaka with a crucial catch 👀
+          - button [ref=e3190] [cursor=pointer]:
+            - generic [ref=e3192]:
+              - generic: NEW
+              - generic [ref=e3194]: Skipper Raza takes charge 🫡
+          - button [ref=e3195] [cursor=pointer]:
+            - generic [ref=e3197]:
+              - generic: NEW
+              - generic [ref=e3199]: Bennett ramps it up 🔼
+          - button [ref=e3200] [cursor=pointer]:
+            - generic [ref=e3202]:
+              - generic: NEW
+              - generic [ref=e3204]: Burl with a massive maximum 😮
+          - button [ref=e3205] [cursor=pointer]:
+            - generic [ref=e3207]:
+              - generic: NEW
+              - generic [ref=e3209]: Wellalage provides the breakthrough for SL 👊
+          - button [ref=e3210] [cursor=pointer]:
+            - generic [ref=e3212]:
+              - generic: NEW
+              - generic [ref=e3214]: Zimbabwe step up the scoring rate ⏩
+          - button [ref=e3215] [cursor=pointer]:
+            - generic [ref=e3217]:
+              - generic: NEW
+              - generic [ref=e3219]: Marumani brings out the reverse 🏏
+          - button [ref=e3220] [cursor=pointer]:
+            - generic [ref=e3222]:
+              - generic: NEW
+              - generic [ref=e3224]: Wellalage's finishing touch 🤌
+          - button [ref=e3225] [cursor=pointer]:
+            - generic [ref=e3227]:
+              - generic: NEW
+              - generic [ref=e3229]: Munyonga's top catch claims the big fish 👏
+          - button [ref=e3230] [cursor=pointer]:
+            - generic [ref=e3232]:
+              - generic: NEW
+              - generic [ref=e3234]: Smart glovework gets the better of Kusal 🧤
+          - button [ref=e3235] [cursor=pointer]:
+            - generic [ref=e3237]:
+              - generic: NEW
+              - generic [ref=e3239]: Nissanka takes off in top gear 🔝
+          - button [ref=e3240] [cursor=pointer]:
+            - generic [ref=e3242]:
+              - generic: NEW
+              - generic [ref=e3244]: West Indies continue unbeaten run 🎉
+          - button [ref=e3245] [cursor=pointer]:
+            - generic [ref=e3247]:
+              - generic: NEW
+              - generic [ref=e3249]: Windies snap half of Italy's side 🔥
+          - button [ref=e3250] [cursor=pointer]:
+            - generic [ref=e3252]:
+              - generic: NEW
+              - generic [ref=e3254]: Anthony Mosca sends one to the stands 😮
+          - button [ref=e3255] [cursor=pointer]:
+            - generic [ref=e3257]:
+              - generic: NEW
+              - generic [ref=e3259]: Kalugamage ends Hope's stay 👌
+          - button [ref=e3260] [cursor=pointer]:
+            - generic [ref=e3262]:
+              - generic: NEW
+              - generic [ref=e3264]: Draca gets the big fish 🙌
+          - button [ref=e3265] [cursor=pointer]:
+            - generic [ref=e3267]:
+              - generic: NEW
+              - generic [ref=e3269]: Skiper Hope's maximum shot 6️⃣
+          - button [ref=e3270] [cursor=pointer]:
+            - generic [ref=e3272]:
+              - generic: NEW
+              - generic [ref=e3274]: India extend unbeaten run 👏ind🇮🇳
+          - button [ref=e3275] [cursor=pointer]:
+            - generic [ref=e3277]:
+              - generic: NEW
+              - generic [ref=e3279]: Chakaravarthy is right on the money, again 🎯
+          - button [ref=e3280] [cursor=pointer]:
+            - generic [ref=e3282]:
+              - generic: NEW
+              - generic [ref=e3284]: Composed Washington right on the ropes 💪
+          - button [ref=e3285] [cursor=pointer]:
+            - generic [ref=e3287]:
+              - generic: NEW
+              - generic [ref=e3289]: Chakaravarthy’s magic knocks over O'Dowd ✨
+          - button [ref=e3290] [cursor=pointer]:
+            - generic [ref=e3292]:
+              - generic: NEW
+              - generic [ref=e3294]: Brilliant fielding effort to dismiss Dube 👏
+          - button [ref=e3295] [cursor=pointer]:
+            - generic [ref=e3297]:
+              - generic: NEW
+              - generic [ref=e3299]: Dube muscles it goes down the ground 💪
+          - button [ref=e3300] [cursor=pointer]:
+            - generic [ref=e3302]:
+              - generic: NEW
+              - generic [ref=e3304]: Pure class from Suryakumar Yadav ✨
+          - button [ref=e3305] [cursor=pointer]:
+            - generic [ref=e3307]:
+              - generic: NEW
+              - generic [ref=e3309]: Van der Merwe goes full stretch to take a superb catch 👌
+          - button [ref=e3310] [cursor=pointer]:
+            - generic [ref=e3312]:
+              - generic: NEW
+              - generic [ref=e3314]: Netherlands continue their dream start 😍
+          - button [ref=e3315] [cursor=pointer]:
+            - generic [ref=e3317]:
+              - generic: NEW
+              - generic [ref=e3319]: Dutt claims the prized wicket of Abhishek 💥
+          - button [ref=e3320] [cursor=pointer]:
+            - generic [ref=e3322]:
+              - generic: NEW
+              - generic [ref=e3324]: Pakistan secure final Super 8 spot 👏
+          - button [ref=e3325] [cursor=pointer]:
+            - generic [ref=e3327]:
+              - generic: NEW
+              - generic [ref=e3329]: Tariq bamboozles Trumpelmann 💫
+          - button [ref=e3330] [cursor=pointer]:
+            - generic [ref=e3332]:
+              - generic: NEW
+              - generic [ref=e3334]: Lightning quick reaction from Usman Khan 🧤
+          - button [ref=e3335] [cursor=pointer]:
+            - generic [ref=e3337]:
+              - generic: NEW
+              - generic [ref=e3339]: Salman Mirza hits his mark 🎯
+          - button [ref=e3340] [cursor=pointer]:
+            - generic [ref=e3342]:
+              - generic: NEW
+              - generic [ref=e3344]: Shadab Khan goes big 👊
+          - button [ref=e3345] [cursor=pointer]:
+            - generic [ref=e3347]:
+              - generic: NEW
+              - generic [ref=e3349]: Sahibzada Farhan brings up a magnificent century 💯
+          - button [ref=e3350] [cursor=pointer]:
+            - generic [ref=e3352]:
+              - generic: NEW
+              - generic [ref=e3354]: Farhan smashes it down the ground 💪
+          - button [ref=e3355] [cursor=pointer]:
+            - generic [ref=e3357]:
+              - generic: NEW
+              - generic [ref=e3359]: Sahibzada Farhan times it beautifully for six ✨
+          - button [ref=e3360] [cursor=pointer]:
+            - generic [ref=e3362]:
+              - generic: NEW
+              - generic [ref=e3364]: Pakistan to bat against Namibia 🏏
+          - button [ref=e3365] [cursor=pointer]:
+            - generic [ref=e3367]:
+              - generic: NEW
+              - generic [ref=e3369]: South Africa make it four wins in a row 👏
+          - button [ref=e3370] [cursor=pointer]:
+            - generic [ref=e3372]:
+              - generic: NEW
+              - generic [ref=e3374]: Powerful strike from Brevis 🔥
+          - button [ref=e3375] [cursor=pointer]:
+            - generic [ref=e3377]:
+              - generic: NEW
+              - generic [ref=e3379]: Markram slams it into the stands 👊
+          - button [ref=e3380] [cursor=pointer]:
+            - generic [ref=e3382]:
+              - generic: NEW
+              - generic [ref=e3384]: Safe hands from Jason Smith 👏
+          - button [ref=e3385] [cursor=pointer]:
+            - generic [ref=e3387]:
+              - generic: NEW
+              - generic [ref=e3389]: Alishan Sharafu clears the ropes for six 👌
+          - button [ref=e3390] [cursor=pointer]:
+            - generic [ref=e3392]:
+              - generic: NEW
+              - generic [ref=e3394]: Nepal sign off with a memorable win ❤️🇳🇵
+          - button [ref=e3395] [cursor=pointer]:
+            - generic [ref=e3397]:
+              - generic: NEW
+              - generic [ref=e3399]: Mammoth six from Airee 🚀
+          - button [ref=e3400] [cursor=pointer]:
+            - generic [ref=e3402]:
+              - generic: NEW
+              - generic [ref=e3404]: Magic man Leask does it for Scotland 💪
+          - button [ref=e3405] [cursor=pointer]:
+            - generic [ref=e3407]:
+              - generic: NEW
+              - generic [ref=e3409]: Jones’ towering sixes 🔥
+          - button [ref=e3410] [cursor=pointer]:
+            - generic [ref=e3412]:
+              - generic: NEW
+              - generic [ref=e3414]: Breathtaking catch 🤯
+          - button [ref=e3415] [cursor=pointer]:
+            - generic [ref=e3417]:
+              - generic: NEW
+              - generic [ref=e3419]: Kami cleans up Jones 💥
+          - button [ref=e3420] [cursor=pointer]:
+            - generic [ref=e3422]:
+              - generic: NEW
+              - generic [ref=e3424]: Jones takes to the skies ✈️
+          - button [ref=e3425] [cursor=pointer]:
+            - generic [ref=e3427]:
+              - generic: NEW
+              - generic [ref=e3429]: Nepal win the toss 🪙
+          - button [ref=e3430] [cursor=pointer]:
+            - generic [ref=e3432]:
+              - generic: NEW
+              - generic [ref=e3434]: Zimbabwe seal Super 8 spot!
+          - button [ref=e3435] [cursor=pointer]:
+            - generic [ref=e3437]:
+              - generic: NEW
+              - generic [ref=e3439]: New Zealand secure Super 8 spot 🙌
+          - button [ref=e3440] [cursor=pointer]:
+            - generic [ref=e3442]:
+              - generic: NEW
+              - generic [ref=e3444]: Monster hit from Glenn Phillips 💪
+          - button [ref=e3445] [cursor=pointer]:
+            - generic [ref=e3447]:
+              - generic: NEW
+              - generic [ref=e3449]: Superb grab by Shivam Sharma ✨
+          - button [ref=e3450] [cursor=pointer]:
+            - generic [ref=e3452]:
+              - generic: NEW
+              - generic [ref=e3454]: Yuvraj Samra with a stunning century 🙌
+          - button [ref=e3455] [cursor=pointer]:
+            - generic [ref=e3457]:
+              - generic: NEW
+              - generic [ref=e3459]: Yuvraj Samra launches it into the stands 👊
+          - button [ref=e3460] [cursor=pointer]:
+            - generic [ref=e3462]:
+              - generic: NEW
+              - generic [ref=e3464]: Samra drills it straight for 4️⃣
+          - button [ref=e3465] [cursor=pointer]:
+            - generic [ref=e3467]:
+              - generic: NEW
+              - generic [ref=e3469]: Sri Lanka seal Super 8 birth 👏
+          - button [ref=e3470] [cursor=pointer]:
+            - generic [ref=e3472]:
+              - generic: NEW
+              - generic [ref=e3474]: Nissanka with a stellar ton 💯
+          - button [ref=e3475] [cursor=pointer]:
+            - generic [ref=e3477]:
+              - generic: NEW
+              - generic [ref=e3479]: Nissanka hammers it for six 🔥
+          - button [ref=e3480] [cursor=pointer]:
+            - generic [ref=e3482]:
+              - generic: NEW
+              - generic [ref=e3484]: Ellis and Stoinis combine to get crucial wicket 🤝
+          - button [ref=e3485] [cursor=pointer]:
+            - generic [ref=e3487]:
+              - generic: NEW
+              - generic [ref=e3489]: Perfect connection from Nissanka 👌
+          - button [ref=e3490] [cursor=pointer]:
+            - generic [ref=e3492]:
+              - generic: NEW
+              - generic [ref=e3494]: Pathum Nissanka plucks it out of thin air 🤯
+          - button [ref=e3495] [cursor=pointer]:
+            - generic [ref=e3497]:
+              - generic: NEW
+              - generic [ref=e3499]: Hemanatha strikes to dismiss Marsh ☝️
+          - button [ref=e3500] [cursor=pointer]:
+            - generic [ref=e3502]:
+              - generic: NEW
+              - generic [ref=e3504]: Travis Head sends it flying 👊
+          - button [ref=e3505] [cursor=pointer]:
+            - generic [ref=e3507]:
+              - generic: NEW
+              - generic [ref=e3509]: Sri Lanka elect to field first against Australia 🏏
+          - button [ref=e3510] [cursor=pointer]:
+            - generic [ref=e3512]:
+              - generic: NEW
+              - generic [ref=e3514]: England secure a spot in the Super 8 🙌
+          - button [ref=e3515] [cursor=pointer]:
+            - generic [ref=e3517]:
+              - generic: NEW
+              - generic [ref=e3519]: Colossal hit from Grant Stewart 🚀
+          - button [ref=e3520] [cursor=pointer]:
+            - generic [ref=e3522]:
+              - generic: NEW
+              - generic [ref=e3524]: A action-packed over 💥
+          - button [ref=e3525] [cursor=pointer]:
+            - generic [ref=e3527]:
+              - generic: NEW
+              - generic [ref=e3529]: Benjamin Manenti sends it all the way 👊
+          - button [ref=e3530] [cursor=pointer]:
+            - generic [ref=e3532]:
+              - generic: NEW
+              - generic [ref=e3534]: A flying Jos Buttler holds on to a beauty 🤯
+          - button [ref=e3535] [cursor=pointer]:
+            - generic [ref=e3537]:
+              - generic: NEW
+              - generic [ref=e3539]: Fiery opening spell from Jofra Archer 🔥
+          - button [ref=e3540] [cursor=pointer]:
+            - generic [ref=e3542]:
+              - generic: NEW
+              - generic [ref=e3544]: Will Jacks brings up his half-century in style 🤩
+          - button [ref=e3545] [cursor=pointer]:
+            - generic [ref=e3547]:
+              - generic: NEW
+              - generic [ref=e3549]: Sam Curran clears the ropes with power 💪
+          - button [ref=e3550] [cursor=pointer]:
+            - generic [ref=e3552]:
+              - generic: NEW
+              - generic [ref=e3554]: Italy combined superbly to dismiss Brooks 👏
+          - button [ref=e3555] [cursor=pointer]:
+            - generic [ref=e3557]:
+              - generic: NEW
+              - generic [ref=e3559]: Bethell times it to perfection 👌
+          - button [ref=e3560] [cursor=pointer]:
+            - generic [ref=e3562]:
+              - generic: NEW
+              - generic [ref=e3564]: England to bat first against Italy 🏏
+          - button [ref=e3565] [cursor=pointer]:
+            - generic [ref=e3567]:
+              - generic: NEW
+              - generic [ref=e3569]: First win on the board for Afghanistan 👏
+          - button [ref=e3570] [cursor=pointer]:
+            - generic [ref=e3572]:
+              - generic: NEW
+              - generic [ref=e3574]: Azmatullah Omarzai hammers it flat for six 👌
+          - button [ref=e3575] [cursor=pointer]:
+            - generic [ref=e3577]:
+              - generic: NEW
+              - generic [ref=e3579]: Sediqullah Atal goes big 😍
+          - button [ref=e3580] [cursor=pointer]:
+            - generic [ref=e3582]:
+              - generic: NEW
+              - generic [ref=e3584]: An unlucky way to go for Muhammad Arfan 🫣
+          - button [ref=e3585] [cursor=pointer]:
+            - generic [ref=e3587]:
+              - generic: NEW
+              - generic [ref=e3589]: Syed Haider muscles it for a maximum 💪
+          - button [ref=e3590] [cursor=pointer]:
+            - generic [ref=e3592]:
+              - generic: NEW
+              - generic [ref=e3594]: Sohaib Khan smashes it down the ground 👊
+          - button [ref=e3595] [cursor=pointer]:
+            - generic [ref=e3597]:
+              - generic: NEW
+              - generic [ref=e3599]: India register a big win 👏
+          - button [ref=e3600] [cursor=pointer]:
+            - generic [ref=e3602]:
+              - generic: NEW
+              - generic [ref=e3604]: Peach of a delivery from Axar Patel 😍
+          - button [ref=e3605] [cursor=pointer]:
+            - generic [ref=e3607]:
+              - generic: NEW
+              - generic [ref=e3609]: India start off in style 👊
+          - button [ref=e3610] [cursor=pointer]:
+            - generic [ref=e3612]:
+              - generic: NEW
+              - generic [ref=e3614]: A massive six from Rinku Singh 💪
+          - button [ref=e3615] [cursor=pointer]:
+            - generic [ref=e3617]:
+              - generic: NEW
+              - generic [ref=e3619]: Ayub strikes to remove Kishan 👌
+          - button [ref=e3620] [cursor=pointer]:
+            - generic [ref=e3622]:
+              - generic: NEW
+              - generic [ref=e3624]: Ishan Kishan absolutely clobbers it 🚀
+          - button [ref=e3625] [cursor=pointer]:
+            - generic [ref=e3627]:
+              - generic: NEW
+              - generic [ref=e3629]: Pakistan strike early 👊
+          - button [ref=e3630] [cursor=pointer]:
+            - generic [ref=e3632]:
+              - generic: NEW
+              - generic [ref=e3634]: USA secure victory with a all-round display 🙌
+          - button [ref=e3635] [cursor=pointer]:
+            - generic [ref=e3637]:
+              - generic: NEW
+              - generic [ref=e3639]: Brilliant glovework by Shayan Jahangir 🧤
+          - button [ref=e3640] [cursor=pointer]:
+            - generic [ref=e3642]:
+              - generic: NEW
+              - generic [ref=e3644]: Ranjane strikes big with Steenkamp’s wicket 👊
+          - button [ref=e3645] [cursor=pointer]:
+            - generic [ref=e3647]:
+              - generic: NEW
+              - generic [ref=e3649]: Caught and bowled by Shadley van Schalkwyk 👏
+          - button [ref=e3650] [cursor=pointer]:
+            - generic [ref=e3652]:
+              - generic: NEW
+              - generic [ref=e3654]: Sanjay Krishnamurthi times it to perfection 😮‍💨
+          - button [ref=e3655] [cursor=pointer]:
+            - generic [ref=e3657]:
+              - generic: NEW
+              - generic [ref=e3659]: Milind Kumar improvises brilliantly 👌
+          - button [ref=e3660] [cursor=pointer]:
+            - generic [ref=e3662]:
+              - generic: NEW
+              - generic [ref=e3664]: Sanjay Krishnamurthi deposits it deep into the stands 💥
+          - button [ref=e3665] [cursor=pointer]:
+            - generic [ref=e3667]:
+              - generic: NEW
+              - generic [ref=e3669]: Jan Nicol Loftie-Eaton pulls off a brilliant juggling effort 👏
+          - button [ref=e3670] [cursor=pointer]:
+            - generic [ref=e3672]:
+              - generic: NEW
+              - generic [ref=e3674]: Willem Myburgh claims the key wicket of Monank Patel 👊
+          - button [ref=e3675] [cursor=pointer]:
+            - generic [ref=e3677]:
+              - generic: NEW
+              - generic [ref=e3679]: Shayan Jahangir sends it soaring 🚀
+          - button [ref=e3680] [cursor=pointer]:
+            - generic [ref=e3682]:
+              - generic: NEW
+              - generic [ref=e3684]: USA to bat first against Namibia 🏏
+          - button [ref=e3685] [cursor=pointer]:
+            - generic [ref=e3687]:
+              - generic: NEW
+              - generic [ref=e3689]: West Indies qualify for the Super 8s 👏
+          - button [ref=e3690] [cursor=pointer]:
+            - generic [ref=e3692]:
+              - generic: NEW
+              - generic [ref=e3694]: Hetmyer dispatches it for six 👊
+          - button [ref=e3695] [cursor=pointer]:
+            - generic [ref=e3697]:
+              - generic: NEW
+              - generic [ref=e3699]: Hetmyer threads it fine for four 👌
+          - button [ref=e3700] [cursor=pointer]:
+            - generic [ref=e3702]:
+              - generic: NEW
+              - generic [ref=e3704]: Raw power from Dipendra Singh Airee 💪
+          - button [ref=e3705] [cursor=pointer]:
+            - generic [ref=e3707]:
+              - generic: NEW
+              - generic [ref=e3709]: Airee launches it over the ropes 6️⃣
+          - button [ref=e3710] [cursor=pointer]:
+            - generic [ref=e3712]:
+              - generic: NEW
+              - generic [ref=e3714]: Akeal Hosein serves up a gem 💎
+          - button [ref=e3715] [cursor=pointer]:
+            - generic [ref=e3717]:
+              - generic: NEW
+              - generic [ref=e3719]: Aiden Markram reaches fifty with a six 💪
+          - button [ref=e3720] [cursor=pointer]:
+            - generic [ref=e3722]:
+              - generic: NEW
+              - generic [ref=e3724]: All class from Aiden Markram 🤩
+          - button [ref=e3725] [cursor=pointer]:
+            - generic [ref=e3727]:
+              - generic: NEW
+              - generic [ref=e3729]: David Miller takes a good, low catch 👏
+          - button [ref=e3730] [cursor=pointer]:
+            - generic [ref=e3732]:
+              - generic: NEW
+              - generic [ref=e3734]: Marco Jansen gets the big wicket of Finn Allen ☝️
+          - button [ref=e3735] [cursor=pointer]:
+            - generic [ref=e3737]:
+              - generic: NEW
+              - generic [ref=e3739]: Will Jacks seals it for England with a boundary 👊
+          - button [ref=e3740] [cursor=pointer]:
+            - generic [ref=e3742]:
+              - generic: NEW
+              - generic [ref=e3744]: Sam Curran sends it deep into the stands 😲
+          - button [ref=e3745] [cursor=pointer]:
+            - generic [ref=e3747]:
+              - generic: NEW
+              - generic [ref=e3749]: Tom Banton hoicks it over cow corner for a biggie 🙌
+          - button [ref=e3750] [cursor=pointer]:
+            - generic [ref=e3752]:
+              - generic: NEW
+              - generic [ref=e3754]: Oliver Davidson gets innovative with the scoop 👏
+          - button [ref=e3755] [cursor=pointer]:
+            - generic [ref=e3757]:
+              - generic: NEW
+              - generic [ref=e3759]: What a ripper from Adil Rashid 🤯
+          - button [ref=e3760] [cursor=pointer]:
+            - generic [ref=e3762]:
+              - generic: NEW
+              - generic [ref=e3764]: A clean strike from Tom Bruce straight down the ground 🤩
+          - button [ref=e3765] [cursor=pointer]:
+            - generic [ref=e3767]:
+              - generic: NEW
+              - generic [ref=e3769]: Jofra Archer strikes twice early on 💥
+          - button [ref=e3770] [cursor=pointer]:
+            - generic [ref=e3772]:
+              - generic: NEW
+              - generic [ref=e3774]: Hammad Mirza sends it sailing 🤩
+          - button [ref=e3775] [cursor=pointer]:
+            - generic [ref=e3777]:
+              - generic: NEW
+              - generic [ref=e3779]: Dockrell clears the ropes with ease 👊
+          - button [ref=e3780] [cursor=pointer]:
+            - generic [ref=e3782]:
+              - generic: NEW
+              - generic [ref=e3784]: Lorcan Tucker goes wild in the 18th over 💥
+          - button [ref=e3785] [cursor=pointer]:
+            - generic [ref=e3787]:
+              - generic: NEW
+              - generic [ref=e3789]: Lorcan Tucker dispatches it for 6️⃣
+          - button [ref=e3790] [cursor=pointer]:
+            - generic [ref=e3792]:
+              - generic: NEW
+              - generic [ref=e3794]: Aamir Kaleem completes a crucial catch 👏
+          - button [ref=e3795] [cursor=pointer]:
+            - generic [ref=e3797]:
+              - generic: NEW
+              - generic [ref=e3799]: USA triumphant 🇺🇲
+          - button [ref=e3800] [cursor=pointer]:
+            - generic [ref=e3802]:
+              - generic: NEW
+              - generic [ref=e3804]: Shadley van Schlalkwyk on the mark 🎯
+          - button [ref=e3805] [cursor=pointer]:
+            - generic [ref=e3807]:
+              - generic: NEW
+              - generic [ref=e3809]: Mohsin rattles stumps 🔥
+          - button [ref=e3810] [cursor=pointer]:
+            - generic [ref=e3812]:
+              - generic: NEW
+              - generic [ref=e3814]: Harmeet snaps big fish 🎣
+          - button [ref=e3815] [cursor=pointer]:
+            - generic [ref=e3817]:
+              - generic: NEW
+              - generic [ref=e3819]: Kenjige with the first ball impact 🌀
+          - button [ref=e3820] [cursor=pointer]:
+            - generic [ref=e3822]:
+              - generic: NEW
+              - generic [ref=e3824]: Ranjane dials up the creativity 🤩
+          - button [ref=e3825] [cursor=pointer]:
+            - generic [ref=e3827]:
+              - generic: NEW
+              - generic [ref=e3829]: De Leede nabs big wicket 👏
+          - button [ref=e3830] [cursor=pointer]:
+            - generic [ref=e3832]:
+              - generic: NEW
+              - generic [ref=e3834]: A fine 5️⃣0️⃣
+          - button [ref=e3835] [cursor=pointer]:
+            - generic [ref=e3837]:
+              - generic: NEW
+              - generic [ref=e3839]: Fred Klaassen strikes 💥
+          - button [ref=e3840] [cursor=pointer]:
+            - generic [ref=e3842]:
+              - generic: NEW
+              - generic [ref=e3844]: Klein cleans it up 👊
+          - button [ref=e3845] [cursor=pointer]:
+            - generic [ref=e3847]:
+              - generic: NEW
+              - generic [ref=e3849]: Gorgeous straight drive 🤌
+          - button [ref=e3850] [cursor=pointer]:
+            - generic [ref=e3852]:
+              - generic: NEW
+              - generic [ref=e3854]: Exquisite hitting from Jahangir 👌
+          - button [ref=e3855] [cursor=pointer]:
+            - generic [ref=e3857]:
+              - generic: NEW
+              - generic [ref=e3859]: Aryansh times it to perfection 6️⃣
+          - button [ref=e3860] [cursor=pointer]:
+            - generic [ref=e3862]:
+              - generic: NEW
+              - generic [ref=e3864]: UAE script win 👏
+          - button [ref=e3865] [cursor=pointer]:
+            - generic [ref=e3867]:
+              - generic: NEW
+              - generic [ref=e3869]: Sohaib takes aerial route ✈️
+          - button [ref=e3870] [cursor=pointer]:
+            - generic [ref=e3872]:
+              - generic: NEW
+              - generic [ref=e3874]: Aryansh caps his effort with a fifty 🙌
+          - button [ref=e3875] [cursor=pointer]:
+            - generic [ref=e3877]:
+              - generic: NEW
+              - generic [ref=e3879]: Impactful Bin Zafar brings the wicket 🕺
+          - button [ref=e3880] [cursor=pointer]:
+            - generic [ref=e3882]:
+              - generic: NEW
+              - generic [ref=e3884]: Aryansh cashes in at the sixth over ☄️
+          - button [ref=e3885] [cursor=pointer]:
+            - generic [ref=e3887]:
+              - generic: NEW
+              - generic [ref=e3889]: Junaid strikes 💥
+          - button [ref=e3890] [cursor=pointer]:
+            - generic [ref=e3892]:
+              - generic: NEW
+              - generic [ref=e3894]: Junaid etches his name in the history books 💪
+          - button [ref=e3895] [cursor=pointer]:
+            - generic [ref=e3897]:
+              - generic: NEW
+              - generic [ref=e3899]: Thaker departs after a fine fifty 👏
+          - button [ref=e3900] [cursor=pointer]:
+            - generic [ref=e3902]:
+              - generic: NEW
+              - generic [ref=e3904]: Arfan hits the bullseye 🎯
+          - button [ref=e3905] [cursor=pointer]:
+            - generic [ref=e3907]:
+              - generic: NEW
+              - generic [ref=e3909]: Thaker gets going 🚀
+          - button [ref=e3910] [cursor=pointer]:
+            - generic [ref=e3912]:
+              - generic: NEW
+              - generic [ref=e3914]: Jaw-dropping stunner for Munyonga 🤯
+          - button [ref=e3915] [cursor=pointer]:
+            - generic [ref=e3917]:
+              - generic: NEW
+              - generic [ref=e3919]: Incredible win for Zimbabwe 👏
+          - button [ref=e3920] [cursor=pointer]:
+            - generic [ref=e3922]:
+              - generic: NEW
+              - generic [ref=e3924]: Renshaw times it to perfection 😮‍💨
+          - button [ref=e3925] [cursor=pointer]:
+            - generic [ref=e3927]:
+              - generic: NEW
+              - generic [ref=e3929]: A sublime reverse sweep from Maxwell ✨
+          - button [ref=e3930] [cursor=pointer]:
+            - generic [ref=e3932]:
+              - generic: NEW
+              - generic [ref=e3934]: Early breakthrough for Zimbabwe 💪
+          - button [ref=e3935] [cursor=pointer]:
+            - generic [ref=e3937]:
+              - generic: NEW
+              - generic [ref=e3939]: Zimbabwe finish with a six 💥
+          - button [ref=e3940] [cursor=pointer]:
+            - generic [ref=e3942]:
+              - generic: NEW
+              - generic [ref=e3944]: Bennett's lovely cover drive 😍
+          - button [ref=e3945] [cursor=pointer]:
+            - generic [ref=e3947]:
+              - generic: NEW
+              - generic [ref=e3949]: Bennett goes straight for a four 👊
+          - button [ref=e3950] [cursor=pointer]:
+            - generic [ref=e3952]:
+              - generic: NEW
+              - generic [ref=e3954]: India register second win in T20WC 👊
+          - button [ref=e3955] [cursor=pointer]:
+            - generic [ref=e3957]:
+              - generic: NEW
+              - generic [ref=e3959]: Bumrah's special yorker 🤩
+          - button [ref=e3960] [cursor=pointer]:
+            - generic [ref=e3962]:
+              - generic: NEW
+              - generic [ref=e3964]: Bumrah holds onto a top catch 😮
+          - button [ref=e3965] [cursor=pointer]:
+            - generic [ref=e3967]:
+              - generic: NEW
+              - generic [ref=e3969]: Chakaravarthy cleans up JJ Smit 🔥
+          - button [ref=e3970] [cursor=pointer]:
+            - generic [ref=e3972]:
+              - generic: NEW
+              - generic [ref=e3974]: Steenkamp finishes the powerplay with a maximum 🙌
+          - button [ref=e3975] [cursor=pointer]:
+            - generic [ref=e3977]:
+              - generic: NEW
+              - generic [ref=e3979]: Namibia strike back 👊
+          - button [ref=e3980] [cursor=pointer]:
+            - generic [ref=e3982]:
+              - generic: NEW
+              - generic [ref=e3984]: Pandya brings up his fifty in style 💥
+          - button [ref=e3985] [cursor=pointer]:
+            - generic [ref=e3987]:
+              - generic: NEW
+              - generic [ref=e3989]: Dube with a monstrous hit 🚀
+          - button [ref=e3990] [cursor=pointer]:
+            - generic [ref=e3992]:
+              - generic: NEW
+              - generic [ref=e3994]: Excellent stumping from Zane Green 🧤
+          - button [ref=e3995] [cursor=pointer]:
+            - generic [ref=e3997]:
+              - generic: NEW
+              - generic [ref=e3999]: Erasmus gets the crucial breakthrough 👊
+          - button [ref=e4000] [cursor=pointer]:
+            - generic [ref=e4002]:
+              - generic: NEW
+              - generic [ref=e4004]: Ishan Kishan goes berserk 🔥
+          - button [ref=e4005] [cursor=pointer]:
+            - generic [ref=e4007]:
+              - generic: NEW
+              - generic [ref=e4009]: Sanju Samson flicks it away for 6️⃣
+          - button [ref=e4010] [cursor=pointer]:
+            - generic [ref=e4012]:
+              - generic: NEW
+              - generic [ref=e4014]: Gerhard Erasmus with a Golden Ducks
+          - button [ref=e4015] [cursor=pointer]:
+            - generic [ref=e4017]:
+              - generic: NEW
+              - generic [ref=e4019]: A historic win for Italy 🙌
+          - button [ref=e4020] [cursor=pointer]:
+            - generic [ref=e4022]:
+              - generic: NEW
+              - generic [ref=e4024]: Anthony Mosca times it to perfection 👊
+          - button [ref=e4025] [cursor=pointer]:
+            - generic [ref=e4027]:
+              - generic: NEW
+              - generic [ref=e4029]: Justin Mosca sends it soaring 🔥
+          - button [ref=e4030] [cursor=pointer]:
+            - generic [ref=e4032]:
+              - generic: NEW
+              - generic [ref=e4034]: Karan KC launches it into the stands 👊
+          - button [ref=e4035] [cursor=pointer]:
+            - generic [ref=e4037]:
+              - generic: NEW
+              - generic [ref=e4039]: Crishan Kalugamage's googly does the magic 💫
+          - button [ref=e4040] [cursor=pointer]:
+            - generic [ref=e4042]:
+              - generic: NEW
+              - generic [ref=e4044]: Rohit Paudel dispatches it for a six 💥
+          - button [ref=e4045] [cursor=pointer]:
+            - generic [ref=e4047]:
+              - generic: NEW
+              - generic [ref=e4049]: Rohit Paudel strikes it pure 😮‍💨
+          - button [ref=e4050] [cursor=pointer]:
+            - generic [ref=e4052]:
+              - generic: NEW
+              - generic [ref=e4054]: Italy elect to field first 🏏
+          - button [ref=e4055] [cursor=pointer]:
+            - generic [ref=e4057]:
+              - generic: NEW
+              - generic [ref=e4059]: Sri Lanka make it two wins in a row 🤩
+          - button [ref=e4060] [cursor=pointer]:
+            - generic [ref=e4062]:
+              - generic: NEW
+              - generic [ref=e4064]: Kamil Mishara hits the bullseye 🎯
+          - button [ref=e4065] [cursor=pointer]:
+            - generic [ref=e4067]:
+              - generic: NEW
+              - generic [ref=e4069]: Wasim Ali goes big 💪
+          - button [ref=e4070] [cursor=pointer]:
+            - generic [ref=e4072]:
+              - generic: NEW
+              - generic [ref=e4074]: Kamindu Mendis caps off the innings in style 👊
+          - button [ref=e4075] [cursor=pointer]:
+            - generic [ref=e4077]:
+              - generic: NEW
+              - generic [ref=e4079]: Dasun Shanaka sends it sailing 🚀
+          - button [ref=e4080] [cursor=pointer]:
+            - generic [ref=e4082]:
+              - generic: NEW
+              - generic [ref=e4084]: Pavan Rathnayake makes it look effortless 😮‍💨
+          - button [ref=e4085] [cursor=pointer]:
+            - generic [ref=e4087]:
+              - generic: NEW
+              - generic [ref=e4089]: Superb bowling from Jay Odedra 💥
+          - button [ref=e4090] [cursor=pointer]:
+            - generic [ref=e4092]:
+              - generic: NEW
+              - generic [ref=e4094]: Windies notch up two wins in a row 🤩
+          - button [ref=e4095] [cursor=pointer]:
+            - generic [ref=e4097]:
+              - generic: NEW
+              - generic [ref=e4099]: Powell holds onto a crucial catch 👌
+          - button [ref=e4100] [cursor=pointer]:
+            - generic [ref=e4102]:
+              - generic: NEW
+              - generic [ref=e4104]: Holder with a vital run out 🎯
+          - button [ref=e4105] [cursor=pointer]:
+            - generic [ref=e4107]:
+              - generic: NEW
+              - generic [ref=e4109]: Excellant Motie gets skipper Brook 💪
+          - button [ref=e4110] [cursor=pointer]:
+            - generic [ref=e4112]:
+              - generic: NEW
+              - generic [ref=e4114]: Motie his the timber 🔥
+          - button [ref=e4115] [cursor=pointer]:
+            - generic [ref=e4117]:
+              - generic: NEW
+              - generic [ref=e4119]: West Indies get Salt early 👏
+          - button [ref=e4120] [cursor=pointer]:
+            - generic [ref=e4122]:
+              - generic: NEW
+              - generic [ref=e4124]: Holder takes on Curran 🏏
+          - button [ref=e4125] [cursor=pointer]:
+            - generic [ref=e4127]:
+              - generic: NEW
+              - generic [ref=e4129]: Rutherford smashes half ton with a maximum 👊
+          - button [ref=e4130] [cursor=pointer]:
+            - generic [ref=e4132]:
+              - generic: NEW
+              - generic [ref=e4134]: Raw power by Rutherford 💪
+          - button [ref=e4135] [cursor=pointer]:
+            - generic [ref=e4137]:
+              - generic: NEW
+              - generic [ref=e4139]: Hetmyer's maximum with a sweep 😮
+          - button [ref=e4140] [cursor=pointer]:
+            - generic [ref=e4142]:
+              - generic: NEW
+              - generic [ref=e4144]: Aus make a winning start to the T20WC 💪
+          - button [ref=e4145] [cursor=pointer]:
+            - generic [ref=e4147]:
+              - generic: NEW
+              - generic [ref=e4149]: Ellis on a roll in Colombo 😍
+          - button [ref=e4150] [cursor=pointer]:
+            - generic [ref=e4152]:
+              - generic: NEW
+              - generic [ref=e4154]: Connolly's cracking hit 👌
+          - button [ref=e4155] [cursor=pointer]:
+            - generic [ref=e4157]:
+              - generic: NEW
+              - generic [ref=e4159]: Humphreys breaks through Renshaw's defence 🙌
+          - button [ref=e4160] [cursor=pointer]:
+            - generic [ref=e4162]:
+              - generic: NEW
+              - generic [ref=e4164]: Tector gets the better of Maxwell 💪
+          - button [ref=e4165] [cursor=pointer]:
+            - generic [ref=e4167]:
+              - generic: NEW
+              - generic [ref=e4169]: Stirling pulls off a top catch 😮
+          - button [ref=e4170] [cursor=pointer]:
+            - generic [ref=e4172]:
+              - generic: NEW
+              - generic [ref=e4174]: Proteas prevail in humdinger of a clash 😮‍💨
+          - button [ref=e4175] [cursor=pointer]:
+            - generic [ref=e4177]:
+              - generic: NEW
+              - generic [ref=e4179]: Gurbaz smashes a maximum in the second Super Over 6️⃣
+          - button [ref=e4180] [cursor=pointer]:
+            - generic [ref=e4182]:
+              - generic: NEW
+              - generic [ref=e4184]: Stubbs' six leads to another Super Over 🤯
+          - button [ref=e4185] [cursor=pointer]:
+            - generic [ref=e4187]:
+              - generic: NEW
+              - generic [ref=e4189]: Ngidi pulls off a stunning return catch 👏
+          - button [ref=e4190] [cursor=pointer]:
+            - generic [ref=e4192]:
+              - generic: NEW
+              - generic [ref=e4194]: Gurbaz departs after a stunning knock 🙌
+          - button [ref=e4195] [cursor=pointer]:
+            - generic [ref=e4197]:
+              - generic: NEW
+              - generic [ref=e4199]: Gurbaz with a mammoth maximum 😮
+          - button [ref=e4200] [cursor=pointer]:
+            - generic [ref=e4202]:
+              - generic: NEW
+              - generic [ref=e4204]: Rashid gets the big wicket of Rickelton 👊
+          - button [ref=e4205] [cursor=pointer]:
+            - generic [ref=e4207]:
+              - generic: NEW
+              - generic [ref=e4209]: A brilliant half-century by De Kock 👌
+          - button [ref=e4210] [cursor=pointer]:
+            - generic [ref=e4212]:
+              - generic: NEW
+              - generic [ref=e4214]: Quinton De Kock clears the rope 💪
+          - button [ref=e4215] [cursor=pointer]:
+            - generic [ref=e4217]:
+              - generic: NEW
+              - generic [ref=e4219]: Tristan Stubbs with a Caught Outs
+          - button [ref=e4220] [cursor=pointer]:
+            - generic [ref=e4222]:
+              - generic: NEW
+              - generic [ref=e4224]: Pakistan go ✌️ in ✌️
+          - button [ref=e4225] [cursor=pointer]:
+            - generic [ref=e4227]:
+              - generic: NEW
+              - generic [ref=e4229]: Tariq's dream debut continues 💯
+          - button [ref=e4230] [cursor=pointer]:
+            - generic [ref=e4232]:
+              - generic: NEW
+              - generic [ref=e4234]: Right on the money goes Abarar 🎯
+          - button [ref=e4235] [cursor=pointer]:
+            - generic [ref=e4237]:
+              - generic: NEW
+              - generic [ref=e4239]: Ranjane's cracking six 💥
+          - button [ref=e4240] [cursor=pointer]:
+            - generic [ref=e4242]:
+              - generic: NEW
+              - generic [ref=e4244]: Safe as houses catch from Shadab 👌
+          - button [ref=e4245] [cursor=pointer]:
+            - generic [ref=e4247]:
+              - generic: NEW
+              - generic [ref=e4249]: Harmeet removes Farhan 🌪️
+          - button [ref=e4250] [cursor=pointer]:
+            - generic [ref=e4252]:
+              - generic: NEW
+              - generic [ref=e4254]: Babar takes aerial route 🚀
+          - button [ref=e4255] [cursor=pointer]:
+            - generic [ref=e4257]:
+              - generic: NEW
+              - generic [ref=e4259]: Farhan on song 🎶
+          - button [ref=e4260] [cursor=pointer]:
+            - generic [ref=e4262]:
+              - generic: NEW
+              - generic [ref=e4264]: Opening strike for USA 💥
+          - button [ref=e4265] [cursor=pointer]:
+            - generic [ref=e4267]:
+              - generic: NEW
+              - generic [ref=e4269]: NZ seal second win 🙌
+          - button [ref=e4270] [cursor=pointer]:
+            - generic [ref=e4272]:
+              - generic: NEW
+              - generic [ref=e4274]: Seifert takes to the skies ✈️
+          - button [ref=e4275] [cursor=pointer]:
+            - generic [ref=e4277]:
+              - generic: NEW
+              - generic [ref=e4279]: Unconventional but effective 💯
+          - button [ref=e4280] [cursor=pointer]:
+            - generic [ref=e4282]:
+              - generic: NEW
+              - generic [ref=e4284]: Seifert’s half-century 👏
+          - button [ref=e4285] [cursor=pointer]:
+            - generic [ref=e4287]:
+              - generic: NEW
+              - generic [ref=e4289]: Openers on the offensive 👊
+          - button [ref=e4290] [cursor=pointer]:
+            - generic [ref=e4292]:
+              - generic: NEW
+              - generic [ref=e4294]: Finn Allen scoops it over 😲
+          - button [ref=e4295] [cursor=pointer]:
+            - generic [ref=e4297]:
+              - generic: NEW
+              - generic [ref=e4299]: Splendid team catch 🇳🇿
+          - button [ref=e4300] [cursor=pointer]:
+            - generic [ref=e4302]:
+              - generic: NEW
+              - generic [ref=e4304]: Sharafu brings up 5️⃣0️⃣
+          - button [ref=e4305] [cursor=pointer]:
+            - generic [ref=e4307]:
+              - generic: NEW
+              - generic [ref=e4309]: Inventive six 🔥
+          - button [ref=e4310] [cursor=pointer]:
+            - generic [ref=e4312]:
+              - generic: NEW
+              - generic [ref=e4314]: Sharafu’s crunching drive 👌
+          - button [ref=e4315] [cursor=pointer]:
+            - generic [ref=e4317]:
+              - generic: NEW
+              - generic [ref=e4319]: Waseem goes big 💥
+          - button [ref=e4320] [cursor=pointer]:
+            - generic [ref=e4322]:
+              - generic: NEW
+              - generic [ref=e4324]: UAE elect to bat 🏏
+          - button [ref=e4325] [cursor=pointer]:
+            - generic [ref=e4327]:
+              - generic: NEW
+              - generic [ref=e4329]: A emphatic win for Netherlands 🙌
+          - button [ref=e4330] [cursor=pointer]:
+            - generic [ref=e4332]:
+              - generic: NEW
+              - generic [ref=e4334]: Bas de Leede goes all the way 💪
+          - button [ref=e4335] [cursor=pointer]:
+            - generic [ref=e4337]:
+              - generic: NEW
+              - generic [ref=e4339]: Bas de Leede launches it into the stands 💥
+          - button [ref=e4340] [cursor=pointer]:
+            - generic [ref=e4342]:
+              - generic: NEW
+              - generic [ref=e4344]: JJ Smit with a cracking hit 😍
+          - button [ref=e4345] [cursor=pointer]:
+            - generic [ref=e4347]:
+              - generic: NEW
+              - generic [ref=e4349]: Gerhard Erasmus times it to perfection 👌
+          - button [ref=e4350] [cursor=pointer]:
+            - generic [ref=e4352]:
+              - generic: NEW
+              - generic [ref=e4354]: Jan Frylinck smashes a biggie 😮‍💨
+          - button [ref=e4355] [cursor=pointer]:
+            - generic [ref=e4357]:
+              - generic: NEW
+              - generic [ref=e4359]: Scott Edwards' fast hands at work 🧤
+          - button [ref=e4360] [cursor=pointer]:
+            - generic [ref=e4362]:
+              - generic: NEW
+              - generic [ref=e4364]: Proteas off to a winning start in T20WC 🎉
+          - button [ref=e4365] [cursor=pointer]:
+            - generic [ref=e4367]:
+              - generic: NEW
+              - generic [ref=e4369]: Dhaliwal falls after a fighting knock 👏
+          - button [ref=e4370] [cursor=pointer]:
+            - generic [ref=e4372]:
+              - generic: NEW
+              - generic [ref=e4374]: Rabada on target to disturb the timber 🎯
+          - button [ref=e4375] [cursor=pointer]:
+            - generic [ref=e4377]:
+              - generic: NEW
+              - generic [ref=e4379]: Dhaliwal creams one to the boundary 😍
+          - button [ref=e4380] [cursor=pointer]:
+            - generic [ref=e4382]:
+              - generic: NEW
+              - generic [ref=e4384]: Miller smashes it to the stands 🔥
+          - button [ref=e4385] [cursor=pointer]:
+            - generic [ref=e4387]:
+              - generic: NEW
+              - generic [ref=e4389]: Stubbs goes up and over 🚀
+          - button [ref=e4390] [cursor=pointer]:
+            - generic [ref=e4392]:
+              - generic: NEW
+              - generic [ref=e4394]: Heyliger's smart catch near the boundary 🙌
+          - button [ref=e4395] [cursor=pointer]:
+            - generic [ref=e4397]:
+              - generic: NEW
+              - generic [ref=e4399]: Picked up and dispatched by Markram 💥
+          - button [ref=e4400] [cursor=pointer]:
+            - generic [ref=e4402]:
+              - generic: NEW
+              - generic [ref=e4404]: Zim begin T20WC campaign with a win 👊
+          - button [ref=e4405] [cursor=pointer]:
+            - generic [ref=e4407]:
+              - generic: NEW
+              - generic [ref=e4409]: Bennett gets one away to the boundary 4️⃣
+          - button [ref=e4410] [cursor=pointer]:
+            - generic [ref=e4412]:
+              - generic: NEW
+              - generic [ref=e4414]: Wasim holds onto a top catch 😮
+          - button [ref=e4415] [cursor=pointer]:
+            - generic [ref=e4417]:
+              - generic: NEW
+              - generic [ref=e4419]: Bennett pulls off a jaw-dropping stunner 😱
+          - button [ref=e4420] [cursor=pointer]:
+            - generic [ref=e4422]:
+              - generic: NEW
+              - generic [ref=e4424]: Nadeem smashes the first six of the game 6️⃣
+          - button [ref=e4425] [cursor=pointer]:
+            - generic [ref=e4427]:
+              - generic: NEW
+              - generic [ref=e4429]: Sufyan's perfect reverse sweep 👏
+          - button [ref=e4430] [cursor=pointer]:
+            - generic [ref=e4432]:
+              - generic: NEW
+              - generic [ref=e4434]: Raza hits the timber with a beauty 🤌
+          - button [ref=e4435] [cursor=pointer]:
+            - generic [ref=e4437]:
+              - generic: NEW
+              - generic [ref=e4439]: Muzarabani's double blow in an over 💥
+          - button [ref=e4440] [cursor=pointer]:
+            - generic [ref=e4442]:
+              - generic: NEW
+              - generic [ref=e4444]: Scotland register first win in T20WC 2026 🙌
+          - button [ref=e4445] [cursor=pointer]:
+            - generic [ref=e4447]:
+              - generic: NEW
+              - generic [ref=e4449]: Benjamin Manenti gets to his fifty in style 👌
+          - button [ref=e4450] [cursor=pointer]:
+            - generic [ref=e4452]:
+              - generic: NEW
+              - generic [ref=e4454]: Harry Manenti sends it down the ground for 6️⃣
+          - button [ref=e4455] [cursor=pointer]:
+            - generic [ref=e4457]:
+              - generic: NEW
+              - generic [ref=e4459]: George Munsey picks a blinder 🤯
+          - button [ref=e4460] [cursor=pointer]:
+            - generic [ref=e4462]:
+              - generic: NEW
+              - generic [ref=e4464]: Scotland breach the 200-run mark 💪
+          - button [ref=e4465] [cursor=pointer]:
+            - generic [ref=e4467]:
+              - generic: NEW
+              - generic [ref=e4469]: Italy's first World Cup wicket 👏
+          - button [ref=e4470] [cursor=pointer]:
+            - generic [ref=e4472]:
+              - generic: NEW
+              - generic [ref=e4474]: George Munsey races to 50 👊
+          - button [ref=e4475] [cursor=pointer]:
+            - generic [ref=e4477]:
+              - generic: NEW
+              - generic [ref=e4479]: Trouble for Italy skipper 👀
+          - button [ref=e4480] [cursor=pointer]:
+            - generic [ref=e4482]:
+              - generic: NEW
+              - generic [ref=e4484]: Sri Lanka win in Colombo 🎊
+          - button [ref=e4485] [cursor=pointer]:
+            - generic [ref=e4487]:
+              - generic: NEW
+              - generic [ref=e4489]: Kusal stumps Calitz ⚡
+          - button [ref=e4490] [cursor=pointer]:
+            - generic [ref=e4492]:
+              - generic: NEW
+              - generic [ref=e4494]: A biggie dispatched by Ross Adair ☄️
+          - button [ref=e4495] [cursor=pointer]:
+            - generic [ref=e4497]:
+              - generic: NEW
+              - generic [ref=e4499]: Theekshana rattles Stirling's stumps \|/
+          - button [ref=e4500] [cursor=pointer]:
+            - generic [ref=e4502]:
+              - generic: NEW
+              - generic [ref=e4504]: Kusal stands tall with a 50 🔥
+          - button [ref=e4505] [cursor=pointer]:
+            - generic [ref=e4507]:
+              - generic: NEW
+              - generic [ref=e4509]: Kamindu with the innovation 😲
+          - button [ref=e4510] [cursor=pointer]:
+            - generic [ref=e4512]:
+              - generic: NEW
+              - generic [ref=e4514]: Stirling pouches a sharp take 💪
+          - button [ref=e4515] [cursor=pointer]:
+            - generic [ref=e4517]:
+              - generic: NEW
+              - generic [ref=e4519]: Brilliant maximum from Nissanka 👌
+          - button [ref=e4520] [cursor=pointer]:
+            - generic [ref=e4522]:
+              - generic: NEW
+              - generic [ref=e4524]: England seal thriller 🍿
+          - button [ref=e4525] [cursor=pointer]:
+            - generic [ref=e4527]:
+              - generic: NEW
+              - generic [ref=e4529]: Bam goes boom 💥
+          - button [ref=e4530] [cursor=pointer]:
+            - generic [ref=e4532]:
+              - generic: NEW
+              - generic [ref=e4534]: Nepal continue the fight 💪
+          - button [ref=e4535] [cursor=pointer]:
+            - generic [ref=e4537]:
+              - generic: NEW
+              - generic [ref=e4539]: Curran’s crucial strike 🙌
+          - button [ref=e4540] [cursor=pointer]:
+            - generic [ref=e4542]:
+              - generic: NEW
+              - generic [ref=e4544]: Nepal set the tempo 🏏
+          - button [ref=e4545] [cursor=pointer]:
+            - generic [ref=e4547]:
+              - generic: NEW
+              - generic [ref=e4549]: Bhurtel gets Nepal going 👊
+          - button [ref=e4550] [cursor=pointer]:
+            - generic [ref=e4552]:
+              - generic: NEW
+              - generic [ref=e4554]: Captain’s knock from Brook 👌
+          - button [ref=e4555] [cursor=pointer]:
+            - generic [ref=e4557]:
+              - generic: NEW
+              - generic [ref=e4559]: Nepal strike back ⚡
+          - button [ref=e4560] [cursor=pointer]:
+            - generic [ref=e4562]:
+              - generic: NEW
+              - generic [ref=e4564]: Bethell brings up 5️⃣0️⃣
+          - button [ref=e4565] [cursor=pointer]:
+            - generic [ref=e4567]:
+              - generic: NEW
+              - generic [ref=e4569]: Bethell takes off 🚀
+          - button [ref=e4570] [cursor=pointer]:
+            - generic [ref=e4572]:
+              - generic: NEW
+              - generic [ref=e4574]: Nepal tighten their grip 💪
+          - button [ref=e4575] [cursor=pointer]:
+            - generic [ref=e4577]:
+              - generic: NEW
+              - generic [ref=e4579]: Nandan Yadav removes Buttler 💥
+          - button [ref=e4580] [cursor=pointer]:
+            - generic [ref=e4582]:
+              - generic: NEW
+              - generic [ref=e4584]: Sher Malla’s debut strike 🔥
+          - button [ref=e4585] [cursor=pointer]:
+            - generic [ref=e4587]:
+              - generic: NEW
+              - generic [ref=e4589]: England win the toss 🪙
+          - button [ref=e4590] [cursor=pointer]:
+            - generic [ref=e4592]:
+              - generic: NEW
+              - generic [ref=e4594]: Black Caps seal the win 👏
+          - button [ref=e4595] [cursor=pointer]:
+            - generic [ref=e4597]:
+              - generic: NEW
+              - generic [ref=e4599]: Santner clears the rope 👊
+          - button [ref=e4600] [cursor=pointer]:
+            - generic [ref=e4602]:
+              - generic: NEW
+              - generic [ref=e4604]: Tim Seifert hits a huge one 🤯
+          - button [ref=e4605] [cursor=pointer]:
+            - generic [ref=e4607]:
+              - generic: NEW
+              - generic [ref=e4609]: Glenn Phillips goes down the ground for 6️⃣
+          - button [ref=e4610] [cursor=pointer]:
+            - generic [ref=e4612]:
+              - generic: NEW
+              - generic [ref=e4614]: Mujeeb bamboozles Rachin 💫
+          - button [ref=e4615] [cursor=pointer]:
+            - generic [ref=e4617]:
+              - generic: NEW
+              - generic [ref=e4619]: Nabi launches it for six 👊
+          - button [ref=e4620] [cursor=pointer]:
+            - generic [ref=e4622]:
+              - generic: NEW
+              - generic [ref=e4624]: Gulbadin Naib smashes it for 6️⃣
+          - button [ref=e4625] [cursor=pointer]:
+            - generic [ref=e4627]:
+              - generic: NEW
+              - generic [ref=e4629]: Rahmanullah Gurbaz showing his finesse 👌
+          - button [ref=e4630] [cursor=pointer]:
+            - generic [ref=e4632]:
+              - generic: NEW
+              - generic [ref=e4634]: India seal victory in Mumbai 🇮🇳👌
+          - button [ref=e4635] [cursor=pointer]:
+            - generic [ref=e4637]:
+              - generic: NEW
+              - generic [ref=e4639]: Ranjane braves the pain 💪
+          - button [ref=e4640] [cursor=pointer]:
+            - generic [ref=e4642]:
+              - generic: NEW
+              - generic [ref=e4644]: Arshdeep gets the USA skipper 💪
+          - button [ref=e4645] [cursor=pointer]:
+            - generic [ref=e4647]:
+              - generic: NEW
+              - generic [ref=e4649]: Final over blitz by Suryakumar 💥
+          - button [ref=e4650] [cursor=pointer]:
+            - generic [ref=e4652]:
+              - generic: NEW
+              - generic [ref=e4654]: India turning the tide 🌊
+          - button [ref=e4655] [cursor=pointer]:
+            - generic [ref=e4657]:
+              - generic: NEW
+              - generic [ref=e4659]: SKY lets it fly ✈️
+          - button [ref=e4660] [cursor=pointer]:
+            - generic [ref=e4662]:
+              - generic: NEW
+              - generic [ref=e4664]: Van Schalkwyk on fire 🔥
+          - button [ref=e4665] [cursor=pointer]:
+            - generic [ref=e4667]:
+              - generic: NEW
+              - generic [ref=e4669]: Kishan departs, USA mount pressure 👊
+          - button [ref=e4670] [cursor=pointer]:
+            - generic [ref=e4672]:
+              - generic: NEW
+              - generic [ref=e4674]: Ali Khan snaps Abhishek for a golden duck 🔥
+          - button [ref=e4675] [cursor=pointer]:
+            - generic [ref=e4677]:
+              - generic: NEW
+              - generic [ref=e4679]: West Indies win in Kolkata 👏
+          - button [ref=e4680] [cursor=pointer]:
+            - generic [ref=e4682]:
+              - generic: NEW
+              - generic [ref=e4684]: Shepherd clinches hat-trick 💥
+          - button [ref=e4685] [cursor=pointer]:
+            - generic [ref=e4687]:
+              - generic: NEW
+              - generic [ref=e4689]: Bruce keeps Scotland in hunt 👏
+          - button [ref=e4690] [cursor=pointer]:
+            - generic [ref=e4692]:
+              - generic: NEW
+              - generic [ref=e4694]: Hetmyer screamer 🫨
+          - button [ref=e4695] [cursor=pointer]:
+            - generic [ref=e4697]:
+              - generic: NEW
+              - generic [ref=e4699]: McMullen’s stunning catch 😲
+          - button [ref=e4700] [cursor=pointer]:
+            - generic [ref=e4702]:
+              - generic: NEW
+              - generic [ref=e4704]: Rutherford launches the offensive 👊
+          - button [ref=e4705] [cursor=pointer]:
+            - generic [ref=e4707]:
+              - generic: NEW
+              - generic [ref=e4709]: Munsey’s two-take catch 🙌
+          - button [ref=e4710] [cursor=pointer]:
+            - generic [ref=e4712]:
+              - generic: NEW
+              - generic [ref=e4714]: Brandon King takes to the skies 🚀
+          - button [ref=e4715] [cursor=pointer]:
+            - generic [ref=e4717]:
+              - generic: NEW
+              - generic [ref=e4719]: Scotland win the toss 🪙
+          - button [ref=e4720] [cursor=pointer]:
+            - generic [ref=e4722]:
+              - generic: NEW
+              - generic [ref=e4724]: Faheem win urdu (reel)
+          - button [ref=e4725] [cursor=pointer]:
+            - generic [ref=e4727]:
+              - generic: NEW
+              - generic [ref=e4729]: Pakistan off to winning start 👏
+          - button [ref=e4730] [cursor=pointer]:
+            - generic [ref=e4732]:
+              - generic: NEW
+              - generic [ref=e4734]: Faheem’s towering six 💥
+          - button [ref=e4735] [cursor=pointer]:
+            - generic [ref=e4737]:
+              - generic: NEW
+              - generic [ref=e4739]: Dangerous Farhan departs ⚡
+          - button [ref=e4740] [cursor=pointer]:
+            - generic [ref=e4742]:
+              - generic: NEW
+              - generic [ref=e4744]: Saim Ayub launches it for six 6️⃣
+          - button [ref=e4745] [cursor=pointer]:
+            - generic [ref=e4747]:
+              - generic: NEW
+              - generic [ref=e4749]: Solid catch by Sahibzada Farhan 👌
+          - button [ref=e4750] [cursor=pointer]:
+            - generic [ref=e4752]:
+              - generic: NEW
+              - generic [ref=e4754]: Aryan Dutt drives it for 4️⃣
+          - button [ref=e4755] [cursor=pointer]:
+            - generic [ref=e4757]:
+              - generic: NEW
+              - generic [ref=e4759]: Perfect start for Netherlands 👊
+      - link [ref=e4762] [cursor=pointer]:
+        - /url: https://insights.t20worldcup.com/chat/home
+        - figure [ref=e4763]:
+          - img [ref=e4765]
+      - generic [ref=e4769]:
+        - generic [ref=e4770]:
+          - heading [level=3] [ref=e4771]: Feel The Thrill Previews
+          - link [ref=e4772] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/feel-the-thrill-previews-icc-men-s-t20-world-cup-2026
+            - generic [ref=e4773]: More Videos
+            - img [ref=e4774]
+        - generic [ref=e4777]:
+          - generic [ref=e4778]:
+            - link [ref=e4781] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-v-new-zealand-the-final-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4783]
+              - figure [ref=e4787]:
+                - img [ref=e4789]
+              - generic [ref=e4790]:
+                - generic [ref=e4791]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4792]: "India v New Zealand: The Final | Feel The Thrill | Match Preview | T20WC 2026"
+                - time [ref=e4793]: 4d
+            - link [ref=e4796] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-v-england-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4798]
+              - figure [ref=e4802]:
+                - img [ref=e4804]
+              - generic [ref=e4805]:
+                - generic [ref=e4806]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4807]: India v England | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4808]: 6d
+            - link [ref=e4811] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/south-africa-v-new-zealand-semi-final-feel-the-thrill-t20wc-2026
+              - img [ref=e4813]
+              - figure [ref=e4817]:
+                - img [ref=e4819]
+              - generic [ref=e4820]:
+                - generic [ref=e4821]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4822]: South Africa v New Zealand semi-final | Feel The Thrill | T20WC 2026
+                - time [ref=e4823]: 7d
+            - link [ref=e4826] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-v-west-indies-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4828]
+              - figure [ref=e4832]:
+                - img [ref=e4834]
+              - generic [ref=e4835]:
+                - generic [ref=e4836]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4837]: India v West Indies | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4838]: 28 February, 2026
+            - link [ref=e4841] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/zimbabwe-v-south-africa-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4843]
+              - figure [ref=e4847]:
+                - img [ref=e4849]
+              - generic [ref=e4850]:
+                - generic [ref=e4851]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4852]: Zimbabwe v South Africa | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4853]: 28 February, 2026
+            - link [ref=e4856] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/sri-lanka-v-pakistan-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4858]
+              - figure [ref=e4862]:
+                - img [ref=e4864]
+              - generic [ref=e4865]:
+                - generic [ref=e4866]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4867]: Sri Lanka v Pakistan | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4868]: 27 February, 2026
+            - link [ref=e4871] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-v-new-zealand-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4873]
+              - figure [ref=e4877]:
+                - img [ref=e4879]
+              - generic [ref=e4880]:
+                - generic [ref=e4881]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4882]: England v New Zealand | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4883]: 26 February, 2026
+            - link [ref=e4886] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-v-zimbabwe-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4888]
+              - figure [ref=e4892]:
+                - img [ref=e4894]
+              - generic [ref=e4895]:
+                - generic [ref=e4896]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4897]: India v Zimbabwe | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4898]: 25 February, 2026
+            - link [ref=e4901] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/west-indies-v-south-africa-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4903]
+              - figure [ref=e4907]:
+                - img [ref=e4909]
+              - generic [ref=e4910]:
+                - generic [ref=e4911]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4912]: West Indies v South Africa | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4913]: 25 February, 2026
+            - link [ref=e4916] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/sri-lanka-v-new-zealand-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e4918]
+              - figure [ref=e4922]:
+                - img [ref=e4924]
+              - generic [ref=e4925]:
+                - generic [ref=e4926]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4927]: Sri Lanka v New Zealand | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e4928]: 24 February, 2026
+          - text: prev next
+          - generic [ref=e4929]:
+            - button [ref=e4930] [cursor=pointer]
+            - button [ref=e4931] [cursor=pointer]
+            - button [ref=e4932] [cursor=pointer]
+            - button [ref=e4933] [cursor=pointer]
+            - button [ref=e4934] [cursor=pointer]
+            - button [ref=e4935] [cursor=pointer]
+            - button [ref=e4936] [cursor=pointer]
+      - generic [ref=e4940]:
+        - heading [level=3] [ref=e4942]: Galleries
+        - generic [ref=e4944]:
+          - generic [ref=e4945]:
+            - link [ref=e4948] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/england-v-new-zealand-t20wc-2026-26-february-2026
+              - figure [ref=e4949]:
+                - img [ref=e4951]
+              - generic [ref=e4952]:
+                - generic [ref=e4953]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4954]: England v New Zealand | T20WC 2026 | 26 February 2026
+                - time [ref=e4955]: 28 February, 2026
+            - link [ref=e4958] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/india-v-zimbabwe-t20wc-2026-26-february-2026
+              - figure [ref=e4959]:
+                - img [ref=e4961]
+              - generic [ref=e4962]:
+                - generic [ref=e4963]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4964]: India v Zimbabwe | T20WC 2026 | 26 February 2026
+                - time [ref=e4965]: 26 February, 2026
+            - link [ref=e4968] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/west-indies-v-south-africa-t20-world-cup-2026
+              - figure [ref=e4969]:
+                - img [ref=e4971]
+              - generic [ref=e4972]:
+                - generic [ref=e4973]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4974]: West Indies v South Africa | T20 World Cup 2026
+                - time [ref=e4975]: 26 February, 2026
+            - link [ref=e4978] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/sri-lanka-v-new-zealand-t20wc-2026-24-february-2026
+              - figure [ref=e4979]:
+                - img [ref=e4981]
+              - generic [ref=e4982]:
+                - generic [ref=e4983]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4984]: Sri Lanka v New Zealand | T20WC 2026 | 25 February 2026
+                - time [ref=e4985]: 25 February, 2026
+            - link [ref=e4988] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/england-v-pakistan-t20wc-2026-15-february-2026
+              - figure [ref=e4989]:
+                - img [ref=e4991]
+              - generic [ref=e4992]:
+                - generic [ref=e4993]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e4994]: England v Pakistan | T20WC 2026 | 24 February 2026
+                - time [ref=e4995]: 24 February, 2026
+          - text: prev next
+          - generic [ref=e4996]:
+            - button [ref=e4997] [cursor=pointer]
+            - button [ref=e4998] [cursor=pointer]
+      - link [ref=e5001] [cursor=pointer]:
+        - /url: https://sparkfabric.co/space/icc
+        - figure [ref=e5002]:
+          - img [ref=e5004]
+      - generic [ref=e5008]:
+        - generic [ref=e5009]:
+          - heading [level=3] [ref=e5010]: Latest Videos
+          - link [ref=e5011] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/latest-videos-icc-men-s-t20-world-cup-2026
+            - generic [ref=e5012]: More Videos
+            - img [ref=e5013]
+        - generic [ref=e5016]:
+          - generic [ref=e5017]:
+            - link [ref=e5020] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-shadley-van-schalkwyk-wicket-t20-world-cup-2026
+              - img [ref=e5022]
+              - figure [ref=e5026]:
+                - img [ref=e5028]
+              - generic [ref=e5029]:
+                - generic [ref=e5030]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e5031]: Every Shadley van Schalkwyk wicket | T20 World Cup 2026
+                - time [ref=e5032]: 14h
+            - link [ref=e5035] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-adil-rashid-wicket-t20-world-cup-2026
+              - img [ref=e5037]
+              - figure [ref=e5041]:
+                - img [ref=e5043]
+              - generic [ref=e5044]:
+                - generic [ref=e5045]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e5046]: Every Adil Rashid wicket | T20 World Cup 2026
+                - time [ref=e5047]: 1d
+            - link [ref=e5050] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-jasprit-bumrah-wicket-t20-world-cup-2026
+              - img [ref=e5052]
+              - figure [ref=e5056]:
+                - img [ref=e5058]
+              - generic [ref=e5059]:
+                - generic [ref=e5060]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e5061]: Every Jasprit Bumrah wicket | T20 World Cup 2026
+                - time [ref=e5062]: 1d
+            - link [ref=e5065] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-lungi-ngidi-wicket-t20-world-cup-2026
+              - img [ref=e5067]
+              - figure [ref=e5071]:
+                - img [ref=e5073]
+              - generic [ref=e5074]:
+                - generic [ref=e5075]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e5076]: Every Lungi Ngidi wicket | T20 World Cup 2026
+                - time [ref=e5077]: 1d
+            - link [ref=e5080] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/spectacular-drone-show-brings-world-cup-to-a-close-t20wc-2026
+              - img [ref=e5082]
+              - figure [ref=e5086]:
+                - img [ref=e5088]
+              - generic [ref=e5089]:
+                - generic [ref=e5090]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e5091]: Spectacular drone show brings World Cup to a close | T20WC 2026
+                - time [ref=e5092]: 2d
+            - link [ref=e5095] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/spanish-tournament-review-t20wc-2026
+              - img [ref=e5097]
+              - figure [ref=e5101]:
+                - img [ref=e5103]
+              - generic [ref=e5104]:
+                - generic [ref=e5105]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e5106]: El camino a la gloria | Spanish Tournament Review | T20WC 2026
+                - time [ref=e5107]: 2d
+            - link [ref=e5110] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/korean-tournament-review-t20wc-2026
+              - img [ref=e5112]
+              - figure [ref=e5116]:
+                - img [ref=e5118]
+              - generic [ref=e5119]:
+                - generic [ref=e5120]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e5121]: 영광으로 가는 길 | Korean Tournament Review | T20WC 2026
+                - time [ref=e5122]: 2d
+            - link [ref=e5125] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/portuguese-brazil-tournament-review-t20wc-2026
+              - img [ref=e5127]
+              - figure [ref=e5131]:
+                - img [ref=e5133]
+              - generic [ref=e5134]:
+                - generic [ref=e5135]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e5136]: O caminho para a glória | Brazilian Portuguese Tournament Review | T20WC 2026
+                - time [ref=e5137]: 2d
+            - link [ref=e5140] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/italian--tournament-review-t20wc-2026
+              - img [ref=e5142]
+              - figure [ref=e5146]:
+                - img [ref=e5148]
+              - generic [ref=e5149]:
+                - generic [ref=e5150]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e5151]: La strada per la gloria | Italian Tournament Review | T20WC 2026
+                - time [ref=e5152]: 2d
+            - link [ref=e5155] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/arabic-tournament-review-t20wc-2026
+              - img [ref=e5157]
+              - figure [ref=e5161]:
+                - img [ref=e5163]
+              - generic [ref=e5164]:
+                - generic [ref=e5165]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e5166]: الطريق إلى المجد | Arabic Tournament Review | T20WC 2026
+                - time [ref=e5167]: 2d
+          - text: prev next
+          - generic [ref=e5168]:
+            - button [ref=e5169] [cursor=pointer]
+            - button [ref=e5170] [cursor=pointer]
+            - button [ref=e5171] [cursor=pointer]
+            - button [ref=e5172] [cursor=pointer]
+            - button [ref=e5173] [cursor=pointer]
+            - button [ref=e5174] [cursor=pointer]
+            - button [ref=e5175] [cursor=pointer]
+      - generic [ref=e5179]:
+        - generic [ref=e5180]:
+          - heading [level=3] [ref=e5181]: Warm Up Highlights
+          - link [ref=e5182] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/warm-up-highlights-icc-men-s-t20-world-cup-2026
+            - generic [ref=e5183]: More Videos
+            - img [ref=e5184]
+        - generic [ref=e5187]:
+          - generic [ref=e5188]:
+            - link [ref=e5191] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/a-testing-workout-for-namibia-match-highlights-t20wc-2026-warm-up
+              - img [ref=e5193]
+              - figure [ref=e5197]:
+                - img [ref=e5199]
+              - generic [ref=e5200]:
+                - generic [ref=e5201]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e5202]: A testing workout for Namibia | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e5203]: 6 February, 2026
+            - link [ref=e5206] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/a-clinical-display-from-italy-match-highlights-t20wc-2026-warm-up
+              - img [ref=e5208]
+              - figure [ref=e5212]:
+                - img [ref=e5214]
+              - generic [ref=e5215]:
+                - generic [ref=e5216]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e5217]: A clinical display from Italy | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e5218]: 6 February, 2026
+            - link [ref=e5221] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-prevail-in-a-close-contest-match-highlights-t20wc-2026-warm-up
+              - img [ref=e5223]
+              - figure [ref=e5227]:
+                - img [ref=e5229]
+              - generic [ref=e5230]:
+                - generic [ref=e5231]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e5232]: New Zealand prevail in a close contest | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e5233]: 5 February, 2026
+            - link [ref=e5236] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/nepal-deliver-on-all-fronts-match-highlights-t20wc-2026-warm-up
+              - img [ref=e5238]
+              - figure [ref=e5242]:
+                - img [ref=e5244]
+              - generic [ref=e5245]:
+                - generic [ref=e5246]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e5247]: Nepal deliver on all fronts | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e5248]: 5 February, 2026
+            - link [ref=e5251] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/oman-seal-a-well-rounded-win-match-highlights-t20wc-2026-warm-up
+              - img [ref=e5253]
+              - figure [ref=e5257]:
+                - img [ref=e5259]
+              - generic [ref=e5260]:
+                - generic [ref=e5261]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e5262]: Oman seal a well-rounded win | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e5263]: 5 February, 2026
+            - link [ref=e5266] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/batting-firepower-powers-an-india-win-match-highlights-t20wc-2026-warm-up
+              - img [ref=e5268]
+              - figure [ref=e5272]:
+                - img [ref=e5274]
+              - generic [ref=e5275]:
+                - generic [ref=e5276]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e5277]: Batting firepower inspires India win | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e5278]: 4 February, 2026
+            - link [ref=e5281] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/namibia-trump-past-scotland-in-a-thrilling-contest-match-highlights-t20wc-2026-warm-up
+              - img [ref=e5283]
+              - figure [ref=e5287]:
+                - img [ref=e5289]
+              - generic [ref=e5290]:
+                - generic [ref=e5291]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e5292]: Namibia trump past Scotland in a thrilling contest | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e5293]: 4 February, 2026
+            - link [ref=e5296] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/zimbabwe-off-to-a-strong-start-match-highlights-t20wc-2026-warm-up
+              - img [ref=e5298]
+              - figure [ref=e5302]:
+                - img [ref=e5304]
+              - generic [ref=e5305]:
+                - generic [ref=e5306]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e5307]: Zimbabwe off to a strong start | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e5308]: 4 February, 2026
+            - link [ref=e5311] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/all-round-nepal-off-to-a-strong-start-match-highlights-t20wc-2026-warm-up
+              - img [ref=e5313]
+              - figure [ref=e5317]:
+                - img [ref=e5319]
+              - generic [ref=e5320]:
+                - generic [ref=e5321]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e5322]: All-round Nepal off to a strong start | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e5323]: 3 February, 2026
+            - link [ref=e5326] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/a-confident-win-for-oman-match-highlights-t20wc-2026-warm-up
+              - img [ref=e5328]
+              - figure [ref=e5332]:
+                - img [ref=e5334]
+              - generic [ref=e5335]:
+                - generic [ref=e5336]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e5337]: A confident win for Oman | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e5338]: 3 February, 2026
+          - text: prev next
+          - generic [ref=e5339]:
+            - button [ref=e5340] [cursor=pointer]
+            - button [ref=e5341] [cursor=pointer]
+            - button [ref=e5342] [cursor=pointer]
+            - button [ref=e5343] [cursor=pointer]
+            - button [ref=e5344] [cursor=pointer]
+            - button [ref=e5345] [cursor=pointer]
+            - button [ref=e5346] [cursor=pointer]
+      - generic [ref=e5349]:
+        - heading [level=2] [ref=e5351]: Latest News
+        - generic [ref=e5353]:
+          - generic [ref=e5355]:
+            - link [ref=e5356] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/india-bowler-sanctioned-for-incident-during-t20wc-final
+              - figure [ref=e5357]:
+                - img [ref=e5359]
+              - generic [ref=e5360]:
+                - generic [ref=e5361]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e5362]: India bowler sanctioned for incident during T20WC final
+                - time [ref=e5363]: 11h
+            - link [ref=e5364] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/all-records-broken-at-the-icc-men-s-t20-world-cup-2026
+              - figure [ref=e5365]:
+                - img [ref=e5367]
+              - generic [ref=e5368]:
+                - generic [ref=e5369]: ICC Men's T20 World Cup, 2026
+                - time [ref=e5370]: 20h
+            - link [ref=e5371] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/team-of-the-tournament-announced-for-t20-world-cup-2026
+              - figure [ref=e5372]:
+                - img [ref=e5374]
+              - generic [ref=e5375]:
+                - generic [ref=e5376]: ICC Men's T20 World Cup, 2026
+                - time [ref=e5377]: 1d
+            - link [ref=e5378] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/proud-santner-looks-ahead-as-new-zealand-plan-for-next-step
+              - figure [ref=e5379]:
+                - img [ref=e5381]
+              - generic [ref=e5382]:
+                - generic [ref=e5383]: ICC Men's T20 World Cup, 2026
+                - time [ref=e5384]: 2d
+            - link [ref=e5385] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/gambhir-reveals-key-behind-india-s-t20-world-cup-success
+              - figure [ref=e5386]:
+                - img [ref=e5388]
+              - generic [ref=e5389]:
+                - generic [ref=e5390]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e5391]: Gambhir reveals key behind India's T20 World Cup success
+                - time [ref=e5392]: 2d
+            - link [ref=e5393] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/sanju-samson-adjudged-t20-world-cup-player-of-the-tournament
+              - figure [ref=e5394]:
+                - img [ref=e5396]
+              - generic [ref=e5397]:
+                - generic [ref=e5398]: ICC Men's T20 World Cup, 2026
+                - time [ref=e5399]: 2d
+            - link [ref=e5401] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/news
+              - generic [ref=e5402]: more news
+              - img [ref=e5403]
+          - generic [ref=e5406]:
+            - heading [level=2] [ref=e5407]: Popular Content
+            - list [ref=e5408]:
+              - listitem [ref=e5409]:
+                - link [ref=e5410] [cursor=pointer]:
+                  - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/kallis-outlines-reasons-why-proteas-can-win-t20-world-cup
+                  - generic [ref=e5411]:
+                    - generic [ref=e5412]: ICC Men's T20 World Cup, 2026
+                    - paragraph [ref=e5413]: Kallis outlines reasons why Proteas can win T20 World Cup
+              - listitem [ref=e5414]:
+                - link [ref=e5415] [cursor=pointer]:
+                  - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/five-must-watch-matches-at-icc-men-s-t20-world-cup-2026
+                  - generic [ref=e5416]:
+                    - generic [ref=e5417]: ICC Men's T20 World Cup, 2026
+                    - paragraph [ref=e5418]: Five must-watch matches at ICC Men’s T20 World Cup 2026
+              - listitem [ref=e5419]:
+                - link [ref=e5420] [cursor=pointer]:
+                  - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/fixtures-groups-released-for-icc-men-s-t20-world-cup-2026
+                  - generic [ref=e5421]:
+                    - generic [ref=e5422]: ICC Men's T20 World Cup, 2026
+                    - paragraph [ref=e5423]: Fixtures, groups released for ICC Men's T20 World Cup 2026
+      - iframe [ref=e5427]:
+        - generic [ref=f6e1]:
+          - link [ref=f6e2] [cursor=pointer]:
+            - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjstqP1Qmp18ex3yNb55rUBEmaDHIaTTEFL5LEJngH4k8pMp6rvmjP2JUfNyZ-zltT0XmTIUgG3qP3LlZcfv9r5wk3rJGuDRyVBfACZmFE-lHFly7KIomPDqa4ym37NFWsnVeMbO63C9kwxt6QOJg_w9Hu5xj85YBOklP_RHq-bGwQcXwQlHPpxZ2c_RvDRr7q6gNSBmvhag1xOsiXpFhFnioe0mufiNiktRW2WvvmCog-GNKxvIIRDVgLuaIrkyqaEiHq1dydDf-mA9jNKPOwibMrw2I1Zrl_9I80Y63MCV9fQnnjrH_A6SAFZffZzBV0qiLPLO0a6a-1rZ3Lh_G0g7tX5-pAcHD_UHhaHcAWqGYbX2KYwV2CGLc8__pajnWRwHunSnrl8uz6ICR8emB7A&sai=AMfl-YQ785_aQyHT3_0XjSBEJUCACdYLuMawRV0rPX0eb8VJeKnI9oq6kjenFMu1oFDGXHYmO3SFYYaxxeLEEU-zEBJvHX2dDhUjCqlB2Oaa-3X7iFEUZVNMVeysc8Ee3tO8ozgnUM4dLS4pYBq2fS1fuBoqXr9hDqGsyC7C0g8fASTBPiG2axt65H9ayq4zdh8DgHh2U9L6XhQ8yqZ2OTrL3xZ1-xOB3n5FnDf4qbcTO2cgQENelJMRlq2EqXoqdGcQ0DSpKq1t8-VQpwA1BE72Ahdc8BX0fvnOG4XARQQIy2__4Q86VfzDRbkpVvgBh8j1MbnpFLKP0-pEN96WEVUDhUcSDkQkCe2A5TfE2LJkEdz5-yg2KBGkfS5d-TRYxSC53A&sig=Cg0ArKJSzCAQTP9a5K2e&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.aramco.com/
+          - img [ref=f6e7]
+    - contentinfo [ref=e5428]:
+      - generic [ref=e5431]:
+        - generic [ref=e5434]:
+          - link [ref=e5435] [cursor=pointer]:
+            - /url: https://www.hotstar.com/
+            - img [ref=e5436]
+          - link [ref=e5437] [cursor=pointer]:
+            - /url: https://www.jiostar.com/
+            - img [ref=e5438]
+        - generic [ref=e5442]:
+          - link [ref=e5443] [cursor=pointer]:
+            - /url: https://www.skysports.com/
+            - img [ref=e5444]
+          - link [ref=e5445] [cursor=pointer]:
+            - /url: https://supersport.com/
+            - img [ref=e5446]
+          - link [ref=e5447] [cursor=pointer]:
+            - /url: https://www.willow.tv/
+            - img [ref=e5448]
+          - link [ref=e5449] [cursor=pointer]:
+            - /url: https://www.primevideo.com/
+            - img [ref=e5450]
+          - link [ref=e5451] [cursor=pointer]:
+            - /url: http://www.evision.ae/
+            - img [ref=e5452]
+        - generic [ref=e5455]:
+          - generic [ref=e5456]:
+            - link [ref=e5457] [cursor=pointer]:
+              - /url: https://myco.io/
+              - img [ref=e5458]
+            - link [ref=e5459] [cursor=pointer]:
+              - /url: https://myco.io/
+              - img [ref=e5460]
+            - link [ref=e5461] [cursor=pointer]:
+              - /url: https://www.espn.com/
+              - img [ref=e5462]
+            - link [ref=e5463] [cursor=pointer]:
+              - /url: https://www.sky.co.nz/
+              - img [ref=e5464]
+            - link [ref=e5465] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/
+              - img [ref=e5466]
+            - link [ref=e5467] [cursor=pointer]:
+              - /url: https://www.dialog.lk/dialog-television
+              - img [ref=e5468]
+            - link [ref=e5469] [cursor=pointer]:
+              - /url: https://icc.tv/
+              - img [ref=e5470]
+          - heading [level=4] [ref=e5471]: Broadcast Partners
+        - generic [ref=e5474]:
+          - generic [ref=e5475]:
+            - link [ref=e5476] [cursor=pointer]:
+              - /url: https://www.emirates.com/english/book/
+              - img [ref=e5477]
+            - link [ref=e5478] [cursor=pointer]:
+              - /url: https://www.aramco.com/
+              - img [ref=e5479]
+            - link [ref=e5480] [cursor=pointer]:
+              - /url: https://www.dpworld.com/
+              - img [ref=e5481]
+            - link [ref=e5482] [cursor=pointer]:
+              - /url: https://www.hyundai.com
+              - img [ref=e5483]
+          - heading [level=4] [ref=e5484]: Premier Partners
+        - generic [ref=e5487]:
+          - generic [ref=e5488]:
+            - link [ref=e5489] [cursor=pointer]:
+              - /url: https://www.coca-colacompany.com/
+              - img [ref=e5490]
+            - link [ref=e5491] [cursor=pointer]:
+              - /url: https://www.sobharealty.com/
+              - img [ref=e5492]
+            - link [ref=e5493] [cursor=pointer]:
+              - /url: http://budweiser.com/
+              - img [ref=e5494]
+            - link [ref=e5495] [cursor=pointer]:
+              - /url: https://www.marriott.com/
+              - img [ref=e5496]
+            - link [ref=e5497] [cursor=pointer]:
+              - /url: https://www.google.com/
+              - img [ref=e5498]
+          - heading [level=4] [ref=e5499]: Global Partners
+        - generic [ref=e5502]:
+          - generic [ref=e5503]:
+            - link [ref=e5505] [cursor=pointer]:
+              - /url: https://www.royalstagfan.com/
+              - img [ref=e5506]
+            - heading [level=4] [ref=e5507]: official supporters
+          - generic [ref=e5509]:
+            - link [ref=e5511] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/about/the-icc/cricket-for-good
+              - img [ref=e5512]
+            - heading [level=4] [ref=e5513]: social responsibility
+      - generic [ref=e5515]:
+        - link [ref=e5516] [cursor=pointer]:
+          - /url: https://www.facebook.com/icc
+          - img [ref=e5517]
+        - link [ref=e5520] [cursor=pointer]:
+          - /url: https://www.youtube.com/@ICC
+          - img [ref=e5521]
+        - link [ref=e5524] [cursor=pointer]:
+          - /url: https://www.Instagram.com/icc/
+          - img [ref=e5525]
+        - link [ref=e5528] [cursor=pointer]:
+          - /url: https://x.com/ICC
+          - img [ref=e5529]
+      - generic [ref=e5532]:
+        - navigation [ref=e5533]:
+          - generic [ref=e5536]:
+            - link [ref=e5538] [cursor=pointer]:
+              - /url: /about/the-icc/legal-notices/website-terms-of-use
+              - generic [ref=e5541]: Terms of Service
+            - link [ref=e5543] [cursor=pointer]:
+              - /url: /about/the-icc/legal-notices/privacy-policy
+              - generic [ref=e5546]: Privacy Policy
+            - link [ref=e5548] [cursor=pointer]:
+              - /url: /about/the-icc/working-at-icc/jobs-and-recruitment
+              - generic [ref=e5551]: Careers
+            - link [ref=e5553] [cursor=pointer]:
+              - /url: /about/contact-us/social-media
+              - generic [ref=e5556]: Related Sites
+            - link [ref=e5558] [cursor=pointer]:
+              - /url: /about/index
+              - generic [ref=e5561]: about
+            - button [ref=e5563] [cursor=pointer]:
+              - generic [ref=e5566]: Cookie Preferences
+        - generic [ref=e5567]:
+          - link [ref=e5569] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/index
+            - img [ref=e5570]
+          - generic [ref=e5571]: Copyright 2025 ICC. All rights reserved.
+  - generic [ref=e5572] [cursor=pointer]:
+    - img
+  - alert [ref=e5573]
+  - region [ref=e5574]:
+    - alertdialog [ref=e5575]:
+      - generic [ref=e5576]:
+        - generic [ref=e5579]:
+          - text: By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+          - link [ref=e5580] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/about/the-icc/legal-notices/cookie-accepting-policy
+            - text: Cookie Policy
+        - generic [ref=e5582]:
+          - generic [ref=e5583]:
+            - button [ref=e5584] [cursor=pointer]: Reject All
+            - button [ref=e5585] [cursor=pointer]: Accept All Cookies
+          - button [ref=e5586] [cursor=pointer]: Cookies Settings
+```

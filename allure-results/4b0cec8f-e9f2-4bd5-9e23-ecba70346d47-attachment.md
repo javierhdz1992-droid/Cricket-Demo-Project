@@ -1,0 +1,1705 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - button "ICC Home" [ref=e5] [cursor=pointer]:
+        - text: ICC Home
+        - img [ref=e6]
+      - navigation [ref=e8]:
+        - img "placeholder" [ref=e9]
+        - generic [ref=e10]:
+          - generic [ref=e12]:
+            - button "Toggle menu" [ref=e13] [cursor=pointer]:
+              - img [ref=e14]
+            - generic [ref=e20]:
+              - link "alternate-small-m-t20wc-2026-logo" [ref=e23] [cursor=pointer]:
+                - /url: /tournaments/mens-t20-world-cup-2026
+                - img "alternate-small-m-t20wc-2026-logo" [ref=e24]
+              - generic [ref=e27]:
+                - link "Home" [ref=e29] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026
+                  - generic [ref=e30]:
+                    - generic [ref=e32]: Home
+                    - img [ref=e34]
+                - link "Warm-Ups" [ref=e37] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/warm-up-matches
+                  - generic [ref=e38]:
+                    - generic [ref=e40]: Warm-Ups
+                    - img [ref=e42]
+                - link "Matches" [ref=e45] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/matches
+                  - generic [ref=e46]:
+                    - generic [ref=e48]: Matches
+                    - img [ref=e50]
+                - link "teams" [ref=e53] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/teams
+                  - generic [ref=e54]:
+                    - generic [ref=e56]: Teams
+                    - img [ref=e58]
+                - link "Standings" [ref=e61] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/standings
+                  - generic [ref=e62]:
+                    - generic [ref=e64]: Standings
+                    - img [ref=e66]
+                - link "News" [ref=e69] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/news
+                  - generic [ref=e70]:
+                    - generic [ref=e72]: News
+                    - img [ref=e74]
+                - link "Videos" [ref=e77] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/videos
+                  - generic [ref=e78]:
+                    - generic [ref=e80]: Videos
+                    - img [ref=e82]
+                - group [ref=e84]:
+                  - generic "stats" [ref=e85] [cursor=pointer]:
+                    - link "stats" [ref=e86]:
+                      - /url: /tournaments/mens-t20-world-cup-2026/stats
+                      - generic [ref=e89]: Stats
+                    - img [ref=e91]
+                - group [ref=e93]:
+                  - generic "game-hub" [ref=e94] [cursor=pointer]:
+                    - link "game-hub":
+                      - /url: "#nolink"
+                      - generic:
+                        - generic:
+                          - generic: Game Hub
+                    - img [ref=e96]
+                - link "venues" [ref=e99] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/venues
+                  - generic [ref=e100]:
+                    - generic [ref=e102]: Venues
+                    - img [ref=e104]
+                - link "Official Broadcasters" [ref=e107] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/official-broadcasters
+                  - generic [ref=e108]:
+                    - generic [ref=e110]: Official Broadcasters
+                    - img [ref=e112]
+                - link "captains-day" [ref=e115] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/captains-day
+                  - generic [ref=e116]:
+                    - generic [ref=e118]: Captain's Day
+                    - img [ref=e120]
+                - group [ref=e122]:
+                  - generic "Tickets" [ref=e123] [cursor=pointer]:
+                    - link "Tickets" [ref=e124]:
+                      - /url: https://tickets.cricketworldcup.com/
+                      - generic [ref=e127]: Tickets
+                    - img [ref=e129]
+                - link "shop" [ref=e132] [cursor=pointer]:
+                  - /url: https://sparkfabric.co/space/icc
+                  - generic [ref=e133]:
+                    - generic [ref=e135]: Shop
+                    - img [ref=e137]
+                - link "downloadable-schedule" [ref=e140] [cursor=pointer]:
+                  - /url: https://images.icc-cricket.com/image/upload/prd/uhbsusjsfbydrkjtrecg.pdf
+                  - generic [ref=e141]:
+                    - generic [ref=e143]: Downloadable Schedule
+                    - img [ref=e145]
+                - link "playing-conditions" [ref=e148] [cursor=pointer]:
+                  - /url: https://images.icc-cricket.com/image/upload/prd/yyt7m8uh9c1uehrbvuwb.pdf
+                  - generic [ref=e149]:
+                    - generic [ref=e151]: Playing Conditions
+                    - img [ref=e153]
+              - generic [ref=e156]:
+                - link "facebook social icon" [ref=e157] [cursor=pointer]:
+                  - /url: https://www.facebook.com/icc
+                  - img [ref=e158]
+                - link "youtube social icon" [ref=e161] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@ICC
+                  - img [ref=e162]
+                - link "instagram social icon" [ref=e165] [cursor=pointer]:
+                  - /url: https://www.Instagram.com/icc/
+                  - img [ref=e166]
+                - link "twitter social icon" [ref=e169] [cursor=pointer]:
+                  - /url: https://x.com/ICC
+                  - img [ref=e170]
+          - generic [ref=e174]:
+            - button "alternate-small-m-t20wc-2026-logo" [ref=e175] [cursor=pointer]:
+              - link "alternate-small-m-t20wc-2026-logo" [ref=e177]:
+                - /url: /tournaments/mens-t20-world-cup-2026
+                - img "alternate-small-m-t20wc-2026-logo" [ref=e178]
+              - img [ref=e179]
+            - generic:
+              - generic:
+                - img
+              - generic:
+                - link "icc-home":
+                  - /url: /index
+                  - generic:
+                    - generic:
+                      - img "icc-home"
+                      - generic: ICC Home
+                - link "icc-m-t20-2026":
+                  - /url: /tournaments/mens-t20-world-cup-2026
+                  - generic:
+                    - generic:
+                      - img "icc-m-t20-2026"
+                      - generic: ICC Men's T20 World Cup, 2026
+                - link "icc-u19-cricket-world-cup-2026":
+                  - /url: /tournaments/u19-cricket-worldcup-2026
+                  - generic:
+                    - generic:
+                      - img "icc-u19-cricket-world-cup-2026"
+                      - generic: ICC Under-19 Cricket World Cup, 2026
+                - link "icc-w-t20-wc-2026":
+                  - /url: /tournaments/womens-t20-worldcup-2026
+                  - generic:
+                    - generic:
+                      - img "icc-w-t20-wc-2026"
+                      - generic: ICC Women's T20 World Cup, 2026
+                - link "icc-wtc":
+                  - /url: /tournaments/world-test-championship
+                  - generic:
+                    - generic:
+                      - img "icc-wtc"
+                      - generic: ICC World Test Championship, 2025-27
+                - link "w-emer-nations-2025":
+                  - /url: /tournaments/womens-emerging-nations-trophy-2025
+                  - generic:
+                    - generic:
+                      - img "w-emer-nations-2025"
+                      - generic: ICC Women's Emerging Nations Trophy, 2025
+                - link "icc-w-cwc-2025":
+                  - /url: /tournaments/womens-cricket-worldcup-2025
+                  - generic:
+                    - generic:
+                      - img "icc-w-cwc-2025"
+                      - generic: ICC Women's Cricket World Cup, 2025
+                - link "icc-champions-trophy":
+                  - /url: /tournaments/champions-trophy-2025
+                  - generic:
+                    - generic:
+                      - img "icc-champions-trophy"
+                      - generic: ICC Champions Trophy, 2025
+                - link "icc-w-u19-t20-wc":
+                  - /url: /tournaments/u19-womenst20worldcup
+                  - generic:
+                    - generic:
+                      - img "icc-w-u19-t20-wc"
+                      - generic: ICC Women's Under-19 T20 World Cup, 2025
+                - link "icc-cwc-challenge-league-a-b":
+                  - /url: /tournaments/cwc-challenge-league/matches
+                  - generic:
+                    - generic:
+                      - img "icc-cwc-challenge-league-a-b"
+                      - generic: ICC CWC Challenge League A and B, 2024-26
+                - link "icc-cwc-league-2":
+                  - /url: /tournaments/icc-cricket-world-cup-league-2
+                  - generic:
+                    - generic:
+                      - img "icc-cwc-league-2"
+                      - generic: ICC Cricket World Cup League 2, 2023-27
+                - link "icc-womens-championship":
+                  - /url: /tournaments/icc-womens-championship
+                  - generic:
+                    - generic:
+                      - img "icc-womens-championship"
+                      - generic: ICC Women's Championship, 2022-25
+                - link "icc-cricket-world-cup":
+                  - /url: /tournaments/cricketworldcup
+                  - generic:
+                    - generic:
+                      - img "icc-cricket-world-cup"
+                      - generic: ICC Cricket World Cup, 2023
+              - link "See All Events":
+                - /url: /icc-events
+                - generic: See All Events
+                - img
+          - generic [ref=e184]:
+            - link "home" [ref=e186] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026
+              - generic [ref=e189]: Home
+            - link "Matches" [ref=e191] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/matches
+              - generic [ref=e194]: Matches
+            - link "Standings" [ref=e196] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/standings
+              - generic [ref=e199]: Standings
+            - link "News" [ref=e201] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/news
+              - generic [ref=e204]: News
+            - link "Videos" [ref=e206] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/videos
+              - generic [ref=e209]: Videos
+            - link "stats" [ref=e211] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/stats
+              - generic [ref=e214]: Stats
+            - generic [ref=e215]:
+              - link "game-hub":
+                - /url: "#nolink"
+                - generic:
+                  - generic:
+                    - generic: Game Hub
+            - generic [ref=e216]:
+              - link "more":
+                - /url: "#nolink"
+                - generic:
+                  - generic:
+                    - generic: More
+            - link "ICC.tv" [ref=e218] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/icc-tv
+              - generic [ref=e221]: ICC.tv
+          - generic [ref=e224]:
+            - link "Search" [ref=e226] [cursor=pointer]:
+              - /url: /search
+              - generic [ref=e227]:
+                - generic [ref=e228]: Search
+                - img [ref=e229]
+            - button "Sign in" [ref=e232] [cursor=pointer]:
+              - generic [ref=e233]: Sign in
+              - img [ref=e234]
+          - img "placeholder" [ref=e236]
+    - main [ref=e237]:
+      - generic [ref=e242]:
+        - link "ICC Men's T20 World Cup, 2026 All records broken at the ICC Men's T20 World Cup 2026 20h" [ref=e246] [cursor=pointer]:
+          - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/all-records-broken-at-the-icc-men-s-t20-world-cup-2026
+          - figure [ref=e248]:
+            - img "All records broken at the ICC Men's T20 World Cup 2026" [ref=e250]
+          - generic [ref=e251]:
+            - generic [ref=e252]: ICC Men's T20 World Cup, 2026
+            - heading "All records broken at the ICC Men's T20 World Cup 2026" [level=2] [ref=e253]
+            - time [ref=e254]: 20h
+        - generic [ref=e258]:
+          - link "ICC Men's T20 World Cup, 2026 Team of the tournament announced for T20 World Cup 2026 1d" [ref=e260] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/team-of-the-tournament-announced-for-t20-world-cup-2026
+            - figure [ref=e261]:
+              - img "GettyImages-2263635436" [ref=e263]
+            - generic [ref=e264]:
+              - generic [ref=e265]: ICC Men's T20 World Cup, 2026
+              - paragraph [ref=e266]: Team of the tournament announced for T20 World Cup 2026
+              - time [ref=e267]: 1d
+          - link "ICC Men's T20 World Cup, 2026 Gambhir reveals key behind India's T20 World Cup success 2d" [ref=e269] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/gambhir-reveals-key-behind-india-s-t20-world-cup-success
+            - figure [ref=e270]:
+              - img "GettyImages-2265457472" [ref=e272]
+            - generic [ref=e273]:
+              - generic [ref=e274]: ICC Men's T20 World Cup, 2026
+              - paragraph [ref=e275]: Gambhir reveals key behind India's T20 World Cup success
+              - time [ref=e276]: 2d
+          - link "ICC Men's T20 World Cup, 2026 Proud Santner looks ahead as New Zealand plan for next step 2d" [ref=e278] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/proud-santner-looks-ahead-as-new-zealand-plan-for-next-step
+            - figure [ref=e279]:
+              - img "GettyImages-2265452236" [ref=e281]
+            - generic [ref=e282]:
+              - generic [ref=e283]: ICC Men's T20 World Cup, 2026
+              - paragraph [ref=e284]: Proud Santner looks ahead as New Zealand plan for next step
+              - time [ref=e285]: 2d
+          - link "ICC Men's T20 World Cup, 2026 India clinch a landmark win in style | Final | Match Highlights | T20WC 2026 2d" [ref=e287] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-clinch-a-landmark-win-in-style-final-match-highlights-t20wc-2026
+            - img [ref=e289]
+            - figure [ref=e293]:
+              - img "IND 16x9 (1)" [ref=e295]
+            - generic [ref=e296]:
+              - generic [ref=e297]: ICC Men's T20 World Cup, 2026
+              - paragraph [ref=e298]: India clinch a landmark win in style | Final | Match Highlights | T20WC 2026
+              - time [ref=e299]: 2d
+      - generic [ref=e303]:
+        - generic [ref=e304]:
+          - heading "Road to Glory" [level=3] [ref=e305]
+          - link "More Videos" [ref=e306] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/icc-men-s-t20-world-cup-2026-road-to-glory
+            - generic [ref=e307]: More Videos
+            - img [ref=e308]
+        - generic [ref=e311]:
+          - generic [ref=e312]:
+            - link "ICC Men's T20 World Cup, 2026 El camino a la gloria | Spanish Tournament Review | T20WC 2026 2d" [ref=e315] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/spanish-tournament-review-t20wc-2026
+              - img [ref=e317]
+              - figure [ref=e321]:
+                - img "ICCR FINALS SPANISH" [ref=e323]
+              - generic [ref=e324]:
+                - generic [ref=e325]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e326]: El camino a la gloria | Spanish Tournament Review | T20WC 2026
+                - time [ref=e327]: 2d
+            - link "ICC Men's T20 World Cup, 2026 영광으로 가는 길 | Korean Tournament Review | T20WC 2026 2d" [ref=e330] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/korean-tournament-review-t20wc-2026
+              - img [ref=e332]
+              - figure [ref=e336]:
+                - img "ICCR FINALS KOREAN" [ref=e338]
+              - generic [ref=e339]:
+                - generic [ref=e340]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e341]: 영광으로 가는 길 | Korean Tournament Review | T20WC 2026
+                - time [ref=e342]: 2d
+            - link "ICC Men's T20 World Cup, 2026 O caminho para a glória | Brazilian Portuguese Tournament Review | T20WC 2026 2d" [ref=e345] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/portuguese-brazil-tournament-review-t20wc-2026
+              - img [ref=e347]
+              - figure [ref=e351]:
+                - img "ICCR FINALS PORTUGUESE" [ref=e353]
+              - generic [ref=e354]:
+                - generic [ref=e355]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e356]: O caminho para a glória | Brazilian Portuguese Tournament Review | T20WC 2026
+                - time [ref=e357]: 2d
+            - link "ICC Men's T20 World Cup, 2026 La strada per la gloria | Italian Tournament Review | T20WC 2026 2d" [ref=e360] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/italian--tournament-review-t20wc-2026
+              - img [ref=e362]
+              - figure [ref=e366]:
+                - img "ICCR FINALS ITALIAN" [ref=e368]
+              - generic [ref=e369]:
+                - generic [ref=e370]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e371]: La strada per la gloria | Italian Tournament Review | T20WC 2026
+                - time [ref=e372]: 2d
+            - link "ICC Men's T20 World Cup, 2026 الطريق إلى المجد | Arabic Tournament Review | T20WC 2026 2d" [ref=e375] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/arabic-tournament-review-t20wc-2026
+              - img [ref=e377]
+              - figure [ref=e381]:
+                - img "Arabic (2)" [ref=e383]
+              - generic [ref=e384]:
+                - generic [ref=e385]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e386]: الطريق إلى المجد | Arabic Tournament Review | T20WC 2026
+                - time [ref=e387]: 2d
+            - link "ICC Men's T20 World Cup, 2026 De weg naar glorie | Dutch Tournament Review | T20WC 2026 2d" [ref=e390] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/dutch-tournament-review-t20wc-2026
+              - img [ref=e392]
+              - figure [ref=e396]:
+                - img "Dutch (2)" [ref=e398]
+              - generic [ref=e399]:
+                - generic [ref=e400]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e401]: De weg naar glorie | Dutch Tournament Review | T20WC 2026
+                - time [ref=e402]: 2d
+            - link "ICC Men's T20 World Cup, 2026 Le chemin de la gloire | French Tournament Review | T20WC 2026 2d" [ref=e405] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/french-tournament-review-t20wc-2026
+              - img [ref=e407]
+              - figure [ref=e411]:
+                - img "French (2)" [ref=e413]
+              - generic [ref=e414]:
+                - generic [ref=e415]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e416]: Le chemin de la gloire | French Tournament Review | T20WC 2026
+                - time [ref=e417]: 2d
+            - link "ICC Men's T20 World Cup, 2026 通往荣耀之路 | Mandarin Tournament Review | T20WC 2026 2d" [ref=e420] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/mandarin-tournament-review-t20wc-2026
+              - img [ref=e422]
+              - figure [ref=e426]:
+                - img "Chinese Mandarin (1)" [ref=e428]
+              - generic [ref=e429]:
+                - generic [ref=e430]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e431]: 通往荣耀之路 | Mandarin Tournament Review | T20WC 2026
+                - time [ref=e432]: 2d
+            - link "ICC Men's T20 World Cup, 2026 栄光への道 | Japanese Tournament Review | T20WC 2026 2d" [ref=e435] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/japanese-tournament-review-t20wc-2026
+              - img [ref=e437]
+              - figure [ref=e441]:
+                - img "ICCR FINALS JAP" [ref=e443]
+              - generic [ref=e444]:
+                - generic [ref=e445]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e446]: 栄光への道 | Japanese Tournament Review | T20WC 2026
+                - time [ref=e447]: 2d
+            - link "ICC Men's T20 World Cup, 2026 Der Weg zum Ruhm | German Tournament Review | T20WC 2026 2d" [ref=e450] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/german-tournament-review-t20wc-2026
+              - img [ref=e452]
+              - figure [ref=e456]:
+                - img "German (2)" [ref=e458]
+              - generic [ref=e459]:
+                - generic [ref=e460]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e461]: Der Weg zum Ruhm | German Tournament Review | T20WC 2026
+                - time [ref=e462]: 2d
+          - text: prev next
+          - generic [ref=e463]:
+            - button "1" [ref=e464] [cursor=pointer]
+            - button "2" [ref=e465] [cursor=pointer]
+            - button "3" [ref=e466] [cursor=pointer]
+            - button "4" [ref=e467] [cursor=pointer]
+            - button "5" [ref=e468] [cursor=pointer]
+            - button "6" [ref=e469] [cursor=pointer]
+            - button "7" [ref=e470] [cursor=pointer]
+      - generic [ref=e479]:
+        - heading "Match Highlights" [level=2] [ref=e480]
+        - generic [ref=e483]:
+          - generic [ref=e484]:
+            - link "ICC Men's T20 World Cup, 2026 India clinch a landmark win in style | Final | Match Highlights | T20WC 2026 2d" [ref=e487] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-clinch-a-landmark-win-in-style-final-match-highlights-t20wc-2026
+              - img [ref=e489]
+              - figure [ref=e493]:
+                - img "India clinch a landmark win in style | Final | Match Highlights | T20WC 2026" [ref=e495]
+              - generic [ref=e496]:
+                - generic [ref=e497]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e498]: India clinch a landmark win in style | Final | Match Highlights | T20WC 2026
+                - time [ref=e499]: 2d
+            - link "ICC Men's T20 World Cup, 2026 India edge a run-fest to make the Final | Match Highlights | T20WC 2026 5d" [ref=e502] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-edge-a-run-fest-to-make-the-final-match-highlights-t20wc-2026
+              - img [ref=e504]
+              - figure [ref=e508]:
+                - img "India edge a run-fest to make the Final | Match Highlights | T20WC 2026" [ref=e510]
+              - generic [ref=e511]:
+                - generic [ref=e512]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e513]: India edge a run-fest to make the Final | Match Highlights | T20WC 2026
+                - time [ref=e514]: 5d
+            - link "ICC Men's T20 World Cup, 2026 New Zealand dominate to book Final spot | Match Highlights | T20WC 2026 6d" [ref=e517] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-dominate-to-book-final-spot-match-highlights-t20wc-2026
+              - img [ref=e519]
+              - figure [ref=e523]:
+                - img "New Zealand dominate to book Final spot | Match Highlights | T20WC 2026" [ref=e525]
+              - generic [ref=e526]:
+                - generic [ref=e527]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e528]: New Zealand dominate to book Final spot | Match Highlights | T20WC 2026
+                - time [ref=e529]: 6d
+            - link "ICC Men's T20 World Cup, 2026 Clinical India power into the last four | Match Highlights | T20WC 2026 1 March, 2026" [ref=e532] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/clinical-india-power-into-the-last-four-match-highlights-t20wc-2026
+              - img [ref=e534]
+              - figure [ref=e538]:
+                - img "Clinical India power into the last four | Match Highlights | T20WC 2026" [ref=e540]
+              - generic [ref=e541]:
+                - generic [ref=e542]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e543]: Clinical India power into the last four | Match Highlights | T20WC 2026
+                - time [ref=e544]: 1 March, 2026
+            - link "ICC Men's T20 World Cup, 2026 Recovery ensures South Africa's perfect run | Match Highlights | T20WC 2026 1 March, 2026" [ref=e547] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/recovery-seals-south-africa-s-perfect-run-match-highlights-t20wc-2026
+              - img [ref=e549]
+              - figure [ref=e553]:
+                - img "Recovery ensures South Africa's perfect run | Match Highlights | T20WC 2026" [ref=e555]
+              - generic [ref=e556]:
+                - generic [ref=e557]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e558]: Recovery ensures South Africa's perfect run | Match Highlights | T20WC 2026
+                - time [ref=e559]: 1 March, 2026
+            - link "ICC Men's T20 World Cup, 2026 Pakistan win a blockbuster contest in Kandy | Match Highlights | T20WC 2026 28 February, 2026" [ref=e562] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/pakistan-win-a-blockbuster-contest-in-kandy-match-highlights-t20wc-2026
+              - img [ref=e564]
+              - figure [ref=e568]:
+                - img "Pakistan win a blockbuster contest in Kandy | Match Highlights | T20WC 2026" [ref=e570]
+              - generic [ref=e571]:
+                - generic [ref=e572]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e573]: Pakistan win a blockbuster contest in Kandy | Match Highlights | T20WC 2026
+                - time [ref=e574]: 28 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 England edge a dramatic contest in Colombo | Match Highlights | T20WC 2026 27 February, 2026" [ref=e577] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-edge-a-dramatic-contest-in-colombo-match-highlights-t20wc-2026
+              - img [ref=e579]
+              - figure [ref=e583]:
+                - img "England edge a dramatic contest in Colombo | Match Highlights | T20WC 2026" [ref=e585]
+              - generic [ref=e586]:
+                - generic [ref=e587]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e588]: England edge a dramatic contest in Colombo | Match Highlights | T20WC 2026
+                - time [ref=e589]: 27 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 India's big push in the race to semi-finals | Match Highlights | T20WC 2026 26 February, 2026" [ref=e592] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-s-big-push-in-the-race-to-semi-finals-match-highlights-t20wc-2026
+              - img [ref=e594]
+              - figure [ref=e598]:
+                - img "India's big push in the race to semi-finals | Match Highlights | T20WC 2026" [ref=e600]
+              - generic [ref=e601]:
+                - generic [ref=e602]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e603]: India's big push in the race to semi-finals | Match Highlights | T20WC 2026
+                - time [ref=e604]: 26 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Flawless South Africa deliver again | Match Highlights | T20WC 2026 26 February, 2026" [ref=e607] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/flawless-south-africa-deliver-again-match-highlights-t20wc-2026
+              - img [ref=e609]
+              - figure [ref=e613]:
+                - img "Flawless South Africa deliver again | Match Highlights | T20WC 2026" [ref=e615]
+              - generic [ref=e616]:
+                - generic [ref=e617]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e618]: Flawless South Africa deliver again | Match Highlights | T20WC 2026
+                - time [ref=e619]: 26 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 New Zealand's dominant display powers big win | Match Highlights | T20WC 2026 25 February, 2026" [ref=e622] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-s-dominant-display-powers-big-win-match-highlights-t20wc-2026
+              - img [ref=e624]
+              - figure [ref=e628]:
+                - img "New Zealand's dominant display powers big win | Match Highlights | T20WC 2026" [ref=e630]
+              - generic [ref=e631]:
+                - generic [ref=e632]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e633]: New Zealand's dominant display powers big win | Match Highlights | T20WC 2026
+                - time [ref=e634]: 25 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 England advance as Brook delivers big | Match Highlights | T20WC 2026 24 February, 2026" [ref=e637] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-advance-as-brook-delivers-big-match-highlights-t20wc-2026
+              - img [ref=e639]
+              - figure [ref=e643]:
+                - img "England advance as Brook delivers big | Match Highlights | T20WC 2026" [ref=e645]
+              - generic [ref=e646]:
+                - generic [ref=e647]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e648]: England advance as Brook delivers big | Match Highlights | T20WC 2026
+                - time [ref=e649]: 24 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 All-round West Indies ease past Zimbabwe | Match Highlights | T20WC 2026 23 February, 2026" [ref=e652] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/all-round-west-indies-ease-past-zimbabwe-match-highlights-t20wc-2026
+              - img [ref=e654]
+              - figure [ref=e658]:
+                - img "All-round West Indies ease past Zimbabwe | Match Highlights | T20WC 2026" [ref=e660]
+              - generic [ref=e661]:
+                - generic [ref=e662]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e663]: All-round West Indies ease past Zimbabwe | Match Highlights | T20WC 2026
+                - time [ref=e664]: 23 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 South Africa take charge and triumph | Match Highlights | T20WC 2026 22 February, 2026" [ref=e667] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/south-africa-take-charge-and-triumph-match-highlights-t20wc-2026
+              - img [ref=e669]
+              - figure [ref=e673]:
+                - img "South Africa take charge and triumph | Match Highlights | T20WC 2026" [ref=e675]
+              - generic [ref=e676]:
+                - generic [ref=e677]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e678]: South Africa take charge and triumph | Match Highlights | T20WC 2026
+                - time [ref=e679]: 22 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 England's attack sets up the win | Match Highlights | T20WC 2026 22 February, 2026" [ref=e682] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-s-attack-sets-up-the-win-match-highlights-t20wc-2026
+              - img [ref=e684]
+              - figure [ref=e688]:
+                - img "England's attack sets up the win | Match Highlights | T20WC 2026" [ref=e690]
+              - generic [ref=e691]:
+                - generic [ref=e692]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e693]: England's attack sets up the win | Match Highlights | T20WC 2026
+                - time [ref=e694]: 22 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Australia sign off with authority | Match Highlights | T20WC 2026 20 February, 2026" [ref=e697] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/australia-sign-off-with-authority-match-highlights-t20wc-2026
+              - img [ref=e699]
+              - figure [ref=e703]:
+                - img "Australia sign off with authority | Match Highlights | T20WC 2026" [ref=e705]
+              - generic [ref=e706]:
+                - generic [ref=e707]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e708]: Australia sign off with authority | Match Highlights | T20WC 2026
+                - time [ref=e709]: 20 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Afghanistan bow out in dominance | Match Highlights | T20WC 2026 19 February, 2026" [ref=e712] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/afghanistan-bow-out-in-dominance-match-highlights-t20wc-2026
+              - img [ref=e714]
+              - figure [ref=e718]:
+                - img "Afghanistan bow out in dominance | Match Highlights | T20WC 2026" [ref=e720]
+              - generic [ref=e721]:
+                - generic [ref=e722]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e723]: Afghanistan bow out in dominance | Match Highlights | T20WC 2026
+                - time [ref=e724]: 19 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Zimbabwe show quality across the board | Match Highlights | T20WC 2026 19 February, 2026" [ref=e727] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/zimbabwe-show-quality-across-the-board-match-highlights-t20wc-2026
+              - img [ref=e729]
+              - figure [ref=e733]:
+                - img "Zimbabwe show quality across the board | Match Highlights | T20WC 2026" [ref=e735]
+              - generic [ref=e736]:
+                - generic [ref=e737]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e738]: Zimbabwe show quality across the board | Match Highlights | T20WC 2026
+                - time [ref=e739]: 19 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 West Indies juggernaut rolls on | Match Highlights | T20WC 2026 19 February, 2026" [ref=e742] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/west-indies-juggernaut-rolls-on-match-highlights-t20wc-2026
+              - img [ref=e744]
+              - figure [ref=e748]:
+                - img "West Indies juggernaut rolls on | Match Highlights | T20WC 2026" [ref=e750]
+              - generic [ref=e751]:
+                - generic [ref=e752]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e753]: West Indies juggernaut rolls on | Match Highlights | T20WC 2026
+                - time [ref=e754]: 19 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 India show resolve in Ahmedabad | Match Highlights | T20WC 2026 18 February, 2026" [ref=e757] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-show-resolve-in-ahmedabad-match-highlights-t20wc-2026
+              - img [ref=e759]
+              - figure [ref=e763]:
+                - img "India show resolve in Ahmedabad | Match Highlights | T20WC 2026" [ref=e765]
+              - generic [ref=e766]:
+                - generic [ref=e767]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e768]: India show resolve in Ahmedabad | Match Highlights | T20WC 2026
+                - time [ref=e769]: 18 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Pakistan go through in commanding fashion | Match Highlights | T20WC 2026 18 February, 2026" [ref=e772] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/pakistan-go-through-in-commanding-fashion-match-highlights-t20wc-2026
+              - img [ref=e774]
+              - figure [ref=e778]:
+                - img "Pakistan go through in commanding fashion | Match Highlights | T20WC 2026" [ref=e780]
+              - generic [ref=e781]:
+                - generic [ref=e782]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e783]: Pakistan go through in commanding fashion | Match Highlights | T20WC 2026
+                - time [ref=e784]: 18 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Another assured display from South Africa | Match Highlights | T20WC 2026 18 February, 2026" [ref=e787] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/another-assured-display-from-south-africa-match-highlights-t20wc-2026
+              - img [ref=e789]
+              - figure [ref=e793]:
+                - img "Another assured display from South Africa | Match Highlights | T20WC 2026" [ref=e795]
+              - generic [ref=e796]:
+                - generic [ref=e797]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e798]: Another assured display from South Africa | Match Highlights | T20WC 2026
+                - time [ref=e799]: 18 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Nepal break the wait with a memorable chase | Match Highlights | T20WC 2026 17 February, 2026" [ref=e802] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/nepal-break-the-wait-with-a-memorable-chase-match-highlights-t20wc-2026
+              - img [ref=e804]
+              - figure [ref=e808]:
+                - img "Nepal break the wait with a memorable chase | Match Highlights | T20WC 2026" [ref=e810]
+              - generic [ref=e811]:
+                - generic [ref=e812]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e813]: Nepal break the wait with a memorable chase | Match Highlights | T20WC 2026
+                - time [ref=e814]: 17 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 New Zealand move ahead with confidence | Match Highlights | T20WC 2026 17 February, 2026" [ref=e817] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-move-ahead-with-confidence-match-highlights-t20wc-2026
+              - img [ref=e819]
+              - figure [ref=e823]:
+                - img "New Zealand move ahead with confidence | Match Highlights | T20WC 2026" [ref=e825]
+              - generic [ref=e826]:
+                - generic [ref=e827]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e828]: New Zealand move ahead with confidence | Match Highlights | T20WC 2026
+                - time [ref=e829]: 17 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Sri Lanka power on with complete display | Match Highlights | T20WC 2026 16 February, 2026" [ref=e832] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/sri-lanka-power-on-with-complete-display-match-highlights-t20wc-2026
+              - img [ref=e834]
+              - figure [ref=e838]:
+                - img "Sri Lanka power on with complete display | Match Highlights | T20WC 2026" [ref=e840]
+              - generic [ref=e841]:
+                - generic [ref=e842]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e843]: Sri Lanka power on with complete display | Match Highlights | T20WC 2026
+                - time [ref=e844]: 16 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 England fend off a spirited Italy | Match Highlights | T20WC 2026 16 February, 2026" [ref=e847] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-fend-off-a-spirited-italy-match-highlights-t20wc-2026
+              - img [ref=e849]
+              - figure [ref=e853]:
+                - img "England fend off a spirited Italy | Match Highlights | T20WC 2026" [ref=e855]
+              - generic [ref=e856]:
+                - generic [ref=e857]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e858]: England fend off a spirited Italy | Match Highlights | T20WC 2026
+                - time [ref=e859]: 16 February, 2026
+          - text: prev next
+      - generic [ref=e861]:
+        - generic [ref=e866]:
+          - paragraph [ref=e868]: Aramco Player of the tournament
+          - paragraph [ref=e871]: Voting has ended. The winners are declared
+          - generic [ref=e878]:
+            - generic [ref=e879]:
+              - img "undefined" [ref=e883]
+              - button "Click to toggle" [ref=e884] [cursor=pointer]:
+                - img [ref=e886]
+              - generic [ref=e890]:
+                - generic [ref=e891]:
+                  - img "IND" [ref=e893]
+                  - paragraph [ref=e894]: Sanju
+                  - paragraph [ref=e895]: Samson
+                  - paragraph [ref=e896]: BATTER
+                - paragraph [ref=e898]: WINNER
+            - generic [ref=e899]:
+              - img "undefined" [ref=e903]
+              - button "Click to toggle" [ref=e904] [cursor=pointer]:
+                - img [ref=e905]
+              - generic [ref=e908]:
+                - generic [ref=e910]:
+                  - paragraph [ref=e911]: "321"
+                  - paragraph [ref=e912]: Runs
+                - generic [ref=e914]:
+                  - paragraph [ref=e915]: "5"
+                  - paragraph [ref=e916]: Matches
+                - generic [ref=e918]:
+                  - paragraph [ref=e919]: "199.37"
+                  - paragraph [ref=e920]: Batting Strike Rate
+        - generic [ref=e926]:
+          - generic [ref=e927]:
+            - link "ICC Men's T20 World Cup, 2026 Best of Will Jacks from Group and Super 8 Stages | T20WC 2026 5d" [ref=e930] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-will-jacks-from-group-super-8-stages-t20wc-2026
+              - img [ref=e932]
+              - figure [ref=e936]:
+                - img "Will Jacks Best Of Group Super 8 stages" [ref=e938]
+              - generic [ref=e939]:
+                - generic [ref=e940]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e941]: Best of Will Jacks from Group and Super 8 Stages | T20WC 2026
+                - time [ref=e942]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Best of Sahibzada Farhan from Group and Super 8 stages | T20WC 2026 5d" [ref=e945] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-sahibzada-farhan-from-group-and-super-8-stages-t20wc-2026
+              - img [ref=e947]
+              - figure [ref=e951]:
+                - img "SAHIBZADA FARHAN BEST OF THUMBNAIL 16X9" [ref=e953]
+              - generic [ref=e954]:
+                - generic [ref=e955]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e956]: Best of Sahibzada Farhan from Group and Super 8 stages | T20WC 2026
+                - time [ref=e957]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Every Lungi Ngidi wicket from Group and Super 8 stages | T20WC 2026 5d" [ref=e960] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-lungi-ngidi-wicket-from-group-and-super-8-stages
+              - img [ref=e962]
+              - figure [ref=e966]:
+                - img "LUNGI NGIDI PLAYER HIGHLIGHTS 16X9" [ref=e968]
+              - generic [ref=e969]:
+                - generic [ref=e970]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e971]: Every Lungi Ngidi wicket from Group and Super 8 stages | T20WC 2026
+                - time [ref=e972]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Best of Aiden Markram with the bat | T20WC 2026 5d" [ref=e975] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-aiden-markram-with-the-bat-t20wc-2026
+              - img [ref=e977]
+              - figure [ref=e981]:
+                - img "AIDEN MARKRAM BEST OF THUMBNAIL 16X9" [ref=e983]
+              - generic [ref=e984]:
+                - generic [ref=e985]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e986]: Best of Aiden Markram with the bat | T20WC 2026
+                - time [ref=e987]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Best of Rachin Ravindra from the Group and Super 8 stages | T20WC 2026 5d" [ref=e990] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-rachin-ravindra-from-the-group-and-super-8-stages-t20wc-2026
+              - img [ref=e992]
+              - figure [ref=e996]:
+                - img "Rachin ravindra player HLs 16x9" [ref=e998]
+              - generic [ref=e999]:
+                - generic [ref=e1000]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1001]: Best of Rachin Ravindra from the Group and Super 8 stages | T20WC 2026
+                - time [ref=e1002]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Every Shadley van Schalkwyk wicket from Group stage | T20WC 2026 5d" [ref=e1005] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-shadley-van-schalkwyk-wicket-from-group-stage-t20wc-2026
+              - img [ref=e1007]
+              - figure [ref=e1011]:
+                - img "shadley van schalkwyk 13 wickets thumb" [ref=e1013]
+              - generic [ref=e1014]:
+                - generic [ref=e1015]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1016]: Every Shadley van Schalkwyk wicket from Group stage | T20WC 2026
+                - time [ref=e1017]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Seifert's perfect opening act | Player Highlights | T20WC 2026 5d" [ref=e1020] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/mt20wc26-sa-nz-seifert-batting-50-playerhls-16x9-x2022
+              - img [ref=e1022]
+              - figure [ref=e1026]:
+                - img "Seifert HLs v SA" [ref=e1028]
+              - generic [ref=e1029]:
+                - generic [ref=e1030]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1031]: Seifert's perfect opening act | Player Highlights | T20WC 2026
+                - time [ref=e1032]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Samson leads the charge once more | Player Highlights | T20WC 2026 7d" [ref=e1035] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/samson-leads-the-charge-once-more-player-highlights-t20wc-2026
+              - img [ref=e1037]
+              - figure [ref=e1041]:
+                - img "sanju hls" [ref=e1043]
+              - generic [ref=e1044]:
+                - generic [ref=e1045]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1046]: Samson leads the charge once more | Player Highlights | T20WC 2026
+                - time [ref=e1047]: 7d
+          - text: prev next
+          - generic [ref=e1048]:
+            - button "1" [ref=e1049] [cursor=pointer]
+            - button "2" [ref=e1050] [cursor=pointer]
+            - button "3" [ref=e1051] [cursor=pointer]
+            - button "4" [ref=e1052] [cursor=pointer]
+            - button "5" [ref=e1053] [cursor=pointer]
+      - iframe [ref=e1057]:
+        - generic [ref=f3e1]:
+          - link [ref=f3e2] [cursor=pointer]:
+            - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjstzH5rIUCx3IZr0Y8qiqpPz8Roi5hsWyx3Yqq7g4XsA3fDBlkIM2CPc3AHh0YZG3BOOcYOOOnp-Yqh0B5K_MbE9MwWsnfqoJ9jjADWgeXVTCKcBGUws72rQ0jTyCFhDCek-EeHcMXIZMh_xxmoZt-xaA57AmUocEf6sBWcm01Z8t6ATcjdZZiprMFvpeAs7RPHnIIVu8bvCVBhMOs2xWzsN7znyal3gBMybAjD5C4ko1rg_c_uwHEbNmTg_wORapzsc7isZ2oQ_E7voOI_6L7OvaWD_V5SmP_50y7E20uuHkCMbYUGQR_CYbBcZWSiDW5TYiNAbLArLqu5fHT4l0GWDHD5urwO4pQ6Ko0hiv80yn4j86U4_XCp47F2fWDbzjVNIVYgwRa88us9HkfsmVSrkVlSCCReH&sai=AMfl-YRADuDjYyo0of6SSOCJSteLCwuxZvohvN3Sto6RD3aZe1saY4gEQba1nAsFJpLYI7BTDUXCtKeajd5jsKKHAeRaKFXiFrTTm4qhNob5UY57pEbnoqr97KRWpXt6one49OXZYtfTSSGcmqNqHMp0xAusUS_oqJzhBLFz84uoEU937JlVYQK3-ppYeT5cPI11z81T8_yyHlygYUdS-RppbL_egbW_TFIdlUWbcQjV3SBQs04jxBMo7I5JUMwCfCeDX475SvfzVHjpjK_VohDz8gAz-uVceAzSZU58GYF3I5ewtpQIejwDSt9A4yRTsC1nXdxQ9_6O041Acj56mxp8cXGtzPvt2cUwCUXOqW3rG514-vdx86nP-0dUTVBkAmOaEag&sig=Cg0ArKJSzNh3ysQqj8fE&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.aramco.com/
+          - img [ref=f3e7]
+      - generic [ref=e1061]:
+        - generic [ref=e1062]:
+          - heading "Aramco POTM Highlights" [level=3] [ref=e1063]
+          - link "More Videos" [ref=e1064] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/aramco-potm-highlights-icc-men-s-t20-world-cup-2026
+            - generic [ref=e1065]: More Videos
+            - img [ref=e1066]
+        - generic [ref=e1069]:
+          - generic [ref=e1070]:
+            - link "ICC Men's T20 World Cup, 2026 Bumrah runs the show in Ahmedabad | Final | POTM Highlights | T20WC 2026 2d" [ref=e1073] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/bumrah-runs-the-show-in-ahmedabad-final-potm-highlights-t20wc-2026
+              - img [ref=e1075]
+              - figure [ref=e1079]:
+                - img "potm bumrah" [ref=e1081]
+              - generic [ref=e1082]:
+                - generic [ref=e1083]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1084]: Bumrah runs the show in Ahmedabad | Final | POTM Highlights | T20WC 2026
+                - time [ref=e1085]: 2d
+            - link "ICC Men's T20 World Cup, 2026 Samson's classy knock sets up the win | POTM Highlights | T20WC 2026 5d" [ref=e1088] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/samson-s-classy-knock-sets-up-the-win-potm-highlights-t20wc-2026
+              - img [ref=e1090]
+              - figure [ref=e1094]:
+                - img "SANJU POTM v ENG" [ref=e1096]
+              - generic [ref=e1097]:
+                - generic [ref=e1098]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1099]: Samson's classy knock sets up the win | POTM Highlights | T20WC 2026
+                - time [ref=e1100]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Allen's record-breaking ton seals the deal | POTM Highlights | T20WC 2026 6d" [ref=e1103] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/allen-s-record-breaking-blitz-seals-the-deal-potm-highlights-t20wc-2026
+              - img [ref=e1105]
+              - figure [ref=e1109]:
+                - img "Allen POTM v SA" [ref=e1111]
+              - generic [ref=e1112]:
+                - generic [ref=e1113]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1114]: Allen's record-breaking ton seals the deal | POTM Highlights | T20WC 2026
+                - time [ref=e1115]: 6d
+            - link "ICC Men's T20 World Cup, 2026 A Samson special lights up Kolkata | POTM Highlights | T20WC 2026 1 March, 2026" [ref=e1118] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/a-samson-special-lights-up-kolkata-potm-highlights-t20wc-2026
+              - img [ref=e1120]
+              - figure [ref=e1124]:
+                - img "SANJU POTM V WI 2" [ref=e1126]
+              - generic [ref=e1127]:
+                - generic [ref=e1128]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1129]: A Samson special lights up Kolkata | POTM Highlights | T20WC 2026
+                - time [ref=e1130]: 1 March, 2026
+            - link "ICC Men's T20 World Cup, 2026 Exceptional all-round showing from Raza | POTM Highlights | T20WC 2026 1 March, 2026" [ref=e1133] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/exceptional-all-round-showing-from-raza-potm-highlights-t20wc-2026
+              - img [ref=e1135]
+              - figure [ref=e1139]:
+                - img "Raza POTM" [ref=e1141]
+              - generic [ref=e1142]:
+                - generic [ref=e1143]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1144]: Exceptional all-round showing from Raza | POTM Highlights | T20WC 2026
+                - time [ref=e1145]: 1 March, 2026
+            - link "ICC Men's T20 World Cup, 2026 Farhan shines with a golden ton | POTM Highlights | T20WC 2026 28 February, 2026" [ref=e1148] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/farhan-shines-with-a-golden-ton-potm-highlights-t20wc-2026
+              - img [ref=e1150]
+              - figure [ref=e1154]:
+                - img "Farhan POTM v SL" [ref=e1156]
+              - generic [ref=e1157]:
+                - generic [ref=e1158]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1159]: Farhan shines with a golden ton | POTM Highlights | T20WC 2026
+                - time [ref=e1160]: 28 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Jacks' ultimate all-round display | POTM Highlights | T20WC 2026 27 February, 2026" [ref=e1163] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/jacks-ultimate-all-round-display-potm-highlights-t20wc-2026
+              - img [ref=e1165]
+              - figure [ref=e1169]:
+                - img "JACKS POTM v NZ" [ref=e1171]
+              - generic [ref=e1172]:
+                - generic [ref=e1173]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1174]: Jacks' ultimate all-round display | POTM Highlights | T20WC 2026
+                - time [ref=e1175]: 27 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Pandya adds the final flourish | POTM Highlights | T20WC 2026 26 February, 2026" [ref=e1178] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/pandya-adds-the-final-flourish-potm-highlights-t20wc-2026
+              - img [ref=e1180]
+              - figure [ref=e1184]:
+                - img "Aramco POTM 16x9 T20WC 26 (4)" [ref=e1186]
+              - generic [ref=e1187]:
+                - generic [ref=e1188]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1189]: Pandya adds the final flourish | POTM Highlights | T20WC 2026
+                - time [ref=e1190]: 26 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Skipper Markram leads the chase in style | POTM Highlights | T20WC 2026 26 February, 2026" [ref=e1193] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/skipper-markram-leads-the-chase-in-style-potm-highlights-t20wc-2026
+              - img [ref=e1195]
+              - figure [ref=e1199]:
+                - img "MARKRAM POTM v WI" [ref=e1201]
+              - generic [ref=e1202]:
+                - generic [ref=e1203]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1204]: Skipper Markram leads the chase in style | POTM Highlights | T20WC 2026
+                - time [ref=e1205]: 26 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Rachin's magical spell claims four | POTM Highlights | T20WC 2026 25 February, 2026" [ref=e1208] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/rachin-s-magical-spell-claims-four-potm-highlights-t20wc-2026
+              - img [ref=e1210]
+              - figure [ref=e1214]:
+                - img "RACHIN POTM v SL" [ref=e1216]
+              - generic [ref=e1217]:
+                - generic [ref=e1218]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1219]: Rachin's magical spell claims four | POTM Highlights | T20WC 2026
+                - time [ref=e1220]: 25 February, 2026
+          - text: prev next
+          - generic [ref=e1221]:
+            - button "1" [ref=e1222] [cursor=pointer]
+            - button "2" [ref=e1223] [cursor=pointer]
+            - button "3" [ref=e1224] [cursor=pointer]
+            - button "4" [ref=e1225] [cursor=pointer]
+            - button "5" [ref=e1226] [cursor=pointer]
+            - button "6" [ref=e1227] [cursor=pointer]
+            - button "7" [ref=e1228] [cursor=pointer]
+      - generic [ref=e1237]:
+        - heading "Player Highlights" [level=2] [ref=e1238]
+        - generic [ref=e1241]:
+          - generic [ref=e1242]:
+            - link "ICC Men's T20 World Cup, 2026 Kishan goes hard in a fiery display | Final | Player Highlights | T20WC 2026 2d" [ref=e1245] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/kishan-goes-hard-in-a-fiery-display-final-player-highlights-t20wc-2026
+              - img [ref=e1247]
+              - figure [ref=e1251]:
+                - img "Kishan goes hard in a fiery display | Final | Player Highlights | T20WC 2026" [ref=e1253]
+              - generic [ref=e1254]:
+                - generic [ref=e1255]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1256]: Kishan goes hard in a fiery display | Final | Player Highlights | T20WC 2026
+                - time [ref=e1257]: 2d
+            - link "ICC Men's T20 World Cup, 2026 Samson lights up the innings again | Final | Player Highlights | T20WC 2026 2d" [ref=e1260] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/samson-lights-up-the-innings-again-final-player-highlights-t20wc-2026
+              - img [ref=e1262]
+              - figure [ref=e1266]:
+                - img "Samson lights up the innings again | Final | Player Highlights | T20WC 2026" [ref=e1268]
+              - generic [ref=e1269]:
+                - generic [ref=e1270]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1271]: Samson lights up the innings again | Final | Player Highlights | T20WC 2026
+                - time [ref=e1272]: 2d
+            - link "ICC Men's T20 World Cup, 2026 Best of Will Jacks from Group and Super 8 Stages | T20WC 2026 5d" [ref=e1275] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-will-jacks-from-group-super-8-stages-t20wc-2026
+              - img [ref=e1277]
+              - figure [ref=e1281]:
+                - img "Best of Will Jacks from Group and Super 8 Stages | T20WC 2026" [ref=e1283]
+              - generic [ref=e1284]:
+                - generic [ref=e1285]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1286]: Best of Will Jacks from Group and Super 8 Stages | T20WC 2026
+                - time [ref=e1287]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Best of Sahibzada Farhan from Group and Super 8 stages | T20WC 2026 5d" [ref=e1290] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-sahibzada-farhan-from-group-and-super-8-stages-t20wc-2026
+              - img [ref=e1292]
+              - figure [ref=e1296]:
+                - img "Best of Sahibzada Farhan from Group and Super 8 stages | T20WC 2026" [ref=e1298]
+              - generic [ref=e1299]:
+                - generic [ref=e1300]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1301]: Best of Sahibzada Farhan from Group and Super 8 stages | T20WC 2026
+                - time [ref=e1302]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Bethell's resolute century effort | Player Highlights | T20WC 2026 5d" [ref=e1305] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/bethell-s-resolute-century-effort-player-highlights-t20wc-2026
+              - img [ref=e1307]
+              - figure [ref=e1311]:
+                - img "Bethell's resolute century effort | Player Highlights | T20WC 2026" [ref=e1313]
+              - generic [ref=e1314]:
+                - generic [ref=e1315]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1316]: Bethell's resolute century effort | Player Highlights | T20WC 2026
+                - time [ref=e1317]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Every Lungi Ngidi wicket from Group and Super 8 stages | T20WC 2026 5d" [ref=e1320] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-lungi-ngidi-wicket-from-group-and-super-8-stages
+              - img [ref=e1322]
+              - figure [ref=e1326]:
+                - img "Every Lungi Ngidi wicket from Group and Super 8 stages | T20WC 2026" [ref=e1328]
+              - generic [ref=e1329]:
+                - generic [ref=e1330]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1331]: Every Lungi Ngidi wicket from Group and Super 8 stages | T20WC 2026
+                - time [ref=e1332]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Best of Aiden Markram with the bat | T20WC 2026 5d" [ref=e1335] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-aiden-markram-with-the-bat-t20wc-2026
+              - img [ref=e1337]
+              - figure [ref=e1341]:
+                - img "Best of Aiden Markram with the bat | T20WC 2026" [ref=e1343]
+              - generic [ref=e1344]:
+                - generic [ref=e1345]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1346]: Best of Aiden Markram with the bat | T20WC 2026
+                - time [ref=e1347]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Best of Rachin Ravindra from the Group and Super 8 stages | T20WC 2026 5d" [ref=e1350] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/best-of-rachin-ravindra-from-the-group-and-super-8-stages-t20wc-2026
+              - img [ref=e1352]
+              - figure [ref=e1356]:
+                - img "Best of Rachin Ravindra from the Group and Super 8 stages | T20WC 2026" [ref=e1358]
+              - generic [ref=e1359]:
+                - generic [ref=e1360]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1361]: Best of Rachin Ravindra from the Group and Super 8 stages | T20WC 2026
+                - time [ref=e1362]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Every Shadley van Schalkwyk wicket from Group stage | T20WC 2026 5d" [ref=e1365] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-shadley-van-schalkwyk-wicket-from-group-stage-t20wc-2026
+              - img [ref=e1367]
+              - figure [ref=e1371]:
+                - img "Every Shadley van Schalkwyk wicket from Group stage | T20WC 2026" [ref=e1373]
+              - generic [ref=e1374]:
+                - generic [ref=e1375]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1376]: Every Shadley van Schalkwyk wicket from Group stage | T20WC 2026
+                - time [ref=e1377]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Seifert's perfect opening act | Player Highlights | T20WC 2026 5d" [ref=e1380] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/mt20wc26-sa-nz-seifert-batting-50-playerhls-16x9-x2022
+              - img [ref=e1382]
+              - figure [ref=e1386]:
+                - img "Seifert's perfect opening act | Player Highlights | T20WC 2026" [ref=e1388]
+              - generic [ref=e1389]:
+                - generic [ref=e1390]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1391]: Seifert's perfect opening act | Player Highlights | T20WC 2026
+                - time [ref=e1392]: 5d
+            - link "ICC Men's T20 World Cup, 2026 Jansen's fearless hitting show | Player Highlights | T20WC 2026 6d" [ref=e1395] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/jansen-s-fearless-hitting-show-player-highlights-t20wc-2026
+              - img [ref=e1397]
+              - figure [ref=e1401]:
+                - img "Jansen's fearless hitting show | Player Highlights | T20WC 2026" [ref=e1403]
+              - generic [ref=e1404]:
+                - generic [ref=e1405]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1406]: Jansen's fearless hitting show | Player Highlights | T20WC 2026
+                - time [ref=e1407]: 6d
+            - link "ICC Men's T20 World Cup, 2026 Every Hardik Pandya wicket and six from Group and Super 8 stages | T20WC 2026 7d" [ref=e1410] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-hardik-pandya-wicket-and-six-from-group-and-super-8-stages-t20wc-2026
+              - img [ref=e1412]
+              - figure [ref=e1416]:
+                - img "Every Hardik Pandya wicket and six from Group and Super 8 stages | T20WC 2026" [ref=e1418]
+              - generic [ref=e1419]:
+                - generic [ref=e1420]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1421]: Every Hardik Pandya wicket and six from Group and Super 8 stages | T20WC 2026
+                - time [ref=e1422]: 7d
+            - link "ICC Men's T20 World Cup, 2026 Every Jasprit Bumrah wicket from the Group and Super 8 stages | T20WC 2026 7d" [ref=e1425] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-jasprit-bumrah-wicket-from-the-group-and-super-8-stages-t20wc-2026
+              - img [ref=e1427]
+              - figure [ref=e1431]:
+                - img "Every Jasprit Bumrah wicket from the Group and Super 8 stages | T20WC 2026" [ref=e1433]
+              - generic [ref=e1434]:
+                - generic [ref=e1435]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1436]: Every Jasprit Bumrah wicket from the Group and Super 8 stages | T20WC 2026
+                - time [ref=e1437]: 7d
+            - link "ICC Men's T20 World Cup, 2026 Samson leads the charge once more | Player Highlights | T20WC 2026 7d" [ref=e1440] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/samson-leads-the-charge-once-more-player-highlights-t20wc-2026
+              - img [ref=e1442]
+              - figure [ref=e1446]:
+                - img "Samson leads the charge once more | Player Highlights | T20WC 2026" [ref=e1448]
+              - generic [ref=e1449]:
+                - generic [ref=e1450]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1451]: Samson leads the charge once more | Player Highlights | T20WC 2026
+                - time [ref=e1452]: 7d
+            - link "ICC Men's T20 World Cup, 2026 Every Varun Chakravarthy wicket from Group and Super 8 stages | T20WC 2026 2 March, 2026" [ref=e1455] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-varun-chakravarthy-wicket-from-group-and-super-8-stages-t20wc-2026
+              - img [ref=e1457]
+              - figure [ref=e1461]:
+                - img "Every Varun Chakravarthy wicket from Group and Super 8 stages | T20WC 2026" [ref=e1463]
+              - generic [ref=e1464]:
+                - generic [ref=e1465]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1466]: Every Varun Chakravarthy wicket from Group and Super 8 stages | T20WC 2026
+                - time [ref=e1467]: 2 March, 2026
+            - link "ICC Men's T20 World Cup, 2026 Every six from Shimron Hetmyer's record-breaking T20 World Cup | T20WC 2026 2 March, 2026" [ref=e1470] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-six-from-shimron-hetmyer-s-record-breaking-t20-world-cup-t20wc-2026
+              - img [ref=e1472]
+              - figure [ref=e1476]:
+                - img "Every six from Shimron Hetmyer's record-breaking T20 World Cup | T20WC 2026" [ref=e1478]
+              - generic [ref=e1479]:
+                - generic [ref=e1480]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1481]: Every six from Shimron Hetmyer's record-breaking T20 World Cup | T20WC 2026
+                - time [ref=e1482]: 2 March, 2026
+            - link "ICC Men's T20 World Cup, 2026 Fearless Raza takes the fight on | Player Highlights | T20WC 2026 1 March, 2026" [ref=e1485] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/fearless-raza-takes-the-fight-on-player-highlights-t20wc-2026
+              - img [ref=e1487]
+              - figure [ref=e1491]:
+                - img "Fearless Raza takes the fight on | Player Highlights | T20WC 2026" [ref=e1493]
+              - generic [ref=e1494]:
+                - generic [ref=e1495]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1496]: Fearless Raza takes the fight on | Player Highlights | T20WC 2026
+                - time [ref=e1497]: 1 March, 2026
+            - link "ICC Men's T20 World Cup, 2026 Shanaka's gritty fight in Kandy | Player Highlights | T20WC 2026 28 February, 2026" [ref=e1500] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/shanaka-s-gritty-fight-in-kandy-player-highlights-t20wc-2026
+              - img [ref=e1502]
+              - figure [ref=e1506]:
+                - img "Shanaka's gritty fight in Kandy | Player Highlights | T20WC 2026" [ref=e1508]
+              - generic [ref=e1509]:
+                - generic [ref=e1510]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1511]: Shanaka's gritty fight in Kandy | Player Highlights | T20WC 2026
+                - time [ref=e1512]: 28 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Rathnayake's resilient effort | Player Highlights | T20WC 2026 28 February, 2026" [ref=e1515] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/rathnayake-s-resilient-effort-player-highlights-t20wc-2026
+              - img [ref=e1517]
+              - figure [ref=e1521]:
+                - img "Rathnayake's resilient effort | Player Highlights | T20WC 2026" [ref=e1523]
+              - generic [ref=e1524]:
+                - generic [ref=e1525]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1526]: Rathnayake's resilient effort | Player Highlights | T20WC 2026
+                - time [ref=e1527]: 28 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Farhan's monumental innings in Kandy | Player Highlights | T20WC 2026 28 February, 2026" [ref=e1530] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/farhan-s-monumental-innings-in-kandy-player-highlights-t20wc-2026
+              - img [ref=e1532]
+              - figure [ref=e1536]:
+                - img "Farhan's monumental innings in Kandy | Player Highlights | T20WC 2026" [ref=e1538]
+              - generic [ref=e1539]:
+                - generic [ref=e1540]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1541]: Farhan's monumental innings in Kandy | Player Highlights | T20WC 2026
+                - time [ref=e1542]: 28 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Zaman steps up in crunch game | Player Highlights | T20WC 2026 28 February, 2026" [ref=e1545] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/zaman-steps-up-in-crunch-game-player-highlights-t20wc-2026
+              - img [ref=e1547]
+              - figure [ref=e1551]:
+                - img "Zaman steps up in crunch game | Player Highlights | T20WC 2026" [ref=e1553]
+              - generic [ref=e1554]:
+                - generic [ref=e1555]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1556]: Zaman steps up in crunch game | Player Highlights | T20WC 2026
+                - time [ref=e1557]: 28 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Character and class from Bennett | Player Highlights | T20WC 2026 26 February, 2026" [ref=e1560] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/character-and-class-from-bennett-player-highlights-t20wc-2026
+              - img [ref=e1562]
+              - figure [ref=e1566]:
+                - img "Character and class from Bennett | Player Highlights | T20WC 2026" [ref=e1568]
+              - generic [ref=e1569]:
+                - generic [ref=e1570]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1571]: Character and class from Bennett | Player Highlights | T20WC 2026
+                - time [ref=e1572]: 26 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Pandya's quickfire knock in Chennai | Player Highlights | T20WC 2026 26 February, 2026" [ref=e1575] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/pandya-s-quickfire-knock-in-chennai-player-highlights-t20wc-2026
+              - img [ref=e1577]
+              - figure [ref=e1581]:
+                - img "Pandya's quickfire knock in Chennai | Player Highlights | T20WC 2026" [ref=e1583]
+              - generic [ref=e1584]:
+                - generic [ref=e1585]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1586]: Pandya's quickfire knock in Chennai | Player Highlights | T20WC 2026
+                - time [ref=e1587]: 26 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Abhishek's sparkling timely knock | Player Highlights | T20WC 2026 26 February, 2026" [ref=e1590] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/abhishek-s-sparkling-timely-knock-player-highlights-t20wc-2026
+              - img [ref=e1592]
+              - figure [ref=e1596]:
+                - img "Abhishek's sparkling timely knock | Player Highlights | T20WC 2026" [ref=e1598]
+              - generic [ref=e1599]:
+                - generic [ref=e1600]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1601]: Abhishek's sparkling timely knock | Player Highlights | T20WC 2026
+                - time [ref=e1602]: 26 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Romario goes into beast mode | Player Highlights | T20WC 2026 26 February, 2026" [ref=e1605] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/romario-goes-into-beast-mode-player-highlights-t20wc-2026
+              - img [ref=e1607]
+              - figure [ref=e1611]:
+                - img "Romario goes into beast mode | Player Highlights | T20WC 2026" [ref=e1613]
+              - generic [ref=e1614]:
+                - generic [ref=e1615]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1616]: Romario goes into beast mode | Player Highlights | T20WC 2026
+                - time [ref=e1617]: 26 February, 2026
+          - text: prev next
+      - heading "Top Moments" [level=2] [ref=e1621]
+      - link [ref=e1625] [cursor=pointer]:
+        - /url: https://insights.t20worldcup.com/chat/home
+        - figure [ref=e1626]:
+          - img "ICC Men's T20 World Cup 2026" [ref=e1628]
+      - generic [ref=e1632]:
+        - generic [ref=e1633]:
+          - heading "Feel The Thrill Previews" [level=3] [ref=e1634]
+          - link "More Videos" [ref=e1635] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/feel-the-thrill-previews-icc-men-s-t20-world-cup-2026
+            - generic [ref=e1636]: More Videos
+            - img [ref=e1637]
+        - generic [ref=e1640]:
+          - generic [ref=e1641]:
+            - 'link "ICC Men''s T20 World Cup, 2026 India v New Zealand: The Final | Feel The Thrill | Match Preview | T20WC 2026 4d" [ref=e1644] [cursor=pointer]':
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-v-new-zealand-the-final-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e1646]
+              - figure [ref=e1650]:
+                - img "FTT PREVIEW FINAL" [ref=e1652]
+              - generic [ref=e1653]:
+                - generic [ref=e1654]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1655]: "India v New Zealand: The Final | Feel The Thrill | Match Preview | T20WC 2026"
+                - time [ref=e1656]: 4d
+            - link "ICC Men's T20 World Cup, 2026 India v England | Feel The Thrill | Match Preview | T20WC 2026 6d" [ref=e1659] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-v-england-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e1661]
+              - figure [ref=e1665]:
+                - img "FTT INDvENG" [ref=e1667]
+              - generic [ref=e1668]:
+                - generic [ref=e1669]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1670]: India v England | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e1671]: 6d
+            - link "ICC Men's T20 World Cup, 2026 South Africa v New Zealand semi-final | Feel The Thrill | T20WC 2026 7d" [ref=e1674] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/south-africa-v-new-zealand-semi-final-feel-the-thrill-t20wc-2026
+              - img [ref=e1676]
+              - figure [ref=e1680]:
+                - img "FTTSF_SAvNZ" [ref=e1682]
+              - generic [ref=e1683]:
+                - generic [ref=e1684]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1685]: South Africa v New Zealand semi-final | Feel The Thrill | T20WC 2026
+                - time [ref=e1686]: 7d
+            - link "ICC Men's T20 World Cup, 2026 India v West Indies | Feel The Thrill | Match Preview | T20WC 2026 28 February, 2026" [ref=e1689] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-v-west-indies-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e1691]
+              - figure [ref=e1695]:
+                - img "FTT IND v WI" [ref=e1697]
+              - generic [ref=e1698]:
+                - generic [ref=e1699]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1700]: India v West Indies | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e1701]: 28 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Zimbabwe v South Africa | Feel The Thrill | Match Preview | T20WC 2026 28 February, 2026" [ref=e1704] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/zimbabwe-v-south-africa-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e1706]
+              - figure [ref=e1710]:
+                - img "FTT ZIMvSA" [ref=e1712]
+              - generic [ref=e1713]:
+                - generic [ref=e1714]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1715]: Zimbabwe v South Africa | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e1716]: 28 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Sri Lanka v Pakistan | Feel The Thrill | Match Preview | T20WC 2026 27 February, 2026" [ref=e1719] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/sri-lanka-v-pakistan-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e1721]
+              - figure [ref=e1725]:
+                - img "FTT SLvPAK" [ref=e1727]
+              - generic [ref=e1728]:
+                - generic [ref=e1729]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1730]: Sri Lanka v Pakistan | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e1731]: 27 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 England v New Zealand | Feel The Thrill | Match Preview | T20WC 2026 26 February, 2026" [ref=e1734] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/england-v-new-zealand-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e1736]
+              - figure [ref=e1740]:
+                - img "FTT ENGvNZ" [ref=e1742]
+              - generic [ref=e1743]:
+                - generic [ref=e1744]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1745]: England v New Zealand | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e1746]: 26 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 India v Zimbabwe | Feel The Thrill | Match Preview | T20WC 2026 25 February, 2026" [ref=e1749] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/india-v-zimbabwe-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e1751]
+              - figure [ref=e1755]:
+                - img "FTT INDvZIM" [ref=e1757]
+              - generic [ref=e1758]:
+                - generic [ref=e1759]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1760]: India v Zimbabwe | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e1761]: 25 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 West Indies v South Africa | Feel The Thrill | Match Preview | T20WC 2026 25 February, 2026" [ref=e1764] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/west-indies-v-south-africa-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e1766]
+              - figure [ref=e1770]:
+                - img "FTT WIvSA" [ref=e1772]
+              - generic [ref=e1773]:
+                - generic [ref=e1774]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1775]: West Indies v South Africa | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e1776]: 25 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Sri Lanka v New Zealand | Feel The Thrill | Match Preview | T20WC 2026 24 February, 2026" [ref=e1779] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/sri-lanka-v-new-zealand-feel-the-thrill-match-preview-t20wc-2026
+              - img [ref=e1781]
+              - figure [ref=e1785]:
+                - img "FTT SLvNZ" [ref=e1787]
+              - generic [ref=e1788]:
+                - generic [ref=e1789]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1790]: Sri Lanka v New Zealand | Feel The Thrill | Match Preview | T20WC 2026
+                - time [ref=e1791]: 24 February, 2026
+          - text: prev next
+          - generic [ref=e1792]:
+            - button "1" [ref=e1793] [cursor=pointer]
+            - button "2" [ref=e1794] [cursor=pointer]
+            - button "3" [ref=e1795] [cursor=pointer]
+            - button "4" [ref=e1796] [cursor=pointer]
+            - button "5" [ref=e1797] [cursor=pointer]
+            - button "6" [ref=e1798] [cursor=pointer]
+            - button "7" [ref=e1799] [cursor=pointer]
+      - generic [ref=e1803]:
+        - heading "Galleries" [level=3] [ref=e1805]
+        - generic [ref=e1807]:
+          - generic [ref=e1808]:
+            - link "ICC Men's T20 World Cup, 2026 England v New Zealand | T20WC 2026 | 26 February 2026 28 February, 2026" [ref=e1811] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/england-v-new-zealand-t20wc-2026-26-february-2026
+              - figure [ref=e1812]:
+                - img "GettyImages-2263899427" [ref=e1814]
+              - generic [ref=e1815]:
+                - generic [ref=e1816]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1817]: England v New Zealand | T20WC 2026 | 26 February 2026
+                - time [ref=e1818]: 28 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 India v Zimbabwe | T20WC 2026 | 26 February 2026 26 February, 2026" [ref=e1821] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/india-v-zimbabwe-t20wc-2026-26-february-2026
+              - figure [ref=e1822]:
+                - img "Abhishek Sharma on the attack" [ref=e1824]
+              - generic [ref=e1825]:
+                - generic [ref=e1826]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1827]: India v Zimbabwe | T20WC 2026 | 26 February 2026
+                - time [ref=e1828]: 26 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 West Indies v South Africa | T20 World Cup 2026 26 February, 2026" [ref=e1831] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/west-indies-v-south-africa-t20-world-cup-2026
+              - figure [ref=e1832]:
+                - img "Shai Hope of West Indies and Aiden Markram of South Africa lead their teams out" [ref=e1834]
+              - generic [ref=e1835]:
+                - generic [ref=e1836]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1837]: West Indies v South Africa | T20 World Cup 2026
+                - time [ref=e1838]: 26 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 Sri Lanka v New Zealand | T20WC 2026 | 25 February 2026 25 February, 2026" [ref=e1841] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/sri-lanka-v-new-zealand-t20wc-2026-24-february-2026
+              - figure [ref=e1842]:
+                - img "Fans of Sri Lanka look on from the crowd during the ICC Men's T20 World Cup" [ref=e1844]
+              - generic [ref=e1845]:
+                - generic [ref=e1846]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1847]: Sri Lanka v New Zealand | T20WC 2026 | 25 February 2026
+                - time [ref=e1848]: 25 February, 2026
+            - link "ICC Men's T20 World Cup, 2026 England v Pakistan | T20WC 2026 | 24 February 2026 24 February, 2026" [ref=e1851] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/photos/album/england-v-pakistan-t20wc-2026-15-february-2026
+              - figure [ref=e1852]:
+                - img "Sahibzada Farhan sweeps as Jos Buttler keeps for England" [ref=e1854]
+              - generic [ref=e1855]:
+                - generic [ref=e1856]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1857]: England v Pakistan | T20WC 2026 | 24 February 2026
+                - time [ref=e1858]: 24 February, 2026
+          - text: prev next
+          - generic [ref=e1859]:
+            - button "1" [ref=e1860] [cursor=pointer]
+            - button "2" [ref=e1861] [cursor=pointer]
+      - link [ref=e1864] [cursor=pointer]:
+        - /url: https://sparkfabric.co/space/icc
+        - figure [ref=e1865]:
+          - img "ICC Men's T20 World Cup, 2026" [ref=e1867]
+      - generic [ref=e1871]:
+        - generic [ref=e1872]:
+          - heading "Latest Videos" [level=3] [ref=e1873]
+          - link "More Videos" [ref=e1874] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/latest-videos-icc-men-s-t20-world-cup-2026
+            - generic [ref=e1875]: More Videos
+            - img [ref=e1876]
+        - generic [ref=e1879]:
+          - generic [ref=e1880]:
+            - link "ICC Men's T20 World Cup, 2026 Every Shadley van Schalkwyk wicket | T20 World Cup 2026 14h" [ref=e1883] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-shadley-van-schalkwyk-wicket-t20-world-cup-2026
+              - img [ref=e1885]
+              - figure [ref=e1889]:
+                - img "T20WCCompilation_Shadley" [ref=e1891]
+              - generic [ref=e1892]:
+                - generic [ref=e1893]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1894]: Every Shadley van Schalkwyk wicket | T20 World Cup 2026
+                - time [ref=e1895]: 14h
+            - link "ICC Men's T20 World Cup, 2026 Every Adil Rashid wicket | T20 World Cup 2026 1d" [ref=e1898] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-adil-rashid-wicket-t20-world-cup-2026
+              - img [ref=e1900]
+              - figure [ref=e1904]:
+                - img "Rashid" [ref=e1906]
+              - generic [ref=e1907]:
+                - generic [ref=e1908]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1909]: Every Adil Rashid wicket | T20 World Cup 2026
+                - time [ref=e1910]: 1d
+            - link "ICC Men's T20 World Cup, 2026 Every Jasprit Bumrah wicket | T20 World Cup 2026 1d" [ref=e1913] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-jasprit-bumrah-wicket-t20-world-cup-2026
+              - img [ref=e1915]
+              - figure [ref=e1919]:
+                - img "T20WCCompilation_Bumrah" [ref=e1921]
+              - generic [ref=e1922]:
+                - generic [ref=e1923]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1924]: Every Jasprit Bumrah wicket | T20 World Cup 2026
+                - time [ref=e1925]: 1d
+            - link "ICC Men's T20 World Cup, 2026 Every Lungi Ngidi wicket | T20 World Cup 2026 1d" [ref=e1928] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/every-lungi-ngidi-wicket-t20-world-cup-2026
+              - img [ref=e1930]
+              - figure [ref=e1934]:
+                - img "Ngidi" [ref=e1936]
+              - generic [ref=e1937]:
+                - generic [ref=e1938]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1939]: Every Lungi Ngidi wicket | T20 World Cup 2026
+                - time [ref=e1940]: 1d
+            - link "ICC Men's T20 World Cup, 2026 Spectacular drone show brings World Cup to a close | T20WC 2026 2d" [ref=e1943] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/spectacular-drone-show-brings-world-cup-to-a-close-t20wc-2026
+              - img [ref=e1945]
+              - figure [ref=e1949]:
+                - img "ICC - Match Highlight Thumb - T20WC 2026 copy" [ref=e1951]
+              - generic [ref=e1952]:
+                - generic [ref=e1953]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1954]: Spectacular drone show brings World Cup to a close | T20WC 2026
+                - time [ref=e1955]: 2d
+            - link "ICC Men's T20 World Cup, 2026 El camino a la gloria | Spanish Tournament Review | T20WC 2026 2d" [ref=e1958] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/spanish-tournament-review-t20wc-2026
+              - img [ref=e1960]
+              - figure [ref=e1964]:
+                - img "ICCR FINALS SPANISH" [ref=e1966]
+              - generic [ref=e1967]:
+                - generic [ref=e1968]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1969]: El camino a la gloria | Spanish Tournament Review | T20WC 2026
+                - time [ref=e1970]: 2d
+            - link "ICC Men's T20 World Cup, 2026 영광으로 가는 길 | Korean Tournament Review | T20WC 2026 2d" [ref=e1973] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/korean-tournament-review-t20wc-2026
+              - img [ref=e1975]
+              - figure [ref=e1979]:
+                - img "ICCR FINALS KOREAN" [ref=e1981]
+              - generic [ref=e1982]:
+                - generic [ref=e1983]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1984]: 영광으로 가는 길 | Korean Tournament Review | T20WC 2026
+                - time [ref=e1985]: 2d
+            - link "ICC Men's T20 World Cup, 2026 O caminho para a glória | Brazilian Portuguese Tournament Review | T20WC 2026 2d" [ref=e1988] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/portuguese-brazil-tournament-review-t20wc-2026
+              - img [ref=e1990]
+              - figure [ref=e1994]:
+                - img "ICCR FINALS PORTUGUESE" [ref=e1996]
+              - generic [ref=e1997]:
+                - generic [ref=e1998]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e1999]: O caminho para a glória | Brazilian Portuguese Tournament Review | T20WC 2026
+                - time [ref=e2000]: 2d
+            - link "ICC Men's T20 World Cup, 2026 La strada per la gloria | Italian Tournament Review | T20WC 2026 2d" [ref=e2003] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/italian--tournament-review-t20wc-2026
+              - img [ref=e2005]
+              - figure [ref=e2009]:
+                - img "ICCR FINALS ITALIAN" [ref=e2011]
+              - generic [ref=e2012]:
+                - generic [ref=e2013]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2014]: La strada per la gloria | Italian Tournament Review | T20WC 2026
+                - time [ref=e2015]: 2d
+            - link "ICC Men's T20 World Cup, 2026 الطريق إلى المجد | Arabic Tournament Review | T20WC 2026 2d" [ref=e2018] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/arabic-tournament-review-t20wc-2026
+              - img [ref=e2020]
+              - figure [ref=e2024]:
+                - img "Arabic (2)" [ref=e2026]
+              - generic [ref=e2027]:
+                - generic [ref=e2028]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2029]: الطريق إلى المجد | Arabic Tournament Review | T20WC 2026
+                - time [ref=e2030]: 2d
+          - text: prev next
+          - generic [ref=e2031]:
+            - button "1" [ref=e2032] [cursor=pointer]
+            - button "2" [ref=e2033] [cursor=pointer]
+            - button "3" [ref=e2034] [cursor=pointer]
+            - button "4" [ref=e2035] [cursor=pointer]
+            - button "5" [ref=e2036] [cursor=pointer]
+            - button "6" [ref=e2037] [cursor=pointer]
+            - button "7" [ref=e2038] [cursor=pointer]
+      - generic [ref=e2042]:
+        - generic [ref=e2043]:
+          - heading "Warm Up Highlights" [level=3] [ref=e2044]
+          - link "More Videos" [ref=e2045] [cursor=pointer]:
+            - /url: /tournaments/mens-t20-world-cup-2026/videos/category/warm-up-highlights-icc-men-s-t20-world-cup-2026
+            - generic [ref=e2046]: More Videos
+            - img [ref=e2047]
+        - generic [ref=e2050]:
+          - generic [ref=e2051]:
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 A testing workout for Namibia | Match Highlights | T20WC 2026 Warm-up 6 February, 2026" [ref=e2054] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/a-testing-workout-for-namibia-match-highlights-t20wc-2026-warm-up
+              - img [ref=e2056]
+              - figure [ref=e2060]:
+                - img "NAMvINDA MATCH HLs" [ref=e2062]
+              - generic [ref=e2063]:
+                - generic [ref=e2064]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e2065]: A testing workout for Namibia | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e2066]: 6 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 A clinical display from Italy | Match Highlights | T20WC 2026 Warm-up 6 February, 2026" [ref=e2069] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/a-clinical-display-from-italy-match-highlights-t20wc-2026-warm-up
+              - img [ref=e2071]
+              - figure [ref=e2075]:
+                - img "ITAvUAE MATCH HLS" [ref=e2077]
+              - generic [ref=e2078]:
+                - generic [ref=e2079]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e2080]: A clinical display from Italy | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e2081]: 6 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 New Zealand prevail in a close contest | Match Highlights | T20WC 2026 Warm-up 5 February, 2026" [ref=e2084] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/new-zealand-prevail-in-a-close-contest-match-highlights-t20wc-2026-warm-up
+              - img [ref=e2086]
+              - figure [ref=e2090]:
+                - img "NZvUSA MATCH HLS" [ref=e2092]
+              - generic [ref=e2093]:
+                - generic [ref=e2094]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e2095]: New Zealand prevail in a close contest | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e2096]: 5 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 Nepal deliver on all fronts | Match Highlights | T20WC 2026 Warm-up 5 February, 2026" [ref=e2099] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/nepal-deliver-on-all-fronts-match-highlights-t20wc-2026-warm-up
+              - img [ref=e2101]
+              - figure [ref=e2105]:
+                - img "NEPvCAN MATCH HLs" [ref=e2107]
+              - generic [ref=e2108]:
+                - generic [ref=e2109]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e2110]: Nepal deliver on all fronts | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e2111]: 5 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 Oman seal a well-rounded win | Match Highlights | T20WC 2026 Warm-up 5 February, 2026" [ref=e2114] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/oman-seal-a-well-rounded-win-match-highlights-t20wc-2026-warm-up
+              - img [ref=e2116]
+              - figure [ref=e2120]:
+                - img "ZIMvOMN MATCH HLs" [ref=e2122]
+              - generic [ref=e2123]:
+                - generic [ref=e2124]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e2125]: Oman seal a well-rounded win | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e2126]: 5 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 Batting firepower inspires India win | Match Highlights | T20WC 2026 Warm-up 4 February, 2026" [ref=e2129] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/batting-firepower-powers-an-india-win-match-highlights-t20wc-2026-warm-up
+              - img [ref=e2131]
+              - figure [ref=e2135]:
+                - img "INDvSA WARM UP HLS" [ref=e2137]
+              - generic [ref=e2138]:
+                - generic [ref=e2139]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e2140]: Batting firepower inspires India win | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e2141]: 4 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 Namibia trump past Scotland in a thrilling contest | Match Highlights | T20WC 2026 Warm-up 4 February, 2026" [ref=e2144] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/namibia-trump-past-scotland-in-a-thrilling-contest-match-highlights-t20wc-2026-warm-up
+              - img [ref=e2146]
+              - figure [ref=e2150]:
+                - img "SCOvNAM MATCH HLS" [ref=e2152]
+              - generic [ref=e2153]:
+                - generic [ref=e2154]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e2155]: Namibia trump past Scotland in a thrilling contest | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e2156]: 4 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 Zimbabwe off to a strong start | Match Highlights | T20WC 2026 Warm-up 4 February, 2026" [ref=e2159] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/zimbabwe-off-to-a-strong-start-match-highlights-t20wc-2026-warm-up
+              - img [ref=e2161]
+              - figure [ref=e2165]:
+                - img "IMG_9023" [ref=e2167]
+              - generic [ref=e2168]:
+                - generic [ref=e2169]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e2170]: Zimbabwe off to a strong start | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e2171]: 4 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 All-round Nepal off to a strong start | Match Highlights | T20WC 2026 Warm-up 3 February, 2026" [ref=e2174] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/all-round-nepal-off-to-a-strong-start-match-highlights-t20wc-2026-warm-up
+              - img [ref=e2176]
+              - figure [ref=e2180]:
+                - img "NEP" [ref=e2182]
+              - generic [ref=e2183]:
+                - generic [ref=e2184]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e2185]: All-round Nepal off to a strong start | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e2186]: 3 February, 2026
+            - link "ICC Men's T20 World Cup Warm-up Matches, 2026 A confident win for Oman | Match Highlights | T20WC 2026 Warm-up 3 February, 2026" [ref=e2189] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/a-confident-win-for-oman-match-highlights-t20wc-2026-warm-up
+              - img [ref=e2191]
+              - figure [ref=e2195]:
+                - img "OMAN V SLA MATCH HLS" [ref=e2197]
+              - generic [ref=e2198]:
+                - generic [ref=e2199]: ICC Men's T20 World Cup Warm-up Matches, 2026
+                - paragraph [ref=e2200]: A confident win for Oman | Match Highlights | T20WC 2026 Warm-up
+                - time [ref=e2201]: 3 February, 2026
+          - text: prev next
+          - generic [ref=e2202]:
+            - button "1" [ref=e2203] [cursor=pointer]
+            - button "2" [ref=e2204] [cursor=pointer]
+            - button "3" [ref=e2205] [cursor=pointer]
+            - button "4" [ref=e2206] [cursor=pointer]
+            - button "5" [ref=e2207] [cursor=pointer]
+            - button "6" [ref=e2208] [cursor=pointer]
+            - button "7" [ref=e2209] [cursor=pointer]
+      - generic [ref=e2212]:
+        - heading "Latest News" [level=2] [ref=e2214]
+        - generic [ref=e2216]:
+          - generic [ref=e2218]:
+            - link "ICC Men's T20 World Cup, 2026 India bowler sanctioned for incident during T20WC final 11h" [ref=e2219] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/india-bowler-sanctioned-for-incident-during-t20wc-final
+              - figure [ref=e2220]:
+                - img "India bowler sanctioned for incident during T20WC final" [ref=e2222]
+              - generic [ref=e2223]:
+                - generic [ref=e2224]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2225]: India bowler sanctioned for incident during T20WC final
+                - time [ref=e2226]: 11h
+            - link "ICC Men's T20 World Cup, 2026 All records broken at the ICC Men's T20 World Cup 2026 20h" [ref=e2227] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/all-records-broken-at-the-icc-men-s-t20-world-cup-2026
+              - figure [ref=e2228]:
+                - img "All records broken at the ICC Men's T20 World Cup 2026" [ref=e2230]
+              - generic [ref=e2231]:
+                - generic [ref=e2232]: ICC Men's T20 World Cup, 2026
+                - paragraph: All records broken at the ICC Men's T20 World Cup 2026
+                - time [ref=e2233]: 20h
+            - link "ICC Men's T20 World Cup, 2026 Team of the tournament announced for T20 World Cup 2026 1d" [ref=e2234] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/team-of-the-tournament-announced-for-t20-world-cup-2026
+              - figure [ref=e2235]:
+                - img "Team of the tournament announced for T20 World Cup 2026" [ref=e2237]
+              - generic [ref=e2238]:
+                - generic [ref=e2239]: ICC Men's T20 World Cup, 2026
+                - paragraph: Team of the tournament announced for T20 World Cup 2026
+                - time [ref=e2240]: 1d
+            - link "ICC Men's T20 World Cup, 2026 Proud Santner looks ahead as New Zealand plan for next step 2d" [ref=e2241] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/proud-santner-looks-ahead-as-new-zealand-plan-for-next-step
+              - figure [ref=e2242]:
+                - img "Proud Santner looks ahead as New Zealand plan for next step" [ref=e2244]
+              - generic [ref=e2245]:
+                - generic [ref=e2246]: ICC Men's T20 World Cup, 2026
+                - paragraph: Proud Santner looks ahead as New Zealand plan for next step
+                - time [ref=e2247]: 2d
+            - link "ICC Men's T20 World Cup, 2026 Gambhir reveals key behind India's T20 World Cup success 2d" [ref=e2248] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/gambhir-reveals-key-behind-india-s-t20-world-cup-success
+              - figure [ref=e2249]:
+                - img "Gambhir reveals key behind India's T20 World Cup success" [ref=e2251]
+              - generic [ref=e2252]:
+                - generic [ref=e2253]: ICC Men's T20 World Cup, 2026
+                - paragraph [ref=e2254]: Gambhir reveals key behind India's T20 World Cup success
+                - time [ref=e2255]: 2d
+            - link "ICC Men's T20 World Cup, 2026 Sanju Samson adjudged T20 World Cup Player of the Tournament 2d" [ref=e2256] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/sanju-samson-adjudged-t20-world-cup-player-of-the-tournament
+              - figure [ref=e2257]:
+                - img "Sanju Samson adjudged T20 World Cup Player of the Tournament" [ref=e2259]
+              - generic [ref=e2260]:
+                - generic [ref=e2261]: ICC Men's T20 World Cup, 2026
+                - paragraph: Sanju Samson adjudged T20 World Cup Player of the Tournament
+                - time [ref=e2262]: 2d
+            - link "more news" [ref=e2264] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/news
+              - generic [ref=e2265]: more news
+              - img [ref=e2266]
+          - generic [ref=e2269]:
+            - heading "Popular Content" [level=2] [ref=e2270]
+            - list [ref=e2271]:
+              - listitem [ref=e2272]:
+                - link "ICC Men's T20 World Cup, 2026 Kallis outlines reasons why Proteas can win T20 World Cup" [ref=e2273] [cursor=pointer]:
+                  - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/kallis-outlines-reasons-why-proteas-can-win-t20-world-cup
+                  - generic [ref=e2274]:
+                    - generic [ref=e2275]: ICC Men's T20 World Cup, 2026
+                    - paragraph [ref=e2276]: Kallis outlines reasons why Proteas can win T20 World Cup
+              - listitem [ref=e2277]:
+                - link "ICC Men's T20 World Cup, 2026 Five must-watch matches at ICC Men’s T20 World Cup 2026" [ref=e2278] [cursor=pointer]:
+                  - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/five-must-watch-matches-at-icc-men-s-t20-world-cup-2026
+                  - generic [ref=e2279]:
+                    - generic [ref=e2280]: ICC Men's T20 World Cup, 2026
+                    - paragraph [ref=e2281]: Five must-watch matches at ICC Men’s T20 World Cup 2026
+              - listitem [ref=e2282]:
+                - link "ICC Men's T20 World Cup, 2026 Fixtures, groups released for ICC Men's T20 World Cup 2026" [ref=e2283] [cursor=pointer]:
+                  - /url: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/fixtures-groups-released-for-icc-men-s-t20-world-cup-2026
+                  - generic [ref=e2284]:
+                    - generic [ref=e2285]: ICC Men's T20 World Cup, 2026
+                    - paragraph [ref=e2286]: Fixtures, groups released for ICC Men's T20 World Cup 2026
+      - iframe [ref=e2290]:
+        - generic [ref=f5e1]:
+          - link [ref=f5e2] [cursor=pointer]:
+            - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsvW67-DKZ9KMTBcN4UnyO26sq-DDfaciHoeWLeBzNvsfHDN5k-q5R9-cP-34OBg0X1Io8LRrRtX5x3lAMCNvKQxUlqUz0gokurfVUtS3lmlASY5wCd4ZsB9ohtx6oyHsMw0RK89LPGKozs1twAjBotLqpWNP4I8PCdSYHyN6jGujIGdL2DmKY9oX_2SSA9rMQKwhg3v85heMeYntvsBFeMpqeTsptcFh2-3R8frp7rcJ7pmiJdoDPwk0hBzeBkgeDhqOE13omuR3oKjZggArshgJ0E6--2rIn-hyYApNcLK03V3eKd2J6rUiS0KLlDgZpZ0gz63c2PQlSZtjyIiWMJoafoeGOdfL0vWY06xuoQf8rPP0298XaeBhNfSAKEoY6ELs0k78BWLH0RPbRKWUA&sai=AMfl-YQsVvmoc-wqviZMdfE6eQR67CgtWCvPHmCSX4ZjCoCSOqD2I11Oi0OXaZvWM7azQgcyuJcNYwp92eRbYN1152785iQ1PyaS-GyQ35zOUgPupDkWDE4PIbRVTkJduFpYYbyScUpgXtbQYcONRyJoL9aczRVdiNVAzqZ4ovQLhlJe2WvH_nEa9N2jc4ZHEsrky8fE0t6_o5DrRxHdNi91PazZtH6k_8QWgM15yWQyVAv0r0vNVbGDbd2Y-0FKEON9bCc0eh6tiLpsC-FnUGLRHu-NDnxTQGl1j-UyRrEOF9bTcKFBsTd3BI_lBwSy-dm9FfsDfuIuznnjtf3RJeMo9Lhmz9pCePyyMAoDHhZYpcCZ9JjIN9WOO2YxyDAq6Q0QKdw&sig=Cg0ArKJSzLEA1vQCjDld&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.dpworld.com/
+          - img [ref=f5e7]
+    - contentinfo [ref=e2291]:
+      - generic [ref=e2294]:
+        - generic [ref=e2296]:
+          - generic [ref=e2297]:
+            - link "star-sports-dark" [ref=e2298] [cursor=pointer]:
+              - /url: https://www.hotstar.com/
+              - img "star-sports-dark" [ref=e2299]
+            - link "disney-hotstar" [ref=e2300] [cursor=pointer]:
+              - /url: https://www.jiostar.com/
+              - img "disney-hotstar" [ref=e2301]
+          - heading [level=4]
+        - generic [ref=e2304]:
+          - generic [ref=e2305]:
+            - link "sky-sports-x7480" [ref=e2306] [cursor=pointer]:
+              - /url: https://www.skysports.com/
+              - img "sky-sports-x7480" [ref=e2307]
+            - link "super-sport-dark" [ref=e2308] [cursor=pointer]:
+              - /url: https://supersport.com/
+              - img "super-sport-dark" [ref=e2309]
+            - link "willow-dark" [ref=e2310] [cursor=pointer]:
+              - /url: https://www.willow.tv/
+              - img "willow-dark" [ref=e2311]
+            - link "prime-video-dark" [ref=e2312] [cursor=pointer]:
+              - /url: https://www.primevideo.com/
+              - img "prime-video-dark" [ref=e2313]
+            - link "criclife" [ref=e2314] [cursor=pointer]:
+              - /url: http://www.evision.ae/
+              - img "criclife" [ref=e2315]
+          - heading [level=4]
+        - generic [ref=e2318]:
+          - generic [ref=e2319]:
+            - link "myco" [ref=e2320] [cursor=pointer]:
+              - /url: https://myco.io/
+              - img "myco" [ref=e2321]
+            - link "ptvsports-dark" [ref=e2322] [cursor=pointer]:
+              - /url: https://myco.io/
+              - img "ptvsports-dark" [ref=e2323]
+            - link "espn-dark" [ref=e2324] [cursor=pointer]:
+              - /url: https://www.espn.com/
+              - img "espn-dark" [ref=e2325]
+            - link "sky-dark" [ref=e2326] [cursor=pointer]:
+              - /url: https://www.sky.co.nz/
+              - img "sky-dark" [ref=e2327]
+            - link "tsm-dark-background" [ref=e2328] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/
+              - img "tsm-dark-background" [ref=e2329]
+            - link "dialog" [ref=e2330] [cursor=pointer]:
+              - /url: https://www.dialog.lk/dialog-television
+              - img "dialog" [ref=e2331]
+            - link "icc-tv-dark" [ref=e2332] [cursor=pointer]:
+              - /url: https://icc.tv/
+              - img "icc-tv-dark" [ref=e2333]
+          - heading "Broadcast Partners" [level=4] [ref=e2334]
+        - generic [ref=e2337]:
+          - generic [ref=e2338]:
+            - link "emirates" [ref=e2339] [cursor=pointer]:
+              - /url: https://www.emirates.com/english/book/
+              - img "emirates" [ref=e2340]
+            - link "aramco" [ref=e2341] [cursor=pointer]:
+              - /url: https://www.aramco.com/
+              - img "aramco" [ref=e2342]
+            - link "dp-world-x1422" [ref=e2343] [cursor=pointer]:
+              - /url: https://www.dpworld.com/
+              - img "dp-world-x1422" [ref=e2344]
+            - link "hyundai-light" [ref=e2345] [cursor=pointer]:
+              - /url: https://www.hyundai.com
+              - img "hyundai-light" [ref=e2346]
+          - heading "Premier Partners" [level=4] [ref=e2347]
+        - generic [ref=e2350]:
+          - generic [ref=e2351]:
+            - link "coca-cola" [ref=e2352] [cursor=pointer]:
+              - /url: https://www.coca-colacompany.com/
+              - img "coca-cola" [ref=e2353]
+            - link "sobha-x2752" [ref=e2354] [cursor=pointer]:
+              - /url: https://www.sobharealty.com/
+              - img "sobha-x2752" [ref=e2355]
+            - link "budweiser-logo-dark-bg" [ref=e2356] [cursor=pointer]:
+              - /url: http://budweiser.com/
+              - img "budweiser-logo-dark-bg" [ref=e2357]
+            - link "marriott" [ref=e2358] [cursor=pointer]:
+              - /url: https://www.marriott.com/
+              - img "marriott" [ref=e2359]
+            - link "google-x7357" [ref=e2360] [cursor=pointer]:
+              - /url: https://www.google.com/
+              - img "google-x7357" [ref=e2361]
+          - heading "Global Partners" [level=4] [ref=e2362]
+        - generic [ref=e2365]:
+          - generic [ref=e2366]:
+            - link "royal-stag-x3658" [ref=e2368] [cursor=pointer]:
+              - /url: https://www.royalstagfan.com/
+              - img "royal-stag-x3658" [ref=e2369]
+            - heading "official supporters" [level=4] [ref=e2370]
+          - generic [ref=e2372]:
+            - link "cricket4good-dark" [ref=e2374] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/about/the-icc/cricket-for-good
+              - img "cricket4good-dark" [ref=e2375]
+            - heading "social responsibility" [level=4] [ref=e2376]
+      - generic [ref=e2378]:
+        - link "facebook social icon" [ref=e2379] [cursor=pointer]:
+          - /url: https://www.facebook.com/icc
+          - img [ref=e2380]
+        - link "youtube social icon" [ref=e2383] [cursor=pointer]:
+          - /url: https://www.youtube.com/@ICC
+          - img [ref=e2384]
+        - link "instagram social icon" [ref=e2387] [cursor=pointer]:
+          - /url: https://www.Instagram.com/icc/
+          - img [ref=e2388]
+        - link "twitter social icon" [ref=e2391] [cursor=pointer]:
+          - /url: https://x.com/ICC
+          - img [ref=e2392]
+      - generic [ref=e2395]:
+        - navigation [ref=e2396]:
+          - generic [ref=e2399]:
+            - link "terms-of-service" [ref=e2401] [cursor=pointer]:
+              - /url: /about/the-icc/legal-notices/website-terms-of-use
+              - generic [ref=e2404]: Terms of Service
+            - link "Privacy Policy" [ref=e2406] [cursor=pointer]:
+              - /url: /about/the-icc/legal-notices/privacy-policy
+              - generic [ref=e2409]: Privacy Policy
+            - link "Careers" [ref=e2411] [cursor=pointer]:
+              - /url: /about/the-icc/working-at-icc/jobs-and-recruitment
+              - generic [ref=e2414]: Careers
+            - link "Related Sites" [ref=e2416] [cursor=pointer]:
+              - /url: /about/contact-us/social-media
+              - generic [ref=e2419]: Related Sites
+            - link "about" [ref=e2421] [cursor=pointer]:
+              - /url: /about/index
+              - generic [ref=e2424]: about
+            - button "cookie-preferences" [ref=e2426] [cursor=pointer]:
+              - generic [ref=e2429]: Cookie Preferences
+        - generic [ref=e2430]:
+          - link "ICC logo footer" [ref=e2432] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/index
+            - img "ICC logo footer" [ref=e2433]
+          - generic [ref=e2434]: Copyright 2025 ICC. All rights reserved.
+  - generic [ref=e2435] [cursor=pointer]:
+    - img
+  - alert [ref=e2436]
+  - region "Cookie banner" [active] [ref=e2437]:
+    - alertdialog "Privacy" [ref=e2438]:
+      - generic [ref=e2439]:
+        - generic [ref=e2442]:
+          - text: By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+          - link "More information about your privacy" [ref=e2443] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/about/the-icc/legal-notices/cookie-accepting-policy
+            - text: Cookie Policy
+        - generic [ref=e2445]:
+          - generic [ref=e2446]:
+            - button "Reject All" [ref=e2447] [cursor=pointer]
+            - button "Accept All Cookies" [ref=e2448] [cursor=pointer]
+          - button "Cookies Settings" [ref=e2449] [cursor=pointer]
+```

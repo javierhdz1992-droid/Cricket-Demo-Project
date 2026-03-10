@@ -1,0 +1,412 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - button "ICC Home" [ref=e5] [cursor=pointer]:
+        - text: ICC Home
+        - img [ref=e6]
+      - navigation [ref=e8]:
+        - img "placeholder" [ref=e9]
+        - generic [ref=e10]:
+          - generic [ref=e12]:
+            - button "Toggle menu" [ref=e13] [cursor=pointer]:
+              - img [ref=e14]
+            - generic [ref=e20]:
+              - link "alternate-small-m-t20wc-2026-logo" [ref=e23] [cursor=pointer]:
+                - /url: /tournaments/mens-t20-world-cup-2026
+                - img "alternate-small-m-t20wc-2026-logo" [ref=e24]
+              - generic [ref=e27]:
+                - link "Home" [ref=e29] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026
+                  - generic [ref=e30]:
+                    - generic [ref=e32]: Home
+                    - img [ref=e34]
+                - link "Warm-Ups" [ref=e37] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/warm-up-matches
+                  - generic [ref=e38]:
+                    - generic [ref=e40]: Warm-Ups
+                    - img [ref=e42]
+                - link "Matches" [ref=e45] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/matches
+                  - generic [ref=e46]:
+                    - generic [ref=e48]: Matches
+                    - img [ref=e50]
+                - link "teams" [ref=e53] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/teams
+                  - generic [ref=e54]:
+                    - generic [ref=e56]: Teams
+                    - img [ref=e58]
+                - link "Standings" [ref=e61] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/standings
+                  - generic [ref=e62]:
+                    - generic [ref=e64]: Standings
+                    - img [ref=e66]
+                - link "News" [ref=e69] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/news
+                  - generic [ref=e70]:
+                    - generic [ref=e72]: News
+                    - img [ref=e74]
+                - link "Videos" [ref=e77] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/videos
+                  - generic [ref=e78]:
+                    - generic [ref=e80]: Videos
+                    - img [ref=e82]
+                - group [ref=e84]:
+                  - generic "stats" [ref=e85] [cursor=pointer]:
+                    - link "stats" [ref=e86]:
+                      - /url: /tournaments/mens-t20-world-cup-2026/stats
+                      - generic [ref=e89]: Stats
+                    - img [ref=e91]
+                - group [ref=e93]:
+                  - generic "game-hub" [ref=e94] [cursor=pointer]:
+                    - link "game-hub":
+                      - /url: "#nolink"
+                      - generic:
+                        - generic:
+                          - generic: Game Hub
+                    - img [ref=e96]
+                - link "venues" [ref=e99] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/venues
+                  - generic [ref=e100]:
+                    - generic [ref=e102]: Venues
+                    - img [ref=e104]
+                - link "Official Broadcasters" [ref=e107] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/official-broadcasters
+                  - generic [ref=e108]:
+                    - generic [ref=e110]: Official Broadcasters
+                    - img [ref=e112]
+                - link "captains-day" [ref=e115] [cursor=pointer]:
+                  - /url: /tournaments/mens-t20-world-cup-2026/captains-day
+                  - generic [ref=e116]:
+                    - generic [ref=e118]: Captain's Day
+                    - img [ref=e120]
+                - group [ref=e122]:
+                  - generic "Tickets" [ref=e123] [cursor=pointer]:
+                    - link "Tickets" [ref=e124]:
+                      - /url: https://tickets.cricketworldcup.com/
+                      - generic [ref=e127]: Tickets
+                    - img [ref=e129]
+                - link "shop" [ref=e132] [cursor=pointer]:
+                  - /url: https://sparkfabric.co/space/icc
+                  - generic [ref=e133]:
+                    - generic [ref=e135]: Shop
+                    - img [ref=e137]
+                - link "downloadable-schedule" [ref=e140] [cursor=pointer]:
+                  - /url: https://images.icc-cricket.com/image/upload/prd/uhbsusjsfbydrkjtrecg.pdf
+                  - generic [ref=e141]:
+                    - generic [ref=e143]: Downloadable Schedule
+                    - img [ref=e145]
+                - link "playing-conditions" [ref=e148] [cursor=pointer]:
+                  - /url: https://images.icc-cricket.com/image/upload/prd/yyt7m8uh9c1uehrbvuwb.pdf
+                  - generic [ref=e149]:
+                    - generic [ref=e151]: Playing Conditions
+                    - img [ref=e153]
+              - generic [ref=e156]:
+                - link "facebook social icon" [ref=e157] [cursor=pointer]:
+                  - /url: https://www.facebook.com/icc
+                  - img [ref=e158]
+                - link "youtube social icon" [ref=e161] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@ICC
+                  - img [ref=e162]
+                - link "instagram social icon" [ref=e165] [cursor=pointer]:
+                  - /url: https://www.Instagram.com/icc/
+                  - img [ref=e166]
+                - link "twitter social icon" [ref=e169] [cursor=pointer]:
+                  - /url: https://x.com/ICC
+                  - img [ref=e170]
+          - generic [ref=e174]:
+            - button "alternate-small-m-t20wc-2026-logo" [ref=e175] [cursor=pointer]:
+              - link "alternate-small-m-t20wc-2026-logo" [ref=e177]:
+                - /url: /tournaments/mens-t20-world-cup-2026
+                - img "alternate-small-m-t20wc-2026-logo" [ref=e178]
+              - img [ref=e179]
+            - generic:
+              - generic:
+                - img
+              - generic:
+                - link "icc-home":
+                  - /url: /index
+                  - generic:
+                    - generic:
+                      - img "icc-home"
+                      - generic: ICC Home
+                - link "icc-m-t20-2026":
+                  - /url: /tournaments/mens-t20-world-cup-2026
+                  - generic:
+                    - generic:
+                      - img "icc-m-t20-2026"
+                      - generic: ICC Men's T20 World Cup, 2026
+                - link "icc-u19-cricket-world-cup-2026":
+                  - /url: /tournaments/u19-cricket-worldcup-2026
+                  - generic:
+                    - generic:
+                      - img "icc-u19-cricket-world-cup-2026"
+                      - generic: ICC Under-19 Cricket World Cup, 2026
+                - link "icc-w-t20-wc-2026":
+                  - /url: /tournaments/womens-t20-worldcup-2026
+                  - generic:
+                    - generic:
+                      - img "icc-w-t20-wc-2026"
+                      - generic: ICC Women's T20 World Cup, 2026
+                - link "icc-wtc":
+                  - /url: /tournaments/world-test-championship
+                  - generic:
+                    - generic:
+                      - img "icc-wtc"
+                      - generic: ICC World Test Championship, 2025-27
+                - link "w-emer-nations-2025":
+                  - /url: /tournaments/womens-emerging-nations-trophy-2025
+                  - generic:
+                    - generic:
+                      - img "w-emer-nations-2025"
+                      - generic: ICC Women's Emerging Nations Trophy, 2025
+                - link "icc-w-cwc-2025":
+                  - /url: /tournaments/womens-cricket-worldcup-2025
+                  - generic:
+                    - generic:
+                      - img "icc-w-cwc-2025"
+                      - generic: ICC Women's Cricket World Cup, 2025
+                - link "icc-champions-trophy":
+                  - /url: /tournaments/champions-trophy-2025
+                  - generic:
+                    - generic:
+                      - img "icc-champions-trophy"
+                      - generic: ICC Champions Trophy, 2025
+                - link "icc-w-u19-t20-wc":
+                  - /url: /tournaments/u19-womenst20worldcup
+                  - generic:
+                    - generic:
+                      - img "icc-w-u19-t20-wc"
+                      - generic: ICC Women's Under-19 T20 World Cup, 2025
+                - link "icc-cwc-challenge-league-a-b":
+                  - /url: /tournaments/cwc-challenge-league/matches
+                  - generic:
+                    - generic:
+                      - img "icc-cwc-challenge-league-a-b"
+                      - generic: ICC CWC Challenge League A and B, 2024-26
+                - link "icc-cwc-league-2":
+                  - /url: /tournaments/icc-cricket-world-cup-league-2
+                  - generic:
+                    - generic:
+                      - img "icc-cwc-league-2"
+                      - generic: ICC Cricket World Cup League 2, 2023-27
+                - link "icc-womens-championship":
+                  - /url: /tournaments/icc-womens-championship
+                  - generic:
+                    - generic:
+                      - img "icc-womens-championship"
+                      - generic: ICC Women's Championship, 2022-25
+                - link "icc-cricket-world-cup":
+                  - /url: /tournaments/cricketworldcup
+                  - generic:
+                    - generic:
+                      - img "icc-cricket-world-cup"
+                      - generic: ICC Cricket World Cup, 2023
+              - link "See All Events":
+                - /url: /icc-events
+                - generic: See All Events
+                - img
+          - generic [ref=e184]:
+            - link "home" [ref=e186] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026
+              - generic [ref=e189]: Home
+            - link "Matches" [ref=e191] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/matches
+              - generic [ref=e194]: Matches
+            - link "Standings" [ref=e196] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/standings
+              - generic [ref=e199]: Standings
+            - link "News" [ref=e201] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/news
+              - generic [ref=e204]: News
+            - link "Videos" [ref=e206] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/videos
+              - generic [ref=e209]: Videos
+            - link "stats" [ref=e211] [cursor=pointer]:
+              - /url: /tournaments/mens-t20-world-cup-2026/stats
+              - generic [ref=e214]: Stats
+            - generic [ref=e215]:
+              - link "game-hub":
+                - /url: "#nolink"
+                - generic:
+                  - generic:
+                    - generic: Game Hub
+            - generic [ref=e216]:
+              - link "more":
+                - /url: "#nolink"
+                - generic:
+                  - generic:
+                    - generic: More
+            - link "ICC.tv" [ref=e218] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/icc-tv
+              - generic [ref=e221]: ICC.tv
+          - generic [ref=e224]:
+            - link "Search" [ref=e226] [cursor=pointer]:
+              - /url: /search
+              - generic [ref=e227]:
+                - generic [ref=e228]: Search
+                - img [ref=e229]
+            - button "Sign in" [ref=e232] [cursor=pointer]:
+              - generic [ref=e233]: Sign in
+              - img [ref=e234]
+          - img "placeholder" [ref=e236]
+    - main [ref=e237]:
+      - link [ref=e240] [cursor=pointer]:
+        - /url: https://insights.t20worldcup.com/chat/standings
+        - figure [ref=e241]:
+          - img "ICC Men's T20 World Cup 2026" [ref=e243]
+      - paragraph [ref=e247]
+    - contentinfo [ref=e259]:
+      - generic [ref=e262]:
+        - generic [ref=e264]:
+          - generic [ref=e265]:
+            - link "star-sports-dark" [ref=e266] [cursor=pointer]:
+              - /url: https://www.hotstar.com/
+              - img "star-sports-dark" [ref=e267]
+            - link "disney-hotstar" [ref=e268] [cursor=pointer]:
+              - /url: https://www.jiostar.com/
+              - img "disney-hotstar" [ref=e269]
+          - heading [level=4]
+        - generic [ref=e272]:
+          - generic [ref=e273]:
+            - link "sky-sports-x7480" [ref=e274] [cursor=pointer]:
+              - /url: https://www.skysports.com/
+              - img "sky-sports-x7480" [ref=e275]
+            - link "super-sport-dark" [ref=e276] [cursor=pointer]:
+              - /url: https://supersport.com/
+              - img "super-sport-dark" [ref=e277]
+            - link "willow-dark" [ref=e278] [cursor=pointer]:
+              - /url: https://www.willow.tv/
+              - img "willow-dark" [ref=e279]
+            - link "prime-video-dark" [ref=e280] [cursor=pointer]:
+              - /url: https://www.primevideo.com/
+              - img "prime-video-dark" [ref=e281]
+            - link "criclife" [ref=e282] [cursor=pointer]:
+              - /url: http://www.evision.ae/
+              - img "criclife" [ref=e283]
+          - heading [level=4]
+        - generic [ref=e286]:
+          - generic [ref=e287]:
+            - link "myco" [ref=e288] [cursor=pointer]:
+              - /url: https://myco.io/
+              - img "myco" [ref=e289]
+            - link "ptvsports-dark" [ref=e290] [cursor=pointer]:
+              - /url: https://myco.io/
+              - img "ptvsports-dark" [ref=e291]
+            - link "espn-dark" [ref=e292] [cursor=pointer]:
+              - /url: https://www.espn.com/
+              - img "espn-dark" [ref=e293]
+            - link "sky-dark" [ref=e294] [cursor=pointer]:
+              - /url: https://www.sky.co.nz/
+              - img "sky-dark" [ref=e295]
+            - link "tsm-dark-background" [ref=e296] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/
+              - img "tsm-dark-background" [ref=e297]
+            - link "dialog" [ref=e298] [cursor=pointer]:
+              - /url: https://www.dialog.lk/dialog-television
+              - img "dialog" [ref=e299]
+            - link "icc-tv-dark" [ref=e300] [cursor=pointer]:
+              - /url: https://icc.tv/
+              - img "icc-tv-dark" [ref=e301]
+          - heading "Broadcast Partners" [level=4] [ref=e302]
+        - generic [ref=e305]:
+          - generic [ref=e306]:
+            - link "emirates" [ref=e307] [cursor=pointer]:
+              - /url: https://www.emirates.com/english/book/
+              - img "emirates" [ref=e308]
+            - link "aramco" [ref=e309] [cursor=pointer]:
+              - /url: https://www.aramco.com/
+              - img "aramco" [ref=e310]
+            - link "dp-world-x1422" [ref=e311] [cursor=pointer]:
+              - /url: https://www.dpworld.com/
+              - img "dp-world-x1422" [ref=e312]
+            - link "hyundai-light" [ref=e313] [cursor=pointer]:
+              - /url: https://www.hyundai.com
+              - img "hyundai-light" [ref=e314]
+          - heading "Premier Partners" [level=4] [ref=e315]
+        - generic [ref=e318]:
+          - generic [ref=e319]:
+            - link "coca-cola" [ref=e320] [cursor=pointer]:
+              - /url: https://www.coca-colacompany.com/
+              - img "coca-cola" [ref=e321]
+            - link "sobha-x2752" [ref=e322] [cursor=pointer]:
+              - /url: https://www.sobharealty.com/
+              - img "sobha-x2752" [ref=e323]
+            - link "budweiser-logo-dark-bg" [ref=e324] [cursor=pointer]:
+              - /url: http://budweiser.com/
+              - img "budweiser-logo-dark-bg" [ref=e325]
+            - link "marriott" [ref=e326] [cursor=pointer]:
+              - /url: https://www.marriott.com/
+              - img "marriott" [ref=e327]
+            - link "google-x7357" [ref=e328] [cursor=pointer]:
+              - /url: https://www.google.com/
+              - img "google-x7357" [ref=e329]
+          - heading "Global Partners" [level=4] [ref=e330]
+        - generic [ref=e333]:
+          - generic [ref=e334]:
+            - link "royal-stag-x3658" [ref=e336] [cursor=pointer]:
+              - /url: https://www.royalstagfan.com/
+              - img "royal-stag-x3658" [ref=e337]
+            - heading "official supporters" [level=4] [ref=e338]
+          - generic [ref=e340]:
+            - link "cricket4good-dark" [ref=e342] [cursor=pointer]:
+              - /url: https://www.icc-cricket.com/about/the-icc/cricket-for-good
+              - img "cricket4good-dark" [ref=e343]
+            - heading "social responsibility" [level=4] [ref=e344]
+      - generic [ref=e346]:
+        - link "facebook social icon" [ref=e347] [cursor=pointer]:
+          - /url: https://www.facebook.com/icc
+          - img [ref=e348]
+        - link "youtube social icon" [ref=e351] [cursor=pointer]:
+          - /url: https://www.youtube.com/@ICC
+          - img [ref=e352]
+        - link "instagram social icon" [ref=e355] [cursor=pointer]:
+          - /url: https://www.Instagram.com/icc/
+          - img [ref=e356]
+        - link "twitter social icon" [ref=e359] [cursor=pointer]:
+          - /url: https://x.com/ICC
+          - img [ref=e360]
+      - generic [ref=e363]:
+        - navigation [ref=e364]:
+          - generic [ref=e367]:
+            - link "terms-of-service" [ref=e369] [cursor=pointer]:
+              - /url: /about/the-icc/legal-notices/website-terms-of-use
+              - generic [ref=e372]: Terms of Service
+            - link "Privacy Policy" [ref=e374] [cursor=pointer]:
+              - /url: /about/the-icc/legal-notices/privacy-policy
+              - generic [ref=e377]: Privacy Policy
+            - link "Careers" [ref=e379] [cursor=pointer]:
+              - /url: /about/the-icc/working-at-icc/jobs-and-recruitment
+              - generic [ref=e382]: Careers
+            - link "Related Sites" [ref=e384] [cursor=pointer]:
+              - /url: /about/contact-us/social-media
+              - generic [ref=e387]: Related Sites
+            - link "about" [ref=e389] [cursor=pointer]:
+              - /url: /about/index
+              - generic [ref=e392]: about
+            - button "cookie-preferences" [ref=e394] [cursor=pointer]:
+              - generic [ref=e397]: Cookie Preferences
+        - generic [ref=e398]:
+          - link "ICC logo footer" [ref=e400] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/index
+            - img "ICC logo footer" [ref=e401]
+          - generic [ref=e402]: Copyright 2025 ICC. All rights reserved.
+  - generic [ref=e403] [cursor=pointer]:
+    - img
+  - alert [ref=e404]
+  - region "Cookie banner" [active] [ref=e405]:
+    - alertdialog "Privacy" [ref=e406]:
+      - generic [ref=e407]:
+        - generic [ref=e410]:
+          - text: By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+          - link "More information about your privacy" [ref=e411] [cursor=pointer]:
+            - /url: https://www.icc-cricket.com/about/the-icc/legal-notices/cookie-accepting-policy
+            - text: Cookie Policy
+        - generic [ref=e413]:
+          - generic [ref=e414]:
+            - button "Reject All" [ref=e415] [cursor=pointer]
+            - button "Accept All Cookies" [ref=e416] [cursor=pointer]
+          - button "Cookies Settings" [ref=e417] [cursor=pointer]
+```

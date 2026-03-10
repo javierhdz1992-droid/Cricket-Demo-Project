@@ -47,7 +47,10 @@ test('Search and Verify new url', async ({ page }) => {
 
 test('Verify menu tabs text and link', async ({ page }) => {
     // Open website url.
-    await page.goto('https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026');
+    //await page.goto('https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026');
+
+    const homePage = new HomePage(page);
+    await homePage.goto();
 
     // Verify menu Tabs
     const menuTabs = [
@@ -60,9 +63,9 @@ test('Verify menu tabs text and link', async ({ page }) => {
         "Tracker",
         "Game Hub",
         "Play of the Day",
-        "Your Call",
-        "Predictor",
-        "Player of the Match",
+        // "Your Call",
+        // "Predictor",
+        // "Player of the Match",
         "Player of the Tournament",
         "Polls",
         "More",
@@ -85,8 +88,8 @@ test('Verify menu tabs text and link', async ({ page }) => {
     ];
 
     // Object with all list items text and links.
-    const listItems = page.locator('//div[@class="group relative h-full nav-item-wrapper inline-flex justify-between  "] //a');
-    console.log(await listItems.count());
+    //const listItems = page.locator('//div[@class="group relative h-full nav-item-wrapper inline-flex justify-between  "] //a');
+    console.log(await homePage.listItems.count());
 
     // for (const el of await listItems.elementHandles()) {
     //     console.log(await el.textContent());
@@ -94,7 +97,8 @@ test('Verify menu tabs text and link', async ({ page }) => {
     // }
 
     // Verify the menu tabs text.
-    expect(await listItems.allTextContents()).toEqual(menuTabs);
+    //expect(await listItems.allTextContents()).toEqual(menuTabs);
+    await homePage.verifyMenuTabs(menuTabs);
 
     // New array with all list items text and links.
     const expectedTabTextLinks = [
@@ -105,11 +109,11 @@ test('Verify menu tabs text and link', async ({ page }) => {
         { text: "Videos", href: "/tournaments/mens-t20-world-cup-2026/videos" },
         { text: "Stats", href: "/tournaments/mens-t20-world-cup-2026/stats" },
         { text: "Tracker", href: "/tournaments/mens-t20-world-cup-2026/stats-tracker" },
-        { text: "Game Hub", href: "https://games.icc-cricket.com/" },
+        { text: "Game Hub", href: "#nolink" },
         { text: "Play of the Day", href: "/tournaments/mens-t20-world-cup-2026/potd" },
-        { text: "Your Call", href: "/tournaments/mens-t20-world-cup-2026/your-call" },
-        { text: "Predictor", href: "/tournaments/mens-t20-world-cup-2026/predictor" },
-        { text: "Player of the Match", href: "/tournaments/mens-t20-world-cup-2026/potm" },
+        // { text: "Your Call", href: "/tournaments/mens-t20-world-cup-2026/your-call" },
+        // { text: "Predictor", href: "/tournaments/mens-t20-world-cup-2026/predictor" },
+        // { text: "Player of the Match", href: "/tournaments/mens-t20-world-cup-2026/potm" },
         { text: "Player of the Tournament", href: "/tournaments/mens-t20-world-cup-2026/pott" },
         { text: "Polls", href: "/tournaments/mens-t20-world-cup-2026/polls" },
         { text: "More", href: "#nolink" },
@@ -132,26 +136,40 @@ test('Verify menu tabs text and link', async ({ page }) => {
     ];
 
     // Varify the menu text and links match with new array.
-    for (const [index, listItem] of expectedTabTextLinks.entries()) {
-        const link = listItems.nth(index);
-
-        await expect(link).toHaveText(listItem.text, {timeout: 5000});
-        await expect(link).toHaveAttribute('href', listItem.href, {timeout: 5000});
-    }
+    await homePage.verifyMenuLinks(expectedTabTextLinks);
 })
 
 test('Verify table number of rows', async ({ page }) => {
     // Open website url.
-    await page.goto('https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/standings');
+    const homePage = new HomePage(page);
+    await homePage.goto('/standings');
 
     // Count the total number of rows in the standings table.
-    const totalRows = page.locator('//table[@class="w-full"] //tr //td //a //span');
-    await expect(totalRows).toHaveCount(4);
+    //const totalRows = page.locator('//table[@class="w-full"] //tr //td //a //span');
+    //await expect(totalRows).toHaveCount(4);
+    await homePage.verifyTableRows(4);
 
     // Get all the rows text content and print in console.
     // for (const el of await totalRows.elementHandles()) {
     //     console.log(await el.textContent());
     // }
+})
+
+test('Verify gameHub hover dropdown menu', async ({ page }) => {
+    const homePage = new HomePage(page);
+    
+    // Open website url.
+    //await page.goto('https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026');
+    await homePage.goto();
+
+    // Click on the link and wait for the new tab to get triggered.
+    // await homePage.gameHub.hover();
+    // await expect(page.getByRole('link', { name: 'potd' })).toBeVisible();
+    // await expect(page.getByRole('link', { name: 'pott' })).toBeVisible();
+    // await expect(page.getByRole('link', { name: 'polls' })).toBeVisible();
+    const gameHubMenuoptions = ["potd", "pott", "polls"];
+
+    await homePage.verifyGameHubDropdown(gameHubMenuoptions);
 })
 
 test('Verify new tab and assert title', async ({ page }) => {
