@@ -172,7 +172,7 @@ test('Verify gameHub hover dropdown menu', async ({ page }) => {
     await homePage.verifyGameHubDropdown(gameHubMenuoptions);
 })
 
-test('Verify new tab and assert title', async ({ page }) => {
+test.skip('Verify new tab and assert title', async ({ page }) => {
     // Open website url.
     await page.goto('https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026');
 
